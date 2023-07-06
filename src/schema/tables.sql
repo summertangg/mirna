@@ -1,6 +1,6 @@
 CREATE TABLE miRNAs (
   mirna_id VARCHAR(20) PRIMARY KEY,
-  description VARCHAR(200)
+  description VARCHAR(500)
 );
 
 CREATE TABLE genes (
@@ -9,9 +9,10 @@ CREATE TABLE genes (
 );
 
 CREATE TABLE pathways (
-  pathway_id VARCHAR(50) PRIMARY KEY,
-  description VARCHAR(300)
+  pathway_id SERIAL PRIMARY KEY,
+  name VARCHAR(255)
 );
+
 
 CREATE TABLE mirna_gene_pathway (
   mirna VARCHAR(20),
@@ -25,6 +26,6 @@ CREATE TABLE mirna_gene_pathway (
 
 CREATE INDEX idx_mirnas_mirna_id ON mirnas (mirna_id);
 CREATE INDEX idx_genes_gene_id ON genes (gene_id);
-CREATE INDEX idx_pathways_pathway_id ON pathways (pathway_id);
+CREATE INDEX idx_pathways_pathway_name ON pathways (name);
 
 
