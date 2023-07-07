@@ -17,7 +17,7 @@ CREATE TABLE pathways (
 CREATE TABLE mirna_gene_pathway (
   mirna VARCHAR(20),
   gene VARCHAR(20),
-  pathway VARCHAR(50),
+  pathway smallint,
   PRIMARY KEY (mirna, gene, pathway),
   FOREIGN KEY (mirna) REFERENCES mirnas (mirna_id),
   FOREIGN KEY (gene) REFERENCES genes (gene_id),
