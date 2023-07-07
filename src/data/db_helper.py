@@ -13,19 +13,33 @@ def insert_mirna(conn, cur, mirna_id, description):
         print(f"{mirna_id} already exists.")
 
 
-def insert_pathway(conn, cur, pathway):
-    print(pathway)
-    cur.execute("SELECT COUNT(*) FROM pathways WHERE name = %s", (pathway,))
+def insert_pathway(conn, cur, pathway_id, pathway_name):
+    print(f'{pathway_id}: {pathway_name}')
+    cur.execute("SELECT COUNT(*) FROM pathways WHERE pathway_id = %s", (pathway_id,))
     record_count = cur.fetchone()[0]
     
     if record_count == 0:
         # Insert the record if it doesn't exist
-        cur.execute("INSERT INTO pathways (name) VALUES (%s)", (pathway,))
+        cur.execute("INSERT INTO pathways (pathway_id, name) VALUES (%s, %s)", (pathway_id, pathway_name))
         conn.commit()
-        print(f"{pathway} inserted successfully.")
+        print(f"{pathway_id}: {pathway_name} inserted successfully.")
     else:
-        print(f"{pathway} already exists.")
+        print(f"{pathway_id}: {pathway_name} already exists.")
 
+
+def get_pathway(cur, pathway_id):
+    print(f'pathway id: {pathway_id}')
+    cur.execute("SELECT name FROM pathways WHERE pathway_id = %s", (pathway_id,))
+    # Fetch the record
+    record = cur.fetchone()
+
+    if record:
+        # Access the name column from the record
+        pathway_name = record[0]
+        print("Pathway name:", pathway_name)
+    else:
+        print("No record found.")
+    return pathway_name
 
 def insert_gene(conn, cur, gene_id, description):
     gene_id = gene_id.upper()
