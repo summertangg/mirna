@@ -70,3 +70,17 @@ def insert_mirna_gene_interaction(conn, cur, mirna_id, gene_id, pathway_id):
         print(f"{mirna_id} - {gene_id} - {pathway_id} inserted successfully.")
     else:
         print(f"{mirna_id} - {gene_id} - {pathway_id} already exists.")
+
+
+def get_interactions(conn, cur):
+    # Execute the SQL query
+    cur.execute("""
+        SELECT gene, mirna, count(pathway)
+        FROM mirna_gene_pathway
+        GROUP BY gene, mirna
+        ORDER BY gene
+    """)
+
+    # Fetch all the query results
+    results = cur.fetchall()
+    return results

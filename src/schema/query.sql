@@ -22,11 +22,11 @@ left join mirna_gene_pathway as t
 group by g.gene_id, t.mirna
 order by g.gene_id
 
-select g.gene_id, count(t.pathway)
-from genes as g
-left join mirna_gene_pathway as t
-  on g.gene_id = t.gene and t.mirna = 'hsa-mir-155-5p'
-group by g.gene_id, t.mirna
-order by g.gene_id
+-- get all gene:miRNA interactions 
+-- and count could be the value of the gene descriptor
+select gene, mirna, count(pathway)
+from mirna_gene_pathway
+group by gene, mirna
+order by gene
 
 
