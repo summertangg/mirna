@@ -7,6 +7,7 @@ from db_helper import *
 def import_mirna(db_conn, root_path, mirna_file):
     print("\n*** Importing miRNAs ......")
     file_path = os.path.join(root_path, mirna_file)
+    file_path = os.path.abspath(os.path.expanduser(file_path))
     data = []
 
     with open(file_path, newline='') as csvfile:
@@ -26,6 +27,7 @@ def import_mirna(db_conn, root_path, mirna_file):
 def import_pathway(db_conn, root_path, pathway_file):
     print("\n*** Importing pathways ......")
     file_path = os.path.join(root_path, pathway_file)
+    file_path = os.path.abspath(os.path.expanduser(file_path))
     data = []
 
     with open(file_path, newline='') as csvfile:
@@ -45,6 +47,7 @@ def import_pathway(db_conn, root_path, pathway_file):
 def import_targets_verified(db_conn, root_path, target_file, pathway_id=-1):
     print("\n*** Importing verified target genes ......")
     file_path = os.path.join(root_path, target_file)
+    file_path = os.path.abspath(os.path.expanduser(file_path))
     data = []
 
     with open(file_path, newline='') as csvfile:
@@ -72,6 +75,7 @@ def import_targets_pathway(db_conn, root_path, pathway_files):
     cur = conn.cursor()
     for pathway_file, pathway_id in pathway_files:
         file_path = os.path.join(root_path, pathway_file)
+        file_path = os.path.abspath(os.path.expanduser(file_path))
         data = []
 
         with open(file_path, newline='') as csvfile:
@@ -99,18 +103,17 @@ def import_targets_pathway(db_conn, root_path, pathway_files):
 root_path = "~/code/mirna/resources/target_files"
 mirna_file = "miRNAs.csv"
 pathway_file = "pathways.csv"
-target_file = "hsa-mir-155-5p-targets-verified.csv"
+target_file = "hsa-mir-17-5p-targets-verified.csv"
 target_pathway_files = [
-    ("hsa-mir-155-5p-mapk-signaling.csv", 2),
-    ("hsa-mir-155-5p-nf-kappa-b-signaling.csv", 3),
-    ("hsa-mir-155-5p-p53-signaling.csv", 4),
-    ("hsa-mir-155-5p-pi3-akt-signaling.csv", 5)
+    ("hsa-mir-17-5p-mapk-signaling.csv", 2),
+    ("hsa-mir-17-5p-p53-signaling.csv", 4),
+    ("hsa-mir-17-5p-pi3k-akt-signaling.csv", 5)
 ]
 conn = psycopg2.connect(database="postgres", user="postgres", password="1qaz2wsX", host="127.0.0.1", port="5432")
 try:
     # import_mirna(conn, root_path, mirna_file)
     # import_pathway(conn, root_path, pathway_file)
-    # import_targets_verified(conn, root_path, target_file)
+    import_targets_verified(conn, root_path, target_file)
     import_targets_pathway(conn, root_path, target_pathway_files)
 except(Exception, psycopg2.DatabaseError) as error:
     raise error
