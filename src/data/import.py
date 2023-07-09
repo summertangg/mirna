@@ -103,17 +103,15 @@ def import_targets_pathway(db_conn, root_path, pathway_files):
 root_path = "~/code/mirna/resources/target_files"
 mirna_file = "miRNAs.csv"
 pathway_file = "pathways.csv"
-target_file = "hsa-mir-17-5p-targets-verified.csv"
+target_file = "hsa-mir-18a-5p-targets-verified.csv"
 target_pathway_files = [
-    ("hsa-mir-17-5p-mapk-signaling.csv", 2),
-    ("hsa-mir-17-5p-p53-signaling.csv", 4),
-    ("hsa-mir-17-5p-pi3k-akt-signaling.csv", 5)
+    ("hsa-mir-18a-5p-p53-signaling.csv", 4)
 ]
 conn = psycopg2.connect(database="postgres", user="postgres", password="1qaz2wsX", host="127.0.0.1", port="5432")
 try:
     # import_mirna(conn, root_path, mirna_file)
     # import_pathway(conn, root_path, pathway_file)
-    import_targets_verified(conn, root_path, target_file)
+    # import_targets_verified(conn, root_path, target_file)
     import_targets_pathway(conn, root_path, target_pathway_files)
 except(Exception, psycopg2.DatabaseError) as error:
     raise error
