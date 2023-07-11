@@ -1,8 +1,12 @@
-select * from mirnas where mirna_id = 'hsa-miR-155-3p'
+select * from mirnas 
+where mirna_id = 'hsa-mir-155-3p'
 
 select * from genes --2717
 
 select * from pathways
+
+select * from mirna_gene_pathway
+order by gene
 
 
 select mirna, gene from mirna_gene_pathway 

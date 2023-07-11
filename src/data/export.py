@@ -30,6 +30,7 @@ conn = psycopg2.connect(database="postgres", user="postgres", password="1qaz2wsX
 try:
     export_interactions(conn, root_path, interaction_file)
 except(Exception, psycopg2.DatabaseError) as error:
+    print(error)
     raise error
 finally:
     conn.close()
