@@ -103,7 +103,7 @@ def import_targets_pathway(db_conn, root_path, pathway_files):
 root_path = "~/code/mirna/resources/target_files"
 mirna_file = "miRNAs.csv"
 pathway_file = "pathways.csv"
-target_file = "hsa-mir-19a-5p-targets-verified.csv"
+target_file = "hsa-mir-20a-5p-targets-verified.csv"
 target_pathway_files = [
 ]
 
