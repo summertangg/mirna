@@ -1,6 +1,14 @@
 select * from mirnas 
 where mirna_id = 'hsa-mir-155-3p'
 
+SELECT COUNT(*) FROM mirnas WHERE mirna_id = 'hsa-mir-155-3p'
+
+insert into mirnas (mirna_id, description) values ('pigu','ligu')
+
+-- update mirnas
+-- set description='MIR19A (MicroRNA 19a) is an RNA Gene, and is affiliated with the miRNA class. Diseases associated with MIR19A include Thyroid Gland Anaplastic Carcinoma and Myeloma, Multiple. Among its related pathways are miRNA role in immune response in sepsis and miRNAs involved in DNA damage response.'
+-- where mirna_id like 'hsa-mir-19a%'
+
 select * from genes --2717
 
 select * from pathways

@@ -103,12 +103,8 @@ def import_targets_pathway(db_conn, root_path, pathway_files):
 root_path = "~/code/mirna/resources/target_files"
 mirna_file = "miRNAs.csv"
 pathway_file = "pathways.csv"
-target_file = "hsa-mir-155-5p-targets-verified.csv"
+target_file = "hsa-mir-19a-5p-targets-verified.csv"
 target_pathway_files = [
-    ("hsa-mir-155-5p-mapk-signaling.csv", 2),
-    ("hsa-mir-155-5p-nf-kappa-b-signaling.csv", 3),
-    ("hsa-mir-155-5p-p53-signaling.csv", 4),
-    ("hsa-mir-155-5p-pi3-akt-signaling.csv", 5)
 ]
 
 conn = psycopg2.connect(database="postgres", user="postgres", password="1qaz2wsX", host="127.0.0.1", port="5432")
