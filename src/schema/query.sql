@@ -9,7 +9,8 @@ insert into mirnas (mirna_id, description) values ('pigu','ligu')
 -- set description='MIR19A (MicroRNA 19a) is an RNA Gene, and is affiliated with the miRNA class. Diseases associated with MIR19A include Thyroid Gland Anaplastic Carcinoma and Myeloma, Multiple. Among its related pathways are miRNA role in immune response in sepsis and miRNAs involved in DNA damage response.'
 -- where mirna_id like 'hsa-mir-19a%'
 
-select * from genes --2717
+select * from genes
+where gene_id = 'DICER1'
 
 select * from pathways
 
@@ -72,3 +73,12 @@ select gene, count(mirna) from mirna_gene_pathway
 where pathway = 4
 group by gene
 order by gene
+
+
+------------------
+--	miRDB
+------------------
+SELECT mirna, gene, 1 AS is_target FROM mirdb_mirna_gene
+ORDER BY gene
+
+

@@ -32,5 +32,16 @@ CREATE EXTENSION IF NOT EXISTS tablefunc;
 
 SELECT * FROM pg_extension WHERE extname = 'tablefunc';
 
+-- Create a table to save mirna:gene interactions from miRDB
+CREATE TABLE mirdb_mirna_gene (
+  mirna VARCHAR(20),
+  gene VARCHAR(20),
+  target_score smallint,
+  PRIMARY KEY (mirna, gene),
+  FOREIGN KEY (mirna) REFERENCES mirnas (mirna_id),
+  FOREIGN KEY (gene) REFERENCES genes (gene_id)
+);
+
+
 
 
