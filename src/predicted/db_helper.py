@@ -48,7 +48,8 @@ def insert_mirna_gene_interaction(conn, cur, mirna_id, gene_id, target_score):
 def get_interactions(conn, cur):
     # Execute the SQL query
     cur.execute("""
-SELECT mirna, gene, '1' AS is_target FROM mirdb_mirna_gene
+SELECT mirna, gene, '1' AS is_target FROM mirdb_mirna_gene 
+where target_score > 96
 ORDER BY gene
 """)
 
