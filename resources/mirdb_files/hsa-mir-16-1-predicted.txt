@@ -1,0 +1,427 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-16-1-3p	SLC12A6	solute carrier family 12 member 6
+Details
+
+2	
+99
+
+hsa-miR-16-1-3p	CNTN1	contactin 1
+Details
+
+3	
+98
+
+hsa-miR-16-1-3p	MMGT1	membrane magnesium transporter 1
+Details
+
+4	
+97
+
+hsa-miR-16-1-3p	RIN2	Ras and Rab interactor 2
+Details
+
+5	
+97
+
+hsa-miR-16-1-3p	TM9SF2	transmembrane 9 superfamily member 2
+Details
+
+6	
+96
+
+hsa-miR-16-1-3p	STAU1	staufen double-stranded RNA binding protein 1
+Details
+
+7	
+96
+
+hsa-miR-16-1-3p	RNF41	ring finger protein 41
+Details
+
+8	
+96
+
+hsa-miR-16-1-3p	GRIA4	glutamate ionotropic receptor AMPA type subunit 4
+Details
+
+9	
+96
+
+hsa-miR-16-1-3p	RNF6	ring finger protein 6
+Details
+
+10	
+96
+
+hsa-miR-16-1-3p	GUCY1A2	guanylate cyclase 1 soluble subunit alpha 2
+Details
+
+11	
+96
+
+hsa-miR-16-1-3p	JAG1	jagged 1
+Details
+
+12	
+96
+
+hsa-miR-16-1-3p	UBR3	ubiquitin protein ligase E3 component n-recognin 3
+Details
+
+13	
+96
+
+hsa-miR-16-1-3p	PCLO	piccolo presynaptic cytomatrix protein
+Details
+
+14	
+95
+
+hsa-miR-16-1-3p	FOXO1	forkhead box O1
+Details
+
+15	
+95
+
+hsa-miR-16-1-3p	DENND6A	DENN domain containing 6A
+Details
+
+16	
+95
+
+hsa-miR-16-1-3p	ARPC5	actin related protein 2/3 complex subunit 5
+Details
+
+17	
+95
+
+hsa-miR-16-1-3p	KIF3A	kinesin family member 3A
+Details
+
+18	
+94
+
+hsa-miR-16-1-3p	PRR16	proline rich 16
+Details
+
+19	
+94
+
+hsa-miR-16-1-3p	TTC14	tetratricopeptide repeat domain 14
+Details
+
+20	
+94
+
+hsa-miR-16-1-3p	KANSL1L	KAT8 regulatory NSL complex subunit 1 like
+Details
+
+21	
+94
+
+hsa-miR-16-1-3p	CLDND1	claudin domain containing 1
+Details
+
+22	
+93
+
+hsa-miR-16-1-3p	TTC13	tetratricopeptide repeat domain 13
+Details
+
+23	
+93
+
+hsa-miR-16-1-3p	MBTD1	mbt domain containing 1
+Details
+
+24	
+93
+
+hsa-miR-16-1-3p	GNG12	G protein subunit gamma 12
+Details
+
+25	
+93
+
+hsa-miR-16-1-3p	DLG5	discs large MAGUK scaffold protein 5
+Details
+
+26	
+93
+
+hsa-miR-16-1-3p	STEAP2	STEAP2 metalloreductase
+Details
+
+27	
+93
+
+hsa-miR-16-1-3p	CLDN23	claudin 23
+Details
+
+28	
+93
+
+hsa-miR-16-1-3p	SPEN	spen family transcriptional repressor
+Details
+
+29	
+93
+
+hsa-miR-16-1-3p	STARD8	StAR related lipid transfer domain containing 8
+Details
+
+30	
+93
+
+hsa-miR-16-1-3p	BRINP3	BMP/retinoic acid inducible neural specific 3
+Details
+
+31	
+93
+
+hsa-miR-16-1-3p	YY1	YY1 transcription factor
+Details
+
+32	
+93
+
+hsa-miR-16-1-3p	REL	REL proto-oncogene, NF-kB subunit
+Details
+
+33	
+92
+
+hsa-miR-16-1-3p	NUP98	nucleoporin 98
+Details
+
+34	
+92
+
+hsa-miR-16-1-3p	CCDC58	coiled-coil domain containing 58
+Details
+
+35	
+92
+
+hsa-miR-16-1-3p	C1GALT1C1	C1GALT1 specific chaperone 1
+Details
+
+36	
+92
+
+hsa-miR-16-1-3p	CPSF2	cleavage and polyadenylation specific factor 2
+Details
+
+37	
+92
+
+hsa-miR-16-1-3p	SLC12A2	solute carrier family 12 member 2
+Details
+
+38	
+92
+
+hsa-miR-16-1-3p	SLITRK4	SLIT and NTRK like family member 4
+Details
+
+39	
+92
+
+hsa-miR-16-1-3p	TMEM237	transmembrane protein 237
+Details
+
+40	
+92
+
+hsa-miR-16-1-3p	GPALPP1	GPALPP motifs containing 1
+Details
+
+41	
+92
+
+hsa-miR-16-1-3p	PARP8	poly(ADP-ribose) polymerase family member 8
+Details
+
+42	
+92
+
+hsa-miR-16-1-3p	SLC10A7	solute carrier family 10 member 7
+Details
+
+43	
+92
+
+hsa-miR-16-1-3p	STK17B	serine/threonine kinase 17b
+Details
+
+44	
+91
+
+hsa-miR-16-1-3p	MFAP4	microfibril associated protein 4
+Details
+
+45	
+91
+
+hsa-miR-16-1-3p	GPR182	G protein-coupled receptor 182
+Details
+
+46	
+91
+
+hsa-miR-16-1-3p	MCTP1	multiple C2 and transmembrane domain containing 1
+Details
+
+47	
+91
+
+hsa-miR-16-1-3p	CLVS1	clavesin 1
+Details
+
+48	
+91
+
+hsa-miR-16-1-3p	KLHL24	kelch like family member 24
+Details
+
+49	
+91
+
+hsa-miR-16-1-3p	TFAP4	transcription factor AP-4
+Details
+
+50	
+91
+
+hsa-miR-16-1-3p	SCAF4	SR-related CTD associated factor 4
+Details
+
+51	
+91
+
+hsa-miR-16-1-3p	ZSCAN26	zinc finger and SCAN domain containing 26
+Details
+
+52	
+91
+
+hsa-miR-16-1-3p	ZDHHC17	zinc finger DHHC-type containing 17
+Details
+
+53	
+91
+
+hsa-miR-16-1-3p	UBE2G1	ubiquitin conjugating enzyme E2 G1
+Details
+
+54	
+91
+
+hsa-miR-16-1-3p	CEP135	centrosomal protein 135
+Details
+
+55	
+91
+
+hsa-miR-16-1-3p	KLF5	Kruppel like factor 5
+Details
+
+56	
+91
+
+hsa-miR-16-1-3p	VCPKMT	valosin containing protein lysine methyltransferase
+Details
+
+57	
+90
+
+hsa-miR-16-1-3p	RAB23	RAB23, member RAS oncogene family
+Details
+
+58	
+90
+
+hsa-miR-16-1-3p	C1orf185	chromosome 1 open reading frame 185
+Details
+
+59	
+90
+
+hsa-miR-16-1-3p	IL26	interleukin 26
+Details
+
+60	
+90
+
+hsa-miR-16-1-3p	ZDHHC21	zinc finger DHHC-type containing 21
+Details
+
+61	
+90
+
+hsa-miR-16-1-3p	PRRC1	proline rich coiled-coil 1
+Details
+
+62	
+90
+
+hsa-miR-16-1-3p	ABCA1	ATP binding cassette subfamily A member 1
+Details
+
+63	
+90
+
+hsa-miR-16-1-3p	MATR3	matrin 3
+Details
+
+64	
+90
+
+hsa-miR-16-1-3p	KTN1	kinectin 1
+Details
+
+65	
+90
+
+hsa-miR-16-1-3p	HAT1	histone acetyltransferase 1
+Details
+
+66	
+90
+
+hsa-miR-16-1-3p	NF1	neurofibromin 1
+Details
+
+67	
+90
+
+hsa-miR-16-1-3p	ROCK1	Rho associated coiled-coil containing protein kinase 1
+Details
+
+68	
+90
+
+hsa-miR-16-1-3p	CAPS2	calcyphosine 2
+Details
+
+69	
+90
+
+hsa-miR-16-1-3p	GFRA2	GDNF family receptor alpha 2
+Details
+
+70	
+90
+
+hsa-miR-16-1-3p	COCH	cochlin
+Details
+
+71	
+90
+
+hsa-miR-16-1-3p	ANKRD12	ankyrin repeat domain 12

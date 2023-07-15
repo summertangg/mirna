@@ -1,0 +1,488 @@
+
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-217-5p	FRMD5	FERM domain containing 5
+Details
+
+2	
+99
+
+hsa-miR-217-5p	BCL11A	BCL11A, BAF complex component
+Details
+
+3	
+99
+
+hsa-miR-217-5p	ATP11C	ATPase phospholipid transporting 11C
+Details
+
+4	
+99
+
+hsa-miR-217-5p	DACH1	dachshund family transcription factor 1
+Details
+
+5	
+99
+
+hsa-miR-217-5p	ATP1B1	ATPase Na+/K+ transporting subunit beta 1
+Details
+
+6	
+99
+
+hsa-miR-217-5p	ANLN	anillin actin binding protein
+Details
+
+7	
+99
+
+hsa-miR-217-5p	SLC38A2	solute carrier family 38 member 2
+Details
+
+8	
+98
+
+hsa-miR-217-5p	ZCCHC2	zinc finger CCHC-type containing 2
+Details
+
+9	
+98
+
+hsa-miR-217-5p	KDELC1	KDEL motif containing 1
+Details
+
+10	
+98
+
+hsa-miR-217-5p	SH3PXD2A	SH3 and PX domains 2A
+Details
+
+11	
+98
+
+hsa-miR-217-5p	MIER3	MIER family member 3
+Details
+
+12	
+97
+
+hsa-miR-217-5p	APPBP2	amyloid beta precursor protein binding protein 2
+Details
+
+13	
+97
+
+hsa-miR-217-5p	YTHDC1	YTH domain containing 1
+Details
+
+14	
+97
+
+hsa-miR-217-5p	SPOPL	speckle type BTB/POZ protein like
+Details
+
+15	
+97
+
+hsa-miR-217-5p	COX18	cytochrome c oxidase assembly factor COX18
+Details
+
+16	
+96
+
+hsa-miR-217-5p	EZH2	enhancer of zeste 2 polycomb repressive complex 2 subunit
+Details
+
+17	
+96
+
+hsa-miR-217-5p	PPM1A	protein phosphatase, Mg2+/Mn2+ dependent 1A
+Details
+
+18	
+96
+
+hsa-miR-217-5p	ATP8A1	ATPase phospholipid transporting 8A1
+Details
+
+19	
+96
+
+hsa-miR-217-5p	CHN2	chimerin 2
+Details
+
+20	
+96
+
+hsa-miR-217-5p	C5orf24	chromosome 5 open reading frame 24
+Details
+
+21	
+96
+
+hsa-miR-217-5p	GPM6A	glycoprotein M6A
+Details
+
+22	
+95
+
+hsa-miR-217-5p	TXNDC16	thioredoxin domain containing 16
+Details
+
+23	
+95
+
+hsa-miR-217-5p	RIMS2	regulating synaptic membrane exocytosis 2
+Details
+
+24	
+94
+
+hsa-miR-217-5p	RHOT1	ras homolog family member T1
+Details
+
+25	
+94
+
+hsa-miR-217-5p	ICK	intestinal cell kinase
+Details
+
+26	
+94
+
+hsa-miR-217-5p	ALDH16A1	aldehyde dehydrogenase 16 family member A1
+Details
+
+27	
+94
+
+hsa-miR-217-5p	POLD3	DNA polymerase delta 3, accessory subunit
+Details
+
+28	
+94
+
+hsa-miR-217-5p	PPP4R2	protein phosphatase 4 regulatory subunit 2
+Details
+
+29	
+94
+
+hsa-miR-217-5p	DOCK3	dedicator of cytokinesis 3
+Details
+
+30	
+94
+
+hsa-miR-217-5p	HNF1B	HNF1 homeobox B
+Details
+
+31	
+94
+
+hsa-miR-217-5p	DACT1	dishevelled binding antagonist of beta catenin 1
+Details
+
+32	
+94
+
+hsa-miR-217-5p	RAPGEF6	Rap guanine nucleotide exchange factor 6
+Details
+
+33	
+94
+
+hsa-miR-217-5p	CDYL2	chromodomain Y like 2
+Details
+
+34	
+93
+
+hsa-miR-217-5p	PPM1D	protein phosphatase, Mg2+/Mn2+ dependent 1D
+Details
+
+35	
+93
+
+hsa-miR-217-5p	TMTC4	transmembrane and tetratricopeptide repeat containing 4
+Details
+
+36	
+93
+
+hsa-miR-217-5p	GBE1	1,4-alpha-glucan branching enzyme 1
+Details
+
+37	
+93
+
+hsa-miR-217-5p	SCAMP1	secretory carrier membrane protein 1
+Details
+
+38	
+93
+
+hsa-miR-217-5p	RTF1	RTF1 homolog, Paf1/RNA polymerase II complex component
+Details
+
+39	
+93
+
+hsa-miR-217-5p	RAB4A	RAB4A, member RAS oncogene family
+Details
+
+40	
+93
+
+hsa-miR-217-5p	MAST4	microtubule associated serine/threonine kinase family member 4
+Details
+
+41	
+93
+
+hsa-miR-217-5p	TTC28	tetratricopeptide repeat domain 28
+Details
+
+42	
+93
+
+hsa-miR-217-5p	ZNF92	zinc finger protein 92
+Details
+
+43	
+93
+
+hsa-miR-217-5p	STT3A	STT3A, catalytic subunit of the oligosaccharyltransferase complex
+Details
+
+44	
+92
+
+hsa-miR-217-5p	SCN9A	sodium voltage-gated channel alpha subunit 9
+Details
+
+45	
+92
+
+hsa-miR-217-5p	PSIP1	PC4 and SFRS1 interacting protein 1
+Details
+
+46	
+92
+
+hsa-miR-217-5p	PDE12	phosphodiesterase 12
+Details
+
+47	
+92
+
+hsa-miR-217-5p	GXYLT1	glucoside xylosyltransferase 1
+Details
+
+48	
+92
+
+hsa-miR-217-5p	CA8	carbonic anhydrase 8
+Details
+
+49	
+92
+
+hsa-miR-217-5p	FBN2	fibrillin 2
+Details
+
+50	
+92
+
+hsa-miR-217-5p	TUBB6	tubulin beta 6 class V
+Details
+
+51	
+92
+
+hsa-miR-217-5p	KRAS	KRAS proto-oncogene, GTPase
+Details
+
+52	
+92
+
+hsa-miR-217-5p	FOXL2NB	FOXL2 neighbor
+Details
+
+53	
+92
+
+hsa-miR-217-5p	WAPL	WAPL cohesin release factor
+Details
+
+54	
+92
+
+hsa-miR-217-5p	KATNA1	katanin catalytic subunit A1
+Details
+
+55	
+92
+
+hsa-miR-217-5p	USP27X	ubiquitin specific peptidase 27 X-linked
+Details
+
+56	
+92
+
+hsa-miR-217-5p	ACER3	alkaline ceramidase 3
+Details
+
+57	
+92
+
+hsa-miR-217-5p	AAK1	AP2 associated kinase 1
+Details
+
+58	
+92
+
+hsa-miR-217-5p	MTERF3	mitochondrial transcription termination factor 3
+Details
+
+59	
+92
+
+hsa-miR-217-5p	ZNF680	zinc finger protein 680
+Details
+
+60	
+91
+
+hsa-miR-217-5p	HIPK3	homeodomain interacting protein kinase 3
+Details
+
+61	
+91
+
+hsa-miR-217-5p	NAB1	NGFI-A binding protein 1
+Details
+
+62	
+91
+
+hsa-miR-217-5p	LPAR1	lysophosphatidic acid receptor 1
+Details
+
+63	
+91
+
+hsa-miR-217-5p	YOD1	YOD1 deubiquitinase
+Details
+
+64	
+91
+
+hsa-miR-217-5p	MYEF2	myelin expression factor 2
+Details
+
+65	
+91
+
+hsa-miR-217-5p	VSNL1	visinin like 1
+Details
+
+66	
+91
+
+hsa-miR-217-5p	ADGRB3	adhesion G protein-coupled receptor B3
+Details
+
+67	
+91
+
+hsa-miR-217-5p	ATF1	activating transcription factor 1
+Details
+
+68	
+91
+
+hsa-miR-217-5p	MGAT4A	alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase A
+Details
+
+69	
+91
+
+hsa-miR-217-5p	SEMA3A	semaphorin 3A
+Details
+
+70	
+91
+
+hsa-miR-217-5p	FGFR2	fibroblast growth factor receptor 2
+Details
+
+71	
+91
+
+hsa-miR-217-5p	PTPN21	protein tyrosine phosphatase, non-receptor type 21
+Details
+
+72	
+91
+
+hsa-miR-217-5p	HSPA9	heat shock protein family A (Hsp70) member 9
+Details
+
+73	
+91
+
+hsa-miR-217-5p	ASXL3	ASXL transcriptional regulator 3
+Details
+
+74	
+91
+
+hsa-miR-217-5p	DDX53	DEAD-box helicase 53
+Details
+
+75	
+90
+
+hsa-miR-217-5p	MRE11	MRE11 homolog, double strand break repair nuclease
+Details
+
+76	
+90
+
+hsa-miR-217-5p	HS3ST3A1	heparan sulfate-glucosamine 3-sulfotransferase 3A1
+Details
+
+77	
+90
+
+hsa-miR-217-5p	UBL3	ubiquitin like 3
+Details
+
+78	
+90
+
+hsa-miR-217-5p	ITPA	inosine triphosphatase
+Details
+
+79	
+90
+
+hsa-miR-217-5p	ZBTB24	zinc finger and BTB domain containing 24
+Details
+
+80	
+90
+
+hsa-miR-217-5p	CTNNB1	catenin beta 1
+Details
+
+81	
+90
+
+hsa-miR-217-5p	NFAT5	nuclear factor of activated T cells 5

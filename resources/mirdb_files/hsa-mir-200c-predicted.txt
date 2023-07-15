@@ -1,0 +1,1441 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-200c-3p	VASH2	vasohibin 2
+Details
+
+2	
+100
+
+hsa-miR-200c-3p	HIPK3	homeodomain interacting protein kinase 3
+Details
+
+3	
+100
+
+hsa-miR-200c-3p	MAP2	microtubule associated protein 2
+Details
+
+4	
+100
+
+hsa-miR-200c-3p	ERRFI1	ERBB receptor feedback inhibitor 1
+Details
+
+5	
+100
+
+hsa-miR-200c-3p	ZEB1	zinc finger E-box binding homeobox 1
+Details
+
+6	
+100
+
+hsa-miR-200c-3p	NR5A2	nuclear receptor subfamily 5 group A member 2
+Details
+
+7	
+100
+
+hsa-miR-200c-3p	ZEB2	zinc finger E-box binding homeobox 2
+Details
+
+8	
+99
+
+hsa-miR-200c-3p	RECK	reversion inducing cysteine rich protein with kazal motifs
+Details
+
+9	
+99
+
+hsa-miR-200c-3p	SLIT2	slit guidance ligand 2
+Details
+
+10	
+99
+
+hsa-miR-200c-3p	WIPF1	WAS/WASL interacting protein family member 1
+Details
+
+11	
+99
+
+hsa-miR-200c-3p	C11orf95	chromosome 11 open reading frame 95
+Details
+
+12	
+99
+
+hsa-miR-200c-3p	FAM8A1	family with sequence similarity 8 member A1
+Details
+
+13	
+99
+
+hsa-miR-200c-3p	LHFPL6	LHFPL tetraspan subfamily member 6
+Details
+
+14	
+99
+
+hsa-miR-200c-3p	AP1S2	adaptor related protein complex 1 subunit sigma 2
+Details
+
+15	
+99
+
+hsa-miR-200c-3p	SEC23A	Sec23 homolog A, coat complex II component
+Details
+
+16	
+99
+
+hsa-miR-200c-3p	TBX18	T-box 18
+Details
+
+17	
+99
+
+hsa-miR-200c-3p	PTPN21	protein tyrosine phosphatase, non-receptor type 21
+Details
+
+18	
+99
+
+hsa-miR-200c-3p	DNAJC3	DnaJ heat shock protein family (Hsp40) member C3
+Details
+
+19	
+99
+
+hsa-miR-200c-3p	QKI	QKI, KH domain containing RNA binding
+Details
+
+20	
+99
+
+hsa-miR-200c-3p	RIC1	RIC1 homolog, RAB6A GEF complex partner 1
+Details
+
+21	
+99
+
+hsa-miR-200c-3p	CCNJ	cyclin J
+Details
+
+22	
+99
+
+hsa-miR-200c-3p	PCMTD1	protein-L-isoaspartate (D-aspartate) O-methyltransferase domain containing 1
+Details
+
+23	
+99
+
+hsa-miR-200c-3p	CFL2	cofilin 2
+Details
+
+24	
+99
+
+hsa-miR-200c-3p	GPM6A	glycoprotein M6A
+Details
+
+25	
+98
+
+hsa-miR-200c-3p	ARHGAP6	Rho GTPase activating protein 6
+Details
+
+26	
+98
+
+hsa-miR-200c-3p	TFAP2A	transcription factor AP-2 alpha
+Details
+
+27	
+98
+
+hsa-miR-200c-3p	SLC35B4	solute carrier family 35 member B4
+Details
+
+28	
+98
+
+hsa-miR-200c-3p	BAP1	BRCA1 associated protein 1
+Details
+
+29	
+98
+
+hsa-miR-200c-3p	RAB11FIP2	RAB11 family interacting protein 2
+Details
+
+30	
+98
+
+hsa-miR-200c-3p	MSN	moesin
+Details
+
+31	
+98
+
+hsa-miR-200c-3p	FBXW7	F-box and WD repeat domain containing 7
+Details
+
+32	
+98
+
+hsa-miR-200c-3p	TRIM33	tripartite motif containing 33
+Details
+
+33	
+98
+
+hsa-miR-200c-3p	CNOT6	CCR4-NOT transcription complex subunit 6
+Details
+
+34	
+98
+
+hsa-miR-200c-3p	PRTG	protogenin
+Details
+
+35	
+98
+
+hsa-miR-200c-3p	RPS6KB1	ribosomal protein S6 kinase B1
+Details
+
+36	
+98
+
+hsa-miR-200c-3p	NOVA2	NOVA alternative splicing regulator 2
+Details
+
+37	
+98
+
+hsa-miR-200c-3p	WASF3	WAS protein family member 3
+Details
+
+38	
+98
+
+hsa-miR-200c-3p	KDM7A	lysine demethylase 7A
+Details
+
+39	
+97
+
+hsa-miR-200c-3p	ELL2	elongation factor for RNA polymerase II 2
+Details
+
+40	
+97
+
+hsa-miR-200c-3p	ATXN1	ataxin 1
+Details
+
+41	
+97
+
+hsa-miR-200c-3p	SYNJ1	synaptojanin 1
+Details
+
+42	
+97
+
+hsa-miR-200c-3p	MIEF1	mitochondrial elongation factor 1
+Details
+
+43	
+97
+
+hsa-miR-200c-3p	MBNL3	muscleblind like splicing regulator 3
+Details
+
+44	
+97
+
+hsa-miR-200c-3p	CSNK1G3	casein kinase 1 gamma 3
+Details
+
+45	
+97
+
+hsa-miR-200c-3p	KHDRBS1	KH RNA binding domain containing, signal transduction associated 1
+Details
+
+46	
+97
+
+hsa-miR-200c-3p	ELMOD2	ELMO domain containing 2
+Details
+
+47	
+97
+
+hsa-miR-200c-3p	MCFD2	multiple coagulation factor deficiency 2
+Details
+
+48	
+97
+
+hsa-miR-200c-3p	CRKL	CRK like proto-oncogene, adaptor protein
+Details
+
+49	
+97
+
+hsa-miR-200c-3p	TENT4B	terminal nucleotidyltransferase 4B
+Details
+
+50	
+97
+
+hsa-miR-200c-3p	MPRIP	myosin phosphatase Rho interacting protein
+Details
+
+51	
+97
+
+hsa-miR-200c-3p	PPP4R2	protein phosphatase 4 regulatory subunit 2
+Details
+
+52	
+97
+
+hsa-miR-200c-3p	MGAT2	mannosyl (alpha-1,6-)-glycoprotein beta-1,2-N-acetylglucosaminyltransferase
+Details
+
+53	
+97
+
+hsa-miR-200c-3p	FAM122C	family with sequence similarity 122C
+Details
+
+54	
+97
+
+hsa-miR-200c-3p	NFIA	nuclear factor I A
+Details
+
+55	
+97
+
+hsa-miR-200c-3p	SUSD5	sushi domain containing 5
+Details
+
+56	
+97
+
+hsa-miR-200c-3p	FEZ2	fasciculation and elongation protein zeta 2
+Details
+
+57	
+97
+
+hsa-miR-200c-3p	PRDM16	PR/SET domain 16
+Details
+
+58	
+97
+
+hsa-miR-200c-3p	LRP1B	LDL receptor related protein 1B
+Details
+
+59	
+97
+
+hsa-miR-200c-3p	PPP2R5E	protein phosphatase 2 regulatory subunit B'epsilon
+Details
+
+60	
+97
+
+hsa-miR-200c-3p	PTPN14	protein tyrosine phosphatase, non-receptor type 14
+Details
+
+61	
+97
+
+hsa-miR-200c-3p	OSTM1	osteoclastogenesis associated transmembrane protein 1
+Details
+
+62	
+96
+
+hsa-miR-200c-3p	FAM126B	family with sequence similarity 126 member B
+Details
+
+63	
+96
+
+hsa-miR-200c-3p	CDK17	cyclin dependent kinase 17
+Details
+
+64	
+96
+
+hsa-miR-200c-3p	FRMD6	FERM domain containing 6
+Details
+
+65	
+96
+
+hsa-miR-200c-3p	RBSN	rabenosyn, RAB effector
+Details
+
+66	
+96
+
+hsa-miR-200c-3p	JAKMIP2	janus kinase and microtubule interacting protein 2
+Details
+
+67	
+96
+
+hsa-miR-200c-3p	PIK3CA	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+Details
+
+68	
+96
+
+hsa-miR-200c-3p	CCDC177	coiled-coil domain containing 177
+Details
+
+69	
+96
+
+hsa-miR-200c-3p	ARIH1	ariadne RBR E3 ubiquitin protein ligase 1
+Details
+
+70	
+96
+
+hsa-miR-200c-3p	ATP11C	ATPase phospholipid transporting 11C
+Details
+
+71	
+96
+
+hsa-miR-200c-3p	RTF1	RTF1 homolog, Paf1/RNA polymerase II complex component
+Details
+
+72	
+96
+
+hsa-miR-200c-3p	PPM1F	protein phosphatase, Mg2+/Mn2+ dependent 1F
+Details
+
+73	
+96
+
+hsa-miR-200c-3p	RAP2C	RAP2C, member of RAS oncogene family
+Details
+
+74	
+96
+
+hsa-miR-200c-3p	MMD	monocyte to macrophage differentiation associated
+Details
+
+75	
+96
+
+hsa-miR-200c-3p	CHN2	chimerin 2
+Details
+
+76	
+96
+
+hsa-miR-200c-3p	PHF21B	PHD finger protein 21B
+Details
+
+77	
+96
+
+hsa-miR-200c-3p	SULF1	sulfatase 1
+Details
+
+78	
+96
+
+hsa-miR-200c-3p	ARL2BP	ADP ribosylation factor like GTPase 2 binding protein
+Details
+
+79	
+96
+
+hsa-miR-200c-3p	ADIPOR2	adiponectin receptor 2
+Details
+
+80	
+95
+
+hsa-miR-200c-3p	ZNF532	zinc finger protein 532
+Details
+
+81	
+95
+
+hsa-miR-200c-3p	PHACTR3	phosphatase and actin regulator 3
+Details
+
+82	
+95
+
+hsa-miR-200c-3p	RASA2	RAS p21 protein activator 2
+Details
+
+83	
+95
+
+hsa-miR-200c-3p	ZNF711	zinc finger protein 711
+Details
+
+84	
+95
+
+hsa-miR-200c-3p	SEMA6D	semaphorin 6D
+Details
+
+85	
+95
+
+hsa-miR-200c-3p	VLDLR	very low density lipoprotein receptor
+Details
+
+86	
+95
+
+hsa-miR-200c-3p	IGSF10	immunoglobulin superfamily member 10
+Details
+
+87	
+95
+
+hsa-miR-200c-3p	WNT16	Wnt family member 16
+Details
+
+88	
+95
+
+hsa-miR-200c-3p	CBL	Cbl proto-oncogene
+Details
+
+89	
+95
+
+hsa-miR-200c-3p	EPS8	epidermal growth factor receptor pathway substrate 8
+Details
+
+90	
+95
+
+hsa-miR-200c-3p	NANOS1	nanos C2HC-type zinc finger 1
+Details
+
+91	
+95
+
+hsa-miR-200c-3p	TMOD3	tropomodulin 3
+Details
+
+92	
+95
+
+hsa-miR-200c-3p	COL4A3BP	collagen type IV alpha 3 binding protein
+Details
+
+93	
+95
+
+hsa-miR-200c-3p	KDELC1	KDEL motif containing 1
+Details
+
+94	
+95
+
+hsa-miR-200c-3p	MINDY2	MINDY lysine 48 deubiquitinase 2
+Details
+
+95	
+95
+
+hsa-miR-200c-3p	RND3	Rho family GTPase 3
+Details
+
+96	
+95
+
+hsa-miR-200c-3p	KDR	kinase insert domain receptor
+Details
+
+97	
+95
+
+hsa-miR-200c-3p	OTUD4	OTU deubiquitinase 4
+Details
+
+98	
+95
+
+hsa-miR-200c-3p	NCOA2	nuclear receptor coactivator 2
+Details
+
+99	
+94
+
+hsa-miR-200c-3p	HMBOX1	homeobox containing 1
+Details
+
+100	
+94
+
+hsa-miR-200c-3p	DUSP1	dual specificity phosphatase 1
+Details
+
+101	
+94
+
+hsa-miR-200c-3p	ELOC	elongin C
+Details
+
+102	
+94
+
+hsa-miR-200c-3p	C16orf72	chromosome 16 open reading frame 72
+Details
+
+103	
+94
+
+hsa-miR-200c-3p	EGLN1	egl-9 family hypoxia inducible factor 1
+Details
+
+104	
+94
+
+hsa-miR-200c-3p	CLASP1	cytoplasmic linker associated protein 1
+Details
+
+105	
+94
+
+hsa-miR-200c-3p	ZFAND6	zinc finger AN1-type containing 6
+Details
+
+106	
+94
+
+hsa-miR-200c-3p	FOXG1	forkhead box G1
+Details
+
+107	
+94
+
+hsa-miR-200c-3p	KCNQ3	potassium voltage-gated channel subfamily Q member 3
+Details
+
+108	
+94
+
+hsa-miR-200c-3p	MBOAT2	membrane bound O-acyltransferase domain containing 2
+Details
+
+109	
+94
+
+hsa-miR-200c-3p	PHTF2	putative homeodomain transcription factor 2
+Details
+
+110	
+94
+
+hsa-miR-200c-3p	BRWD3	bromodomain and WD repeat domain containing 3
+Details
+
+111	
+94
+
+hsa-miR-200c-3p	NBR1	NBR1, autophagy cargo receptor
+Details
+
+112	
+94
+
+hsa-miR-200c-3p	ZNF131	zinc finger protein 131
+Details
+
+113	
+94
+
+hsa-miR-200c-3p	AFF3	AF4/FMR2 family member 3
+Details
+
+114	
+94
+
+hsa-miR-200c-3p	ARL5A	ADP ribosylation factor like GTPase 5A
+Details
+
+115	
+94
+
+hsa-miR-200c-3p	TMX4	thioredoxin related transmembrane protein 4
+Details
+
+116	
+94
+
+hsa-miR-200c-3p	IMMP2L	inner mitochondrial membrane peptidase subunit 2
+Details
+
+117	
+94
+
+hsa-miR-200c-3p	MAP3K1	mitogen-activated protein kinase kinase kinase 1
+Details
+
+118	
+94
+
+hsa-miR-200c-3p	SGIP1	SH3 domain GRB2 like endophilin interacting protein 1
+Details
+
+119	
+94
+
+hsa-miR-200c-3p	IPO7	importin 7
+Details
+
+120	
+94
+
+hsa-miR-200c-3p	GOLGA7	golgin A7
+Details
+
+121	
+94
+
+hsa-miR-200c-3p	DLC1	DLC1 Rho GTPase activating protein
+Details
+
+122	
+94
+
+hsa-miR-200c-3p	XKR8	XK related 8
+Details
+
+123	
+94
+
+hsa-miR-200c-3p	ELK4	ELK4, ETS transcription factor
+Details
+
+124	
+94
+
+hsa-miR-200c-3p	FN1	fibronectin 1
+Details
+
+125	
+94
+
+hsa-miR-200c-3p	SESN1	sestrin 1
+Details
+
+126	
+94
+
+hsa-miR-200c-3p	JUN	Jun proto-oncogene, AP-1 transcription factor subunit
+Details
+
+127	
+94
+
+hsa-miR-200c-3p	GPR158	G protein-coupled receptor 158
+Details
+
+128	
+94
+
+hsa-miR-200c-3p	DGKH	diacylglycerol kinase eta
+Details
+
+129	
+94
+
+hsa-miR-200c-3p	SYDE1	synapse defective Rho GTPase homolog 1
+Details
+
+130	
+94
+
+hsa-miR-200c-3p	PPHLN1	periphilin 1
+Details
+
+131	
+93
+
+hsa-miR-200c-3p	ZC3H6	zinc finger CCCH-type containing 6
+Details
+
+132	
+93
+
+hsa-miR-200c-3p	PRKG1	protein kinase cGMP-dependent 1
+Details
+
+133	
+93
+
+hsa-miR-200c-3p	SLC1A2	solute carrier family 1 member 2
+Details
+
+134	
+93
+
+hsa-miR-200c-3p	RANBP9	RAN binding protein 9
+Details
+
+135	
+93
+
+hsa-miR-200c-3p	GOLGA1	golgin A1
+Details
+
+136	
+93
+
+hsa-miR-200c-3p	LOX	lysyl oxidase
+Details
+
+137	
+93
+
+hsa-miR-200c-3p	GIT2	GIT ArfGAP 2
+Details
+
+138	
+93
+
+hsa-miR-200c-3p	ARMCX5-GPRASP2	ARMCX5-GPRASP2 readthrough
+Details
+
+139	
+93
+
+hsa-miR-200c-3p	MPDZ	multiple PDZ domain crumbs cell polarity complex component
+Details
+
+140	
+93
+
+hsa-miR-200c-3p	PGM2L1	phosphoglucomutase 2 like 1
+Details
+
+141	
+93
+
+hsa-miR-200c-3p	PRKACB	protein kinase cAMP-activated catalytic subunit beta
+Details
+
+142	
+93
+
+hsa-miR-200c-3p	CDH20	cadherin 20
+Details
+
+143	
+93
+
+hsa-miR-200c-3p	NTF3	neurotrophin 3
+Details
+
+144	
+93
+
+hsa-miR-200c-3p	B3GNT2	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 2
+Details
+
+145	
+93
+
+hsa-miR-200c-3p	PSAT1	phosphoserine aminotransferase 1
+Details
+
+146	
+93
+
+hsa-miR-200c-3p	REEP1	receptor accessory protein 1
+Details
+
+147	
+93
+
+hsa-miR-200c-3p	MED13	mediator complex subunit 13
+Details
+
+148	
+93
+
+hsa-miR-200c-3p	TBK1	TANK binding kinase 1
+Details
+
+149	
+93
+
+hsa-miR-200c-3p	TBC1D12	TBC1 domain family member 12
+Details
+
+150	
+93
+
+hsa-miR-200c-3p	MAPK7	mitogen-activated protein kinase 7
+Details
+
+151	
+93
+
+hsa-miR-200c-3p	WAPL	WAPL cohesin release factor
+Details
+
+152	
+93
+
+hsa-miR-200c-3p	VEGFA	vascular endothelial growth factor A
+Details
+
+153	
+93
+
+hsa-miR-200c-3p	RUSC2	RUN and SH3 domain containing 2
+Details
+
+154	
+93
+
+hsa-miR-200c-3p	SFXN1	sideroflexin 1
+Details
+
+155	
+93
+
+hsa-miR-200c-3p	ZFX	zinc finger protein X-linked
+Details
+
+156	
+93
+
+hsa-miR-200c-3p	HS2ST1	heparan sulfate 2-O-sulfotransferase 1
+Details
+
+157	
+93
+
+hsa-miR-200c-3p	BLCAP	BLCAP, apoptosis inducing factor
+Details
+
+158	
+93
+
+hsa-miR-200c-3p	RAB21	RAB21, member RAS oncogene family
+Details
+
+159	
+93
+
+hsa-miR-200c-3p	GPRASP2	G protein-coupled receptor associated sorting protein 2
+Details
+
+160	
+93
+
+hsa-miR-200c-3p	DESI1	desumoylating isopeptidase 1
+Details
+
+161	
+93
+
+hsa-miR-200c-3p	FOXF1	forkhead box F1
+Details
+
+162	
+93
+
+hsa-miR-200c-3p	PTPRZ1	protein tyrosine phosphatase, receptor type Z1
+Details
+
+163	
+92
+
+hsa-miR-200c-3p	TMEM17	transmembrane protein 17
+Details
+
+164	
+92
+
+hsa-miR-200c-3p	FSCN1	fascin actin-bundling protein 1
+Details
+
+165	
+92
+
+hsa-miR-200c-3p	PPP1R18	protein phosphatase 1 regulatory subunit 18
+Details
+
+166	
+92
+
+hsa-miR-200c-3p	RNF2	ring finger protein 2
+Details
+
+167	
+92
+
+hsa-miR-200c-3p	THAP1	THAP domain containing 1
+Details
+
+168	
+92
+
+hsa-miR-200c-3p	CLIC4	chloride intracellular channel 4
+Details
+
+169	
+92
+
+hsa-miR-200c-3p	CECR2	CECR2, histone acetyl-lysine reader
+Details
+
+170	
+92
+
+hsa-miR-200c-3p	HOOK1	hook microtubule tethering protein 1
+Details
+
+171	
+92
+
+hsa-miR-200c-3p	PPM1E	protein phosphatase, Mg2+/Mn2+ dependent 1E
+Details
+
+172	
+92
+
+hsa-miR-200c-3p	CHRDL1	chordin like 1
+Details
+
+173	
+92
+
+hsa-miR-200c-3p	DTNA	dystrobrevin alpha
+Details
+
+174	
+92
+
+hsa-miR-200c-3p	ZBTB10	zinc finger and BTB domain containing 10
+Details
+
+175	
+92
+
+hsa-miR-200c-3p	B3GLCT	beta 3-glucosyltransferase
+Details
+
+176	
+92
+
+hsa-miR-200c-3p	DNAJB9	DnaJ heat shock protein family (Hsp40) member B9
+Details
+
+177	
+92
+
+hsa-miR-200c-3p	FAT3	FAT atypical cadherin 3
+Details
+
+178	
+92
+
+hsa-miR-200c-3p	NR3C1	nuclear receptor subfamily 3 group C member 1
+Details
+
+179	
+92
+
+hsa-miR-200c-3p	FAM227B	family with sequence similarity 227 member B
+Details
+
+180	
+92
+
+hsa-miR-200c-3p	CSMD3	CUB and Sushi multiple domains 3
+Details
+
+181	
+92
+
+hsa-miR-200c-3p	PPFIA1	PTPRF interacting protein alpha 1
+Details
+
+182	
+91
+
+hsa-miR-200c-3p	KCTD8	potassium channel tetramerization domain containing 8
+Details
+
+183	
+91
+
+hsa-miR-200c-3p	PI4K2B	phosphatidylinositol 4-kinase type 2 beta
+Details
+
+184	
+91
+
+hsa-miR-200c-3p	ANKRD40	ankyrin repeat domain 40
+Details
+
+185	
+91
+
+hsa-miR-200c-3p	VASH1	vasohibin 1
+Details
+
+186	
+91
+
+hsa-miR-200c-3p	PDS5B	PDS5 cohesin associated factor B
+Details
+
+187	
+91
+
+hsa-miR-200c-3p	SLK	STE20 like kinase
+Details
+
+188	
+91
+
+hsa-miR-200c-3p	RTKN2	rhotekin 2
+Details
+
+189	
+91
+
+hsa-miR-200c-3p	RNF19A	ring finger protein 19A, RBR E3 ubiquitin protein ligase
+Details
+
+190	
+91
+
+hsa-miR-200c-3p	FHL1	four and a half LIM domains 1
+Details
+
+191	
+91
+
+hsa-miR-200c-3p	SPAG9	sperm associated antigen 9
+Details
+
+192	
+91
+
+hsa-miR-200c-3p	DPY19L1	dpy-19 like C-mannosyltransferase 1
+Details
+
+193	
+91
+
+hsa-miR-200c-3p	AMFR	autocrine motility factor receptor
+Details
+
+194	
+91
+
+hsa-miR-200c-3p	ELAVL2	ELAV like RNA binding protein 2
+Details
+
+195	
+91
+
+hsa-miR-200c-3p	LBR	lamin B receptor
+Details
+
+196	
+91
+
+hsa-miR-200c-3p	ZYG11B	zyg-11 family member B, cell cycle regulator
+Details
+
+197	
+91
+
+hsa-miR-200c-3p	CLIP1	CAP-Gly domain containing linker protein 1
+Details
+
+198	
+91
+
+hsa-miR-200c-3p	MOSMO	modulator of smoothened
+Details
+
+199	
+91
+
+hsa-miR-200c-3p	WDR82	WD repeat domain 82
+Details
+
+200	
+91
+
+hsa-miR-200c-3p	SERPINI1	serpin family I member 1
+Details
+
+201	
+91
+
+hsa-miR-200c-3p	RASSF8	Ras association domain family member 8
+Details
+
+202	
+91
+
+hsa-miR-200c-3p	JAZF1	JAZF zinc finger 1
+Details
+
+203	
+91
+
+hsa-miR-200c-3p	TOB1	transducer of ERBB2, 1
+Details
+
+204	
+91
+
+hsa-miR-200c-3p	EVI5	ecotropic viral integration site 5
+Details
+
+205	
+91
+
+hsa-miR-200c-3p	B4GAT1	beta-1,4-glucuronyltransferase 1
+Details
+
+206	
+91
+
+hsa-miR-200c-3p	POLK	DNA polymerase kappa
+Details
+
+207	
+91
+
+hsa-miR-200c-3p	CHRM2	cholinergic receptor muscarinic 2
+Details
+
+208	
+91
+
+hsa-miR-200c-3p	TRAPPC8	trafficking protein particle complex 8
+Details
+
+209	
+91
+
+hsa-miR-200c-3p	PUM2	pumilio RNA binding family member 2
+Details
+
+210	
+91
+
+hsa-miR-200c-3p	CDYL	chromodomain Y like
+Details
+
+211	
+91
+
+hsa-miR-200c-3p	YWHAG	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma
+Details
+
+212	
+91
+
+hsa-miR-200c-3p	SLC6A11	solute carrier family 6 member 11
+Details
+
+213	
+90
+
+hsa-miR-200c-3p	TCAIM	T cell activation inhibitor, mitochondrial
+Details
+
+214	
+90
+
+hsa-miR-200c-3p	PKD1	polycystin 1, transient receptor potential channel interacting
+Details
+
+215	
+90
+
+hsa-miR-200c-3p	FBXO30	F-box protein 30
+Details
+
+216	
+90
+
+hsa-miR-200c-3p	DNMT3B	DNA methyltransferase 3 beta
+Details
+
+217	
+90
+
+hsa-miR-200c-3p	FBXO33	F-box protein 33
+Details
+
+218	
+90
+
+hsa-miR-200c-3p	ITGA1	integrin subunit alpha 1
+Details
+
+219	
+90
+
+hsa-miR-200c-3p	OCLN	occludin
+Details
+
+220	
+90
+
+hsa-miR-200c-3p	CEP85L	centrosomal protein 85 like
+Details
+
+221	
+90
+
+hsa-miR-200c-3p	VAT1L	vesicle amine transport 1 like
+Details
+
+222	
+90
+
+hsa-miR-200c-3p	SCAMP1	secretory carrier membrane protein 1
+Details
+
+223	
+90
+
+hsa-miR-200c-3p	GABBR2	gamma-aminobutyric acid type B receptor subunit 2
+Details
+
+224	
+90
+
+hsa-miR-200c-3p	CAB39	calcium binding protein 39
+Details
+
+225	
+90
+
+hsa-miR-200c-3p	ADAMTS3	ADAM metallopeptidase with thrombospondin type 1 motif 3
+Details
+
+226	
+90
+
+hsa-miR-200c-3p	SCAI	suppressor of cancer cell invasion
+Details
+
+227	
+90
+
+hsa-miR-200c-3p	NEDD1	neural precursor cell expressed, developmentally down-regulated 1
+Details
+
+228	
+90
+
+hsa-miR-200c-3p	LRRC8A	leucine rich repeat containing 8 VRAC subunit A
+Details
+
+229	
+90
+
+hsa-miR-200c-3p	ANKRD44	ankyrin repeat domain 44
+Details
+
+230	
+90
+
+hsa-miR-200c-3p	NRBP1	nuclear receptor binding protein 1
+Details
+
+231	
+90
+
+hsa-miR-200c-3p	S100PBP	S100P binding protein
+Details
+
+232	
+90
+
+hsa-miR-200c-3p	USP25	ubiquitin specific peptidase 25
+Details
+
+233	
+90
+
+hsa-miR-200c-3p	MAP4K5	mitogen-activated protein kinase kinase kinase kinase 5
+Details
+
+234	
+90
+
+hsa-miR-200c-3p	CAMSAP2	calmodulin regulated spectrin associated protein family member 2
+Details
+
+235	
+90
+
+hsa-miR-200c-3p	HDAC9	histone deacetylase 9
+Details
+
+236	
+90
+
+hsa-miR-200c-3p	PPP1R9B	protein phosphatase 1 regulatory subunit 9B
+Details
+
+237	
+90
+
+hsa-miR-200c-3p	PMAIP1	phorbol-12-myristate-13-acetate-induced protein 1
+Details
+
+238	
+90
+
+hsa-miR-200c-3p	MAP4K4	mitogen-activated protein kinase kinase kinase kinase 4
+Details
+
+239	
+90
+
+hsa-miR-200c-3p	FSD1L	fibronectin type III and SPRY domain containing 1 like
+Details
+
+240	
+90
+
+hsa-miR-200c-3p	STK4	serine/threonine kinase 4
