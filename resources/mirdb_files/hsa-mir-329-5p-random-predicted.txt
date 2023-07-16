@@ -1,0 +1,319 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-329-5p	ATMIN	ATM interactor
+Details
+
+2	
+98
+
+hsa-miR-329-5p	OPRM1	opioid receptor mu 1
+Details
+
+3	
+98
+
+hsa-miR-329-5p	SRSF2	serine and arginine rich splicing factor 2
+Details
+
+4	
+98
+
+hsa-miR-329-5p	CEP68	centrosomal protein 68
+Details
+
+5	
+97
+
+hsa-miR-329-5p	DENND1B	DENN domain containing 1B
+Details
+
+6	
+97
+
+hsa-miR-329-5p	ABCG4	ATP binding cassette subfamily G member 4
+Details
+
+7	
+97
+
+hsa-miR-329-5p	SLITRK4	SLIT and NTRK like family member 4
+Details
+
+8	
+96
+
+hsa-miR-329-5p	CDK14	cyclin dependent kinase 14
+Details
+
+9	
+96
+
+hsa-miR-329-5p	HIKESHI	Hikeshi, heat shock protein nuclear import factor
+Details
+
+10	
+95
+
+hsa-miR-329-5p	CTBS	chitobiase
+Details
+
+11	
+95
+
+hsa-miR-329-5p	ALDH3A2	aldehyde dehydrogenase 3 family member A2
+Details
+
+12	
+95
+
+hsa-miR-329-5p	ZNF37A	zinc finger protein 37A
+Details
+
+13	
+95
+
+hsa-miR-329-5p	RCHY1	ring finger and CHY zinc finger domain containing 1
+Details
+
+14	
+94
+
+hsa-miR-329-5p	TMEFF2	transmembrane protein with EGF like and two follistatin like domains 2
+Details
+
+15	
+94
+
+hsa-miR-329-5p	C5orf38	chromosome 5 open reading frame 38
+Details
+
+16	
+93
+
+hsa-miR-329-5p	SAMSN1	SAM domain, SH3 domain and nuclear localization signals 1
+Details
+
+17	
+93
+
+hsa-miR-329-5p	NAA15	N(alpha)-acetyltransferase 15, NatA auxiliary subunit
+Details
+
+18	
+93
+
+hsa-miR-329-5p	ZNF480	zinc finger protein 480
+Details
+
+19	
+93
+
+hsa-miR-329-5p	SKA2	spindle and kinetochore associated complex subunit 2
+Details
+
+20	
+93
+
+hsa-miR-329-5p	PABPC4L	poly(A) binding protein cytoplasmic 4 like
+Details
+
+21	
+92
+
+hsa-miR-329-5p	GREM1	gremlin 1, DAN family BMP antagonist
+Details
+
+22	
+92
+
+hsa-miR-329-5p	DUS4L	dihydrouridine synthase 4 like
+Details
+
+23	
+92
+
+hsa-miR-329-5p	MTSS1	MTSS1, I-BAR domain containing
+Details
+
+24	
+92
+
+hsa-miR-329-5p	NUP35	nucleoporin 35
+Details
+
+25	
+92
+
+hsa-miR-329-5p	SCPEP1	serine carboxypeptidase 1
+Details
+
+26	
+92
+
+hsa-miR-329-5p	TOGARAM1	TOG array regulator of axonemal microtubules 1
+Details
+
+27	
+92
+
+hsa-miR-329-5p	ABHD17B	abhydrolase domain containing 17B
+Details
+
+28	
+91
+
+hsa-miR-329-5p	POMC	proopiomelanocortin
+Details
+
+29	
+91
+
+hsa-miR-329-5p	AEBP2	AE binding protein 2
+Details
+
+30	
+91
+
+hsa-miR-329-5p	RAP1B	RAP1B, member of RAS oncogene family
+Details
+
+31	
+91
+
+hsa-miR-329-5p	GPM6B	glycoprotein M6B
+Details
+
+32	
+91
+
+hsa-miR-329-5p	IQCK	IQ motif containing K
+Details
+
+33	
+91
+
+hsa-miR-329-5p	DIRC1	disrupted in renal carcinoma 1
+Details
+
+34	
+91
+
+hsa-miR-329-5p	RSL1D1	ribosomal L1 domain containing 1
+Details
+
+35	
+91
+
+hsa-miR-329-5p	ZNF354C	zinc finger protein 354C
+Details
+
+36	
+91
+
+hsa-miR-329-5p	ICK	intestinal cell kinase
+Details
+
+37	
+91
+
+hsa-miR-329-5p	BMT2	base methyltransferase of 25S rRNA 2 homolog
+Details
+
+38	
+91
+
+hsa-miR-329-5p	IRAK3	interleukin 1 receptor associated kinase 3
+Details
+
+39	
+91
+
+hsa-miR-329-5p	CRNN	cornulin
+Details
+
+40	
+90
+
+hsa-miR-329-5p	GLRX	glutaredoxin
+Details
+
+41	
+90
+
+hsa-miR-329-5p	MAFB	MAF bZIP transcription factor B
+Details
+
+42	
+90
+
+hsa-miR-329-5p	ZNF584	zinc finger protein 584
+Details
+
+43	
+90
+
+hsa-miR-329-5p	MAPK8	mitogen-activated protein kinase 8
+Details
+
+44	
+90
+
+hsa-miR-329-5p	MIB1	mindbomb E3 ubiquitin protein ligase 1
+Details
+
+45	
+90
+
+hsa-miR-329-5p	NUP50	nucleoporin 50
+Details
+
+46	
+90
+
+hsa-miR-329-5p	PTRH2	peptidyl-tRNA hydrolase 2
+Details
+
+47	
+90
+
+hsa-miR-329-5p	SRSF8	serine and arginine rich splicing factor 8
+Details
+
+48	
+90
+
+hsa-miR-329-5p	EML4	EMAP like 4
+Details
+
+49	
+90
+
+hsa-miR-329-5p	C17orf50	chromosome 17 open reading frame 50
+Details
+
+50	
+90
+
+hsa-miR-329-5p	EHD4	EH domain containing 4
+Details
+
+51	
+90
+
+hsa-miR-329-5p	DPY19L2	dpy-19 like 2
+Details
+
+52	
+90
+
+hsa-miR-329-5p	ENAH	ENAH, actin regulator
+Details
+
+53	
+90
+
+hsa-miR-329-5p	SGPP1	sphingosine-1-phosphate phosphatase 1

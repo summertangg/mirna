@@ -1,0 +1,139 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-3922-3p	CNOT6	CCR4-NOT transcription complex subunit 6
+Details
+
+2	
+96
+
+hsa-miR-3922-3p	ASB8	ankyrin repeat and SOCS box containing 8
+Details
+
+3	
+96
+
+hsa-miR-3922-3p	ITGA5	integrin subunit alpha 5
+Details
+
+4	
+95
+
+hsa-miR-3922-3p	SOGA1	suppressor of glucose, autophagy associated 1
+Details
+
+5	
+95
+
+hsa-miR-3922-3p	AIMP2	aminoacyl tRNA synthetase complex interacting multifunctional protein 2
+Details
+
+6	
+95
+
+hsa-miR-3922-3p	CNOT2	CCR4-NOT transcription complex subunit 2
+Details
+
+7	
+93
+
+hsa-miR-3922-3p	CD247	CD247 molecule
+Details
+
+8	
+92
+
+hsa-miR-3922-3p	INO80D	INO80 complex subunit D
+Details
+
+9	
+92
+
+hsa-miR-3922-3p	CST3	cystatin C
+Details
+
+10	
+91
+
+hsa-miR-3922-3p	RABGAP1	RAB GTPase activating protein 1
+Details
+
+11	
+91
+
+hsa-miR-3922-3p	SYTL5	synaptotagmin like 5
+Details
+
+12	
+91
+
+hsa-miR-3922-3p	GALNT14	polypeptide N-acetylgalactosaminyltransferase 14
+Details
+
+13	
+90
+
+hsa-miR-3922-3p	P2RY10	P2Y receptor family member 10
+Details
+
+14	
+90
+
+hsa-miR-3922-3p	GREM1	gremlin 1, DAN family BMP antagonist
+Details
+
+15	
+90
+
+hsa-miR-3922-3p	ARMC9	armadillo repeat containing 9
+Details
+
+16	
+90
+
+hsa-miR-3922-3p	KDM2A	lysine demethylase 2A
+Details
+
+17	
+90
+
+hsa-miR-3922-3p	ADNP	activity dependent neuroprotector homeobox
+Details
+
+18	
+90
+
+hsa-miR-3922-3p	SYT17	synaptotagmin 17
+Details
+
+19	
+90
+
+hsa-miR-3922-3p	ZYG11B	zyg-11 family member B, cell cycle regulator
+Details
+
+20	
+90
+
+hsa-miR-3922-3p	PPP1R12A	protein phosphatase 1 regulatory subunit 12A
+Details
+
+21	
+90
+
+hsa-miR-3922-3p	NUFIP2	nuclear FMR1 interacting protein 2
+Details
+
+22	
+90
+
+hsa-miR-3922-3p	ZBTB37	zinc finger and BTB domain containing 37
+Details
+
+23	
+90
+
+hsa-miR-3922-3p	MMP1	matrix metallopeptidase 1

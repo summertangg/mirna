@@ -1,0 +1,301 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+98
+
+hsa-miR-6780a-3p	AGO1	argonaute RISC catalytic component 1
+Details
+
+2	
+98
+
+hsa-miR-6780a-3p	RIMS2	regulating synaptic membrane exocytosis 2
+Details
+
+3	
+97
+
+hsa-miR-6780a-3p	OTULIN	OTU deubiquitinase with linear linkage specificity
+Details
+
+4	
+96
+
+hsa-miR-6780a-3p	GNAQ	G protein subunit alpha q
+Details
+
+5	
+96
+
+hsa-miR-6780a-3p	ATL3	atlastin GTPase 3
+Details
+
+6	
+96
+
+hsa-miR-6780a-3p	FGF18	fibroblast growth factor 18
+Details
+
+7	
+96
+
+hsa-miR-6780a-3p	ETAA1	ETAA1, ATR kinase activator
+Details
+
+8	
+95
+
+hsa-miR-6780a-3p	MNAT1	MNAT1, CDK activating kinase assembly factor
+Details
+
+9	
+95
+
+hsa-miR-6780a-3p	PPFIA2	PTPRF interacting protein alpha 2
+Details
+
+10	
+95
+
+hsa-miR-6780a-3p	GOLGA4	golgin A4
+Details
+
+11	
+95
+
+hsa-miR-6780a-3p	TRAPPC11	trafficking protein particle complex 11
+Details
+
+12	
+95
+
+hsa-miR-6780a-3p	TWIST1	twist family bHLH transcription factor 1
+Details
+
+13	
+95
+
+hsa-miR-6780a-3p	ITGB3	integrin subunit beta 3
+Details
+
+14	
+95
+
+hsa-miR-6780a-3p	EPHA3	EPH receptor A3
+Details
+
+15	
+95
+
+hsa-miR-6780a-3p	MAPK10	mitogen-activated protein kinase 10
+Details
+
+16	
+94
+
+hsa-miR-6780a-3p	AXIN2	axin 2
+Details
+
+17	
+94
+
+hsa-miR-6780a-3p	PPP4R1	protein phosphatase 4 regulatory subunit 1
+Details
+
+18	
+94
+
+hsa-miR-6780a-3p	DCAF5	DDB1 and CUL4 associated factor 5
+Details
+
+19	
+94
+
+hsa-miR-6780a-3p	ZBTB20	zinc finger and BTB domain containing 20
+Details
+
+20	
+93
+
+hsa-miR-6780a-3p	XPO7	exportin 7
+Details
+
+21	
+93
+
+hsa-miR-6780a-3p	HMGXB4	HMG-box containing 4
+Details
+
+22	
+93
+
+hsa-miR-6780a-3p	CNOT6	CCR4-NOT transcription complex subunit 6
+Details
+
+23	
+93
+
+hsa-miR-6780a-3p	ZNF589	zinc finger protein 589
+Details
+
+24	
+93
+
+hsa-miR-6780a-3p	ELK4	ELK4, ETS transcription factor
+Details
+
+25	
+92
+
+hsa-miR-6780a-3p	FAM155A	family with sequence similarity 155 member A
+Details
+
+26	
+92
+
+hsa-miR-6780a-3p	MTMR4	myotubularin related protein 4
+Details
+
+27	
+92
+
+hsa-miR-6780a-3p	HARS	histidyl-tRNA synthetase
+Details
+
+28	
+92
+
+hsa-miR-6780a-3p	CSNK1G1	casein kinase 1 gamma 1
+Details
+
+29	
+92
+
+hsa-miR-6780a-3p	CACNA1E	calcium voltage-gated channel subunit alpha1 E
+Details
+
+30	
+92
+
+hsa-miR-6780a-3p	ADD2	adducin 2
+Details
+
+31	
+92
+
+hsa-miR-6780a-3p	SMUG1	single-strand-selective monofunctional uracil-DNA glycosylase 1
+Details
+
+32	
+92
+
+hsa-miR-6780a-3p	GHDC	GH3 domain containing
+Details
+
+33	
+92
+
+hsa-miR-6780a-3p	GRIP1	glutamate receptor interacting protein 1
+Details
+
+34	
+92
+
+hsa-miR-6780a-3p	SHISA7	shisa family member 7
+Details
+
+35	
+92
+
+hsa-miR-6780a-3p	COMMD8	COMM domain containing 8
+Details
+
+36	
+91
+
+hsa-miR-6780a-3p	PAX7	paired box 7
+Details
+
+37	
+91
+
+hsa-miR-6780a-3p	ZNF502	zinc finger protein 502
+Details
+
+38	
+91
+
+hsa-miR-6780a-3p	LHFPL1	LHFPL tetraspan subfamily member 1
+Details
+
+39	
+91
+
+hsa-miR-6780a-3p	KNSTRN	kinetochore localized astrin (SPAG5) binding protein
+Details
+
+40	
+91
+
+hsa-miR-6780a-3p	DSE	dermatan sulfate epimerase
+Details
+
+41	
+91
+
+hsa-miR-6780a-3p	FUT9	fucosyltransferase 9
+Details
+
+42	
+91
+
+hsa-miR-6780a-3p	MAPK4	mitogen-activated protein kinase 4
+Details
+
+43	
+90
+
+hsa-miR-6780a-3p	SAMD5	sterile alpha motif domain containing 5
+Details
+
+44	
+90
+
+hsa-miR-6780a-3p	ZNF384	zinc finger protein 384
+Details
+
+45	
+90
+
+hsa-miR-6780a-3p	ZNF770	zinc finger protein 770
+Details
+
+46	
+90
+
+hsa-miR-6780a-3p	TOB1	transducer of ERBB2, 1
+Details
+
+47	
+90
+
+hsa-miR-6780a-3p	GTDC1	glycosyltransferase like domain containing 1
+Details
+
+48	
+90
+
+hsa-miR-6780a-3p	FAM210A	family with sequence similarity 210 member A
+Details
+
+49	
+90
+
+hsa-miR-6780a-3p	CLGN	calmegin
+Details
+
+50	
+90
+
+hsa-miR-6780a-3p	CLDN18	claudin 18

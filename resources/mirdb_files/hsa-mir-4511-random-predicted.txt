@@ -1,0 +1,325 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+98
+
+hsa-miR-4511	HMCES	5-hydroxymethylcytosine binding, ES cell specific
+Details
+
+2	
+98
+
+hsa-miR-4511	EEA1	early endosome antigen 1
+Details
+
+3	
+98
+
+hsa-miR-4511	RAP2C	RAP2C, member of RAS oncogene family
+Details
+
+4	
+98
+
+hsa-miR-4511	YWHAE	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon
+Details
+
+5	
+98
+
+hsa-miR-4511	OXR1	oxidation resistance 1
+Details
+
+6	
+97
+
+hsa-miR-4511	SP3	Sp3 transcription factor
+Details
+
+7	
+97
+
+hsa-miR-4511	EPS8	epidermal growth factor receptor pathway substrate 8
+Details
+
+8	
+97
+
+hsa-miR-4511	TGFBRAP1	transforming growth factor beta receptor associated protein 1
+Details
+
+9	
+97
+
+hsa-miR-4511	SAMD4B	sterile alpha motif domain containing 4B
+Details
+
+10	
+97
+
+hsa-miR-4511	USP25	ubiquitin specific peptidase 25
+Details
+
+11	
+97
+
+hsa-miR-4511	CDH11	cadherin 11
+Details
+
+12	
+96
+
+hsa-miR-4511	GIN1	gypsy retrotransposon integrase 1
+Details
+
+13	
+96
+
+hsa-miR-4511	SCP2	sterol carrier protein 2
+Details
+
+14	
+96
+
+hsa-miR-4511	CAPS2	calcyphosine 2
+Details
+
+15	
+96
+
+hsa-miR-4511	SUMO1	small ubiquitin-like modifier 1
+Details
+
+16	
+95
+
+hsa-miR-4511	GPSM2	G protein signaling modulator 2
+Details
+
+17	
+95
+
+hsa-miR-4511	PPP1R15B	protein phosphatase 1 regulatory subunit 15B
+Details
+
+18	
+95
+
+hsa-miR-4511	USP45	ubiquitin specific peptidase 45
+Details
+
+19	
+95
+
+hsa-miR-4511	RBMS1	RNA binding motif single stranded interacting protein 1
+Details
+
+20	
+94
+
+hsa-miR-4511	DKK1	dickkopf WNT signaling pathway inhibitor 1
+Details
+
+21	
+94
+
+hsa-miR-4511	DEPDC1	DEP domain containing 1
+Details
+
+22	
+94
+
+hsa-miR-4511	ZNF280D	zinc finger protein 280D
+Details
+
+23	
+93
+
+hsa-miR-4511	PXK	PX domain containing serine/threonine kinase like
+Details
+
+24	
+93
+
+hsa-miR-4511	RUBCNL	rubicon like autophagy enhancer
+Details
+
+25	
+93
+
+hsa-miR-4511	MCOLN3	mucolipin 3
+Details
+
+26	
+93
+
+hsa-miR-4511	FRMPD4	FERM and PDZ domain containing 4
+Details
+
+27	
+93
+
+hsa-miR-4511	TIAM1	T cell lymphoma invasion and metastasis 1
+Details
+
+28	
+93
+
+hsa-miR-4511	ZDHHC17	zinc finger DHHC-type containing 17
+Details
+
+29	
+92
+
+hsa-miR-4511	ZNF532	zinc finger protein 532
+Details
+
+30	
+92
+
+hsa-miR-4511	SPRED2	sprouty related EVH1 domain containing 2
+Details
+
+31	
+92
+
+hsa-miR-4511	TFDP1	transcription factor Dp-1
+Details
+
+32	
+92
+
+hsa-miR-4511	TBC1D24	TBC1 domain family member 24
+Details
+
+33	
+92
+
+hsa-miR-4511	CEP57	centrosomal protein 57
+Details
+
+34	
+92
+
+hsa-miR-4511	CA1	carbonic anhydrase 1
+Details
+
+35	
+92
+
+hsa-miR-4511	SOS2	SOS Ras/Rho guanine nucleotide exchange factor 2
+Details
+
+36	
+92
+
+hsa-miR-4511	SLC25A32	solute carrier family 25 member 32
+Details
+
+37	
+92
+
+hsa-miR-4511	FOXJ2	forkhead box J2
+Details
+
+38	
+91
+
+hsa-miR-4511	BUB3	BUB3, mitotic checkpoint protein
+Details
+
+39	
+91
+
+hsa-miR-4511	RAI14	retinoic acid induced 14
+Details
+
+40	
+91
+
+hsa-miR-4511	PIK3CA	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+Details
+
+41	
+91
+
+hsa-miR-4511	HIVEP2	human immunodeficiency virus type I enhancer binding protein 2
+Details
+
+42	
+91
+
+hsa-miR-4511	EMC6	ER membrane protein complex subunit 6
+Details
+
+43	
+91
+
+hsa-miR-4511	MORF4L2	mortality factor 4 like 2
+Details
+
+44	
+91
+
+hsa-miR-4511	PRKAA2	protein kinase AMP-activated catalytic subunit alpha 2
+Details
+
+45	
+91
+
+hsa-miR-4511	SLC6A11	solute carrier family 6 member 11
+Details
+
+46	
+91
+
+hsa-miR-4511	MSL2	MSL complex subunit 2
+Details
+
+47	
+90
+
+hsa-miR-4511	TBC1D32	TBC1 domain family member 32
+Details
+
+48	
+90
+
+hsa-miR-4511	OR7D2	olfactory receptor family 7 subfamily D member 2
+Details
+
+49	
+90
+
+hsa-miR-4511	ST6GAL2	ST6 beta-galactoside alpha-2,6-sialyltransferase 2
+Details
+
+50	
+90
+
+hsa-miR-4511	GCA	grancalcin
+Details
+
+51	
+90
+
+hsa-miR-4511	ESCO1	establishment of sister chromatid cohesion N-acetyltransferase 1
+Details
+
+52	
+90
+
+hsa-miR-4511	CDY1	chromodomain Y-linked 1
+Details
+
+53	
+90
+
+hsa-miR-4511	HELZ	helicase with zinc finger
+Details
+
+54	
+90
+
+hsa-miR-4511	CCDC169-SOHLH2	CCDC169-SOHLH2 readthrough
