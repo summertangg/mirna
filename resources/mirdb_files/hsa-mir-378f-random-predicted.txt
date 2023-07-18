@@ -1,0 +1,86 @@
+
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+98
+
+hsa-miR-378f	KLK4	kallikrein related peptidase 4
+Details
+
+2	
+98
+
+hsa-miR-378f	NR2C2	nuclear receptor subfamily 2 group C member 2
+Details
+
+3	
+97
+
+hsa-miR-378f	NKX3-1	NK3 homeobox 1
+Details
+
+4	
+97
+
+hsa-miR-378f	KIAA1522	KIAA1522
+Details
+
+5	
+96
+
+hsa-miR-378f	PHC3	polyhomeotic homolog 3
+Details
+
+6	
+92
+
+hsa-miR-378f	ELAC1	elaC ribonuclease Z 1
+Details
+
+7	
+92
+
+hsa-miR-378f	ZNF124	zinc finger protein 124
+Details
+
+8	
+91
+
+hsa-miR-378f	GPR156	G protein-coupled receptor 156
+Details
+
+9	
+91
+
+hsa-miR-378f	RAB10	RAB10, member RAS oncogene family
+Details
+
+10	
+91
+
+hsa-miR-378f	NCAPG	non-SMC condensin I complex subunit G
+Details
+
+11	
+91
+
+hsa-miR-378f	KCNIP2	potassium voltage-gated channel interacting protein 2
+Details
+
+12	
+90
+
+hsa-miR-378f	VPS53	VPS53, GARP complex subunit
+Details
+
+13	
+90
+
+hsa-miR-378f	PLCXD2	phosphatidylinositol specific phospholipase C X domain containing 2
+Details
+
+14	
+90
+
+hsa-miR-378f	JADE3	jade family PHD finger 3

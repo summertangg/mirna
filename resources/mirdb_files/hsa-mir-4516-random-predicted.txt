@@ -1,0 +1,667 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-4516	SPATA33	spermatogenesis associated 33
+Details
+
+2	
+99
+
+hsa-miR-4516	CD276	CD276 molecule
+Details
+
+3	
+99
+
+hsa-miR-4516	DDX6	DEAD-box helicase 6
+Details
+
+4	
+99
+
+hsa-miR-4516	SCN3B	sodium voltage-gated channel beta subunit 3
+Details
+
+5	
+99
+
+hsa-miR-4516	NECAP1	NECAP endocytosis associated 1
+Details
+
+6	
+99
+
+hsa-miR-4516	AHCYL2	adenosylhomocysteinase like 2
+Details
+
+7	
+98
+
+hsa-miR-4516	ZKSCAN8	zinc finger with KRAB and SCAN domains 8
+Details
+
+8	
+98
+
+hsa-miR-4516	ING4	inhibitor of growth family member 4
+Details
+
+9	
+98
+
+hsa-miR-4516	KCND1	potassium voltage-gated channel subfamily D member 1
+Details
+
+10	
+98
+
+hsa-miR-4516	ST6GAL1	ST6 beta-galactoside alpha-2,6-sialyltransferase 1
+Details
+
+11	
+98
+
+hsa-miR-4516	OPCML	opioid binding protein/cell adhesion molecule like
+Details
+
+12	
+98
+
+hsa-miR-4516	ZBTB2	zinc finger and BTB domain containing 2
+Details
+
+13	
+98
+
+hsa-miR-4516	FBXW7	F-box and WD repeat domain containing 7
+Details
+
+14	
+98
+
+hsa-miR-4516	AKAP13	A-kinase anchoring protein 13
+Details
+
+15	
+98
+
+hsa-miR-4516	FMNL3	formin like 3
+Details
+
+16	
+97
+
+hsa-miR-4516	CCDC9B	coiled-coil domain containing 9B
+Details
+
+17	
+97
+
+hsa-miR-4516	PHF8	PHD finger protein 8
+Details
+
+18	
+97
+
+hsa-miR-4516	FBXO28	F-box protein 28
+Details
+
+19	
+97
+
+hsa-miR-4516	ERBB4	erb-b2 receptor tyrosine kinase 4
+Details
+
+20	
+96
+
+hsa-miR-4516	FCGR1B	Fc fragment of IgG receptor Ib
+Details
+
+21	
+96
+
+hsa-miR-4516	BNC2	basonuclin 2
+Details
+
+22	
+96
+
+hsa-miR-4516	TMEM178B	transmembrane protein 178B
+Details
+
+23	
+96
+
+hsa-miR-4516	SOGA1	suppressor of glucose, autophagy associated 1
+Details
+
+24	
+96
+
+hsa-miR-4516	FNBP4	formin binding protein 4
+Details
+
+25	
+95
+
+hsa-miR-4516	ZC4H2	zinc finger C4H2-type containing
+Details
+
+26	
+95
+
+hsa-miR-4516	ASCC1	activating signal cointegrator 1 complex subunit 1
+Details
+
+27	
+95
+
+hsa-miR-4516	GNB4	G protein subunit beta 4
+Details
+
+28	
+95
+
+hsa-miR-4516	LYPD6	LY6/PLAUR domain containing 6
+Details
+
+29	
+95
+
+hsa-miR-4516	FBN1	fibrillin 1
+Details
+
+30	
+95
+
+hsa-miR-4516	MSN	moesin
+Details
+
+31	
+95
+
+hsa-miR-4516	FAM131B	family with sequence similarity 131 member B
+Details
+
+32	
+95
+
+hsa-miR-4516	ZFP3	ZFP3 zinc finger protein
+Details
+
+33	
+95
+
+hsa-miR-4516	SVBP	small vasohibin binding protein
+Details
+
+34	
+94
+
+hsa-miR-4516	FCHSD2	FCH and double SH3 domains 2
+Details
+
+35	
+94
+
+hsa-miR-4516	FSTL4	follistatin like 4
+Details
+
+36	
+94
+
+hsa-miR-4516	ABL2	ABL proto-oncogene 2, non-receptor tyrosine kinase
+Details
+
+37	
+94
+
+hsa-miR-4516	TOX3	TOX high mobility group box family member 3
+Details
+
+38	
+94
+
+hsa-miR-4516	DSCAML1	DS cell adhesion molecule like 1
+Details
+
+39	
+94
+
+hsa-miR-4516	SAR1A	secretion associated Ras related GTPase 1A
+Details
+
+40	
+94
+
+hsa-miR-4516	LRP4	LDL receptor related protein 4
+Details
+
+41	
+94
+
+hsa-miR-4516	SIAH3	siah E3 ubiquitin protein ligase family member 3
+Details
+
+42	
+94
+
+hsa-miR-4516	KLHDC8A	kelch domain containing 8A
+Details
+
+43	
+94
+
+hsa-miR-4516	PDE1C	phosphodiesterase 1C
+Details
+
+44	
+94
+
+hsa-miR-4516	THUMPD2	THUMP domain containing 2
+Details
+
+45	
+94
+
+hsa-miR-4516	EBF1	EBF transcription factor 1
+Details
+
+46	
+94
+
+hsa-miR-4516	ARHGEF4	Rho guanine nucleotide exchange factor 4
+Details
+
+47	
+94
+
+hsa-miR-4516	FBXO46	F-box protein 46
+Details
+
+48	
+94
+
+hsa-miR-4516	ZNF133	zinc finger protein 133
+Details
+
+49	
+93
+
+hsa-miR-4516	OTULIN	OTU deubiquitinase with linear linkage specificity
+Details
+
+50	
+93
+
+hsa-miR-4516	SHF	Src homology 2 domain containing F
+Details
+
+51	
+93
+
+hsa-miR-4516	USP18	ubiquitin specific peptidase 18
+Details
+
+52	
+93
+
+hsa-miR-4516	FBXO32	F-box protein 32
+Details
+
+53	
+93
+
+hsa-miR-4516	CDH7	cadherin 7
+Details
+
+54	
+93
+
+hsa-miR-4516	MECP2	methyl-CpG binding protein 2
+Details
+
+55	
+93
+
+hsa-miR-4516	CILP2	cartilage intermediate layer protein 2
+Details
+
+56	
+93
+
+hsa-miR-4516	KIRREL1	kirre like nephrin family adhesion molecule 1
+Details
+
+57	
+93
+
+hsa-miR-4516	MS4A10	membrane spanning 4-domains A10
+Details
+
+58	
+93
+
+hsa-miR-4516	TMCC2	transmembrane and coiled-coil domain family 2
+Details
+
+59	
+93
+
+hsa-miR-4516	NHSL1	NHS like 1
+Details
+
+60	
+93
+
+hsa-miR-4516	IDH1	isocitrate dehydrogenase (NADP(+)) 1, cytosolic
+Details
+
+61	
+92
+
+hsa-miR-4516	RSPO4	R-spondin 4
+Details
+
+62	
+92
+
+hsa-miR-4516	FAM122B	family with sequence similarity 122B
+Details
+
+63	
+92
+
+hsa-miR-4516	RHO	rhodopsin
+Details
+
+64	
+92
+
+hsa-miR-4516	PRPF4B	pre-mRNA processing factor 4B
+Details
+
+65	
+92
+
+hsa-miR-4516	ACSL1	acyl-CoA synthetase long chain family member 1
+Details
+
+66	
+92
+
+hsa-miR-4516	ADARB2	adenosine deaminase, RNA specific B2 (inactive)
+Details
+
+67	
+92
+
+hsa-miR-4516	SPCS3	signal peptidase complex subunit 3
+Details
+
+68	
+92
+
+hsa-miR-4516	NFIC	nuclear factor I C
+Details
+
+69	
+92
+
+hsa-miR-4516	C6orf223	chromosome 6 open reading frame 223
+Details
+
+70	
+92
+
+hsa-miR-4516	BORCS7	BLOC-1 related complex subunit 7
+Details
+
+71	
+92
+
+hsa-miR-4516	GPD1	glycerol-3-phosphate dehydrogenase 1
+Details
+
+72	
+92
+
+hsa-miR-4516	ALDH16A1	aldehyde dehydrogenase 16 family member A1
+Details
+
+73	
+92
+
+hsa-miR-4516	CEP85	centrosomal protein 85
+Details
+
+74	
+92
+
+hsa-miR-4516	TTC22	tetratricopeptide repeat domain 22
+Details
+
+75	
+92
+
+hsa-miR-4516	ANKS1A	ankyrin repeat and sterile alpha motif domain containing 1A
+Details
+
+76	
+92
+
+hsa-miR-4516	LPXN	leupaxin
+Details
+
+77	
+92
+
+hsa-miR-4516	NTRK2	neurotrophic receptor tyrosine kinase 2
+Details
+
+78	
+92
+
+hsa-miR-4516	PPP3R1	protein phosphatase 3 regulatory subunit B, alpha
+Details
+
+79	
+92
+
+hsa-miR-4516	EGR3	early growth response 3
+Details
+
+80	
+92
+
+hsa-miR-4516	FN1	fibronectin 1
+Details
+
+81	
+92
+
+hsa-miR-4516	BTN2A1	butyrophilin subfamily 2 member A1
+Details
+
+82	
+92
+
+hsa-miR-4516	VAMP1	vesicle associated membrane protein 1
+Details
+
+83	
+92
+
+hsa-miR-4516	CHPF	chondroitin polymerizing factor
+Details
+
+84	
+91
+
+hsa-miR-4516	PRR27	proline rich 27
+Details
+
+85	
+91
+
+hsa-miR-4516	SRL	sarcalumenin
+Details
+
+86	
+91
+
+hsa-miR-4516	PALM2	paralemmin 2
+Details
+
+87	
+91
+
+hsa-miR-4516	ASH1L	ASH1 like histone lysine methyltransferase
+Details
+
+88	
+91
+
+hsa-miR-4516	TXNRD1	thioredoxin reductase 1
+Details
+
+89	
+91
+
+hsa-miR-4516	KLHL42	kelch like family member 42
+Details
+
+90	
+91
+
+hsa-miR-4516	DOCK3	dedicator of cytokinesis 3
+Details
+
+91	
+91
+
+hsa-miR-4516	MAN1A2	mannosidase alpha class 1A member 2
+Details
+
+92	
+91
+
+hsa-miR-4516	SLC26A10	solute carrier family 26 member 10
+Details
+
+93	
+91
+
+hsa-miR-4516	SLC25A21	solute carrier family 25 member 21
+Details
+
+94	
+91
+
+hsa-miR-4516	FAM135B	family with sequence similarity 135 member B
+Details
+
+95	
+91
+
+hsa-miR-4516	TNRC6B	trinucleotide repeat containing 6B
+Details
+
+96	
+91
+
+hsa-miR-4516	CMTM4	CKLF like MARVEL transmembrane domain containing 4
+Details
+
+97	
+90
+
+hsa-miR-4516	GPATCH2L	G-patch domain containing 2 like
+Details
+
+98	
+90
+
+hsa-miR-4516	ZKSCAN2	zinc finger with KRAB and SCAN domains 2
+Details
+
+99	
+90
+
+hsa-miR-4516	TCF12	transcription factor 12
+Details
+
+100	
+90
+
+hsa-miR-4516	RASAL2	RAS protein activator like 2
+Details
+
+101	
+90
+
+hsa-miR-4516	FBXO21	F-box protein 21
+Details
+
+102	
+90
+
+hsa-miR-4516	BTK	Bruton tyrosine kinase
+Details
+
+103	
+90
+
+hsa-miR-4516	ANKFY1	ankyrin repeat and FYVE domain containing 1
+Details
+
+104	
+90
+
+hsa-miR-4516	SLC7A6	solute carrier family 7 member 6
+Details
+
+105	
+90
+
+hsa-miR-4516	SYNPO2L	synaptopodin 2 like
+Details
+
+106	
+90
+
+hsa-miR-4516	LONRF2	LON peptidase N-terminal domain and ring finger 2
+Details
+
+107	
+90
+
+hsa-miR-4516	F9	coagulation factor IX
+Details
+
+108	
+90
+
+hsa-miR-4516	GALP	galanin like peptide
+Details
+
+109	
+90
+
+hsa-miR-4516	AQP1	aquaporin 1 (Colton blood group)
+Details
+
+110	
+90
+
+hsa-miR-4516	AAK1	AP2 associated kinase 1
+Details
+
+111	
+90
+
+hsa-miR-4516	PLAGL2	PLAG1 like zinc finger 2

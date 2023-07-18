@@ -1,0 +1,169 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-3156-3p	ZNF268	zinc finger protein 268
+Details
+
+2	
+99
+
+hsa-miR-3156-3p	ZNF763	zinc finger protein 763
+Details
+
+3	
+98
+
+hsa-miR-3156-3p	ZNF302	zinc finger protein 302
+Details
+
+4	
+97
+
+hsa-miR-3156-3p	IGF2BP1	insulin like growth factor 2 mRNA binding protein 1
+Details
+
+5	
+97
+
+hsa-miR-3156-3p	ZNF426	zinc finger protein 426
+Details
+
+6	
+97
+
+hsa-miR-3156-3p	NEXMIF	neurite extension and migration factor
+Details
+
+7	
+97
+
+hsa-miR-3156-3p	ZNF146	zinc finger protein 146
+Details
+
+8	
+96
+
+hsa-miR-3156-3p	MIS12	MIS12, kinetochore complex component
+Details
+
+9	
+95
+
+hsa-miR-3156-3p	ZNF440	zinc finger protein 440
+Details
+
+10	
+95
+
+hsa-miR-3156-3p	ZNF584	zinc finger protein 584
+Details
+
+11	
+95
+
+hsa-miR-3156-3p	SMAP2	small ArfGAP2
+Details
+
+12	
+95
+
+hsa-miR-3156-3p	ZNF367	zinc finger protein 367
+Details
+
+13	
+94
+
+hsa-miR-3156-3p	ZNF14	zinc finger protein 14
+Details
+
+14	
+94
+
+hsa-miR-3156-3p	ZNF37A	zinc finger protein 37A
+Details
+
+15	
+93
+
+hsa-miR-3156-3p	ZNF594	zinc finger protein 594
+Details
+
+16	
+93
+
+hsa-miR-3156-3p	MDM4	MDM4, p53 regulator
+Details
+
+17	
+93
+
+hsa-miR-3156-3p	ZNF189	zinc finger protein 189
+Details
+
+18	
+93
+
+hsa-miR-3156-3p	ZFP90	ZFP90 zinc finger protein
+Details
+
+19	
+93
+
+hsa-miR-3156-3p	ZNF559	zinc finger protein 559
+Details
+
+20	
+93
+
+hsa-miR-3156-3p	NR2C2	nuclear receptor subfamily 2 group C member 2
+Details
+
+21	
+93
+
+hsa-miR-3156-3p	AGBL3	ATP/GTP binding protein like 3
+Details
+
+22	
+92
+
+hsa-miR-3156-3p	ZFP36L1	ZFP36 ring finger protein like 1
+Details
+
+23	
+91
+
+hsa-miR-3156-3p	ZNF559-ZNF177	ZNF559-ZNF177 readthrough
+Details
+
+24	
+91
+
+hsa-miR-3156-3p	ZNF439	zinc finger protein 439
+Details
+
+25	
+91
+
+hsa-miR-3156-3p	ACP2	acid phosphatase 2, lysosomal
+Details
+
+26	
+90
+
+hsa-miR-3156-3p	MEF2C	myocyte enhancer factor 2C
+Details
+
+27	
+90
+
+hsa-miR-3156-3p	UBE2W	ubiquitin conjugating enzyme E2 W
+Details
+
+28	
+90
+
+hsa-miR-3156-3p	PCDH15	protocadherin related 15

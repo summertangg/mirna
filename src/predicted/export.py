@@ -8,7 +8,12 @@ def export_interactions(db_conn, root_path, out_file):
     print("\n*** Exporting miRNA - Gene interactions from miRDB records ......")
     file_path = os.path.join(root_path, out_file)
     cur = conn.cursor()
+
+    mirnas = get_all_mirans(db_conn, cur)
+    mirnas_dict = {record[0]: record[1] for record in mirnas}
+
     results = get_interactions(db_conn, cur)
+
     cur.close()
 
     # Convert the query results to a DataFrame
@@ -19,6 +24,15 @@ def export_interactions(db_conn, root_path, out_file):
 
     # Replace float values 1.0 and 0.0 with strings 'Yes' and 'No', respectively
     pivot_df = pivot_df.replace({1.0: 'Yes', 0.0: 'No'})
+    disease_col = []
+    for index, row in pivot_df.iterrows():
+        print(f"{index}: disease {mirnas_dict[index]}")
+        if mirnas_dict[index] == 'DLBCL':
+            disease_col.append('Yes')
+        else:
+            disease_col.append('No')
+    
+    pivot_df.insert(0, 'DIAGNOSTIC_POSITIVE', disease_col)
 
     # Write the pivoted DataFrame to a CSV file
     pivot_df.to_csv(file_path, index=True)

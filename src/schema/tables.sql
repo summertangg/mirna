@@ -1,6 +1,7 @@
 CREATE TABLE miRNAs (
   mirna_id VARCHAR(20) PRIMARY KEY,
-  description VARCHAR(500)
+  description VARCHAR(500),
+  disease VARCHAR(20)
 );
 
 CREATE TABLE genes (

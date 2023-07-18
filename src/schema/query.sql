@@ -1,5 +1,6 @@
-select * from mirnas 
-where mirna_id = 'hsa-mir-155-3p'
+select mirna_id, disease from mirnas 
+
+where disease IS NULL
 
 SELECT COUNT(*) FROM mirnas WHERE mirna_id = 'hsa-mir-155-3p'
 
@@ -78,7 +79,22 @@ order by gene
 ------------------
 --	miRDB
 ------------------
-SELECT mirna, gene, 1 AS is_target FROM mirdb_mirna_gene
+SELECT mirna, gene, target_score, 1 AS is_target FROM mirdb_mirna_gene
+where target_score>96
 ORDER BY gene
+
+SELECT mirna, disease, gene, 1 AS is_target 
+FROM mirdb_mirna_gene AS i
+INNER JOIN mirnas AS m ON i.mirna = m.mirna_id
+where target_score>96
+ORDER BY gene
+
+
+SELECT gene, COUNT(mirna) AS num_interaction, STRING_AGG(DISTINCT mirna, ',') AS grouped_mirna
+FROM mirdb_mirna_gene AS t
+GROUP BY gene
+ORDER BY num_interaction DESC;
+
+
 
 

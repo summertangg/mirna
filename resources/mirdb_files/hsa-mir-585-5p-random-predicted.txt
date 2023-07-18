@@ -1,0 +1,253 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+98
+
+hsa-miR-585-5p	PI15	peptidase inhibitor 15
+Details
+
+2	
+97
+
+hsa-miR-585-5p	SOCS5	suppressor of cytokine signaling 5
+Details
+
+3	
+97
+
+hsa-miR-585-5p	TMEM38B	transmembrane protein 38B
+Details
+
+4	
+97
+
+hsa-miR-585-5p	SLC20A1	solute carrier family 20 member 1
+Details
+
+5	
+96
+
+hsa-miR-585-5p	CREBZF	CREB/ATF bZIP transcription factor
+Details
+
+6	
+96
+
+hsa-miR-585-5p	TMEM134	transmembrane protein 134
+Details
+
+7	
+96
+
+hsa-miR-585-5p	MACC1	MET transcriptional regulator MACC1
+Details
+
+8	
+95
+
+hsa-miR-585-5p	NPEPPS	aminopeptidase puromycin sensitive
+Details
+
+9	
+95
+
+hsa-miR-585-5p	HIVEP2	human immunodeficiency virus type I enhancer binding protein 2
+Details
+
+10	
+95
+
+hsa-miR-585-5p	CRKL	CRK like proto-oncogene, adaptor protein
+Details
+
+11	
+95
+
+hsa-miR-585-5p	DPYSL5	dihydropyrimidinase like 5
+Details
+
+12	
+95
+
+hsa-miR-585-5p	STRN3	striatin 3
+Details
+
+13	
+95
+
+hsa-miR-585-5p	EGR4	early growth response 4
+Details
+
+14	
+94
+
+hsa-miR-585-5p	FAM160B1	family with sequence similarity 160 member B1
+Details
+
+15	
+94
+
+hsa-miR-585-5p	EML6	EMAP like 6
+Details
+
+16	
+94
+
+hsa-miR-585-5p	DYNLT1	dynein light chain Tctex-type 1
+Details
+
+17	
+93
+
+hsa-miR-585-5p	RAPH1	Ras association (RalGDS/AF-6) and pleckstrin homology domains 1
+Details
+
+18	
+93
+
+hsa-miR-585-5p	INVS	inversin
+Details
+
+19	
+93
+
+hsa-miR-585-5p	PSIP1	PC4 and SFRS1 interacting protein 1
+Details
+
+20	
+93
+
+hsa-miR-585-5p	GORAB	golgin, RAB6 interacting
+Details
+
+21	
+93
+
+hsa-miR-585-5p	ANKRD13B	ankyrin repeat domain 13B
+Details
+
+22	
+93
+
+hsa-miR-585-5p	NEFL	neurofilament light
+Details
+
+23	
+93
+
+hsa-miR-585-5p	RAB30	RAB30, member RAS oncogene family
+Details
+
+24	
+93
+
+hsa-miR-585-5p	FEM1B	fem-1 homolog B
+Details
+
+25	
+93
+
+hsa-miR-585-5p	PAX9	paired box 9
+Details
+
+26	
+92
+
+hsa-miR-585-5p	GRIP1	glutamate receptor interacting protein 1
+Details
+
+27	
+92
+
+hsa-miR-585-5p	RSF1	remodeling and spacing factor 1
+Details
+
+28	
+92
+
+hsa-miR-585-5p	NR1D2	nuclear receptor subfamily 1 group D member 2
+Details
+
+29	
+92
+
+hsa-miR-585-5p	RLF	rearranged L-myc fusion
+Details
+
+30	
+91
+
+hsa-miR-585-5p	KDM2A	lysine demethylase 2A
+Details
+
+31	
+91
+
+hsa-miR-585-5p	SH3KBP1	SH3 domain containing kinase binding protein 1
+Details
+
+32	
+91
+
+hsa-miR-585-5p	USP38	ubiquitin specific peptidase 38
+Details
+
+33	
+91
+
+hsa-miR-585-5p	RIMS1	regulating synaptic membrane exocytosis 1
+Details
+
+34	
+91
+
+hsa-miR-585-5p	ZNF131	zinc finger protein 131
+Details
+
+35	
+91
+
+hsa-miR-585-5p	LGR4	leucine rich repeat containing G protein-coupled receptor 4
+Details
+
+36	
+90
+
+hsa-miR-585-5p	UBE2E1	ubiquitin conjugating enzyme E2 E1
+Details
+
+37	
+90
+
+hsa-miR-585-5p	IQCJ-SCHIP1	IQCJ-SCHIP1 readthrough
+Details
+
+38	
+90
+
+hsa-miR-585-5p	SPARC	secreted protein acidic and cysteine rich
+Details
+
+39	
+90
+
+hsa-miR-585-5p	GPR37	G protein-coupled receptor 37
+Details
+
+40	
+90
+
+hsa-miR-585-5p	PPM1A	protein phosphatase, Mg2+/Mn2+ dependent 1A
+Details
+
+41	
+90
+
+hsa-miR-585-5p	TFEB	transcription factor EB
+Details
+
+42	
+90
+
+hsa-miR-585-5p	USP27X	ubiquitin specific peptidase 27 X-linked

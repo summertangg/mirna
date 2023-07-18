@@ -1,0 +1,133 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-626	PAPOLB	poly(A) polymerase beta
+Details
+
+2	
+97
+
+hsa-miR-626	DPY19L3	dpy-19 like C-mannosyltransferase 3
+Details
+
+3	
+96
+
+hsa-miR-626	CDH13	cadherin 13
+Details
+
+4	
+95
+
+hsa-miR-626	BCL11A	BCL11A, BAF complex component
+Details
+
+5	
+95
+
+hsa-miR-626	SLAMF7	SLAM family member 7
+Details
+
+6	
+94
+
+hsa-miR-626	SMCP	sperm mitochondria associated cysteine rich protein
+Details
+
+7	
+94
+
+hsa-miR-626	RNF6	ring finger protein 6
+Details
+
+8	
+94
+
+hsa-miR-626	DUSP4	dual specificity phosphatase 4
+Details
+
+9	
+93
+
+hsa-miR-626	PIAS2	protein inhibitor of activated STAT 2
+Details
+
+10	
+93
+
+hsa-miR-626	TIPARP	TCDD inducible poly(ADP-ribose) polymerase
+Details
+
+11	
+92
+
+hsa-miR-626	TRDN	triadin
+Details
+
+12	
+92
+
+hsa-miR-626	INPP5A	inositol polyphosphate-5-phosphatase A
+Details
+
+13	
+91
+
+hsa-miR-626	CTNNA3	catenin alpha 3
+Details
+
+14	
+91
+
+hsa-miR-626	MBNL1	muscleblind like splicing regulator 1
+Details
+
+15	
+91
+
+hsa-miR-626	ATP5F1C	ATP synthase F1 subunit gamma
+Details
+
+16	
+90
+
+hsa-miR-626	CNR1	cannabinoid receptor 1
+Details
+
+17	
+90
+
+hsa-miR-626	MYEF2	myelin expression factor 2
+Details
+
+18	
+90
+
+hsa-miR-626	CA3	carbonic anhydrase 3
+Details
+
+19	
+90
+
+hsa-miR-626	COL24A1	collagen type XXIV alpha 1 chain
+Details
+
+20	
+90
+
+hsa-miR-626	CTPS1	CTP synthase 1
+Details
+
+21	
+90
+
+hsa-miR-626	ACSL3	acyl-CoA synthetase long chain family member 3
+Details
+
+22	
+90
+
+hsa-miR-626	ABCG1	ATP binding cassette subfamily G member 1

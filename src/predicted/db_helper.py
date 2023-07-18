@@ -56,3 +56,13 @@ ORDER BY gene
     # Fetch all the query results
     results = cur.fetchall()
     return results
+
+def get_all_mirans(conn, cur):
+    # Execute the SQL query
+    cur.execute("""
+SELECT mirna_id, disease FROM mirnas 
+""")
+
+    # Fetch all the query results
+    results = cur.fetchall()
+    return results

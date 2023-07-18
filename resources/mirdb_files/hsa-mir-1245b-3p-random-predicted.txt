@@ -1,0 +1,241 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+98
+
+hsa-miR-1245b-3p	OTX2	orthodenticle homeobox 2
+Details
+
+2	
+98
+
+hsa-miR-1245b-3p	HMGCLL1	3-hydroxymethyl-3-methylglutaryl-CoA lyase like 1
+Details
+
+3	
+97
+
+hsa-miR-1245b-3p	CDC42EP3	CDC42 effector protein 3
+Details
+
+4	
+96
+
+hsa-miR-1245b-3p	PDCD6IP	programmed cell death 6 interacting protein
+Details
+
+5	
+96
+
+hsa-miR-1245b-3p	DCLK1	doublecortin like kinase 1
+Details
+
+6	
+95
+
+hsa-miR-1245b-3p	ZNF460	zinc finger protein 460
+Details
+
+7	
+95
+
+hsa-miR-1245b-3p	SLC25A5	solute carrier family 25 member 5
+Details
+
+8	
+94
+
+hsa-miR-1245b-3p	DIP2B	disco interacting protein 2 homolog B
+Details
+
+9	
+94
+
+hsa-miR-1245b-3p	DCUN1D2	defective in cullin neddylation 1 domain containing 2
+Details
+
+10	
+94
+
+hsa-miR-1245b-3p	ZNF189	zinc finger protein 189
+Details
+
+11	
+94
+
+hsa-miR-1245b-3p	NABP1	nucleic acid binding protein 1
+Details
+
+12	
+94
+
+hsa-miR-1245b-3p	SDCBP	syndecan binding protein
+Details
+
+13	
+93
+
+hsa-miR-1245b-3p	SH3RF1	SH3 domain containing ring finger 1
+Details
+
+14	
+93
+
+hsa-miR-1245b-3p	FMR1	fragile X mental retardation 1
+Details
+
+15	
+92
+
+hsa-miR-1245b-3p	ATRN	attractin
+Details
+
+16	
+92
+
+hsa-miR-1245b-3p	SPATA9	spermatogenesis associated 9
+Details
+
+17	
+92
+
+hsa-miR-1245b-3p	COL14A1	collagen type XIV alpha 1 chain
+Details
+
+18	
+92
+
+hsa-miR-1245b-3p	CACNB4	calcium voltage-gated channel auxiliary subunit beta 4
+Details
+
+19	
+92
+
+hsa-miR-1245b-3p	ZDHHC7	zinc finger DHHC-type containing 7
+Details
+
+20	
+92
+
+hsa-miR-1245b-3p	DYNAP	dynactin associated protein
+Details
+
+21	
+92
+
+hsa-miR-1245b-3p	LSAMP	limbic system associated membrane protein
+Details
+
+22	
+91
+
+hsa-miR-1245b-3p	ZDHHC2	zinc finger DHHC-type containing 2
+Details
+
+23	
+91
+
+hsa-miR-1245b-3p	UFM1	ubiquitin fold modifier 1
+Details
+
+24	
+91
+
+hsa-miR-1245b-3p	C8orf44	chromosome 8 open reading frame 44
+Details
+
+25	
+91
+
+hsa-miR-1245b-3p	CR1	complement C3b/C4b receptor 1 (Knops blood group)
+Details
+
+26	
+91
+
+hsa-miR-1245b-3p	RSF1	remodeling and spacing factor 1
+Details
+
+27	
+91
+
+hsa-miR-1245b-3p	NAV1	neuron navigator 1
+Details
+
+28	
+91
+
+hsa-miR-1245b-3p	CD164	CD164 molecule
+Details
+
+29	
+91
+
+hsa-miR-1245b-3p	ZFP3	ZFP3 zinc finger protein
+Details
+
+30	
+90
+
+hsa-miR-1245b-3p	NCKAP1	NCK associated protein 1
+Details
+
+31	
+90
+
+hsa-miR-1245b-3p	ZNF800	zinc finger protein 800
+Details
+
+32	
+90
+
+hsa-miR-1245b-3p	DYNC2LI1	dynein cytoplasmic 2 light intermediate chain 1
+Details
+
+33	
+90
+
+hsa-miR-1245b-3p	TCEAL8	transcription elongation factor A like 8
+Details
+
+34	
+90
+
+hsa-miR-1245b-3p	AGPAT3	1-acylglycerol-3-phosphate O-acyltransferase 3
+Details
+
+35	
+90
+
+hsa-miR-1245b-3p	PATZ1	POZ/BTB and AT hook containing zinc finger 1
+Details
+
+36	
+90
+
+hsa-miR-1245b-3p	RBMS3	RNA binding motif single stranded interacting protein 3
+Details
+
+37	
+90
+
+hsa-miR-1245b-3p	AKAP5	A-kinase anchoring protein 5
+Details
+
+38	
+90
+
+hsa-miR-1245b-3p	PMP22	peripheral myelin protein 22
+Details
+
+39	
+90
+
+hsa-miR-1245b-3p	NSD2	nuclear receptor binding SET domain protein 2
+Details
+
+40	
+90
+
+hsa-miR-1245b-3p	GPR75	G protein-coupled receptor 75
