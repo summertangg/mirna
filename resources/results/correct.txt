@@ -1,0 +1,45 @@
+Correct: 10
+                        mirna : hsa-mir-27b
+                        mirna : hsa-mir-20a
+                        mirna : hsa-mir-19b
+                        mirna : hsa-mir-92a
+                        mirna : hsa-mir-144
+                        mirna : hsa-mir-19a
+                        mirna : hsa-mir-17
+                        mirna : hsa-mir-146a
+                        mirna : hsa-mir-146b
+                        mirna : hsa-mir-210
+
+Incorrect: 7
+                        mirna : hsa-mir-217
+                        mirna : hsa-mir-221
+                        mirna : hsa-mir-155
+                        mirna : hsa-mir-21
+                        mirna : hsa-mir-181a
+                        mirna : hsa-mir-145
+                        mirna : hsa-mir-34a
+
+Removed: 7
+hsa-mir-125b
+hsa-mir-130a
+hsa-mir-15a
+hsa-mir-16-1
+hsa-mir-18a
+hsa-mir-200c
+hsa-mir-29c
+
+functions.Logistic:                 80.4878 %
+functions.SGD:                      80.4878 %
+functions.SimpleLogistic:           82.9268 %
+meta.AttributeSelectedClassifier:   82.9268 %
+meta.FilteredClassifier:            82.9268 %
+meta.LogitBoost:                    80.4878 %
+meta.MultiClassClassifier:          80.4878 %
+meta.MultiClassClassifierUpdateable:80.4878 %
+rules.PART:                         82.9268 %
+trees.J48:                          82.9268 %
+trees.LMT:                          82.9268 %
+trees.RandomForest:                 73.1707 %
+trees.RandomTree:                   75.6098 %
+
+

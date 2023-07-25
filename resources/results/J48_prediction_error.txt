@@ -1,0 +1,419 @@
+All 48:
+Correctly Classified Instances          32               66.6667 %
+Incorrectly Classified Instances        16               33.3333 %
+=== Confusion Matrix ===
+  a  b   <-- classified as
+ 22  2 |  a = No
+ 14 10 |  b = Yes
+
+
+Remove 1
+                        mirna : hsa-mir-145
+            prediction margin : -1.0
+Correctly Classified Instances          33               70.2128 %
+Incorrectly Classified Instances        14               29.7872 %
+
+                        mirna : hsa-mir-181a
+            prediction margin : -1.0
+Correctly Classified Instances          30               63.8298 %
+Incorrectly Classified Instances        17               36.1702 %
+
+                        mirna : hsa-mir-217
+            prediction margin : -1.0
+Correctly Classified Instances          32               68.0851 %
+Incorrectly Classified Instances        15               31.9149 %
+
+                        mirna : hsa-mir-130a
+            prediction margin : -1.0
+Correctly Classified Instances          32               68.0851 %
+Incorrectly Classified Instances        15               31.9149 %
+
+                        mirna : hsa-mir-21
+            prediction margin : -1.0
+Correctly Classified Instances          32               68.0851 %
+Incorrectly Classified Instances        15               31.9149 %
+
+                        mirna : hsa-mir-34a
+            prediction margin : -1.0
+Correctly Classified Instances          32               68.0851 %
+Incorrectly Classified Instances        15               31.9149 %
+
+                        mirna : hsa-mir-16-1
+            prediction margin : -1.0
+Correctly Classified Instances          31               65.9574 %
+Incorrectly Classified Instances        16               34.0426 %
+
+                        mirna : hsa-mir-200c
+            prediction margin : -1.0
+Correctly Classified Instances          30               63.8298 %
+Incorrectly Classified Instances        17               36.1702 %
+
+                        mirna : hsa-mir-15a
+            prediction margin : -1.0
+Correctly Classified Instances          30               63.8298 %
+Incorrectly Classified Instances        17               36.1702 %
+
+                        mirna : hsa-mir-125b
+            prediction margin : -1.0
+Correctly Classified Instances          32               68.0851 %
+Incorrectly Classified Instances        15               31.9149 %
+
+                        mirna : hsa-mir-29c
+            prediction margin : -1.0
+Correctly Classified Instances          33               70.2128 %
+Incorrectly Classified Instances        14               29.7872 %
+=== Confusion Matrix ===
+  a  b   <-- classified as
+ 23  1 |  a = No
+ 13 10 |  b = Yes
+{
+    Remove 2
+                        mirna : hsa-mir-145
+            prediction margin : -1.0
+            Correctly Classified Instances          31               67.3913 %
+            Incorrectly Classified Instances        15               32.6087 %
+
+                        mirna : hsa-mir-125b
+            prediction margin : -1.0
+            Correctly Classified Instances          30               65.2174 %
+            Incorrectly Classified Instances        16               34.7826 %
+
+                        mirna : hsa-mir-221
+            prediction margin : -1.0
+            Correctly Classified Instances          29               63.0435 %
+            Incorrectly Classified Instances        17               36.9565 %
+
+                        mirna : hsa-mir-34a
+            prediction margin : -1.0
+            Correctly Classified Instances          32               69.5652 %
+            Incorrectly Classified Instances        14               30.4348 %
+
+                        mirna : hsa-mir-18a
+            prediction margin : -1.0
+            Correctly Classified Instances          31               67.3913 %
+            Incorrectly Classified Instances        15               32.6087 %
+
+                        mirna : hsa-mir-155
+            prediction margin : -1.0
+            Correctly Classified Instances          32               69.5652 %
+            Incorrectly Classified Instances        14               30.4348 %
+
+                        mirna : hsa-mir-15a
+            prediction margin : -1.0
+            Correctly Classified Instances          33               71.7391 %
+            Incorrectly Classified Instances        13               28.2609 %
+            === Confusion Matrix ===
+            a  b   <-- classified as
+            23  1 |  a = No
+            12 10 |  b = Yes
+            {
+                Remove 3
+                            mirna : hsa-mir-200c
+                prediction margin : -1.0
+                Correctly Classified Instances          34               75.5556 %
+                Incorrectly Classified Instances        11               24.4444 %
+                === Confusion Matrix ===
+                a  b   <-- classified as
+                24  0 |  a = No
+                11 10 |  b = Yes
+                {
+                    Remove 4
+
+                                mirna : hsa-mir-18a
+                    Correctly Classified Instances          31               70.4545 %
+                    Incorrectly Classified Instances        13               29.5455 %
+
+                                mirna : hsa-mir-16-1
+                    Correctly Classified Instances          31               70.4545 %
+                    Incorrectly Classified Instances        13               29.5455 %
+
+                                mirna : hsa-mir-155
+                    Correctly Classified Instances          31               70.4545 %
+                    Incorrectly Classified Instances        13               29.5455 %
+
+                                mirna : hsa-mir-
+                    Correctly Classified Instances          32               72.7273 %
+                    Incorrectly Classified Instances        12               27.2727 %
+
+                                mirna : hsa-mir-21
+                    Correctly Classified Instances          33               75      %
+                    Incorrectly Classified Instances        11               25      %
+                     a  b   <-- classified as
+                    23  1 |  a = No
+                    10 10 |  b = Yes
+
+                                mirna : hsa-mir-125b
+                    Correctly Classified Instances          32               72.7273 %
+                    Incorrectly Classified Instances        12               27.2727 %
+
+                                mirna : hsa-mir-217
+                    Correctly Classified Instances          33               75      %
+                    Incorrectly Classified Instances        11               25      %
+                     a  b   <-- classified as
+                    23  1 |  a = No
+                    10 10 |  b = Yes
+
+                                mirna : hsa-mir-130a
+                    Correctly Classified Instances          34               77.2727 %
+                    Incorrectly Classified Instances        10               22.7273 %
+                     a  b   <-- classified as
+                    24  0 |  a = No
+                    10 10 |  b = Yes
+                    {
+                        Remove 5
+
+                                    mirna : hsa-mir-34a
+                        Correctly Classified Instances          30               69.7674 %
+                        Incorrectly Classified Instances        13               30.2326 %
+
+                        mirna : hsa-mir-16-1
+                        Correctly Classified Instances          34               79.0698 %
+                        Incorrectly Classified Instances         9               20.9302 %
+                         a  b   <-- classified as
+                        24  0 |  a = No
+                         9 10 |  b = Yes
+                        {
+                            Remove 6
+                                        mirna : hsa-mir-34a
+                            Correctly Classified Instances          34               80.9524 %
+                            Incorrectly Classified Instances         8               19.0476 %
+                            a  b   <-- classified as
+                            24  0 |  a = No
+                            8 10 |  b = Yes
+
+                                        mirna : hsa-mir-125b
+                            Correctly Classified Instances          34               80.9524 %
+                            Incorrectly Classified Instances         8               19.0476 %
+                            a  b   <-- classified as
+                            24  0 |  a = No
+                            8 10 |  b = Yes
+                            {
+                                Remove 7
+                                            mirna : hsa-mir-221
+                                Correctly Classified Instances          29               70.7317 %
+                                Incorrectly Classified Instances        12               29.2683 %
+
+                                            mirna : hsa-mir-155
+                                Correctly Classified Instances          33               80.4878 %
+                                Incorrectly Classified Instances         8               19.5122 %
+
+                                            mirna : hsa-mir-18a
+                                Correctly Classified Instances          34               82.9268 %
+                                Incorrectly Classified Instances         7               17.0732 %
+                                a  b   <-- classified as
+                                24  0 |  a = No
+                                7 10 |  b = Yes
+
+                                            mirna : hsa-mir-21
+                                Correctly Classified Instances          32               78.0488 %
+                                Incorrectly Classified Instances         9               21.9512 %
+
+                                            mirna : hsa-mir-217
+                                Correctly Classified Instances          30               73.1707 %
+                                Incorrectly Classified Instances        11               26.8293 %
+
+                                            mirna : hsa-mir-34a
+                                Correctly Classified Instances          32               78.0488 %
+                                Incorrectly Classified Instances         9               21.9512 %
+
+                                            mirna : hsa-mir-145
+                                Correctly Classified Instances          31               75.6098 %
+                                Incorrectly Classified Instances        10               24.3902 %
+
+                                            mirna : hsa-mir-181a
+                                Correctly Classified Instances          34               82.9268 %
+                                Incorrectly Classified Instances         7               17.0732 %
+                                a  b   <-- classified as
+                                24  0 |  a = No
+                                7 10 |  b = Yes
+                            }
+
+
+                                        mirna : hsa-mir-221
+                            Correctly Classified Instances          30               71.4286 %
+                            Incorrectly Classified Instances        12               28.5714 %
+
+                                        mirna : hsa-mir-18a
+                            Correctly Classified Instances          34               80.9524 %
+                            Incorrectly Classified Instances         8               19.0476 %
+                            a  b   <-- classified as
+                            24  0 |  a = No
+                            8 10 |  b = Yes
+
+                                        mirna : hsa-mir-155
+                            Correctly Classified Instances          34               80.9524 %
+                            Incorrectly Classified Instances         8               19.0476 %
+                            a  b   <-- classified as
+                            24  0 |  a = No
+                            8 10 |  b = Yes
+
+                                        mirna : hsa-mir-145
+                            Correctly Classified Instances          34               80.9524 %
+                            Incorrectly Classified Instances         8               19.0476 %
+                            a  b   <-- classified as
+                            24  0 |  a = No
+                            8 10 |  b = Yes
+
+                                        mirna : hsa-mir-217
+                            Correctly Classified Instances          34               80.9524 %
+                            Incorrectly Classified Instances         8               19.0476 %
+                            a  b   <-- classified as
+                            24  0 |  a = No
+                            8 10 |  b = Yes
+
+                                        mirna : hsa-mir-21
+                            Correctly Classified Instances          34               80.9524 %
+                            Incorrectly Classified Instances         8               19.0476 %
+                            a  b   <-- classified as
+                            24  0 |  a = No
+                            8 10 |  b = Yes
+
+                                        mirna : hsa-mir-181a
+                            Correctly Classified Instances          33               78.5714 %
+                            Incorrectly Classified Instances         9               21.4286 %
+                        }
+
+                        mirna : hsa-mir-155
+                        Correctly Classified Instances          34               79.0698 %
+                        Incorrectly Classified Instances         9               20.9302 %
+                         a  b   <-- classified as
+                        24  0 |  a = No
+                         9 10 |  b = Yes
+
+                        mirna : hsa-mir-181a
+                        Correctly Classified Instances          33               76.7442 %
+                        Incorrectly Classified Instances        10               23.2558 %
+
+                        mirna : hsa-mir-145
+                        Correctly Classified Instances          33               76.7442 %
+                        Incorrectly Classified Instances        10               23.2558 %
+
+                        mirna : hsa-mir-18a
+                        Correctly Classified Instances          33               76.7442 %
+                        Incorrectly Classified Instances        10               23.2558 %
+
+                        mirna : hsa-mir-217
+                        Correctly Classified Instances          31               72.093  %
+                        Incorrectly Classified Instances        12               27.907  %
+
+                        mirna : hsa-mir-21
+                        Correctly Classified Instances          31               72.093  %
+                        Incorrectly Classified Instances        12               27.907  %
+                    
+                        mirna : hsa-mir-221
+                        Correctly Classified Instances          30               69.7674 %
+                        Incorrectly Classified Instances        13               30.2326 %
+
+                        mirna : hsa-mir-125b
+                        Correctly Classified Instances          33               76.7442 %
+                        Incorrectly Classified Instances        10               23.2558 %
+                    }
+
+                                mirna : hsa-mir-181a
+                    Correctly Classified Instances          32               72.7273 %
+                    Incorrectly Classified Instances        12               27.2727 %
+
+                                mirna : hsa-mir-145
+                    Correctly Classified Instances          31               70.4545 %
+                    Incorrectly Classified Instances        13               29.5455 %
+                }
+
+                            mirna : hsa-mir-16-1
+                prediction margin : -1.0
+                Correctly Classified Instances          32               71.1111 %
+                Incorrectly Classified Instances        13               28.8889 %
+
+                            mirna : hsa-mir-155
+                prediction margin : -1.0    
+                Correctly Classified Instances          32               71.1111 %
+                Incorrectly Classified Instances        13               28.8889 %
+
+                            mirna : hsa-mir-145
+                prediction margin : -1.0
+                Correctly Classified Instances          32               71.1111 %
+                Incorrectly Classified Instances        13               28.8889 %
+
+                            mirna : hsa-mir-181a
+                prediction margin : -1.0
+                Correctly Classified Instances          31               68.8889 %
+                Incorrectly Classified Instances        14               31.1111 %
+
+                            mirna : hsa-mir-34a
+                prediction margin : -1.0
+                Correctly Classified Instances          31               68.8889 %
+                Incorrectly Classified Instances        14               31.1111 %
+
+                            mirna : hsa-mir-21
+                prediction margin : -1.0
+                Correctly Classified Instances          32               71.1111 %
+                Incorrectly Classified Instances        13               28.8889 %
+
+                            mirna : hsa-mir-18a
+                prediction margin : -1.0
+                Correctly Classified Instances          31               68.8889 %
+                Incorrectly Classified Instances        14               31.1111 %
+
+                            mirna : hsa-mir-217
+                prediction margin : -1.0
+                Correctly Classified Instances          34               75.5556 %
+                Incorrectly Classified Instances        11               24.4444 %
+                a  b   <-- classified as
+                24  0 |  a = No
+                11 10 |  b = Yes
+
+                            mirna : hsa-mir-130a
+                prediction margin : -1.0
+                Correctly Classified Instances          31               68.8889 %
+                Incorrectly Classified Instances        14               31.1111 %
+
+                            mirna : hsa-mir-125b
+                prediction margin : -1.0
+                Correctly Classified Instances          31               68.8889 %
+                Incorrectly Classified Instances        14               31.1111 %
+            }
+
+                        mirna : hsa-mir-144
+            prediction margin : -1.0
+            Correctly Classified Instances          29               63.0435 %
+            Incorrectly Classified Instances        17               36.9565 %
+
+                        mirna : hsa-mir-217
+            prediction margin : -1.0
+            Correctly Classified Instances          31               67.3913 %
+            Incorrectly Classified Instances        15               32.6087 %
+
+                        mirna : hsa-mir-200c
+            prediction margin : -1.0
+            Correctly Classified Instances          32               69.5652 %
+            Incorrectly Classified Instances        14               30.4348 %
+
+                        mirna : hsa-mir-16-1
+            prediction margin : -1.0
+            Correctly Classified Instances          32               69.5652 %
+            Incorrectly Classified Instances        14               30.4348 %
+
+                        mirna : hsa-mir-181a
+            prediction margin : -1.0
+            Correctly Classified Instances          29               63.0435 %
+            Incorrectly Classified Instances        17               36.9565 %
+
+                        mirna : hsa-mir-21
+            prediction margin : -1.0
+            Correctly Classified Instances          31               67.3913 %
+            Incorrectly Classified Instances        15               32.6087 %
+}
+
+                        mirna : hsa-mir-221
+            prediction margin : -1.0
+Correctly Classified Instances          31               65.9574 %
+Incorrectly Classified Instances        16               34.0426 %
+
+                        mirna : hsa-mir-155
+            prediction margin : -1.0
+Correctly Classified Instances          31               65.9574 %
+Incorrectly Classified Instances        16               34.0426 %
+
+                        mirna : hsa-mir-18a
+            prediction margin : -1.0
+Correctly Classified Instances          30               63.8298 %
+Incorrectly Classified Instances        17               36.1702 %
