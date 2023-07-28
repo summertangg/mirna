@@ -1,6 +1,8 @@
-select mirna_id, disease from mirnas 
+select * from mirnas 
+where disease = 'DLBCL'
+order by mirna_id
 
-where disease IS NULL
+--delete from mirnas where mirna_id = 'hsa-mir-585'
 
 SELECT COUNT(*) FROM mirnas WHERE mirna_id = 'hsa-mir-155-3p'
 
@@ -79,22 +81,27 @@ order by gene
 ------------------
 --	miRDB
 ------------------
-SELECT mirna, gene, target_score, 1 AS is_target FROM mirdb_mirna_gene
-where target_score>96
+SELECT mirna, gene, '1' AS is_target FROM mirdb_mirna_gene 
+WHERE target_score > 96
+-- AND mirna in ('hsa-mir-155', 'hsa-mir-145', 'hsa-mir-19b', 'hsa-mir-21', 'hsa-mir-217', 'hsa-mir-181a', 'hsa-mir-143', 
+-- 				'hsa-mir-144', 'hsa-mir-451b', 'hsa-mir-146a', 'hsa-mir-146b', 'hsa-mir-27b',
+-- 			    'hsa-mir-329', 'hsa-mir-626', 'hsa-mir-876', 'hsa-mir-1245b', 'hsa-mir-3922', 'hsa-mir-4263', 'hsa-mir-4510',
+-- 			    'hsa-mir-378f', 'hsa-mir-6133', 'hsa-mir-6827', 'hsa-mir-6780a', 'hsa-mir-5010', 'hsa-mir-4727')
 ORDER BY gene
 
-SELECT mirna, disease, gene, 1 AS is_target 
-FROM mirdb_mirna_gene AS i
-INNER JOIN mirnas AS m ON i.mirna = m.mirna_id
-where target_score>96
-ORDER BY gene
+-- delete FROM mirdb_mirna_gene
+-- where mirna = 'hsa-mir-585'
 
+SELECT gene, COUNT(mirna) AS num_interactions, STRING_AGG(DISTINCT mirna, ',') AS grouped_mirna
+FROM mirdb_mirna_gene
+-- where mirna in ('hsa-mir-155', 'hsa-mir-145', 'hsa-mir-19b', 'hsa-mir-21', 'hsa-mir-217', 'hsa-mir-181a', 'hsa-mir-143', 
+-- 				'hsa-mir-144', 'hsa-mir-451b', 'hsa-mir-146a', 'hsa-mir-146b', 'hsa-mir-27b',
+-- 			    'hsa-mir-329', 'hsa-mir-626', 'hsa-mir-876', 'hsa-mir-1245b', 'hsa-mir-3922', 'hsa-mir-4510',
+-- 			    'hsa-mir-378f', 'hsa-mir-6133', 'hsa-mir-6827', 'hsa-mir-6780a', 'hsa-mir-5010', 'hsa-mir-4727')
+group by gene
+ORDER BY num_interactions desc
 
-SELECT gene, COUNT(mirna) AS num_interaction, STRING_AGG(DISTINCT mirna, ',') AS grouped_mirna
-FROM mirdb_mirna_gene AS t
-GROUP BY gene
-ORDER BY num_interaction DESC;
-
-
+SELECT DISTINCT (mirna)
+FROM mirdb_mirna_gene
 
 

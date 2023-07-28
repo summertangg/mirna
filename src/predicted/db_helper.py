@@ -49,7 +49,7 @@ def get_interactions(conn, cur):
     # Execute the SQL query
     cur.execute("""
 SELECT mirna, gene, '1' AS is_target FROM mirdb_mirna_gene 
-where target_score > 96
+WHERE target_score > 96
 ORDER BY gene
 """)
 

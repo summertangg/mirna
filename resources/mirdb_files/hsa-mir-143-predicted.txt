@@ -1,0 +1,445 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-143-3p	VASH1	vasohibin 1
+Details
+
+2	
+99
+
+hsa-miR-143-3p	ABL2	ABL proto-oncogene 2, non-receptor tyrosine kinase
+Details
+
+3	
+99
+
+hsa-miR-143-3p	DENND1B	DENN domain containing 1B
+Details
+
+4	
+98
+
+hsa-miR-143-3p	MSI2	musashi RNA binding protein 2
+Details
+
+5	
+98
+
+hsa-miR-143-3p	EPM2AIP1	EPM2A interacting protein 1
+Details
+
+6	
+98
+
+hsa-miR-143-3p	GXYLT1	glucoside xylosyltransferase 1
+Details
+
+7	
+98
+
+hsa-miR-143-3p	ITM2B	integral membrane protein 2B
+Details
+
+8	
+97
+
+hsa-miR-143-3p	IGFBP5	insulin like growth factor binding protein 5
+Details
+
+9	
+97
+
+hsa-miR-143-3p	MYO6	myosin VI
+Details
+
+10	
+97
+
+hsa-miR-143-3p	ZBTB44	zinc finger and BTB domain containing 44
+Details
+
+11	
+97
+
+hsa-miR-143-3p	AKAP13	A-kinase anchoring protein 13
+Details
+
+12	
+96
+
+hsa-miR-143-3p	ASAP3	ArfGAP with SH3 domain, ankyrin repeat and PH domain 3
+Details
+
+13	
+96
+
+hsa-miR-143-3p	PSME4	proteasome activator subunit 4
+Details
+
+14	
+96
+
+hsa-miR-143-3p	AHCYL1	adenosylhomocysteinase like 1
+Details
+
+15	
+96
+
+hsa-miR-143-3p	DCLK1	doublecortin like kinase 1
+Details
+
+16	
+95
+
+hsa-miR-143-3p	TTPA	alpha tocopherol transfer protein
+Details
+
+17	
+95
+
+hsa-miR-143-3p	HIPK2	homeodomain interacting protein kinase 2
+Details
+
+18	
+95
+
+hsa-miR-143-3p	KRAS	KRAS proto-oncogene, GTPase
+Details
+
+19	
+95
+
+hsa-miR-143-3p	MEDAG	mesenteric estrogen dependent adipogenesis
+Details
+
+20	
+95
+
+hsa-miR-143-3p	GOLM1	golgi membrane protein 1
+Details
+
+21	
+95
+
+hsa-miR-143-3p	BRD2	bromodomain containing 2
+Details
+
+22	
+95
+
+hsa-miR-143-3p	SLC16A2	solute carrier family 16 member 2
+Details
+
+23	
+94
+
+hsa-miR-143-3p	BAAT	bile acid-CoA:amino acid N-acyltransferase
+Details
+
+24	
+94
+
+hsa-miR-143-3p	CRELD1	cysteine rich with EGF like domains 1
+Details
+
+25	
+94
+
+hsa-miR-143-3p	NEURL1	neuralized E3 ubiquitin protein ligase 1
+Details
+
+26	
+94
+
+hsa-miR-143-3p	MGP	matrix Gla protein
+Details
+
+27	
+94
+
+hsa-miR-143-3p	KAT6A	lysine acetyltransferase 6A
+Details
+
+28	
+94
+
+hsa-miR-143-3p	DIP2B	disco interacting protein 2 homolog B
+Details
+
+29	
+94
+
+hsa-miR-143-3p	NECAP1	NECAP endocytosis associated 1
+Details
+
+30	
+94
+
+hsa-miR-143-3p	ATP10A	ATPase phospholipid transporting 10A (putative)
+Details
+
+31	
+94
+
+hsa-miR-143-3p	MYO5A	myosin VA
+Details
+
+32	
+94
+
+hsa-miR-143-3p	MOGS	mannosyl-oligosaccharide glucosidase
+Details
+
+33	
+94
+
+hsa-miR-143-3p	ARHGAP26	Rho GTPase activating protein 26
+Details
+
+34	
+94
+
+hsa-miR-143-3p	TRAPPC8	trafficking protein particle complex 8
+Details
+
+35	
+94
+
+hsa-miR-143-3p	SRSF11	serine and arginine rich splicing factor 11
+Details
+
+36	
+94
+
+hsa-miR-143-3p	PC	pyruvate carboxylase
+Details
+
+37	
+94
+
+hsa-miR-143-3p	USP24	ubiquitin specific peptidase 24
+Details
+
+38	
+94
+
+hsa-miR-143-3p	SEMA5A	semaphorin 5A
+Details
+
+39	
+94
+
+hsa-miR-143-3p	RECQL5	RecQ like helicase 5
+Details
+
+40	
+94
+
+hsa-miR-143-3p	EME1	essential meiotic structure-specific endonuclease 1
+Details
+
+41	
+93
+
+hsa-miR-143-3p	ZWILCH	zwilch kinetochore protein
+Details
+
+42	
+93
+
+hsa-miR-143-3p	VAPB	VAMP associated protein B and C
+Details
+
+43	
+93
+
+hsa-miR-143-3p	VAX1	ventral anterior homeobox 1
+Details
+
+44	
+93
+
+hsa-miR-143-3p	TET1	tet methylcytosine dioxygenase 1
+Details
+
+45	
+93
+
+hsa-miR-143-3p	FNDC3B	fibronectin type III domain containing 3B
+Details
+
+46	
+93
+
+hsa-miR-143-3p	STRN3	striatin 3
+Details
+
+47	
+93
+
+hsa-miR-143-3p	PHF6	PHD finger protein 6
+Details
+
+48	
+93
+
+hsa-miR-143-3p	ADD3	adducin 3
+Details
+
+49	
+93
+
+hsa-miR-143-3p	ABHD14A	abhydrolase domain containing 14A
+Details
+
+50	
+93
+
+hsa-miR-143-3p	FRS2	fibroblast growth factor receptor substrate 2
+Details
+
+51	
+93
+
+hsa-miR-143-3p	DISC1	DISC1 scaffold protein
+Details
+
+52	
+93
+
+hsa-miR-143-3p	EIF2AK3	eukaryotic translation initiation factor 2 alpha kinase 3
+Details
+
+53	
+92
+
+hsa-miR-143-3p	RBM24	RNA binding motif protein 24
+Details
+
+54	
+92
+
+hsa-miR-143-3p	ITGB8	integrin subunit beta 8
+Details
+
+55	
+92
+
+hsa-miR-143-3p	ERC1	ELKS/RAB6-interacting/CAST family member 1
+Details
+
+56	
+92
+
+hsa-miR-143-3p	SIX4	SIX homeobox 4
+Details
+
+57	
+92
+
+hsa-miR-143-3p	SPATA5L1	spermatogenesis associated 5 like 1
+Details
+
+58	
+92
+
+hsa-miR-143-3p	DEGS1	delta 4-desaturase, sphingolipid 1
+Details
+
+59	
+92
+
+hsa-miR-143-3p	GABARAPL1	GABA type A receptor associated protein like 1
+Details
+
+60	
+92
+
+hsa-miR-143-3p	GNL3	G protein nucleolar 3
+Details
+
+61	
+92
+
+hsa-miR-143-3p	PAN3	poly(A) specific ribonuclease subunit PAN3
+Details
+
+62	
+91
+
+hsa-miR-143-3p	NPR3	natriuretic peptide receptor 3
+Details
+
+63	
+91
+
+hsa-miR-143-3p	MRTFB	myocardin related transcription factor B
+Details
+
+64	
+91
+
+hsa-miR-143-3p	FNDC5	fibronectin type III domain containing 5
+Details
+
+65	
+91
+
+hsa-miR-143-3p	PPM1E	protein phosphatase, Mg2+/Mn2+ dependent 1E
+Details
+
+66	
+91
+
+hsa-miR-143-3p	TUB	tubby bipartite transcription factor
+Details
+
+67	
+91
+
+hsa-miR-143-3p	ZNF182	zinc finger protein 182
+Details
+
+68	
+90
+
+hsa-miR-143-3p	COL5A3	collagen type V alpha 3 chain
+Details
+
+69	
+90
+
+hsa-miR-143-3p	FGF9	fibroblast growth factor 9
+Details
+
+70	
+90
+
+hsa-miR-143-3p	COL24A1	collagen type XXIV alpha 1 chain
+Details
+
+71	
+90
+
+hsa-miR-143-3p	THRB	thyroid hormone receptor beta
+Details
+
+72	
+90
+
+hsa-miR-143-3p	FTSJ1	FtsJ RNA methyltransferase homolog 1
+Details
+
+73	
+90
+
+hsa-miR-143-3p	SLC39A11	solute carrier family 39 member 11
+Details
+
+74	
+90
+
+hsa-miR-143-3p	PLPBP	pyridoxal phosphate binding protein

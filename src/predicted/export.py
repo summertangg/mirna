@@ -42,7 +42,7 @@ def export_interactions(db_conn, root_path, out_file):
 
 
 root_path = "~/code/mirna/resources/results"
-interaction_file = "mirdb_interactions.csv"
+interaction_file = "mirdb_interactions_m26_s97.csv"
 conn = psycopg2.connect(database="postgres", user="postgres", password="1qaz2wsX", host="127.0.0.1", port="5432")
 try:
     export_interactions(conn, root_path, interaction_file)

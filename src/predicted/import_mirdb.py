@@ -1,13 +1,26 @@
 import os
+import glob
 import csv
 import psycopg2
 from db_helper import *
 
 
+def import_batch_files(conn, root_path):
+    # Iterate through all '.txt' files in the folder
+    root_path = os.path.abspath(os.path.expanduser(root_path))
+    for file_path in glob.glob(os.path.join(root_path, '*.txt')):
+        if os.path.isfile(file_path):
+            print(file_path)
+            import_targets_predicted(conn, None, file_path)
+
+
 def import_targets_predicted(conn, root_path, target_file):
     print("\n*** Importing predicted target genes ......")
-    file_path = os.path.join(root_path, target_file)
-    file_path = os.path.abspath(os.path.expanduser(file_path))
+    if root_path:
+        file_path = os.path.join(root_path, target_file)
+        file_path = os.path.abspath(os.path.expanduser(file_path))
+    else:
+        file_path = target_file
     data = []
 
     with open(file_path, 'r') as file:
@@ -57,11 +70,12 @@ def import_targets_predicted(conn, root_path, target_file):
 
 
 root_path = "~/code/mirna/resources/mirdb_files"
-target_file = "hsa-mir-5010-5p-random-predicted.txt"
+target_file = "hsa-mir-451b-predicted.txt"
 
 db_conn = psycopg2.connect(database="postgres", user="postgres", password="1qaz2wsX", host="127.0.0.1", port="5432")
 try:
-    import_targets_predicted(db_conn, root_path, target_file)
+    # import_targets_predicted(db_conn, root_path, target_file)
+    import_batch_files(db_conn, root_path)
 except(Exception, psycopg2.DatabaseError) as error:
     raise error
 finally:
