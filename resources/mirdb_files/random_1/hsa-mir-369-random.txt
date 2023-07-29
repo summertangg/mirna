@@ -1,0 +1,721 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-369-3p	PRDM11	PR/SET domain 11
+Details
+
+2	
+100
+
+hsa-miR-369-3p	ZSWIM6	zinc finger SWIM-type containing 6
+Details
+
+3	
+99
+
+hsa-miR-369-3p	ICK	intestinal cell kinase
+Details
+
+4	
+99
+
+hsa-miR-369-3p	CEBPB	CCAAT enhancer binding protein beta
+Details
+
+5	
+99
+
+hsa-miR-369-3p	TLE4	TLE family member 4, transcriptional corepressor
+Details
+
+6	
+98
+
+hsa-miR-369-3p	PDE8B	phosphodiesterase 8B
+Details
+
+7	
+98
+
+hsa-miR-369-3p	MMD	monocyte to macrophage differentiation associated
+Details
+
+8	
+98
+
+hsa-miR-369-3p	NEUROG2	neurogenin 2
+Details
+
+9	
+98
+
+hsa-miR-369-3p	FZD6	frizzled class receptor 6
+Details
+
+10	
+98
+
+hsa-miR-369-3p	C8orf37	chromosome 8 open reading frame 37
+Details
+
+11	
+97
+
+hsa-miR-369-3p	CNTNAP4	contactin associated protein like 4
+Details
+
+12	
+97
+
+hsa-miR-369-3p	ADAMTS6	ADAM metallopeptidase with thrombospondin type 1 motif 6
+Details
+
+13	
+97
+
+hsa-miR-369-3p	RBSN	rabenosyn, RAB effector
+Details
+
+14	
+97
+
+hsa-miR-369-3p	LRCH2	leucine rich repeats and calponin homology domain containing 2
+Details
+
+15	
+97
+
+hsa-miR-369-3p	DMD	dystrophin
+Details
+
+16	
+97
+
+hsa-miR-369-3p	PDE4B	phosphodiesterase 4B
+Details
+
+17	
+97
+
+hsa-miR-369-3p	MED13	mediator complex subunit 13
+Details
+
+18	
+97
+
+hsa-miR-369-3p	BIRC3	baculoviral IAP repeat containing 3
+Details
+
+19	
+97
+
+hsa-miR-369-3p	RASSF8	Ras association domain family member 8
+Details
+
+20	
+97
+
+hsa-miR-369-3p	RAB5B	RAB5B, member RAS oncogene family
+Details
+
+21	
+97
+
+hsa-miR-369-3p	YTHDF1	YTH N6-methyladenosine RNA binding protein 1
+Details
+
+22	
+97
+
+hsa-miR-369-3p	C5orf24	chromosome 5 open reading frame 24
+Details
+
+23	
+97
+
+hsa-miR-369-3p	CCNE2	cyclin E2
+Details
+
+24	
+97
+
+hsa-miR-369-3p	RORA	RAR related orphan receptor A
+Details
+
+25	
+96
+
+hsa-miR-369-3p	KIF20A	kinesin family member 20A
+Details
+
+26	
+96
+
+hsa-miR-369-3p	LIN7A	lin-7 homolog A, crumbs cell polarity complex component
+Details
+
+27	
+96
+
+hsa-miR-369-3p	LTBP1	latent transforming growth factor beta binding protein 1
+Details
+
+28	
+96
+
+hsa-miR-369-3p	MTREX	Mtr4 exosome RNA helicase
+Details
+
+29	
+96
+
+hsa-miR-369-3p	CAPZA1	capping actin protein of muscle Z-line subunit alpha 1
+Details
+
+30	
+96
+
+hsa-miR-369-3p	ZNF521	zinc finger protein 521
+Details
+
+31	
+96
+
+hsa-miR-369-3p	TRAPPC8	trafficking protein particle complex 8
+Details
+
+32	
+96
+
+hsa-miR-369-3p	ZFR	zinc finger RNA binding protein
+Details
+
+33	
+96
+
+hsa-miR-369-3p	PREX2	phosphatidylinositol-3,4,5-trisphosphate dependent Rac exchange factor 2
+Details
+
+34	
+96
+
+hsa-miR-369-3p	TMEM245	transmembrane protein 245
+Details
+
+35	
+95
+
+hsa-miR-369-3p	FEZF1	FEZ family zinc finger 1
+Details
+
+36	
+95
+
+hsa-miR-369-3p	ZNF711	zinc finger protein 711
+Details
+
+37	
+95
+
+hsa-miR-369-3p	RFK	riboflavin kinase
+Details
+
+38	
+95
+
+hsa-miR-369-3p	MAP2	microtubule associated protein 2
+Details
+
+39	
+95
+
+hsa-miR-369-3p	PNRC1	proline rich nuclear receptor coactivator 1
+Details
+
+40	
+95
+
+hsa-miR-369-3p	YAF2	YY1 associated factor 2
+Details
+
+41	
+95
+
+hsa-miR-369-3p	MGAT4A	alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase A
+Details
+
+42	
+95
+
+hsa-miR-369-3p	HOMER1	homer scaffold protein 1
+Details
+
+43	
+95
+
+hsa-miR-369-3p	NPY1R	neuropeptide Y receptor Y1
+Details
+
+44	
+95
+
+hsa-miR-369-3p	GPN3	GPN-loop GTPase 3
+Details
+
+45	
+95
+
+hsa-miR-369-3p	CEBPA	CCAAT enhancer binding protein alpha
+Details
+
+46	
+95
+
+hsa-miR-369-3p	RC3H1	ring finger and CCCH-type domains 1
+Details
+
+47	
+95
+
+hsa-miR-369-3p	SLC7A11	solute carrier family 7 member 11
+Details
+
+48	
+95
+
+hsa-miR-369-3p	FZD5	frizzled class receptor 5
+Details
+
+49	
+95
+
+hsa-miR-369-3p	RGS7BP	regulator of G protein signaling 7 binding protein
+Details
+
+50	
+95
+
+hsa-miR-369-3p	EXOC7	exocyst complex component 7
+Details
+
+51	
+95
+
+hsa-miR-369-3p	PRDM1	PR/SET domain 1
+Details
+
+52	
+94
+
+hsa-miR-369-3p	FAM135A	family with sequence similarity 135 member A
+Details
+
+53	
+94
+
+hsa-miR-369-3p	DSG3	desmoglein 3
+Details
+
+54	
+94
+
+hsa-miR-369-3p	GABRG2	gamma-aminobutyric acid type A receptor gamma2 subunit
+Details
+
+55	
+94
+
+hsa-miR-369-3p	SGPP1	sphingosine-1-phosphate phosphatase 1
+Details
+
+56	
+94
+
+hsa-miR-369-3p	RELCH	RAB11 binding and LisH domain, coiled-coil and HEAT repeat containing
+Details
+
+57	
+94
+
+hsa-miR-369-3p	ZNF423	zinc finger protein 423
+Details
+
+58	
+94
+
+hsa-miR-369-3p	WDR20	WD repeat domain 20
+Details
+
+59	
+94
+
+hsa-miR-369-3p	PMP2	peripheral myelin protein 2
+Details
+
+60	
+94
+
+hsa-miR-369-3p	PARP8	poly(ADP-ribose) polymerase family member 8
+Details
+
+61	
+93
+
+hsa-miR-369-3p	SLITRK1	SLIT and NTRK like family member 1
+Details
+
+62	
+93
+
+hsa-miR-369-3p	PGM2L1	phosphoglucomutase 2 like 1
+Details
+
+63	
+93
+
+hsa-miR-369-3p	ZEB1	zinc finger E-box binding homeobox 1
+Details
+
+64	
+93
+
+hsa-miR-369-3p	ZNF281	zinc finger protein 281
+Details
+
+65	
+93
+
+hsa-miR-369-3p	FNIP1	folliculin interacting protein 1
+Details
+
+66	
+93
+
+hsa-miR-369-3p	CDK19	cyclin dependent kinase 19
+Details
+
+67	
+93
+
+hsa-miR-369-3p	MBLAC2	metallo-beta-lactamase domain containing 2
+Details
+
+68	
+93
+
+hsa-miR-369-3p	ARID2	AT-rich interaction domain 2
+Details
+
+69	
+93
+
+hsa-miR-369-3p	UBA6	ubiquitin like modifier activating enzyme 6
+Details
+
+70	
+93
+
+hsa-miR-369-3p	NF1	neurofibromin 1
+Details
+
+71	
+93
+
+hsa-miR-369-3p	CFL2	cofilin 2
+Details
+
+72	
+93
+
+hsa-miR-369-3p	NIPBL	NIPBL, cohesin loading factor
+Details
+
+73	
+92
+
+hsa-miR-369-3p	GPSM2	G protein signaling modulator 2
+Details
+
+74	
+92
+
+hsa-miR-369-3p	ZNF493	zinc finger protein 493
+Details
+
+75	
+92
+
+hsa-miR-369-3p	C11orf58	chromosome 11 open reading frame 58
+Details
+
+76	
+92
+
+hsa-miR-369-3p	EFNA5	ephrin A5
+Details
+
+77	
+92
+
+hsa-miR-369-3p	ADAM10	ADAM metallopeptidase domain 10
+Details
+
+78	
+92
+
+hsa-miR-369-3p	ATP11C	ATPase phospholipid transporting 11C
+Details
+
+79	
+92
+
+hsa-miR-369-3p	ARHGAP5	Rho GTPase activating protein 5
+Details
+
+80	
+92
+
+hsa-miR-369-3p	MECP2	methyl-CpG binding protein 2
+Details
+
+81	
+92
+
+hsa-miR-369-3p	RFPL1	ret finger protein like 1
+Details
+
+82	
+92
+
+hsa-miR-369-3p	RFPL2	ret finger protein like 2
+Details
+
+83	
+92
+
+hsa-miR-369-3p	DYRK1A	dual specificity tyrosine phosphorylation regulated kinase 1A
+Details
+
+84	
+92
+
+hsa-miR-369-3p	IDI1	isopentenyl-diphosphate delta isomerase 1
+Details
+
+85	
+91
+
+hsa-miR-369-3p	STXBP5	syntaxin binding protein 5
+Details
+
+86	
+91
+
+hsa-miR-369-3p	AGL	amylo-alpha-1, 6-glucosidase, 4-alpha-glucanotransferase
+Details
+
+87	
+91
+
+hsa-miR-369-3p	LCA5	LCA5, lebercilin
+Details
+
+88	
+91
+
+hsa-miR-369-3p	SEZ6	seizure related 6 homolog
+Details
+
+89	
+91
+
+hsa-miR-369-3p	FAM161A	FAM161A, centrosomal protein
+Details
+
+90	
+91
+
+hsa-miR-369-3p	CEBPG	CCAAT enhancer binding protein gamma
+Details
+
+91	
+91
+
+hsa-miR-369-3p	ITGA4	integrin subunit alpha 4
+Details
+
+92	
+91
+
+hsa-miR-369-3p	PDE4D	phosphodiesterase 4D
+Details
+
+93	
+91
+
+hsa-miR-369-3p	EID2B	EP300 interacting inhibitor of differentiation 2B
+Details
+
+94	
+91
+
+hsa-miR-369-3p	BICD2	BICD cargo adaptor 2
+Details
+
+95	
+91
+
+hsa-miR-369-3p	FAM19A2	family with sequence similarity 19 member A2, C-C motif chemokine like
+Details
+
+96	
+91
+
+hsa-miR-369-3p	WSB1	WD repeat and SOCS box containing 1
+Details
+
+97	
+91
+
+hsa-miR-369-3p	VEGFC	vascular endothelial growth factor C
+Details
+
+98	
+91
+
+hsa-miR-369-3p	PELI1	pellino E3 ubiquitin protein ligase 1
+Details
+
+99	
+91
+
+hsa-miR-369-3p	TBX4	T-box 4
+Details
+
+100	
+91
+
+hsa-miR-369-3p	CEP350	centrosomal protein 350
+Details
+
+101	
+91
+
+hsa-miR-369-3p	CHSY1	chondroitin sulfate synthase 1
+Details
+
+102	
+91
+
+hsa-miR-369-3p	TAGAP	T cell activation RhoGTPase activating protein
+Details
+
+103	
+91
+
+hsa-miR-369-3p	ZNF236	zinc finger protein 236
+Details
+
+104	
+91
+
+hsa-miR-369-3p	CBX4	chromobox 4
+Details
+
+105	
+90
+
+hsa-miR-369-3p	IFNG	interferon gamma
+Details
+
+106	
+90
+
+hsa-miR-369-3p	MBNL2	muscleblind like splicing regulator 2
+Details
+
+107	
+90
+
+hsa-miR-369-3p	KHDRBS2	KH RNA binding domain containing, signal transduction associated 2
+Details
+
+108	
+90
+
+hsa-miR-369-3p	MYLK4	myosin light chain kinase family member 4
+Details
+
+109	
+90
+
+hsa-miR-369-3p	GRAMD1A	GRAM domain containing 1A
+Details
+
+110	
+90
+
+hsa-miR-369-3p	RFX4	regulatory factor X4
+Details
+
+111	
+90
+
+hsa-miR-369-3p	TLL2	tolloid like 2
+Details
+
+112	
+90
+
+hsa-miR-369-3p	LIN28B	lin-28 homolog B
+Details
+
+113	
+90
+
+hsa-miR-369-3p	GOPC	golgi associated PDZ and coiled-coil motif containing
+Details
+
+114	
+90
+
+hsa-miR-369-3p	MLX	MLX, MAX dimerization protein
+Details
+
+115	
+90
+
+hsa-miR-369-3p	TBC1D9	TBC1 domain family member 9
+Details
+
+116	
+90
+
+hsa-miR-369-3p	NETO1	neuropilin and tolloid like 1
+Details
+
+117	
+90
+
+hsa-miR-369-3p	GBX2	gastrulation brain homeobox 2
+Details
+
+118	
+90
+
+hsa-miR-369-3p	ACLY	ATP citrate lyase
+Details
+
+119	
+90
+
+hsa-miR-369-3p	MAP3K7	mitogen-activated protein kinase kinase kinase 7
+Details
+
+120	
+90
+
+hsa-miR-369-3p	MAP3K2	mitogen-activated protein kinase kinase kinase 2

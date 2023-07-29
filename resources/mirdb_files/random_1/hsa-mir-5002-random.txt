@@ -1,0 +1,661 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-5002-5p	RASSF8	Ras association domain family member 8
+Details
+
+2	
+100
+
+hsa-miR-5002-5p	CNTN1	contactin 1
+Details
+
+3	
+99
+
+hsa-miR-5002-5p	MANEA	mannosidase endo-alpha
+Details
+
+4	
+99
+
+hsa-miR-5002-5p	CDC42BPA	CDC42 binding protein kinase alpha
+Details
+
+5	
+99
+
+hsa-miR-5002-5p	DMD	dystrophin
+Details
+
+6	
+99
+
+hsa-miR-5002-5p	LRRC8C	leucine rich repeat containing 8 VRAC subunit C
+Details
+
+7	
+99
+
+hsa-miR-5002-5p	STC1	stanniocalcin 1
+Details
+
+8	
+99
+
+hsa-miR-5002-5p	LPP	LIM domain containing preferred translocation partner in lipoma
+Details
+
+9	
+99
+
+hsa-miR-5002-5p	ZNF217	zinc finger protein 217
+Details
+
+10	
+99
+
+hsa-miR-5002-5p	OXR1	oxidation resistance 1
+Details
+
+11	
+99
+
+hsa-miR-5002-5p	POU2F2	POU class 2 homeobox 2
+Details
+
+12	
+98
+
+hsa-miR-5002-5p	PLEKHA3	pleckstrin homology domain containing A3
+Details
+
+13	
+97
+
+hsa-miR-5002-5p	FAM156B	family with sequence similarity 156 member B
+Details
+
+14	
+97
+
+hsa-miR-5002-5p	GPR22	G protein-coupled receptor 22
+Details
+
+15	
+97
+
+hsa-miR-5002-5p	RMND5A	required for meiotic nuclear division 5 homolog A
+Details
+
+16	
+97
+
+hsa-miR-5002-5p	PTPRJ	protein tyrosine phosphatase, receptor type J
+Details
+
+17	
+97
+
+hsa-miR-5002-5p	GRIA2	glutamate ionotropic receptor AMPA type subunit 2
+Details
+
+18	
+97
+
+hsa-miR-5002-5p	FBN1	fibrillin 1
+Details
+
+19	
+97
+
+hsa-miR-5002-5p	CCDC88A	coiled-coil domain containing 88A
+Details
+
+20	
+97
+
+hsa-miR-5002-5p	AHR	aryl hydrocarbon receptor
+Details
+
+21	
+97
+
+hsa-miR-5002-5p	VIP	vasoactive intestinal peptide
+Details
+
+22	
+97
+
+hsa-miR-5002-5p	FAM156A	family with sequence similarity 156 member A
+Details
+
+23	
+97
+
+hsa-miR-5002-5p	PAIP1	poly(A) binding protein interacting protein 1
+Details
+
+24	
+96
+
+hsa-miR-5002-5p	RICTOR	RPTOR independent companion of MTOR complex 2
+Details
+
+25	
+96
+
+hsa-miR-5002-5p	FAHD1	fumarylacetoacetate hydrolase domain containing 1
+Details
+
+26	
+96
+
+hsa-miR-5002-5p	RALGPS2	Ral GEF with PH domain and SH3 binding motif 2
+Details
+
+27	
+96
+
+hsa-miR-5002-5p	SLC12A2	solute carrier family 12 member 2
+Details
+
+28	
+96
+
+hsa-miR-5002-5p	UBP1	upstream binding protein 1
+Details
+
+29	
+96
+
+hsa-miR-5002-5p	MIGA1	mitoguardin 1
+Details
+
+30	
+96
+
+hsa-miR-5002-5p	KAT6B	lysine acetyltransferase 6B
+Details
+
+31	
+96
+
+hsa-miR-5002-5p	KCNJ3	potassium voltage-gated channel subfamily J member 3
+Details
+
+32	
+95
+
+hsa-miR-5002-5p	KIAA1217	KIAA1217
+Details
+
+33	
+95
+
+hsa-miR-5002-5p	FLOT1	flotillin 1
+Details
+
+34	
+95
+
+hsa-miR-5002-5p	SLITRK4	SLIT and NTRK like family member 4
+Details
+
+35	
+95
+
+hsa-miR-5002-5p	TRIM33	tripartite motif containing 33
+Details
+
+36	
+95
+
+hsa-miR-5002-5p	ARMCX2	armadillo repeat containing X-linked 2
+Details
+
+37	
+95
+
+hsa-miR-5002-5p	CDR2	cerebellar degeneration related protein 2
+Details
+
+38	
+95
+
+hsa-miR-5002-5p	TMCC3	transmembrane and coiled-coil domain family 3
+Details
+
+39	
+95
+
+hsa-miR-5002-5p	TPD52	tumor protein D52
+Details
+
+40	
+95
+
+hsa-miR-5002-5p	TEAD1	TEA domain transcription factor 1
+Details
+
+41	
+95
+
+hsa-miR-5002-5p	GAD2	glutamate decarboxylase 2
+Details
+
+42	
+94
+
+hsa-miR-5002-5p	TOX	thymocyte selection associated high mobility group box
+Details
+
+43	
+94
+
+hsa-miR-5002-5p	USP45	ubiquitin specific peptidase 45
+Details
+
+44	
+94
+
+hsa-miR-5002-5p	TM9SF3	transmembrane 9 superfamily member 3
+Details
+
+45	
+94
+
+hsa-miR-5002-5p	RAP1B	RAP1B, member of RAS oncogene family
+Details
+
+46	
+94
+
+hsa-miR-5002-5p	CNNM2	cyclin and CBS domain divalent metal cation transport mediator 2
+Details
+
+47	
+94
+
+hsa-miR-5002-5p	RANBP9	RAN binding protein 9
+Details
+
+48	
+94
+
+hsa-miR-5002-5p	PIK3R3	phosphoinositide-3-kinase regulatory subunit 3
+Details
+
+49	
+94
+
+hsa-miR-5002-5p	GADD45A	growth arrest and DNA damage inducible alpha
+Details
+
+50	
+94
+
+hsa-miR-5002-5p	LATS1	large tumor suppressor kinase 1
+Details
+
+51	
+94
+
+hsa-miR-5002-5p	FAM126B	family with sequence similarity 126 member B
+Details
+
+52	
+94
+
+hsa-miR-5002-5p	STK19	serine/threonine kinase 19
+Details
+
+53	
+94
+
+hsa-miR-5002-5p	GNE	glucosamine (UDP-N-acetyl)-2-epimerase/N-acetylmannosamine kinase
+Details
+
+54	
+94
+
+hsa-miR-5002-5p	CAPN15	calpain 15
+Details
+
+55	
+94
+
+hsa-miR-5002-5p	CTTNBP2NL	CTTNBP2 N-terminal like
+Details
+
+56	
+94
+
+hsa-miR-5002-5p	SRPRA	SRP receptor subunit alpha
+Details
+
+57	
+93
+
+hsa-miR-5002-5p	TBC1D15	TBC1 domain family member 15
+Details
+
+58	
+93
+
+hsa-miR-5002-5p	HOXA9	homeobox A9
+Details
+
+59	
+93
+
+hsa-miR-5002-5p	KIAA0232	KIAA0232
+Details
+
+60	
+93
+
+hsa-miR-5002-5p	WDR3	WD repeat domain 3
+Details
+
+61	
+93
+
+hsa-miR-5002-5p	DCLK1	doublecortin like kinase 1
+Details
+
+62	
+93
+
+hsa-miR-5002-5p	ARHGEF38	Rho guanine nucleotide exchange factor 38
+Details
+
+63	
+93
+
+hsa-miR-5002-5p	MYLK	myosin light chain kinase
+Details
+
+64	
+93
+
+hsa-miR-5002-5p	COL25A1	collagen type XXV alpha 1 chain
+Details
+
+65	
+93
+
+hsa-miR-5002-5p	CLOCK	clock circadian regulator
+Details
+
+66	
+93
+
+hsa-miR-5002-5p	UBE2G1	ubiquitin conjugating enzyme E2 G1
+Details
+
+67	
+93
+
+hsa-miR-5002-5p	USP9Y	ubiquitin specific peptidase 9 Y-linked
+Details
+
+68	
+93
+
+hsa-miR-5002-5p	RIMKLA	ribosomal modification protein rimK like family member A
+Details
+
+69	
+93
+
+hsa-miR-5002-5p	FGD4	FYVE, RhoGEF and PH domain containing 4
+Details
+
+70	
+92
+
+hsa-miR-5002-5p	CD2AP	CD2 associated protein
+Details
+
+71	
+92
+
+hsa-miR-5002-5p	IGF1	insulin like growth factor 1
+Details
+
+72	
+92
+
+hsa-miR-5002-5p	CREBRF	CREB3 regulatory factor
+Details
+
+73	
+92
+
+hsa-miR-5002-5p	KDM4A	lysine demethylase 4A
+Details
+
+74	
+92
+
+hsa-miR-5002-5p	TNRC6C	trinucleotide repeat containing 6C
+Details
+
+75	
+92
+
+hsa-miR-5002-5p	MOSMO	modulator of smoothened
+Details
+
+76	
+92
+
+hsa-miR-5002-5p	PDE1C	phosphodiesterase 1C
+Details
+
+77	
+92
+
+hsa-miR-5002-5p	MYO5B	myosin VB
+Details
+
+78	
+92
+
+hsa-miR-5002-5p	PTBP1	polypyrimidine tract binding protein 1
+Details
+
+79	
+92
+
+hsa-miR-5002-5p	C1orf112	chromosome 1 open reading frame 112
+Details
+
+80	
+91
+
+hsa-miR-5002-5p	CCDC57	coiled-coil domain containing 57
+Details
+
+81	
+91
+
+hsa-miR-5002-5p	ZFP36L2	ZFP36 ring finger protein like 2
+Details
+
+82	
+91
+
+hsa-miR-5002-5p	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1
+Details
+
+83	
+91
+
+hsa-miR-5002-5p	TRPC5OS	TRPC5 opposite strand
+Details
+
+84	
+91
+
+hsa-miR-5002-5p	USP31	ubiquitin specific peptidase 31
+Details
+
+85	
+91
+
+hsa-miR-5002-5p	FAM171A1	family with sequence similarity 171 member A1
+Details
+
+86	
+91
+
+hsa-miR-5002-5p	GCC2	GRIP and coiled-coil domain containing 2
+Details
+
+87	
+91
+
+hsa-miR-5002-5p	CD163	CD163 molecule
+Details
+
+88	
+91
+
+hsa-miR-5002-5p	GOLGA1	golgin A1
+Details
+
+89	
+91
+
+hsa-miR-5002-5p	MLLT3	MLLT3, super elongation complex subunit
+Details
+
+90	
+91
+
+hsa-miR-5002-5p	LOC110117498-PIK3R3	LOC110117498-PIK3R3 readthrough
+Details
+
+91	
+91
+
+hsa-miR-5002-5p	TRHDE	thyrotropin releasing hormone degrading enzyme
+Details
+
+92	
+91
+
+hsa-miR-5002-5p	RGPD4	RANBP2-like and GRIP domain containing 4
+Details
+
+93	
+91
+
+hsa-miR-5002-5p	SLC38A2	solute carrier family 38 member 2
+Details
+
+94	
+90
+
+hsa-miR-5002-5p	SMAD2	SMAD family member 2
+Details
+
+95	
+90
+
+hsa-miR-5002-5p	MYL6	myosin light chain 6
+Details
+
+96	
+90
+
+hsa-miR-5002-5p	UBA2	ubiquitin like modifier activating enzyme 2
+Details
+
+97	
+90
+
+hsa-miR-5002-5p	H2AFZ	H2A histone family member Z
+Details
+
+98	
+90
+
+hsa-miR-5002-5p	ADAMTS19	ADAM metallopeptidase with thrombospondin type 1 motif 19
+Details
+
+99	
+90
+
+hsa-miR-5002-5p	BIRC6	baculoviral IAP repeat containing 6
+Details
+
+100	
+90
+
+hsa-miR-5002-5p	PLAGL1	PLAG1 like zinc finger 1
+Details
+
+101	
+90
+
+hsa-miR-5002-5p	POU2F1	POU class 2 homeobox 1
+Details
+
+102	
+90
+
+hsa-miR-5002-5p	ATP11C	ATPase phospholipid transporting 11C
+Details
+
+103	
+90
+
+hsa-miR-5002-5p	TMEFF2	transmembrane protein with EGF like and two follistatin like domains 2
+Details
+
+104	
+90
+
+hsa-miR-5002-5p	CEP63	centrosomal protein 63
+Details
+
+105	
+90
+
+hsa-miR-5002-5p	PLD5	phospholipase D family member 5
+Details
+
+106	
+90
+
+hsa-miR-5002-5p	SGO2	shugoshin 2
+Details
+
+107	
+90
+
+hsa-miR-5002-5p	GNAI3	G protein subunit alpha i3
+Details
+
+108	
+90
+
+hsa-miR-5002-5p	NUDT12	nudix hydrolase 12
+Details
+
+109	
+90
+
+hsa-miR-5002-5p	C11orf87	chromosome 11 open reading frame 87
+Details
+
+110	
+90
+
+hsa-miR-5002-5p	SLC2A3	solute carrier family 2 member 3

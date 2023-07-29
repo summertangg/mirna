@@ -1,0 +1,457 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-4517	FMR1	fragile X mental retardation 1
+Details
+
+2	
+99
+
+hsa-miR-4517	COL19A1	collagen type XIX alpha 1 chain
+Details
+
+3	
+99
+
+hsa-miR-4517	DLEU7	deleted in lymphocytic leukemia 7
+Details
+
+4	
+99
+
+hsa-miR-4517	PDS5A	PDS5 cohesin associated factor A
+Details
+
+5	
+99
+
+hsa-miR-4517	PDE3A	phosphodiesterase 3A
+Details
+
+6	
+98
+
+hsa-miR-4517	RAB3C	RAB3C, member RAS oncogene family
+Details
+
+7	
+98
+
+hsa-miR-4517	TNPO1	transportin 1
+Details
+
+8	
+98
+
+hsa-miR-4517	UBE2H	ubiquitin conjugating enzyme E2 H
+Details
+
+9	
+97
+
+hsa-miR-4517	CPEB1	cytoplasmic polyadenylation element binding protein 1
+Details
+
+10	
+97
+
+hsa-miR-4517	ZFP36L1	ZFP36 ring finger protein like 1
+Details
+
+11	
+97
+
+hsa-miR-4517	RPRD1B	regulation of nuclear pre-mRNA domain containing 1B
+Details
+
+12	
+96
+
+hsa-miR-4517	MARCH5	membrane associated ring-CH-type finger 5
+Details
+
+13	
+96
+
+hsa-miR-4517	RASEF	RAS and EF-hand domain containing
+Details
+
+14	
+96
+
+hsa-miR-4517	CDH9	cadherin 9
+Details
+
+15	
+96
+
+hsa-miR-4517	SGIP1	SH3 domain GRB2 like endophilin interacting protein 1
+Details
+
+16	
+95
+
+hsa-miR-4517	BMPR2	bone morphogenetic protein receptor type 2
+Details
+
+17	
+95
+
+hsa-miR-4517	PHC3	polyhomeotic homolog 3
+Details
+
+18	
+95
+
+hsa-miR-4517	ELMO1	engulfment and cell motility 1
+Details
+
+19	
+95
+
+hsa-miR-4517	QKI	QKI, KH domain containing RNA binding
+Details
+
+20	
+95
+
+hsa-miR-4517	PLAUR	plasminogen activator, urokinase receptor
+Details
+
+21	
+95
+
+hsa-miR-4517	ZSWIM3	zinc finger SWIM-type containing 3
+Details
+
+22	
+95
+
+hsa-miR-4517	PHF2	PHD finger protein 2
+Details
+
+23	
+94
+
+hsa-miR-4517	CREBBP	CREB binding protein
+Details
+
+24	
+94
+
+hsa-miR-4517	PGBD2	piggyBac transposable element derived 2
+Details
+
+25	
+94
+
+hsa-miR-4517	ANKRD20A1	ankyrin repeat domain 20 family member A1
+Details
+
+26	
+94
+
+hsa-miR-4517	ANKRD20A3	ankyrin repeat domain 20 family member A3
+Details
+
+27	
+94
+
+hsa-miR-4517	SRSF12	serine and arginine rich splicing factor 12
+Details
+
+28	
+94
+
+hsa-miR-4517	NPY2R	neuropeptide Y receptor Y2
+Details
+
+29	
+94
+
+hsa-miR-4517	KITLG	KIT ligand
+Details
+
+30	
+94
+
+hsa-miR-4517	ANKRD20A4	ankyrin repeat domain 20 family member A4
+Details
+
+31	
+94
+
+hsa-miR-4517	FMO5	flavin containing monooxygenase 5
+Details
+
+32	
+94
+
+hsa-miR-4517	PRPF40A	pre-mRNA processing factor 40 homolog A
+Details
+
+33	
+94
+
+hsa-miR-4517	NETO1	neuropilin and tolloid like 1
+Details
+
+34	
+94
+
+hsa-miR-4517	ANKRD20A2	ankyrin repeat domain 20 family member A2
+Details
+
+35	
+93
+
+hsa-miR-4517	TWF1	twinfilin actin binding protein 1
+Details
+
+36	
+93
+
+hsa-miR-4517	SLC9A1	solute carrier family 9 member A1
+Details
+
+37	
+93
+
+hsa-miR-4517	PDZRN4	PDZ domain containing ring finger 4
+Details
+
+38	
+93
+
+hsa-miR-4517	SLC36A3	solute carrier family 36 member 3
+Details
+
+39	
+93
+
+hsa-miR-4517	MYNN	myoneurin
+Details
+
+40	
+93
+
+hsa-miR-4517	RSF1	remodeling and spacing factor 1
+Details
+
+41	
+93
+
+hsa-miR-4517	DNAAF4	dynein axonemal assembly factor 4
+Details
+
+42	
+92
+
+hsa-miR-4517	MICU3	mitochondrial calcium uptake family member 3
+Details
+
+43	
+92
+
+hsa-miR-4517	PYGO1	pygopus family PHD finger 1
+Details
+
+44	
+92
+
+hsa-miR-4517	GMDS	GDP-mannose 4,6-dehydratase
+Details
+
+45	
+92
+
+hsa-miR-4517	MPDZ	multiple PDZ domain crumbs cell polarity complex component
+Details
+
+46	
+92
+
+hsa-miR-4517	SNRPG	small nuclear ribonucleoprotein polypeptide G
+Details
+
+47	
+92
+
+hsa-miR-4517	DRAM2	DNA damage regulated autophagy modulator 2
+Details
+
+48	
+92
+
+hsa-miR-4517	CAB39	calcium binding protein 39
+Details
+
+49	
+92
+
+hsa-miR-4517	GNG2	G protein subunit gamma 2
+Details
+
+50	
+92
+
+hsa-miR-4517	SEM1	SEM1, 26S proteasome complex subunit
+Details
+
+51	
+92
+
+hsa-miR-4517	TUBE1	tubulin epsilon 1
+Details
+
+52	
+92
+
+hsa-miR-4517	ZNF681	zinc finger protein 681
+Details
+
+53	
+92
+
+hsa-miR-4517	LRRC19	leucine rich repeat containing 19
+Details
+
+54	
+92
+
+hsa-miR-4517	ZNF415	zinc finger protein 415
+Details
+
+55	
+92
+
+hsa-miR-4517	DGKH	diacylglycerol kinase eta
+Details
+
+56	
+91
+
+hsa-miR-4517	MAEL	maelstrom spermatogenic transposon silencer
+Details
+
+57	
+91
+
+hsa-miR-4517	MAP4K3	mitogen-activated protein kinase kinase kinase kinase 3
+Details
+
+58	
+91
+
+hsa-miR-4517	GATAD1	GATA zinc finger domain containing 1
+Details
+
+59	
+91
+
+hsa-miR-4517	HDGFL3	HDGF like 3
+Details
+
+60	
+91
+
+hsa-miR-4517	ENTHD1	ENTH domain containing 1
+Details
+
+61	
+91
+
+hsa-miR-4517	ZFY	zinc finger protein Y-linked
+Details
+
+62	
+91
+
+hsa-miR-4517	STEAP2	STEAP2 metalloreductase
+Details
+
+63	
+91
+
+hsa-miR-4517	SLC25A25	solute carrier family 25 member 25
+Details
+
+64	
+91
+
+hsa-miR-4517	ZNF827	zinc finger protein 827
+Details
+
+65	
+91
+
+hsa-miR-4517	MON2	MON2 homolog, regulator of endosome-to-Golgi trafficking
+Details
+
+66	
+90
+
+hsa-miR-4517	PABPC5	poly(A) binding protein cytoplasmic 5
+Details
+
+67	
+90
+
+hsa-miR-4517	AFTPH	aftiphilin
+Details
+
+68	
+90
+
+hsa-miR-4517	HIVEP1	human immunodeficiency virus type I enhancer binding protein 1
+Details
+
+69	
+90
+
+hsa-miR-4517	ABCC12	ATP binding cassette subfamily C member 12
+Details
+
+70	
+90
+
+hsa-miR-4517	DAZAP2	DAZ associated protein 2
+Details
+
+71	
+90
+
+hsa-miR-4517	SIX1	SIX homeobox 1
+Details
+
+72	
+90
+
+hsa-miR-4517	SENP3	SUMO specific peptidase 3
+Details
+
+73	
+90
+
+hsa-miR-4517	PHF8	PHD finger protein 8
+Details
+
+74	
+90
+
+hsa-miR-4517	DDX3X	DEAD-box helicase 3 X-linked
+Details
+
+75	
+90
+
+hsa-miR-4517	C9orf72	chromosome 9 open reading frame 72
+Details
+
+76	
+90
+
+hsa-miR-4517	MTA1	metastasis associated 1

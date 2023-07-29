@@ -1,0 +1,163 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-5100	AZIN1	antizyme inhibitor 1
+Details
+
+2	
+97
+
+hsa-miR-5100	MOXD1	monooxygenase DBH like 1
+Details
+
+3	
+95
+
+hsa-miR-5100	SMARCA2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2
+Details
+
+4	
+95
+
+hsa-miR-5100	SHROOM3	shroom family member 3
+Details
+
+5	
+94
+
+hsa-miR-5100	SPO11	SPO11, initiator of meiotic double stranded breaks
+Details
+
+6	
+94
+
+hsa-miR-5100	MOSPD2	motile sperm domain containing 2
+Details
+
+7	
+94
+
+hsa-miR-5100	CSNK1G3	casein kinase 1 gamma 3
+Details
+
+8	
+94
+
+hsa-miR-5100	HTR2C	5-hydroxytryptamine receptor 2C
+Details
+
+9	
+93
+
+hsa-miR-5100	CPSF6	cleavage and polyadenylation specific factor 6
+Details
+
+10	
+93
+
+hsa-miR-5100	ADAR	adenosine deaminase, RNA specific
+Details
+
+11	
+93
+
+hsa-miR-5100	ZKSCAN3	zinc finger with KRAB and SCAN domains 3
+Details
+
+12	
+93
+
+hsa-miR-5100	DEK	DEK proto-oncogene
+Details
+
+13	
+93
+
+hsa-miR-5100	QKI	QKI, KH domain containing RNA binding
+Details
+
+14	
+93
+
+hsa-miR-5100	LUC7L2	LUC7 like 2, pre-mRNA splicing factor
+Details
+
+15	
+92
+
+hsa-miR-5100	CXCL12	C-X-C motif chemokine ligand 12
+Details
+
+16	
+92
+
+hsa-miR-5100	NQO1	NAD(P)H quinone dehydrogenase 1
+Details
+
+17	
+92
+
+hsa-miR-5100	SNX12	sorting nexin 12
+Details
+
+18	
+92
+
+hsa-miR-5100	UBASH3B	ubiquitin associated and SH3 domain containing B
+Details
+
+19	
+91
+
+hsa-miR-5100	ZNHIT6	zinc finger HIT-type containing 6
+Details
+
+20	
+91
+
+hsa-miR-5100	XRN2	5'-3' exoribonuclease 2
+Details
+
+21	
+91
+
+hsa-miR-5100	DMRTA1	DMRT like family A1
+Details
+
+22	
+91
+
+hsa-miR-5100	FBXO8	F-box protein 8
+Details
+
+23	
+91
+
+hsa-miR-5100	SETD7	SET domain containing 7, histone lysine methyltransferase
+Details
+
+24	
+91
+
+hsa-miR-5100	CHD4	chromodomain helicase DNA binding protein 4
+Details
+
+25	
+90
+
+hsa-miR-5100	CATSPERE	catsper channel auxiliary subunit epsilon
+Details
+
+26	
+90
+
+hsa-miR-5100	LSM10	LSM10, U7 small nuclear RNA associated
+Details
+
+27	
+90
+
+hsa-miR-5100	GABRG2	gamma-aminobutyric acid type A receptor gamma2 subunit

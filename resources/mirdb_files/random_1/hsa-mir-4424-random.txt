@@ -1,0 +1,259 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-4424	SPRED1	sprouty related EVH1 domain containing 1
+Details
+
+2	
+99
+
+hsa-miR-4424	RABEP1	rabaptin, RAB GTPase binding effector protein 1
+Details
+
+3	
+98
+
+hsa-miR-4424	ENPP1	ectonucleotide pyrophosphatase/phosphodiesterase 1
+Details
+
+4	
+97
+
+hsa-miR-4424	CREB5	cAMP responsive element binding protein 5
+Details
+
+5	
+97
+
+hsa-miR-4424	KLF7	Kruppel like factor 7
+Details
+
+6	
+96
+
+hsa-miR-4424	ODF2L	outer dense fiber of sperm tails 2 like
+Details
+
+7	
+96
+
+hsa-miR-4424	ADD3	adducin 3
+Details
+
+8	
+95
+
+hsa-miR-4424	ERBIN	erbb2 interacting protein
+Details
+
+9	
+95
+
+hsa-miR-4424	C11orf96	chromosome 11 open reading frame 96
+Details
+
+10	
+94
+
+hsa-miR-4424	TAF4	TATA-box binding protein associated factor 4
+Details
+
+11	
+94
+
+hsa-miR-4424	IRF2	interferon regulatory factor 2
+Details
+
+12	
+94
+
+hsa-miR-4424	NDRG3	NDRG family member 3
+Details
+
+13	
+93
+
+hsa-miR-4424	LRRN1	leucine rich repeat neuronal 1
+Details
+
+14	
+93
+
+hsa-miR-4424	SOX10	SRY-box 10
+Details
+
+15	
+93
+
+hsa-miR-4424	C16orf70	chromosome 16 open reading frame 70
+Details
+
+16	
+93
+
+hsa-miR-4424	SLCO4C1	solute carrier organic anion transporter family member 4C1
+Details
+
+17	
+93
+
+hsa-miR-4424	CNTN1	contactin 1
+Details
+
+18	
+93
+
+hsa-miR-4424	TFDP1	transcription factor Dp-1
+Details
+
+19	
+93
+
+hsa-miR-4424	STARD3NL	STARD3 N-terminal like
+Details
+
+20	
+93
+
+hsa-miR-4424	BRCC3	BRCA1/BRCA2-containing complex subunit 3
+Details
+
+21	
+93
+
+hsa-miR-4424	SEC61A2	Sec61 translocon alpha 2 subunit
+Details
+
+22	
+93
+
+hsa-miR-4424	MON2	MON2 homolog, regulator of endosome-to-Golgi trafficking
+Details
+
+23	
+92
+
+hsa-miR-4424	STARD4	StAR related lipid transfer domain containing 4
+Details
+
+24	
+92
+
+hsa-miR-4424	RAB10	RAB10, member RAS oncogene family
+Details
+
+25	
+92
+
+hsa-miR-4424	CCNJ	cyclin J
+Details
+
+26	
+92
+
+hsa-miR-4424	SLC28A3	solute carrier family 28 member 3
+Details
+
+27	
+92
+
+hsa-miR-4424	GNPDA2	glucosamine-6-phosphate deaminase 2
+Details
+
+28	
+91
+
+hsa-miR-4424	CTCFL	CCCTC-binding factor like
+Details
+
+29	
+91
+
+hsa-miR-4424	POU2F3	POU class 2 homeobox 3
+Details
+
+30	
+91
+
+hsa-miR-4424	GUCY2C	guanylate cyclase 2C
+Details
+
+31	
+91
+
+hsa-miR-4424	PIK3C2A	phosphatidylinositol-4-phosphate 3-kinase catalytic subunit type 2 alpha
+Details
+
+32	
+91
+
+hsa-miR-4424	BTBD1	BTB domain containing 1
+Details
+
+33	
+91
+
+hsa-miR-4424	TMCC1	transmembrane and coiled-coil domain family 1
+Details
+
+34	
+91
+
+hsa-miR-4424	NRIP1	nuclear receptor interacting protein 1
+Details
+
+35	
+91
+
+hsa-miR-4424	RRAS2	RAS related 2
+Details
+
+36	
+90
+
+hsa-miR-4424	HNRNPLL	heterogeneous nuclear ribonucleoprotein L like
+Details
+
+37	
+90
+
+hsa-miR-4424	VCAN	versican
+Details
+
+38	
+90
+
+hsa-miR-4424	SH3GLB1	SH3 domain containing GRB2 like, endophilin B1
+Details
+
+39	
+90
+
+hsa-miR-4424	WDR11	WD repeat domain 11
+Details
+
+40	
+90
+
+hsa-miR-4424	VIP	vasoactive intestinal peptide
+Details
+
+41	
+90
+
+hsa-miR-4424	RTKN2	rhotekin 2
+Details
+
+42	
+90
+
+hsa-miR-4424	CPEB4	cytoplasmic polyadenylation element binding protein 4
+Details
+
+43	
+90
+
+hsa-miR-4424	ZNF827	zinc finger protein 827

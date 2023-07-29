@@ -1,0 +1,145 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-1229-3p	ZNF189	zinc finger protein 189
+Details
+
+2	
+100
+
+hsa-miR-1229-3p	ZNF781	zinc finger protein 781
+Details
+
+3	
+98
+
+hsa-miR-1229-3p	ZNF780A	zinc finger protein 780A
+Details
+
+4	
+97
+
+hsa-miR-1229-3p	ZNF135	zinc finger protein 135
+Details
+
+5	
+97
+
+hsa-miR-1229-3p	ZNF780B	zinc finger protein 780B
+Details
+
+6	
+96
+
+hsa-miR-1229-3p	KLF4	Kruppel like factor 4
+Details
+
+7	
+96
+
+hsa-miR-1229-3p	SETD7	SET domain containing 7, histone lysine methyltransferase
+Details
+
+8	
+95
+
+hsa-miR-1229-3p	CISD2	CDGSH iron sulfur domain 2
+Details
+
+9	
+95
+
+hsa-miR-1229-3p	EIF4G2	eukaryotic translation initiation factor 4 gamma 2
+Details
+
+10	
+95
+
+hsa-miR-1229-3p	CCNT1	cyclin T1
+Details
+
+11	
+95
+
+hsa-miR-1229-3p	TBX18	T-box 18
+Details
+
+12	
+95
+
+hsa-miR-1229-3p	EBF1	EBF transcription factor 1
+Details
+
+13	
+94
+
+hsa-miR-1229-3p	EPG5	ectopic P-granules autophagy protein 5 homolog
+Details
+
+14	
+94
+
+hsa-miR-1229-3p	KHDC1	KH domain containing 1
+Details
+
+15	
+94
+
+hsa-miR-1229-3p	WDR89	WD repeat domain 89
+Details
+
+16	
+93
+
+hsa-miR-1229-3p	ZMAT2	zinc finger matrin-type 2
+Details
+
+17	
+93
+
+hsa-miR-1229-3p	ZNF426	zinc finger protein 426
+Details
+
+18	
+93
+
+hsa-miR-1229-3p	CADM1	cell adhesion molecule 1
+Details
+
+19	
+92
+
+hsa-miR-1229-3p	ZNF594	zinc finger protein 594
+Details
+
+20	
+91
+
+hsa-miR-1229-3p	ZNF493	zinc finger protein 493
+Details
+
+21	
+91
+
+hsa-miR-1229-3p	ZNF430	zinc finger protein 430
+Details
+
+22	
+91
+
+hsa-miR-1229-3p	ZNF107	zinc finger protein 107
+Details
+
+23	
+91
+
+hsa-miR-1229-3p	PTGFRN	prostaglandin F2 receptor inhibitor
+Details
+
+24	
+90
+
+hsa-miR-1229-3p	ZNF684	zinc finger protein 684

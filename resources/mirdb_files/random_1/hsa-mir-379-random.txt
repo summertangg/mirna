@@ -1,0 +1,67 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+98
+
+hsa-miR-379-5p	TXLNG	taxilin gamma
+Details
+
+2	
+97
+
+hsa-miR-379-5p	MTMR2	myotubularin related protein 2
+Details
+
+3	
+94
+
+hsa-miR-379-5p	EIF4G2	eukaryotic translation initiation factor 4 gamma 2
+Details
+
+4	
+93
+
+hsa-miR-379-5p	ELMOD2	ELMO domain containing 2
+Details
+
+5	
+92
+
+hsa-miR-379-5p	SEMA3A	semaphorin 3A
+Details
+
+6	
+92
+
+hsa-miR-379-5p	MCTP2	multiple C2 and transmembrane domain containing 2
+Details
+
+7	
+92
+
+hsa-miR-379-5p	FZD4	frizzled class receptor 4
+Details
+
+8	
+91
+
+hsa-miR-379-5p	LZTS3	leucine zipper tumor suppressor family member 3
+Details
+
+9	
+91
+
+hsa-miR-379-5p	OGN	osteoglycin
+Details
+
+10	
+90
+
+hsa-miR-379-5p	RAB30	RAB30, member RAS oncogene family
+Details
+
+11	
+90
+
+hsa-miR-379-5p	PITPNM3	PITPNM family member 3

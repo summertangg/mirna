@@ -1,0 +1,175 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-4804-3p	HOOK1	hook microtubule tethering protein 1
+Details
+
+2	
+99
+
+hsa-miR-4804-3p	CDKN2C	cyclin dependent kinase inhibitor 2C
+Details
+
+3	
+98
+
+hsa-miR-4804-3p	ARHGAP6	Rho GTPase activating protein 6
+Details
+
+4	
+97
+
+hsa-miR-4804-3p	LAPTM4A	lysosomal protein transmembrane 4 alpha
+Details
+
+5	
+96
+
+hsa-miR-4804-3p	VGLL3	vestigial like family member 3
+Details
+
+6	
+96
+
+hsa-miR-4804-3p	PHTF2	putative homeodomain transcription factor 2
+Details
+
+7	
+96
+
+hsa-miR-4804-3p	SDCBP	syndecan binding protein
+Details
+
+8	
+95
+
+hsa-miR-4804-3p	LRCH3	leucine rich repeats and calponin homology domain containing 3
+Details
+
+9	
+95
+
+hsa-miR-4804-3p	PALM2	paralemmin 2
+Details
+
+10	
+95
+
+hsa-miR-4804-3p	PRDM8	PR/SET domain 8
+Details
+
+11	
+95
+
+hsa-miR-4804-3p	H2AFY	H2A histone family member Y
+Details
+
+12	
+95
+
+hsa-miR-4804-3p	PRLR	prolactin receptor
+Details
+
+13	
+94
+
+hsa-miR-4804-3p	SPRED1	sprouty related EVH1 domain containing 1
+Details
+
+14	
+94
+
+hsa-miR-4804-3p	YEATS4	YEATS domain containing 4
+Details
+
+15	
+93
+
+hsa-miR-4804-3p	COL6A3	collagen type VI alpha 3 chain
+Details
+
+16	
+93
+
+hsa-miR-4804-3p	CDC42SE2	CDC42 small effector 2
+Details
+
+17	
+93
+
+hsa-miR-4804-3p	PGM2	phosphoglucomutase 2
+Details
+
+18	
+93
+
+hsa-miR-4804-3p	INO80D	INO80 complex subunit D
+Details
+
+19	
+92
+
+hsa-miR-4804-3p	RBM28	RNA binding motif protein 28
+Details
+
+20	
+92
+
+hsa-miR-4804-3p	NDUFB5	NADH:ubiquinone oxidoreductase subunit B5
+Details
+
+21	
+91
+
+hsa-miR-4804-3p	LPAR6	lysophosphatidic acid receptor 6
+Details
+
+22	
+91
+
+hsa-miR-4804-3p	STYX	serine/threonine/tyrosine interacting protein
+Details
+
+23	
+91
+
+hsa-miR-4804-3p	ALDH8A1	aldehyde dehydrogenase 8 family member A1
+Details
+
+24	
+91
+
+hsa-miR-4804-3p	SNX6	sorting nexin 6
+Details
+
+25	
+91
+
+hsa-miR-4804-3p	LRIT1	leucine rich repeat, Ig-like and transmembrane domains 1
+Details
+
+26	
+91
+
+hsa-miR-4804-3p	KDM3A	lysine demethylase 3A
+Details
+
+27	
+91
+
+hsa-miR-4804-3p	CMPK2	cytidine/uridine monophosphate kinase 2
+Details
+
+28	
+91
+
+hsa-miR-4804-3p	BEND6	BEN domain containing 6
+Details
+
+29	
+90
+
+hsa-miR-4804-3p	CTR9	CTR9 homolog, Paf1/RNA polymerase II complex component

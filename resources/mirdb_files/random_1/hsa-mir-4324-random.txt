@@ -1,0 +1,691 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-4324	IGDCC3	immunoglobulin superfamily DCC subclass member 3
+Details
+
+2	
+99
+
+hsa-miR-4324	FREM1	FRAS1 related extracellular matrix 1
+Details
+
+3	
+99
+
+hsa-miR-4324	RPS6KL1	ribosomal protein S6 kinase like 1
+Details
+
+4	
+99
+
+hsa-miR-4324	RBM41	RNA binding motif protein 41
+Details
+
+5	
+99
+
+hsa-miR-4324	CEP170B	centrosomal protein 170B
+Details
+
+6	
+98
+
+hsa-miR-4324	STK11IP	serine/threonine kinase 11 interacting protein
+Details
+
+7	
+98
+
+hsa-miR-4324	LAD1	ladinin 1
+Details
+
+8	
+98
+
+hsa-miR-4324	TENT4B	terminal nucleotidyltransferase 4B
+Details
+
+9	
+98
+
+hsa-miR-4324	ZSWIM5	zinc finger SWIM-type containing 5
+Details
+
+10	
+98
+
+hsa-miR-4324	FEN1	flap structure-specific endonuclease 1
+Details
+
+11	
+98
+
+hsa-miR-4324	SLC14A1	solute carrier family 14 member 1 (Kidd blood group)
+Details
+
+12	
+98
+
+hsa-miR-4324	HNF4G	hepatocyte nuclear factor 4 gamma
+Details
+
+13	
+98
+
+hsa-miR-4324	ANO3	anoctamin 3
+Details
+
+14	
+98
+
+hsa-miR-4324	LOXL4	lysyl oxidase like 4
+Details
+
+15	
+98
+
+hsa-miR-4324	IMPA2	inositol monophosphatase 2
+Details
+
+16	
+97
+
+hsa-miR-4324	MBTD1	mbt domain containing 1
+Details
+
+17	
+97
+
+hsa-miR-4324	NATD1	N-acetyltransferase domain containing 1
+Details
+
+18	
+97
+
+hsa-miR-4324	NCOA3	nuclear receptor coactivator 3
+Details
+
+19	
+97
+
+hsa-miR-4324	CEP164	centrosomal protein 164
+Details
+
+20	
+97
+
+hsa-miR-4324	ELMOD2	ELMO domain containing 2
+Details
+
+21	
+97
+
+hsa-miR-4324	WASHC4	WASH complex subunit 4
+Details
+
+22	
+96
+
+hsa-miR-4324	PAQR8	progestin and adipoQ receptor family member 8
+Details
+
+23	
+96
+
+hsa-miR-4324	MTERF1	mitochondrial transcription termination factor 1
+Details
+
+24	
+96
+
+hsa-miR-4324	CIAO2A	cytosolic iron-sulfur assembly component 2A
+Details
+
+25	
+96
+
+hsa-miR-4324	MIA2	MIA SH3 domain ER export factor 2
+Details
+
+26	
+96
+
+hsa-miR-4324	BMP2	bone morphogenetic protein 2
+Details
+
+27	
+96
+
+hsa-miR-4324	PTK2	protein tyrosine kinase 2
+Details
+
+28	
+96
+
+hsa-miR-4324	ZNF646	zinc finger protein 646
+Details
+
+29	
+96
+
+hsa-miR-4324	TLN2	talin 2
+Details
+
+30	
+96
+
+hsa-miR-4324	HDX	highly divergent homeobox
+Details
+
+31	
+96
+
+hsa-miR-4324	HTT	huntingtin
+Details
+
+32	
+96
+
+hsa-miR-4324	PLPPR5	phospholipid phosphatase related 5
+Details
+
+33	
+96
+
+hsa-miR-4324	PRDM15	PR/SET domain 15
+Details
+
+34	
+96
+
+hsa-miR-4324	KCNN3	potassium calcium-activated channel subfamily N member 3
+Details
+
+35	
+96
+
+hsa-miR-4324	TRNP1	TMF1-regulated nuclear protein 1
+Details
+
+36	
+96
+
+hsa-miR-4324	ZFYVE28	zinc finger FYVE-type containing 28
+Details
+
+37	
+96
+
+hsa-miR-4324	RASSF5	Ras association domain family member 5
+Details
+
+38	
+95
+
+hsa-miR-4324	PCTP	phosphatidylcholine transfer protein
+Details
+
+39	
+95
+
+hsa-miR-4324	ZFHX4	zinc finger homeobox 4
+Details
+
+40	
+95
+
+hsa-miR-4324	PIP5K1A	phosphatidylinositol-4-phosphate 5-kinase type 1 alpha
+Details
+
+41	
+95
+
+hsa-miR-4324	ANGPTL2	angiopoietin like 2
+Details
+
+42	
+95
+
+hsa-miR-4324	TOMM40L	translocase of outer mitochondrial membrane 40 like
+Details
+
+43	
+95
+
+hsa-miR-4324	APPL1	adaptor protein, phosphotyrosine interacting with PH domain and leucine zipper 1
+Details
+
+44	
+95
+
+hsa-miR-4324	SH3GL2	SH3 domain containing GRB2 like 2, endophilin A1
+Details
+
+45	
+95
+
+hsa-miR-4324	ENDOV	endonuclease V
+Details
+
+46	
+94
+
+hsa-miR-4324	MORC2	MORC family CW-type zinc finger 2
+Details
+
+47	
+94
+
+hsa-miR-4324	H2AFZ	H2A histone family member Z
+Details
+
+48	
+94
+
+hsa-miR-4324	DOCK11	dedicator of cytokinesis 11
+Details
+
+49	
+94
+
+hsa-miR-4324	ABRACL	ABRA C-terminal like
+Details
+
+50	
+94
+
+hsa-miR-4324	ZIC3	Zic family member 3
+Details
+
+51	
+94
+
+hsa-miR-4324	IRX2	iroquois homeobox 2
+Details
+
+52	
+94
+
+hsa-miR-4324	PPP1R12B	protein phosphatase 1 regulatory subunit 12B
+Details
+
+53	
+94
+
+hsa-miR-4324	TMEM251	transmembrane protein 251
+Details
+
+54	
+94
+
+hsa-miR-4324	MYT1	myelin transcription factor 1
+Details
+
+55	
+94
+
+hsa-miR-4324	SLC35G1	solute carrier family 35 member G1
+Details
+
+56	
+94
+
+hsa-miR-4324	CADM1	cell adhesion molecule 1
+Details
+
+57	
+94
+
+hsa-miR-4324	IRS1	insulin receptor substrate 1
+Details
+
+58	
+94
+
+hsa-miR-4324	LIN28A	lin-28 homolog A
+Details
+
+59	
+94
+
+hsa-miR-4324	TBCEL	tubulin folding cofactor E like
+Details
+
+60	
+94
+
+hsa-miR-4324	SECISBP2L	SECIS binding protein 2 like
+Details
+
+61	
+93
+
+hsa-miR-4324	GLT8D1	glycosyltransferase 8 domain containing 1
+Details
+
+62	
+93
+
+hsa-miR-4324	PLXNA2	plexin A2
+Details
+
+63	
+93
+
+hsa-miR-4324	CTAGE15	CTAGE family member 15
+Details
+
+64	
+93
+
+hsa-miR-4324	CRELD1	cysteine rich with EGF like domains 1
+Details
+
+65	
+93
+
+hsa-miR-4324	API5	apoptosis inhibitor 5
+Details
+
+66	
+93
+
+hsa-miR-4324	UBR3	ubiquitin protein ligase E3 component n-recognin 3
+Details
+
+67	
+93
+
+hsa-miR-4324	ATP11C	ATPase phospholipid transporting 11C
+Details
+
+68	
+93
+
+hsa-miR-4324	CHIC1	cysteine rich hydrophobic domain 1
+Details
+
+69	
+93
+
+hsa-miR-4324	NFATC2IP	nuclear factor of activated T cells 2 interacting protein
+Details
+
+70	
+93
+
+hsa-miR-4324	SLC11A2	solute carrier family 11 member 2
+Details
+
+71	
+93
+
+hsa-miR-4324	CTAGE6	CTAGE family member 6
+Details
+
+72	
+93
+
+hsa-miR-4324	HOMER1	homer scaffold protein 1
+Details
+
+73	
+93
+
+hsa-miR-4324	KCNS3	potassium voltage-gated channel modifier subfamily S member 3
+Details
+
+74	
+93
+
+hsa-miR-4324	DCP2	decapping mRNA 2
+Details
+
+75	
+93
+
+hsa-miR-4324	RTN4RL1	reticulon 4 receptor like 1
+Details
+
+76	
+93
+
+hsa-miR-4324	CHFR	checkpoint with forkhead and ring finger domains
+Details
+
+77	
+93
+
+hsa-miR-4324	ACTL6A	actin like 6A
+Details
+
+78	
+93
+
+hsa-miR-4324	CDC42SE1	CDC42 small effector 1
+Details
+
+79	
+93
+
+hsa-miR-4324	EML4	EMAP like 4
+Details
+
+80	
+93
+
+hsa-miR-4324	PLXDC2	plexin domain containing 2
+Details
+
+81	
+93
+
+hsa-miR-4324	ABCC5	ATP binding cassette subfamily C member 5
+Details
+
+82	
+93
+
+hsa-miR-4324	AJUBA	ajuba LIM protein
+Details
+
+83	
+93
+
+hsa-miR-4324	GLCCI1	glucocorticoid induced 1
+Details
+
+84	
+93
+
+hsa-miR-4324	ACSL6	acyl-CoA synthetase long chain family member 6
+Details
+
+85	
+92
+
+hsa-miR-4324	CAND2	cullin associated and neddylation dissociated 2 (putative)
+Details
+
+86	
+92
+
+hsa-miR-4324	HTR7	5-hydroxytryptamine receptor 7
+Details
+
+87	
+92
+
+hsa-miR-4324	ARPP19	cAMP regulated phosphoprotein 19
+Details
+
+88	
+92
+
+hsa-miR-4324	FBN1	fibrillin 1
+Details
+
+89	
+92
+
+hsa-miR-4324	TCERG1	transcription elongation regulator 1
+Details
+
+90	
+92
+
+hsa-miR-4324	ATP8A1	ATPase phospholipid transporting 8A1
+Details
+
+91	
+92
+
+hsa-miR-4324	TMEM41B	transmembrane protein 41B
+Details
+
+92	
+92
+
+hsa-miR-4324	FAM169B	family with sequence similarity 169 member B
+Details
+
+93	
+92
+
+hsa-miR-4324	UNC80	unc-80 homolog, NALCN channel complex subunit
+Details
+
+94	
+92
+
+hsa-miR-4324	MEOX2	mesenchyme homeobox 2
+Details
+
+95	
+91
+
+hsa-miR-4324	EML1	EMAP like 1
+Details
+
+96	
+91
+
+hsa-miR-4324	CTBP2	C-terminal binding protein 2
+Details
+
+97	
+91
+
+hsa-miR-4324	HCCS	holocytochrome c synthase
+Details
+
+98	
+91
+
+hsa-miR-4324	HOXB2	homeobox B2
+Details
+
+99	
+91
+
+hsa-miR-4324	EPB41L4A	erythrocyte membrane protein band 4.1 like 4A
+Details
+
+100	
+91
+
+hsa-miR-4324	PLRG1	pleiotropic regulator 1
+Details
+
+101	
+91
+
+hsa-miR-4324	IDE	insulin degrading enzyme
+Details
+
+102	
+91
+
+hsa-miR-4324	TNKS	tankyrase
+Details
+
+103	
+91
+
+hsa-miR-4324	KIF21A	kinesin family member 21A
+Details
+
+104	
+90
+
+hsa-miR-4324	BEND4	BEN domain containing 4
+Details
+
+105	
+90
+
+hsa-miR-4324	CHD1	chromodomain helicase DNA binding protein 1
+Details
+
+106	
+90
+
+hsa-miR-4324	APPBP2	amyloid beta precursor protein binding protein 2
+Details
+
+107	
+90
+
+hsa-miR-4324	ZNF609	zinc finger protein 609
+Details
+
+108	
+90
+
+hsa-miR-4324	DMXL1	Dmx like 1
+Details
+
+109	
+90
+
+hsa-miR-4324	LATS2	large tumor suppressor kinase 2
+Details
+
+110	
+90
+
+hsa-miR-4324	HAPLN4	hyaluronan and proteoglycan link protein 4
+Details
+
+111	
+90
+
+hsa-miR-4324	HCK	HCK proto-oncogene, Src family tyrosine kinase
+Details
+
+112	
+90
+
+hsa-miR-4324	SIAH3	siah E3 ubiquitin protein ligase family member 3
+Details
+
+113	
+90
+
+hsa-miR-4324	ZNF629	zinc finger protein 629
+Details
+
+114	
+90
+
+hsa-miR-4324	PUS10	pseudouridine synthase 10
+Details
+
+115	
+90
+
+hsa-miR-4324	GALNTL6	polypeptide N-acetylgalactosaminyltransferase like 6

@@ -1,0 +1,169 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-6510-5p	MAFB	MAF bZIP transcription factor B
+Details
+
+2	
+97
+
+hsa-miR-6510-5p	SEC24C	SEC24 homolog C, COPII coat complex component
+Details
+
+3	
+97
+
+hsa-miR-6510-5p	MRTFA	myocardin related transcription factor A
+Details
+
+4	
+96
+
+hsa-miR-6510-5p	FGFR1OP2	FGFR1 oncogene partner 2
+Details
+
+5	
+95
+
+hsa-miR-6510-5p	WDR63	WD repeat domain 63
+Details
+
+6	
+95
+
+hsa-miR-6510-5p	KCNS1	potassium voltage-gated channel modifier subfamily S member 1
+Details
+
+7	
+95
+
+hsa-miR-6510-5p	NCDN	neurochondrin
+Details
+
+8	
+95
+
+hsa-miR-6510-5p	CDK16	cyclin dependent kinase 16
+Details
+
+9	
+95
+
+hsa-miR-6510-5p	SEPT4	septin 4
+Details
+
+10	
+95
+
+hsa-miR-6510-5p	MAP1A	microtubule associated protein 1A
+Details
+
+11	
+94
+
+hsa-miR-6510-5p	IKZF5	IKAROS family zinc finger 5
+Details
+
+12	
+94
+
+hsa-miR-6510-5p	IQSEC3	IQ motif and Sec7 domain 3
+Details
+
+13	
+94
+
+hsa-miR-6510-5p	TP53BP1	tumor protein p53 binding protein 1
+Details
+
+14	
+94
+
+hsa-miR-6510-5p	HYKK	hydroxylysine kinase
+Details
+
+15	
+93
+
+hsa-miR-6510-5p	PAFAH1B1	platelet activating factor acetylhydrolase 1b regulatory subunit 1
+Details
+
+16	
+93
+
+hsa-miR-6510-5p	URM1	ubiquitin related modifier 1
+Details
+
+17	
+93
+
+hsa-miR-6510-5p	ERC1	ELKS/RAB6-interacting/CAST family member 1
+Details
+
+18	
+93
+
+hsa-miR-6510-5p	GABRE	gamma-aminobutyric acid type A receptor epsilon subunit
+Details
+
+19	
+93
+
+hsa-miR-6510-5p	CDC34	cell division cycle 34
+Details
+
+20	
+93
+
+hsa-miR-6510-5p	GPC6	glypican 6
+Details
+
+21	
+92
+
+hsa-miR-6510-5p	ACSL1	acyl-CoA synthetase long chain family member 1
+Details
+
+22	
+92
+
+hsa-miR-6510-5p	FOCAD	focadhesin
+Details
+
+23	
+92
+
+hsa-miR-6510-5p	FXYD6	FXYD domain containing ion transport regulator 6
+Details
+
+24	
+91
+
+hsa-miR-6510-5p	ALX4	ALX homeobox 4
+Details
+
+25	
+91
+
+hsa-miR-6510-5p	SIGMAR1	sigma non-opioid intracellular receptor 1
+Details
+
+26	
+91
+
+hsa-miR-6510-5p	BPTF	bromodomain PHD finger transcription factor
+Details
+
+27	
+90
+
+hsa-miR-6510-5p	RCC1	regulator of chromosome condensation 1
+Details
+
+28	
+90
+
+hsa-miR-6510-5p	CHMP5	charged multivesicular body protein 5

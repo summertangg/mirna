@@ -1,0 +1,193 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+97
+
+hsa-miR-7855-5p	LIN7A	lin-7 homolog A, crumbs cell polarity complex component
+Details
+
+2	
+97
+
+hsa-miR-7855-5p	FCGR1B	Fc fragment of IgG receptor Ib
+Details
+
+3	
+96
+
+hsa-miR-7855-5p	BPY2C	basic charge Y-linked 2C
+Details
+
+4	
+96
+
+hsa-miR-7855-5p	BPY2B	basic charge Y-linked 2B
+Details
+
+5	
+96
+
+hsa-miR-7855-5p	RGS6	regulator of G protein signaling 6
+Details
+
+6	
+96
+
+hsa-miR-7855-5p	BPY2	basic charge Y-linked 2
+Details
+
+7	
+96
+
+hsa-miR-7855-5p	ADAMTSL1	ADAMTS like 1
+Details
+
+8	
+95
+
+hsa-miR-7855-5p	YTHDF3	YTH N6-methyladenosine RNA binding protein 3
+Details
+
+9	
+94
+
+hsa-miR-7855-5p	SNIP1	Smad nuclear interacting protein 1
+Details
+
+10	
+94
+
+hsa-miR-7855-5p	GSK3B	glycogen synthase kinase 3 beta
+Details
+
+11	
+94
+
+hsa-miR-7855-5p	EIF5A2	eukaryotic translation initiation factor 5A2
+Details
+
+12	
+94
+
+hsa-miR-7855-5p	ATG10	autophagy related 10
+Details
+
+13	
+93
+
+hsa-miR-7855-5p	TMEM178B	transmembrane protein 178B
+Details
+
+14	
+93
+
+hsa-miR-7855-5p	LRFN3	leucine rich repeat and fibronectin type III domain containing 3
+Details
+
+15	
+93
+
+hsa-miR-7855-5p	SLC35F2	solute carrier family 35 member F2
+Details
+
+16	
+92
+
+hsa-miR-7855-5p	NANOGNB	NANOG neighbor homeobox
+Details
+
+17	
+92
+
+hsa-miR-7855-5p	FURIN	furin, paired basic amino acid cleaving enzyme
+Details
+
+18	
+92
+
+hsa-miR-7855-5p	EPHB1	EPH receptor B1
+Details
+
+19	
+92
+
+hsa-miR-7855-5p	PPP2R5D	protein phosphatase 2 regulatory subunit B'delta
+Details
+
+20	
+91
+
+hsa-miR-7855-5p	PCDH19	protocadherin 19
+Details
+
+21	
+91
+
+hsa-miR-7855-5p	TRAT1	T cell receptor associated transmembrane adaptor 1
+Details
+
+22	
+91
+
+hsa-miR-7855-5p	DPP3	dipeptidyl peptidase 3
+Details
+
+23	
+91
+
+hsa-miR-7855-5p	HOMER1	homer scaffold protein 1
+Details
+
+24	
+91
+
+hsa-miR-7855-5p	IMP4	IMP4, U3 small nucleolar ribonucleoprotein
+Details
+
+25	
+91
+
+hsa-miR-7855-5p	NAV1	neuron navigator 1
+Details
+
+26	
+91
+
+hsa-miR-7855-5p	RORB	RAR related orphan receptor B
+Details
+
+27	
+90
+
+hsa-miR-7855-5p	MYPN	myopalladin
+Details
+
+28	
+90
+
+hsa-miR-7855-5p	STC1	stanniocalcin 1
+Details
+
+29	
+90
+
+hsa-miR-7855-5p	TTC30A	tetratricopeptide repeat domain 30A
+Details
+
+30	
+90
+
+hsa-miR-7855-5p	GPLD1	glycosylphosphatidylinositol specific phospholipase D1
+Details
+
+31	
+90
+
+hsa-miR-7855-5p	PLA2G4A	phospholipase A2 group IVA
+Details
+
+32	
+90
+
+hsa-miR-7855-5p	GOLPH3	golgi phosphoprotein 3

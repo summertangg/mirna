@@ -1,0 +1,2407 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-371b-5p	ZNF845	zinc finger protein 845
+Details
+
+2	
+100
+
+hsa-miR-371b-5p	ZC3H6	zinc finger CCCH-type containing 6
+Details
+
+3	
+100
+
+hsa-miR-371b-5p	SPAG9	sperm associated antigen 9
+Details
+
+4	
+100
+
+hsa-miR-371b-5p	SLC35E2A	solute carrier family 35 member E2A
+Details
+
+5	
+100
+
+hsa-miR-371b-5p	ZNF850	zinc finger protein 850
+Details
+
+6	
+100
+
+hsa-miR-371b-5p	AKR1D1	aldo-keto reductase family 1 member D1
+Details
+
+7	
+100
+
+hsa-miR-371b-5p	TMEM33	transmembrane protein 33
+Details
+
+8	
+100
+
+hsa-miR-371b-5p	ZBTB3	zinc finger and BTB domain containing 3
+Details
+
+9	
+100
+
+hsa-miR-371b-5p	S1PR2	sphingosine-1-phosphate receptor 2
+Details
+
+10	
+100
+
+hsa-miR-371b-5p	UQCC3	ubiquinol-cytochrome c reductase complex assembly factor 3
+Details
+
+11	
+100
+
+hsa-miR-371b-5p	SCAI	suppressor of cancer cell invasion
+Details
+
+12	
+100
+
+hsa-miR-371b-5p	MDM4	MDM4, p53 regulator
+Details
+
+13	
+100
+
+hsa-miR-371b-5p	HAUS5	HAUS augmin like complex subunit 5
+Details
+
+14	
+100
+
+hsa-miR-371b-5p	RLIM	ring finger protein, LIM domain interacting
+Details
+
+15	
+100
+
+hsa-miR-371b-5p	ZNF785	zinc finger protein 785
+Details
+
+16	
+100
+
+hsa-miR-371b-5p	SUSD5	sushi domain containing 5
+Details
+
+17	
+100
+
+hsa-miR-371b-5p	RPL15	ribosomal protein L15
+Details
+
+18	
+100
+
+hsa-miR-371b-5p	CYP20A1	cytochrome P450 family 20 subfamily A member 1
+Details
+
+19	
+99
+
+hsa-miR-371b-5p	RTCA	RNA 3'-terminal phosphate cyclase
+Details
+
+20	
+99
+
+hsa-miR-371b-5p	ZNF816-ZNF321P	ZNF816-ZNF321P readthrough
+Details
+
+21	
+99
+
+hsa-miR-371b-5p	KPNA3	karyopherin subunit alpha 3
+Details
+
+22	
+99
+
+hsa-miR-371b-5p	ATP6V0A2	ATPase H+ transporting V0 subunit a2
+Details
+
+23	
+99
+
+hsa-miR-371b-5p	SLC24A4	solute carrier family 24 member 4
+Details
+
+24	
+99
+
+hsa-miR-371b-5p	GPI	glucose-6-phosphate isomerase
+Details
+
+25	
+99
+
+hsa-miR-371b-5p	TMEM170B	transmembrane protein 170B
+Details
+
+26	
+99
+
+hsa-miR-371b-5p	PHTF2	putative homeodomain transcription factor 2
+Details
+
+27	
+99
+
+hsa-miR-371b-5p	ZNF578	zinc finger protein 578
+Details
+
+28	
+99
+
+hsa-miR-371b-5p	MDM2	MDM2 proto-oncogene
+Details
+
+29	
+99
+
+hsa-miR-371b-5p	DNAL1	dynein axonemal light chain 1
+Details
+
+30	
+99
+
+hsa-miR-371b-5p	TOR1AIP2	torsin 1A interacting protein 2
+Details
+
+31	
+99
+
+hsa-miR-371b-5p	TMEM120B	transmembrane protein 120B
+Details
+
+32	
+99
+
+hsa-miR-371b-5p	MAPK8	mitogen-activated protein kinase 8
+Details
+
+33	
+99
+
+hsa-miR-371b-5p	SPATS2L	spermatogenesis associated serine rich 2 like
+Details
+
+34	
+99
+
+hsa-miR-371b-5p	SDE2	SDE2 telomere maintenance homolog
+Details
+
+35	
+99
+
+hsa-miR-371b-5p	TPM3	tropomyosin 3
+Details
+
+36	
+99
+
+hsa-miR-371b-5p	GPN3	GPN-loop GTPase 3
+Details
+
+37	
+99
+
+hsa-miR-371b-5p	EDEM1	ER degradation enhancing alpha-mannosidase like protein 1
+Details
+
+38	
+99
+
+hsa-miR-371b-5p	CBX5	chromobox 5
+Details
+
+39	
+99
+
+hsa-miR-371b-5p	MTPAP	mitochondrial poly(A) polymerase
+Details
+
+40	
+99
+
+hsa-miR-371b-5p	ZNF839	zinc finger protein 839
+Details
+
+41	
+99
+
+hsa-miR-371b-5p	ARFIP1	ADP ribosylation factor interacting protein 1
+Details
+
+42	
+99
+
+hsa-miR-371b-5p	APOBEC3F	apolipoprotein B mRNA editing enzyme catalytic subunit 3F
+Details
+
+43	
+99
+
+hsa-miR-371b-5p	SPATA5	spermatogenesis associated 5
+Details
+
+44	
+99
+
+hsa-miR-371b-5p	GOLGA3	golgin A3
+Details
+
+45	
+99
+
+hsa-miR-371b-5p	TRIM13	tripartite motif containing 13
+Details
+
+46	
+99
+
+hsa-miR-371b-5p	DBT	dihydrolipoamide branched chain transacylase E2
+Details
+
+47	
+98
+
+hsa-miR-371b-5p	ZNF490	zinc finger protein 490
+Details
+
+48	
+98
+
+hsa-miR-371b-5p	ZFP14	ZFP14 zinc finger protein
+Details
+
+49	
+98
+
+hsa-miR-371b-5p	TRMT9B	tRNA methyltransferase 9B (putative)
+Details
+
+50	
+98
+
+hsa-miR-371b-5p	SERF1B	small EDRK-rich factor 1B
+Details
+
+51	
+98
+
+hsa-miR-371b-5p	PRELID2	PRELI domain containing 2
+Details
+
+52	
+98
+
+hsa-miR-371b-5p	MTFMT	mitochondrial methionyl-tRNA formyltransferase
+Details
+
+53	
+98
+
+hsa-miR-371b-5p	ZNF486	zinc finger protein 486
+Details
+
+54	
+98
+
+hsa-miR-371b-5p	USP33	ubiquitin specific peptidase 33
+Details
+
+55	
+98
+
+hsa-miR-371b-5p	SS18	SS18, nBAF chromatin remodeling complex subunit
+Details
+
+56	
+98
+
+hsa-miR-371b-5p	TRAF3IP2	TRAF3 interacting protein 2
+Details
+
+57	
+98
+
+hsa-miR-371b-5p	ENPP1	ectonucleotide pyrophosphatase/phosphodiesterase 1
+Details
+
+58	
+98
+
+hsa-miR-371b-5p	ATL3	atlastin GTPase 3
+Details
+
+59	
+98
+
+hsa-miR-371b-5p	MYO5C	myosin VC
+Details
+
+60	
+98
+
+hsa-miR-371b-5p	SCD5	stearoyl-CoA desaturase 5
+Details
+
+61	
+98
+
+hsa-miR-371b-5p	NUDT19	nudix hydrolase 19
+Details
+
+62	
+98
+
+hsa-miR-371b-5p	IBA57	IBA57, iron-sulfur cluster assembly
+Details
+
+63	
+98
+
+hsa-miR-371b-5p	ZCCHC8	zinc finger CCHC-type containing 8
+Details
+
+64	
+98
+
+hsa-miR-371b-5p	ATXN7	ataxin 7
+Details
+
+65	
+98
+
+hsa-miR-371b-5p	TRAPPC2	trafficking protein particle complex 2
+Details
+
+66	
+98
+
+hsa-miR-371b-5p	ZC3H12B	zinc finger CCCH-type containing 12B
+Details
+
+67	
+98
+
+hsa-miR-371b-5p	ZNF814	zinc finger protein 814
+Details
+
+68	
+98
+
+hsa-miR-371b-5p	CNTLN	centlein
+Details
+
+69	
+98
+
+hsa-miR-371b-5p	JAK2	Janus kinase 2
+Details
+
+70	
+98
+
+hsa-miR-371b-5p	MYLK3	myosin light chain kinase 3
+Details
+
+71	
+98
+
+hsa-miR-371b-5p	ACOX1	acyl-CoA oxidase 1
+Details
+
+72	
+98
+
+hsa-miR-371b-5p	WNK3	WNK lysine deficient protein kinase 3
+Details
+
+73	
+98
+
+hsa-miR-371b-5p	ZNF805	zinc finger protein 805
+Details
+
+74	
+98
+
+hsa-miR-371b-5p	CD3EAP	CD3e molecule associated protein
+Details
+
+75	
+98
+
+hsa-miR-371b-5p	NF2	neurofibromin 2
+Details
+
+76	
+98
+
+hsa-miR-371b-5p	DENND1B	DENN domain containing 1B
+Details
+
+77	
+98
+
+hsa-miR-371b-5p	SERF1A	small EDRK-rich factor 1A
+Details
+
+78	
+98
+
+hsa-miR-371b-5p	CYP1A2	cytochrome P450 family 1 subfamily A member 2
+Details
+
+79	
+98
+
+hsa-miR-371b-5p	CLSPN	claspin
+Details
+
+80	
+98
+
+hsa-miR-371b-5p	PATJ	PATJ, crumbs cell polarity complex component
+Details
+
+81	
+98
+
+hsa-miR-371b-5p	NOL9	nucleolar protein 9
+Details
+
+82	
+98
+
+hsa-miR-371b-5p	PIGR	polymeric immunoglobulin receptor
+Details
+
+83	
+98
+
+hsa-miR-371b-5p	GNS	glucosamine (N-acetyl)-6-sulfatase
+Details
+
+84	
+98
+
+hsa-miR-371b-5p	UBE2K	ubiquitin conjugating enzyme E2 K
+Details
+
+85	
+98
+
+hsa-miR-371b-5p	TAF8	TATA-box binding protein associated factor 8
+Details
+
+86	
+98
+
+hsa-miR-371b-5p	RAD52	RAD52 homolog, DNA repair protein
+Details
+
+87	
+97
+
+hsa-miR-371b-5p	ZNF587	zinc finger protein 587
+Details
+
+88	
+97
+
+hsa-miR-371b-5p	HPSE	heparanase
+Details
+
+89	
+97
+
+hsa-miR-371b-5p	ALDH6A1	aldehyde dehydrogenase 6 family member A1
+Details
+
+90	
+97
+
+hsa-miR-371b-5p	SPACA9	sperm acrosome associated 9
+Details
+
+91	
+97
+
+hsa-miR-371b-5p	CNOT6L	CCR4-NOT transcription complex subunit 6 like
+Details
+
+92	
+97
+
+hsa-miR-371b-5p	IMPAD1	inositol monophosphatase domain containing 1
+Details
+
+93	
+97
+
+hsa-miR-371b-5p	MEFV	MEFV, pyrin innate immunity regulator
+Details
+
+94	
+97
+
+hsa-miR-371b-5p	ATP13A4	ATPase 13A4
+Details
+
+95	
+97
+
+hsa-miR-371b-5p	VHL	von Hippel-Lindau tumor suppressor
+Details
+
+96	
+97
+
+hsa-miR-371b-5p	CLCC1	chloride channel CLIC like 1
+Details
+
+97	
+97
+
+hsa-miR-371b-5p	TGS1	trimethylguanosine synthase 1
+Details
+
+98	
+97
+
+hsa-miR-371b-5p	TOGARAM1	TOG array regulator of axonemal microtubules 1
+Details
+
+99	
+97
+
+hsa-miR-371b-5p	UHMK1	U2AF homology motif kinase 1
+Details
+
+100	
+97
+
+hsa-miR-371b-5p	RIMKLB	ribosomal modification protein rimK like family member B
+Details
+
+101	
+97
+
+hsa-miR-371b-5p	SUPT7L	SPT7 like, STAGA complex gamma subunit
+Details
+
+102	
+97
+
+hsa-miR-371b-5p	LRTOMT	leucine rich transmembrane and O-methyltransferase domain containing
+Details
+
+103	
+97
+
+hsa-miR-371b-5p	PRTG	protogenin
+Details
+
+104	
+97
+
+hsa-miR-371b-5p	SKA1	spindle and kinetochore associated complex subunit 1
+Details
+
+105	
+97
+
+hsa-miR-371b-5p	WDR55	WD repeat domain 55
+Details
+
+106	
+97
+
+hsa-miR-371b-5p	ZNF600	zinc finger protein 600
+Details
+
+107	
+97
+
+hsa-miR-371b-5p	ST6GAL2	ST6 beta-galactoside alpha-2,6-sialyltransferase 2
+Details
+
+108	
+97
+
+hsa-miR-371b-5p	CCNJ	cyclin J
+Details
+
+109	
+97
+
+hsa-miR-371b-5p	MCM4	minichromosome maintenance complex component 4
+Details
+
+110	
+97
+
+hsa-miR-371b-5p	ACKR2	atypical chemokine receptor 2
+Details
+
+111	
+97
+
+hsa-miR-371b-5p	ZNF22	zinc finger protein 22
+Details
+
+112	
+97
+
+hsa-miR-371b-5p	ZC3H13	zinc finger CCCH-type containing 13
+Details
+
+113	
+97
+
+hsa-miR-371b-5p	RAB21	RAB21, member RAS oncogene family
+Details
+
+114	
+97
+
+hsa-miR-371b-5p	SLC16A7	solute carrier family 16 member 7
+Details
+
+115	
+97
+
+hsa-miR-371b-5p	SPC24	SPC24, NDC80 kinetochore complex component
+Details
+
+116	
+96
+
+hsa-miR-371b-5p	ME2	malic enzyme 2
+Details
+
+117	
+96
+
+hsa-miR-371b-5p	WDR5B	WD repeat domain 5B
+Details
+
+118	
+96
+
+hsa-miR-371b-5p	XPNPEP3	X-prolyl aminopeptidase 3
+Details
+
+119	
+96
+
+hsa-miR-371b-5p	DCUN1D1	defective in cullin neddylation 1 domain containing 1
+Details
+
+120	
+96
+
+hsa-miR-371b-5p	CASTOR2	cytosolic arginine sensor for mTORC1 subunit 2
+Details
+
+121	
+96
+
+hsa-miR-371b-5p	SAR1B	secretion associated Ras related GTPase 1B
+Details
+
+122	
+96
+
+hsa-miR-371b-5p	TAPBP	TAP binding protein
+Details
+
+123	
+96
+
+hsa-miR-371b-5p	STON2	stonin 2
+Details
+
+124	
+96
+
+hsa-miR-371b-5p	JAK3	Janus kinase 3
+Details
+
+125	
+96
+
+hsa-miR-371b-5p	ARPIN	actin related protein 2/3 complex inhibitor
+Details
+
+126	
+96
+
+hsa-miR-371b-5p	MRPS16	mitochondrial ribosomal protein S16
+Details
+
+127	
+96
+
+hsa-miR-371b-5p	ZNF264	zinc finger protein 264
+Details
+
+128	
+96
+
+hsa-miR-371b-5p	KPNA4	karyopherin subunit alpha 4
+Details
+
+129	
+96
+
+hsa-miR-371b-5p	PSMD12	proteasome 26S subunit, non-ATPase 12
+Details
+
+130	
+96
+
+hsa-miR-371b-5p	PTEN	phosphatase and tensin homolog
+Details
+
+131	
+96
+
+hsa-miR-371b-5p	CEBPB	CCAAT enhancer binding protein beta
+Details
+
+132	
+96
+
+hsa-miR-371b-5p	RETREG3	reticulophagy regulator family member 3
+Details
+
+133	
+96
+
+hsa-miR-371b-5p	MRPL19	mitochondrial ribosomal protein L19
+Details
+
+134	
+96
+
+hsa-miR-371b-5p	SV2B	synaptic vesicle glycoprotein 2B
+Details
+
+135	
+96
+
+hsa-miR-371b-5p	CLEC7A	C-type lectin domain containing 7A
+Details
+
+136	
+96
+
+hsa-miR-371b-5p	KCTD14	potassium channel tetramerization domain containing 14
+Details
+
+137	
+96
+
+hsa-miR-371b-5p	DBR1	debranching RNA lariats 1
+Details
+
+138	
+96
+
+hsa-miR-371b-5p	LAMP2	lysosomal associated membrane protein 2
+Details
+
+139	
+96
+
+hsa-miR-371b-5p	LYRM7	LYR motif containing 7
+Details
+
+140	
+96
+
+hsa-miR-371b-5p	AP1G1	adaptor related protein complex 1 subunit gamma 1
+Details
+
+141	
+96
+
+hsa-miR-371b-5p	SLC25A34	solute carrier family 25 member 34
+Details
+
+142	
+96
+
+hsa-miR-371b-5p	DISC1	DISC1 scaffold protein
+Details
+
+143	
+96
+
+hsa-miR-371b-5p	RASSF5	Ras association domain family member 5
+Details
+
+144	
+96
+
+hsa-miR-371b-5p	UNC80	unc-80 homolog, NALCN channel complex subunit
+Details
+
+145	
+96
+
+hsa-miR-371b-5p	TULP4	tubby like protein 4
+Details
+
+146	
+96
+
+hsa-miR-371b-5p	RSKR	ribosomal protein S6 kinase related
+Details
+
+147	
+96
+
+hsa-miR-371b-5p	POLH	DNA polymerase eta
+Details
+
+148	
+96
+
+hsa-miR-371b-5p	ENAH	ENAH, actin regulator
+Details
+
+149	
+95
+
+hsa-miR-371b-5p	WAC	WW domain containing adaptor with coiled-coil
+Details
+
+150	
+95
+
+hsa-miR-371b-5p	INSYN1	inhibitory synaptic factor 1
+Details
+
+151	
+95
+
+hsa-miR-371b-5p	ISL1	ISL LIM homeobox 1
+Details
+
+152	
+95
+
+hsa-miR-371b-5p	FAM234B	family with sequence similarity 234 member B
+Details
+
+153	
+95
+
+hsa-miR-371b-5p	ARL6IP1	ADP ribosylation factor like GTPase 6 interacting protein 1
+Details
+
+154	
+95
+
+hsa-miR-371b-5p	EMP2	epithelial membrane protein 2
+Details
+
+155	
+95
+
+hsa-miR-371b-5p	BCL10	BCL10, immune signaling adaptor
+Details
+
+156	
+95
+
+hsa-miR-371b-5p	NLRC3	NLR family CARD domain containing 3
+Details
+
+157	
+95
+
+hsa-miR-371b-5p	GNL3L	G protein nucleolar 3 like
+Details
+
+158	
+95
+
+hsa-miR-371b-5p	CSK	C-terminal Src kinase
+Details
+
+159	
+95
+
+hsa-miR-371b-5p	EEA1	early endosome antigen 1
+Details
+
+160	
+95
+
+hsa-miR-371b-5p	TVP23C	trans-golgi network vesicle protein 23 homolog C
+Details
+
+161	
+95
+
+hsa-miR-371b-5p	ATF1	activating transcription factor 1
+Details
+
+162	
+95
+
+hsa-miR-371b-5p	SFR1	SWI5 dependent homologous recombination repair protein 1
+Details
+
+163	
+95
+
+hsa-miR-371b-5p	DUSP19	dual specificity phosphatase 19
+Details
+
+164	
+95
+
+hsa-miR-371b-5p	RAD54L2	RAD54 like 2
+Details
+
+165	
+95
+
+hsa-miR-371b-5p	DTX3L	deltex E3 ubiquitin ligase 3L
+Details
+
+166	
+95
+
+hsa-miR-371b-5p	RNF207	ring finger protein 207
+Details
+
+167	
+95
+
+hsa-miR-371b-5p	ALS2	ALS2, alsin Rho guanine nucleotide exchange factor
+Details
+
+168	
+95
+
+hsa-miR-371b-5p	FAM20B	FAM20B, glycosaminoglycan xylosylkinase
+Details
+
+169	
+95
+
+hsa-miR-371b-5p	NHLRC2	NHL repeat containing 2
+Details
+
+170	
+95
+
+hsa-miR-371b-5p	CA5B	carbonic anhydrase 5B
+Details
+
+171	
+95
+
+hsa-miR-371b-5p	VPS26A	VPS26, retromer complex component A
+Details
+
+172	
+95
+
+hsa-miR-371b-5p	TMEM106B	transmembrane protein 106B
+Details
+
+173	
+95
+
+hsa-miR-371b-5p	KIF3A	kinesin family member 3A
+Details
+
+174	
+95
+
+hsa-miR-371b-5p	PSTPIP2	proline-serine-threonine phosphatase interacting protein 2
+Details
+
+175	
+95
+
+hsa-miR-371b-5p	RPP30	ribonuclease P/MRP subunit p30
+Details
+
+176	
+95
+
+hsa-miR-371b-5p	GCSAML	germinal center associated signaling and motility like
+Details
+
+177	
+95
+
+hsa-miR-371b-5p	FGF12	fibroblast growth factor 12
+Details
+
+178	
+95
+
+hsa-miR-371b-5p	NDUFC2-KCTD14	NDUFC2-KCTD14 readthrough
+Details
+
+179	
+95
+
+hsa-miR-371b-5p	RAB11A	RAB11A, member RAS oncogene family
+Details
+
+180	
+95
+
+hsa-miR-371b-5p	TIMM50	translocase of inner mitochondrial membrane 50
+Details
+
+181	
+95
+
+hsa-miR-371b-5p	PIWIL1	piwi like RNA-mediated gene silencing 1
+Details
+
+182	
+94
+
+hsa-miR-371b-5p	HOOK3	hook microtubule tethering protein 3
+Details
+
+183	
+94
+
+hsa-miR-371b-5p	TXNDC9	thioredoxin domain containing 9
+Details
+
+184	
+94
+
+hsa-miR-371b-5p	TWF1	twinfilin actin binding protein 1
+Details
+
+185	
+94
+
+hsa-miR-371b-5p	TENM2	teneurin transmembrane protein 2
+Details
+
+186	
+94
+
+hsa-miR-371b-5p	NLK	nemo like kinase
+Details
+
+187	
+94
+
+hsa-miR-371b-5p	GNB4	G protein subunit beta 4
+Details
+
+188	
+94
+
+hsa-miR-371b-5p	CYLD	CYLD lysine 63 deubiquitinase
+Details
+
+189	
+94
+
+hsa-miR-371b-5p	ZNF793	zinc finger protein 793
+Details
+
+190	
+94
+
+hsa-miR-371b-5p	TSPYL1	TSPY like 1
+Details
+
+191	
+94
+
+hsa-miR-371b-5p	ADPRH	ADP-ribosylarginine hydrolase
+Details
+
+192	
+94
+
+hsa-miR-371b-5p	TCTN2	tectonic family member 2
+Details
+
+193	
+94
+
+hsa-miR-371b-5p	ADIPOQ	adiponectin, C1Q and collagen domain containing
+Details
+
+194	
+94
+
+hsa-miR-371b-5p	ZBTB8OS	zinc finger and BTB domain containing 8 opposite strand
+Details
+
+195	
+94
+
+hsa-miR-371b-5p	EXOC5	exocyst complex component 5
+Details
+
+196	
+94
+
+hsa-miR-371b-5p	CREB1	cAMP responsive element binding protein 1
+Details
+
+197	
+94
+
+hsa-miR-371b-5p	NMNAT1	nicotinamide nucleotide adenylyltransferase 1
+Details
+
+198	
+94
+
+hsa-miR-371b-5p	ZFC3H1	zinc finger C3H1-type containing
+Details
+
+199	
+94
+
+hsa-miR-371b-5p	FOXK1	forkhead box K1
+Details
+
+200	
+94
+
+hsa-miR-371b-5p	CYB5R3	cytochrome b5 reductase 3
+Details
+
+201	
+94
+
+hsa-miR-371b-5p	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1
+Details
+
+202	
+94
+
+hsa-miR-371b-5p	DCP2	decapping mRNA 2
+Details
+
+203	
+94
+
+hsa-miR-371b-5p	KRT222	keratin 222
+Details
+
+204	
+94
+
+hsa-miR-371b-5p	MLEC	malectin
+Details
+
+205	
+94
+
+hsa-miR-371b-5p	IYD	iodotyrosine deiodinase
+Details
+
+206	
+94
+
+hsa-miR-371b-5p	MSS51	MSS51 mitochondrial translational activator
+Details
+
+207	
+94
+
+hsa-miR-371b-5p	HP1BP3	heterochromatin protein 1 binding protein 3
+Details
+
+208	
+94
+
+hsa-miR-371b-5p	BAG5	BCL2 associated athanogene 5
+Details
+
+209	
+94
+
+hsa-miR-371b-5p	KRIT1	KRIT1, ankyrin repeat containing
+Details
+
+210	
+94
+
+hsa-miR-371b-5p	REEP3	receptor accessory protein 3
+Details
+
+211	
+94
+
+hsa-miR-371b-5p	ZMYM1	zinc finger MYM-type containing 1
+Details
+
+212	
+94
+
+hsa-miR-371b-5p	ACYP2	acylphosphatase 2
+Details
+
+213	
+94
+
+hsa-miR-371b-5p	RBL1	RB transcriptional corepressor like 1
+Details
+
+214	
+94
+
+hsa-miR-371b-5p	SH3BGRL2	SH3 domain binding glutamate rich protein like 2
+Details
+
+215	
+94
+
+hsa-miR-371b-5p	CNBP	CCHC-type zinc finger nucleic acid binding protein
+Details
+
+216	
+94
+
+hsa-miR-371b-5p	PCDH10	protocadherin 10
+Details
+
+217	
+94
+
+hsa-miR-371b-5p	FAM228B	family with sequence similarity 228 member B
+Details
+
+218	
+94
+
+hsa-miR-371b-5p	XIAP	X-linked inhibitor of apoptosis
+Details
+
+219	
+94
+
+hsa-miR-371b-5p	TOPORS	TOP1 binding arginine/serine rich protein
+Details
+
+220	
+94
+
+hsa-miR-371b-5p	FUS	FUS RNA binding protein
+Details
+
+221	
+94
+
+hsa-miR-371b-5p	SIKE1	suppressor of IKBKE 1
+Details
+
+222	
+94
+
+hsa-miR-371b-5p	MORN4	MORN repeat containing 4
+Details
+
+223	
+94
+
+hsa-miR-371b-5p	VPS33B	VPS33B, late endosome and lysosome associated
+Details
+
+224	
+93
+
+hsa-miR-371b-5p	PRR27	proline rich 27
+Details
+
+225	
+93
+
+hsa-miR-371b-5p	KIF18B	kinesin family member 18B
+Details
+
+226	
+93
+
+hsa-miR-371b-5p	H6PD	hexose-6-phosphate dehydrogenase/glucose 1-dehydrogenase
+Details
+
+227	
+93
+
+hsa-miR-371b-5p	SURF4	surfeit 4
+Details
+
+228	
+93
+
+hsa-miR-371b-5p	ZCCHC4	zinc finger CCHC-type containing 4
+Details
+
+229	
+93
+
+hsa-miR-371b-5p	COX15	cytochrome c oxidase assembly homolog COX15
+Details
+
+230	
+93
+
+hsa-miR-371b-5p	ZNF709	zinc finger protein 709
+Details
+
+231	
+93
+
+hsa-miR-371b-5p	OCLN	occludin
+Details
+
+232	
+93
+
+hsa-miR-371b-5p	KMT5B	lysine methyltransferase 5B
+Details
+
+233	
+93
+
+hsa-miR-371b-5p	RPL34	ribosomal protein L34
+Details
+
+234	
+93
+
+hsa-miR-371b-5p	ZNF451	zinc finger protein 451
+Details
+
+235	
+93
+
+hsa-miR-371b-5p	SLC36A2	solute carrier family 36 member 2
+Details
+
+236	
+93
+
+hsa-miR-371b-5p	SERTAD2	SERTA domain containing 2
+Details
+
+237	
+93
+
+hsa-miR-371b-5p	HAVCR2	hepatitis A virus cellular receptor 2
+Details
+
+238	
+93
+
+hsa-miR-371b-5p	RAP1A	RAP1A, member of RAS oncogene family
+Details
+
+239	
+93
+
+hsa-miR-371b-5p	PWWP3B	PWWP domain containing 3B
+Details
+
+240	
+93
+
+hsa-miR-371b-5p	SYNJ2BP	synaptojanin 2 binding protein
+Details
+
+241	
+93
+
+hsa-miR-371b-5p	LZIC	leucine zipper and CTNNBIP1 domain containing
+Details
+
+242	
+93
+
+hsa-miR-371b-5p	TRIM16	tripartite motif containing 16
+Details
+
+243	
+93
+
+hsa-miR-371b-5p	SH3TC2	SH3 domain and tetratricopeptide repeats 2
+Details
+
+244	
+93
+
+hsa-miR-371b-5p	PNISR	PNN interacting serine and arginine rich protein
+Details
+
+245	
+93
+
+hsa-miR-371b-5p	TM4SF20	transmembrane 4 L six family member 20
+Details
+
+246	
+93
+
+hsa-miR-371b-5p	MRFAP1	Morf4 family associated protein 1
+Details
+
+247	
+93
+
+hsa-miR-371b-5p	ZCCHC14	zinc finger CCHC-type containing 14
+Details
+
+248	
+93
+
+hsa-miR-371b-5p	UBE2W	ubiquitin conjugating enzyme E2 W
+Details
+
+249	
+93
+
+hsa-miR-371b-5p	FAM210A	family with sequence similarity 210 member A
+Details
+
+250	
+93
+
+hsa-miR-371b-5p	G6PC	glucose-6-phosphatase catalytic subunit
+Details
+
+251	
+93
+
+hsa-miR-371b-5p	ILDR2	immunoglobulin like domain containing receptor 2
+Details
+
+252	
+93
+
+hsa-miR-371b-5p	SERPINB9	serpin family B member 9
+Details
+
+253	
+93
+
+hsa-miR-371b-5p	CFL2	cofilin 2
+Details
+
+254	
+93
+
+hsa-miR-371b-5p	CSDE1	cold shock domain containing E1
+Details
+
+255	
+92
+
+hsa-miR-371b-5p	PPM1K	protein phosphatase, Mg2+/Mn2+ dependent 1K
+Details
+
+256	
+92
+
+hsa-miR-371b-5p	SENP5	SUMO specific peptidase 5
+Details
+
+257	
+92
+
+hsa-miR-371b-5p	ERCC6L2	ERCC excision repair 6 like 2
+Details
+
+258	
+92
+
+hsa-miR-371b-5p	DNAJC14	DnaJ heat shock protein family (Hsp40) member C14
+Details
+
+259	
+92
+
+hsa-miR-371b-5p	ANKRD17	ankyrin repeat domain 17
+Details
+
+260	
+92
+
+hsa-miR-371b-5p	FSBP	fibrinogen silencer binding protein
+Details
+
+261	
+92
+
+hsa-miR-371b-5p	SCAMP1	secretory carrier membrane protein 1
+Details
+
+262	
+92
+
+hsa-miR-371b-5p	DSCAML1	DS cell adhesion molecule like 1
+Details
+
+263	
+92
+
+hsa-miR-371b-5p	IKZF3	IKAROS family zinc finger 3
+Details
+
+264	
+92
+
+hsa-miR-371b-5p	CCDC122	coiled-coil domain containing 122
+Details
+
+265	
+92
+
+hsa-miR-371b-5p	CALCB	calcitonin related polypeptide beta
+Details
+
+266	
+92
+
+hsa-miR-371b-5p	PRH1-TAS2R14	PRH1-TAS2R14 readthrough
+Details
+
+267	
+92
+
+hsa-miR-371b-5p	CEP70	centrosomal protein 70
+Details
+
+268	
+92
+
+hsa-miR-371b-5p	ZNF426	zinc finger protein 426
+Details
+
+269	
+92
+
+hsa-miR-371b-5p	MGAT4A	alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase A
+Details
+
+270	
+92
+
+hsa-miR-371b-5p	WDR87	WD repeat domain 87
+Details
+
+271	
+92
+
+hsa-miR-371b-5p	ADAMTS18	ADAM metallopeptidase with thrombospondin type 1 motif 18
+Details
+
+272	
+92
+
+hsa-miR-371b-5p	IRGQ	immunity related GTPase Q
+Details
+
+273	
+92
+
+hsa-miR-371b-5p	APPL1	adaptor protein, phosphotyrosine interacting with PH domain and leucine zipper 1
+Details
+
+274	
+92
+
+hsa-miR-371b-5p	ZBTB2	zinc finger and BTB domain containing 2
+Details
+
+275	
+92
+
+hsa-miR-371b-5p	INPP5B	inositol polyphosphate-5-phosphatase B
+Details
+
+276	
+92
+
+hsa-miR-371b-5p	ABHD18	abhydrolase domain containing 18
+Details
+
+277	
+92
+
+hsa-miR-371b-5p	C2orf69	chromosome 2 open reading frame 69
+Details
+
+278	
+92
+
+hsa-miR-371b-5p	PPAT	phosphoribosyl pyrophosphate amidotransferase
+Details
+
+279	
+92
+
+hsa-miR-371b-5p	ACACB	acetyl-CoA carboxylase beta
+Details
+
+280	
+92
+
+hsa-miR-371b-5p	EFR3B	EFR3 homolog B
+Details
+
+281	
+92
+
+hsa-miR-371b-5p	VIP	vasoactive intestinal peptide
+Details
+
+282	
+92
+
+hsa-miR-371b-5p	ARCN1	archain 1
+Details
+
+283	
+92
+
+hsa-miR-371b-5p	GLB1L3	galactosidase beta 1 like 3
+Details
+
+284	
+92
+
+hsa-miR-371b-5p	SLC35F6	solute carrier family 35 member F6
+Details
+
+285	
+92
+
+hsa-miR-371b-5p	CHMP1B	charged multivesicular body protein 1B
+Details
+
+286	
+92
+
+hsa-miR-371b-5p	BRD2	bromodomain containing 2
+Details
+
+287	
+92
+
+hsa-miR-371b-5p	SATB2	SATB homeobox 2
+Details
+
+288	
+92
+
+hsa-miR-371b-5p	SLC17A3	solute carrier family 17 member 3
+Details
+
+289	
+92
+
+hsa-miR-371b-5p	KIF5C	kinesin family member 5C
+Details
+
+290	
+92
+
+hsa-miR-371b-5p	FZD2	frizzled class receptor 2
+Details
+
+291	
+92
+
+hsa-miR-371b-5p	MAVS	mitochondrial antiviral signaling protein
+Details
+
+292	
+92
+
+hsa-miR-371b-5p	TMED5	transmembrane p24 trafficking protein 5
+Details
+
+293	
+92
+
+hsa-miR-371b-5p	EPB41	erythrocyte membrane protein band 4.1
+Details
+
+294	
+92
+
+hsa-miR-371b-5p	COMMD8	COMM domain containing 8
+Details
+
+295	
+92
+
+hsa-miR-371b-5p	UBE2V2	ubiquitin conjugating enzyme E2 V2
+Details
+
+296	
+92
+
+hsa-miR-371b-5p	FKBP11	FKBP prolyl isomerase 11
+Details
+
+297	
+91
+
+hsa-miR-371b-5p	NAIF1	nuclear apoptosis inducing factor 1
+Details
+
+298	
+91
+
+hsa-miR-371b-5p	ZFP36L2	ZFP36 ring finger protein like 2
+Details
+
+299	
+91
+
+hsa-miR-371b-5p	METTL8	methyltransferase like 8
+Details
+
+300	
+91
+
+hsa-miR-371b-5p	PABPC5	poly(A) binding protein cytoplasmic 5
+Details
+
+301	
+91
+
+hsa-miR-371b-5p	GPATCH2L	G-patch domain containing 2 like
+Details
+
+302	
+91
+
+hsa-miR-371b-5p	CENPA	centromere protein A
+Details
+
+303	
+91
+
+hsa-miR-371b-5p	SALL4	spalt like transcription factor 4
+Details
+
+304	
+91
+
+hsa-miR-371b-5p	PPP1R15B	protein phosphatase 1 regulatory subunit 15B
+Details
+
+305	
+91
+
+hsa-miR-371b-5p	MARVELD2	MARVEL domain containing 2
+Details
+
+306	
+91
+
+hsa-miR-371b-5p	RRP15	ribosomal RNA processing 15 homolog
+Details
+
+307	
+91
+
+hsa-miR-371b-5p	PLEKHA5	pleckstrin homology domain containing A5
+Details
+
+308	
+91
+
+hsa-miR-371b-5p	STMP1	short transmembrane mitochondrial protein 1
+Details
+
+309	
+91
+
+hsa-miR-371b-5p	PTGIS	prostaglandin I2 synthase
+Details
+
+310	
+91
+
+hsa-miR-371b-5p	ICK	intestinal cell kinase
+Details
+
+311	
+91
+
+hsa-miR-371b-5p	EIF4E	eukaryotic translation initiation factor 4E
+Details
+
+312	
+91
+
+hsa-miR-371b-5p	SPRYD4	SPRY domain containing 4
+Details
+
+313	
+91
+
+hsa-miR-371b-5p	PIK3CA	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit alpha
+Details
+
+314	
+91
+
+hsa-miR-371b-5p	LPGAT1	lysophosphatidylglycerol acyltransferase 1
+Details
+
+315	
+91
+
+hsa-miR-371b-5p	ATF7IP	activating transcription factor 7 interacting protein
+Details
+
+316	
+91
+
+hsa-miR-371b-5p	CCDC65	coiled-coil domain containing 65
+Details
+
+317	
+91
+
+hsa-miR-371b-5p	WDFY1	WD repeat and FYVE domain containing 1
+Details
+
+318	
+91
+
+hsa-miR-371b-5p	SHOC2	SHOC2, leucine rich repeat scaffold protein
+Details
+
+319	
+91
+
+hsa-miR-371b-5p	IRF9	interferon regulatory factor 9
+Details
+
+320	
+91
+
+hsa-miR-371b-5p	ZNF543	zinc finger protein 543
+Details
+
+321	
+91
+
+hsa-miR-371b-5p	GATD1	glutamine amidotransferase like class 1 domain containing 1
+Details
+
+322	
+91
+
+hsa-miR-371b-5p	ANO6	anoctamin 6
+Details
+
+323	
+91
+
+hsa-miR-371b-5p	TBC1D7	TBC1 domain family member 7
+Details
+
+324	
+91
+
+hsa-miR-371b-5p	OLFML2A	olfactomedin like 2A
+Details
+
+325	
+91
+
+hsa-miR-371b-5p	ZNF281	zinc finger protein 281
+Details
+
+326	
+91
+
+hsa-miR-371b-5p	ZNF816	zinc finger protein 816
+Details
+
+327	
+91
+
+hsa-miR-371b-5p	KLHDC1	kelch domain containing 1
+Details
+
+328	
+91
+
+hsa-miR-371b-5p	PPM1A	protein phosphatase, Mg2+/Mn2+ dependent 1A
+Details
+
+329	
+91
+
+hsa-miR-371b-5p	C2orf49	chromosome 2 open reading frame 49
+Details
+
+330	
+91
+
+hsa-miR-371b-5p	TGFBR1	transforming growth factor beta receptor 1
+Details
+
+331	
+91
+
+hsa-miR-371b-5p	NEK2	NIMA related kinase 2
+Details
+
+332	
+91
+
+hsa-miR-371b-5p	SINHCAF	SIN3-HDAC complex associated factor
+Details
+
+333	
+91
+
+hsa-miR-371b-5p	C15orf40	chromosome 15 open reading frame 40
+Details
+
+334	
+91
+
+hsa-miR-371b-5p	GOSR2	golgi SNAP receptor complex member 2
+Details
+
+335	
+91
+
+hsa-miR-371b-5p	SNTB2	syntrophin beta 2
+Details
+
+336	
+91
+
+hsa-miR-371b-5p	UMPS	uridine monophosphate synthetase
+Details
+
+337	
+91
+
+hsa-miR-371b-5p	BRIP1	BRCA1 interacting protein C-terminal helicase 1
+Details
+
+338	
+91
+
+hsa-miR-371b-5p	ZNF253	zinc finger protein 253
+Details
+
+339	
+91
+
+hsa-miR-371b-5p	PARD6B	par-6 family cell polarity regulator beta
+Details
+
+340	
+91
+
+hsa-miR-371b-5p	SULT1E1	sulfotransferase family 1E member 1
+Details
+
+341	
+91
+
+hsa-miR-371b-5p	SGPL1	sphingosine-1-phosphate lyase 1
+Details
+
+342	
+91
+
+hsa-miR-371b-5p	TRIM59	tripartite motif containing 59
+Details
+
+343	
+91
+
+hsa-miR-371b-5p	SIGLEC11	sialic acid binding Ig like lectin 11
+Details
+
+344	
+91
+
+hsa-miR-371b-5p	KDM1A	lysine demethylase 1A
+Details
+
+345	
+91
+
+hsa-miR-371b-5p	TNFRSF10B	TNF receptor superfamily member 10b
+Details
+
+346	
+91
+
+hsa-miR-371b-5p	COX6B2	cytochrome c oxidase subunit 6B2
+Details
+
+347	
+91
+
+hsa-miR-371b-5p	SCAF11	SR-related CTD associated factor 11
+Details
+
+348	
+91
+
+hsa-miR-371b-5p	IKZF1	IKAROS family zinc finger 1
+Details
+
+349	
+90
+
+hsa-miR-371b-5p	SNX1	sorting nexin 1
+Details
+
+350	
+90
+
+hsa-miR-371b-5p	HMBOX1	homeobox containing 1
+Details
+
+351	
+90
+
+hsa-miR-371b-5p	FEZ1	fasciculation and elongation protein zeta 1
+Details
+
+352	
+90
+
+hsa-miR-371b-5p	GCOM1	GRINL1A complex locus 1
+Details
+
+353	
+90
+
+hsa-miR-371b-5p	DHRSX	dehydrogenase/reductase X-linked
+Details
+
+354	
+90
+
+hsa-miR-371b-5p	ITGAX	integrin subunit alpha X
+Details
+
+355	
+90
+
+hsa-miR-371b-5p	HRH4	histamine receptor H4
+Details
+
+356	
+90
+
+hsa-miR-371b-5p	POLR2M	RNA polymerase II subunit M
+Details
+
+357	
+90
+
+hsa-miR-371b-5p	TRIAP1	TP53 regulated inhibitor of apoptosis 1
+Details
+
+358	
+90
+
+hsa-miR-371b-5p	ACTN4	actinin alpha 4
+Details
+
+359	
+90
+
+hsa-miR-371b-5p	OR2H1	olfactory receptor family 2 subfamily H member 1
+Details
+
+360	
+90
+
+hsa-miR-371b-5p	CR1	complement C3b/C4b receptor 1 (Knops blood group)
+Details
+
+361	
+90
+
+hsa-miR-371b-5p	ZNF770	zinc finger protein 770
+Details
+
+362	
+90
+
+hsa-miR-371b-5p	RHNO1	RAD9-HUS1-RAD1 interacting nuclear orphan 1
+Details
+
+363	
+90
+
+hsa-miR-371b-5p	ZNF595	zinc finger protein 595
+Details
+
+364	
+90
+
+hsa-miR-371b-5p	GRM3	glutamate metabotropic receptor 3
+Details
+
+365	
+90
+
+hsa-miR-371b-5p	TMF1	TATA element modulatory factor 1
+Details
+
+366	
+90
+
+hsa-miR-371b-5p	SLC41A2	solute carrier family 41 member 2
+Details
+
+367	
+90
+
+hsa-miR-371b-5p	ZNF808	zinc finger protein 808
+Details
+
+368	
+90
+
+hsa-miR-371b-5p	DCDC1	doublecortin domain containing 1
+Details
+
+369	
+90
+
+hsa-miR-371b-5p	S1PR5	sphingosine-1-phosphate receptor 5
+Details
+
+370	
+90
+
+hsa-miR-371b-5p	MOB3B	MOB kinase activator 3B
+Details
+
+371	
+90
+
+hsa-miR-371b-5p	C19orf12	chromosome 19 open reading frame 12
+Details
+
+372	
+90
+
+hsa-miR-371b-5p	SGCD	sarcoglycan delta
+Details
+
+373	
+90
+
+hsa-miR-371b-5p	AEBP2	AE binding protein 2
+Details
+
+374	
+90
+
+hsa-miR-371b-5p	CBX6	chromobox 6
+Details
+
+375	
+90
+
+hsa-miR-371b-5p	LEPROTL1	leptin receptor overlapping transcript like 1
+Details
+
+376	
+90
+
+hsa-miR-371b-5p	SEC63	SEC63 homolog, protein translocation regulator
+Details
+
+377	
+90
+
+hsa-miR-371b-5p	OLR1	oxidized low density lipoprotein receptor 1
+Details
+
+378	
+90
+
+hsa-miR-371b-5p	TIMM23B	translocase of inner mitochondrial membrane 23 homolog B
+Details
+
+379	
+90
+
+hsa-miR-371b-5p	GABRP	gamma-aminobutyric acid type A receptor pi subunit
+Details
+
+380	
+90
+
+hsa-miR-371b-5p	ZNF7	zinc finger protein 7
+Details
+
+381	
+90
+
+hsa-miR-371b-5p	OGFRL1	opioid growth factor receptor like 1
+Details
+
+382	
+90
+
+hsa-miR-371b-5p	HIGD1A	HIG1 hypoxia inducible domain family member 1A
+Details
+
+383	
+90
+
+hsa-miR-371b-5p	ALKBH5	alkB homolog 5, RNA demethylase
+Details
+
+384	
+90
+
+hsa-miR-371b-5p	COX18	cytochrome c oxidase assembly factor COX18
+Details
+
+385	
+90
+
+hsa-miR-371b-5p	GABPA	GA binding protein transcription factor subunit alpha
+Details
+
+386	
+90
+
+hsa-miR-371b-5p	GTPBP3	GTP binding protein 3, mitochondrial
+Details
+
+387	
+90
+
+hsa-miR-371b-5p	NPIPB13	nuclear pore complex interacting protein family, member B13
+Details
+
+388	
+90
+
+hsa-miR-371b-5p	ALG9	ALG9, alpha-1,2-mannosyltransferase
+Details
+
+389	
+90
+
+hsa-miR-371b-5p	ZNF101	zinc finger protein 101
+Details
+
+390	
+90
+
+hsa-miR-371b-5p	C3orf14	chromosome 3 open reading frame 14
+Details
+
+391	
+90
+
+hsa-miR-371b-5p	TLCD2	TLC domain containing 2
+Details
+
+392	
+90
+
+hsa-miR-371b-5p	SGCB	sarcoglycan beta
+Details
+
+393	
+90
+
+hsa-miR-371b-5p	PCDHB16	protocadherin beta 16
+Details
+
+394	
+90
+
+hsa-miR-371b-5p	RLF	rearranged L-myc fusion
+Details
+
+395	
+90
+
+hsa-miR-371b-5p	IFI6	interferon alpha inducible protein 6
+Details
+
+396	
+90
+
+hsa-miR-371b-5p	MGA	MGA, MAX dimerization protein
+Details
+
+397	
+90
+
+hsa-miR-371b-5p	CEP72	centrosomal protein 72
+Details
+
+398	
+90
+
+hsa-miR-371b-5p	PRR23A	proline rich 23A
+Details
+
+399	
+90
+
+hsa-miR-371b-5p	SHCBP1	SHC binding and spindle associated 1
+Details
+
+400	
+90
+
+hsa-miR-371b-5p	RAD54B	RAD54 homolog B
+Details
+
+401	
+90
+
+hsa-miR-371b-5p	C3orf70	chromosome 3 open reading frame 70

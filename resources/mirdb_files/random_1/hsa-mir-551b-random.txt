@@ -1,0 +1,1363 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-551b-5p	BIRC6	baculoviral IAP repeat containing 6
+Details
+
+2	
+100
+
+hsa-miR-551b-5p	IGF2BP3	insulin like growth factor 2 mRNA binding protein 3
+Details
+
+3	
+100
+
+hsa-miR-551b-5p	SCAI	suppressor of cancer cell invasion
+Details
+
+4	
+100
+
+hsa-miR-551b-5p	ARPP19	cAMP regulated phosphoprotein 19
+Details
+
+5	
+100
+
+hsa-miR-551b-5p	RAP2C	RAP2C, member of RAS oncogene family
+Details
+
+6	
+100
+
+hsa-miR-551b-5p	UBE2E2	ubiquitin conjugating enzyme E2 E2
+Details
+
+7	
+99
+
+hsa-miR-551b-5p	CEP97	centrosomal protein 97
+Details
+
+8	
+99
+
+hsa-miR-551b-5p	PROK2	prokineticin 2
+Details
+
+9	
+99
+
+hsa-miR-551b-5p	YIPF6	Yip1 domain family member 6
+Details
+
+10	
+99
+
+hsa-miR-551b-5p	HOOK1	hook microtubule tethering protein 1
+Details
+
+11	
+99
+
+hsa-miR-551b-5p	BTF3L4	basic transcription factor 3 like 4
+Details
+
+12	
+99
+
+hsa-miR-551b-5p	GIPC2	GIPC PDZ domain containing family member 2
+Details
+
+13	
+99
+
+hsa-miR-551b-5p	ZBTB14	zinc finger and BTB domain containing 14
+Details
+
+14	
+99
+
+hsa-miR-551b-5p	LPP	LIM domain containing preferred translocation partner in lipoma
+Details
+
+15	
+99
+
+hsa-miR-551b-5p	QKI	QKI, KH domain containing RNA binding
+Details
+
+16	
+99
+
+hsa-miR-551b-5p	KCNJ3	potassium voltage-gated channel subfamily J member 3
+Details
+
+17	
+99
+
+hsa-miR-551b-5p	ITGAV	integrin subunit alpha V
+Details
+
+18	
+99
+
+hsa-miR-551b-5p	ANK2	ankyrin 2
+Details
+
+19	
+99
+
+hsa-miR-551b-5p	MTX3	metaxin 3
+Details
+
+20	
+99
+
+hsa-miR-551b-5p	UBE2D3	ubiquitin conjugating enzyme E2 D3
+Details
+
+21	
+99
+
+hsa-miR-551b-5p	KLHL28	kelch like family member 28
+Details
+
+22	
+99
+
+hsa-miR-551b-5p	PCDH17	protocadherin 17
+Details
+
+23	
+99
+
+hsa-miR-551b-5p	MAP3K2	mitogen-activated protein kinase kinase kinase 2
+Details
+
+24	
+98
+
+hsa-miR-551b-5p	USF3	upstream transcription factor family member 3
+Details
+
+25	
+98
+
+hsa-miR-551b-5p	GABPB1	GA binding protein transcription factor subunit beta 1
+Details
+
+26	
+98
+
+hsa-miR-551b-5p	FGF9	fibroblast growth factor 9
+Details
+
+27	
+98
+
+hsa-miR-551b-5p	IMPAD1	inositol monophosphatase domain containing 1
+Details
+
+28	
+98
+
+hsa-miR-551b-5p	RFX3	regulatory factor X3
+Details
+
+29	
+98
+
+hsa-miR-551b-5p	PROX1	prospero homeobox 1
+Details
+
+30	
+98
+
+hsa-miR-551b-5p	SNX27	sorting nexin family member 27
+Details
+
+31	
+98
+
+hsa-miR-551b-5p	HEY1	hes related family bHLH transcription factor with YRPW motif 1
+Details
+
+32	
+98
+
+hsa-miR-551b-5p	PPP1R2	protein phosphatase 1 regulatory inhibitor subunit 2
+Details
+
+33	
+98
+
+hsa-miR-551b-5p	SDK2	sidekick cell adhesion molecule 2
+Details
+
+34	
+98
+
+hsa-miR-551b-5p	SLC44A1	solute carrier family 44 member 1
+Details
+
+35	
+98
+
+hsa-miR-551b-5p	ELAVL1	ELAV like RNA binding protein 1
+Details
+
+36	
+98
+
+hsa-miR-551b-5p	RAB11A	RAB11A, member RAS oncogene family
+Details
+
+37	
+97
+
+hsa-miR-551b-5p	SMAD2	SMAD family member 2
+Details
+
+38	
+97
+
+hsa-miR-551b-5p	TENT2	terminal nucleotidyltransferase 2
+Details
+
+39	
+97
+
+hsa-miR-551b-5p	LIMCH1	LIM and calponin homology domains 1
+Details
+
+40	
+97
+
+hsa-miR-551b-5p	CDK14	cyclin dependent kinase 14
+Details
+
+41	
+97
+
+hsa-miR-551b-5p	GALNT7	polypeptide N-acetylgalactosaminyltransferase 7
+Details
+
+42	
+97
+
+hsa-miR-551b-5p	RBM12	RNA binding motif protein 12
+Details
+
+43	
+97
+
+hsa-miR-551b-5p	DICER1	dicer 1, ribonuclease III
+Details
+
+44	
+97
+
+hsa-miR-551b-5p	SAMD4A	sterile alpha motif domain containing 4A
+Details
+
+45	
+97
+
+hsa-miR-551b-5p	PABPC3	poly(A) binding protein cytoplasmic 3
+Details
+
+46	
+97
+
+hsa-miR-551b-5p	BRWD3	bromodomain and WD repeat domain containing 3
+Details
+
+47	
+97
+
+hsa-miR-551b-5p	FBXL17	F-box and leucine rich repeat protein 17
+Details
+
+48	
+97
+
+hsa-miR-551b-5p	PURA	purine rich element binding protein A
+Details
+
+49	
+97
+
+hsa-miR-551b-5p	MYLK	myosin light chain kinase
+Details
+
+50	
+97
+
+hsa-miR-551b-5p	MTMR6	myotubularin related protein 6
+Details
+
+51	
+97
+
+hsa-miR-551b-5p	NR3C1	nuclear receptor subfamily 3 group C member 1
+Details
+
+52	
+97
+
+hsa-miR-551b-5p	CCNY	cyclin Y
+Details
+
+53	
+97
+
+hsa-miR-551b-5p	SLC35F1	solute carrier family 35 member F1
+Details
+
+54	
+97
+
+hsa-miR-551b-5p	ACER3	alkaline ceramidase 3
+Details
+
+55	
+97
+
+hsa-miR-551b-5p	ZC3H12C	zinc finger CCCH-type containing 12C
+Details
+
+56	
+96
+
+hsa-miR-551b-5p	NCKAP1	NCK associated protein 1
+Details
+
+57	
+96
+
+hsa-miR-551b-5p	NBEAL1	neurobeachin like 1
+Details
+
+58	
+96
+
+hsa-miR-551b-5p	ATP5MGL	ATP synthase membrane subunit g like
+Details
+
+59	
+96
+
+hsa-miR-551b-5p	MAP3K7CL	MAP3K7 C-terminal like
+Details
+
+60	
+96
+
+hsa-miR-551b-5p	NEMP1	nuclear envelope integral membrane protein 1
+Details
+
+61	
+96
+
+hsa-miR-551b-5p	CPSF6	cleavage and polyadenylation specific factor 6
+Details
+
+62	
+96
+
+hsa-miR-551b-5p	CNTN1	contactin 1
+Details
+
+63	
+96
+
+hsa-miR-551b-5p	ERBIN	erbb2 interacting protein
+Details
+
+64	
+96
+
+hsa-miR-551b-5p	ICK	intestinal cell kinase
+Details
+
+65	
+96
+
+hsa-miR-551b-5p	KCNQ3	potassium voltage-gated channel subfamily Q member 3
+Details
+
+66	
+96
+
+hsa-miR-551b-5p	TP53TG3D	TP53 target 3D
+Details
+
+67	
+96
+
+hsa-miR-551b-5p	TP53TG3B	TP53 target 3B
+Details
+
+68	
+96
+
+hsa-miR-551b-5p	SEC23A	Sec23 homolog A, coat complex II component
+Details
+
+69	
+96
+
+hsa-miR-551b-5p	GABRG1	gamma-aminobutyric acid type A receptor gamma1 subunit
+Details
+
+70	
+96
+
+hsa-miR-551b-5p	PPP4R2	protein phosphatase 4 regulatory subunit 2
+Details
+
+71	
+96
+
+hsa-miR-551b-5p	IL1RAP	interleukin 1 receptor accessory protein
+Details
+
+72	
+96
+
+hsa-miR-551b-5p	TNFAIP8	TNF alpha induced protein 8
+Details
+
+73	
+96
+
+hsa-miR-551b-5p	TAT	tyrosine aminotransferase
+Details
+
+74	
+96
+
+hsa-miR-551b-5p	FEM1C	fem-1 homolog C
+Details
+
+75	
+96
+
+hsa-miR-551b-5p	PHLPP1	PH domain and leucine rich repeat protein phosphatase 1
+Details
+
+76	
+96
+
+hsa-miR-551b-5p	JAG1	jagged 1
+Details
+
+77	
+96
+
+hsa-miR-551b-5p	PRR16	proline rich 16
+Details
+
+78	
+96
+
+hsa-miR-551b-5p	SPTY2D1	SPT2 chromatin protein domain containing 1
+Details
+
+79	
+96
+
+hsa-miR-551b-5p	TP53TG3	TP53 target 3
+Details
+
+80	
+96
+
+hsa-miR-551b-5p	AP3M1	adaptor related protein complex 3 subunit mu 1
+Details
+
+81	
+96
+
+hsa-miR-551b-5p	CDYL2	chromodomain Y like 2
+Details
+
+82	
+96
+
+hsa-miR-551b-5p	EPHA3	EPH receptor A3
+Details
+
+83	
+95
+
+hsa-miR-551b-5p	PABPC1	poly(A) binding protein cytoplasmic 1
+Details
+
+84	
+95
+
+hsa-miR-551b-5p	DPH6	diphthamine biosynthesis 6
+Details
+
+85	
+95
+
+hsa-miR-551b-5p	GFPT1	glutamine--fructose-6-phosphate transaminase 1
+Details
+
+86	
+95
+
+hsa-miR-551b-5p	BARD1	BRCA1 associated RING domain 1
+Details
+
+87	
+95
+
+hsa-miR-551b-5p	COL19A1	collagen type XIX alpha 1 chain
+Details
+
+88	
+95
+
+hsa-miR-551b-5p	SNX10	sorting nexin 10
+Details
+
+89	
+95
+
+hsa-miR-551b-5p	EDIL3	EGF like repeats and discoidin domains 3
+Details
+
+90	
+95
+
+hsa-miR-551b-5p	ZEB1	zinc finger E-box binding homeobox 1
+Details
+
+91	
+95
+
+hsa-miR-551b-5p	ZNF770	zinc finger protein 770
+Details
+
+92	
+95
+
+hsa-miR-551b-5p	WDR26	WD repeat domain 26
+Details
+
+93	
+95
+
+hsa-miR-551b-5p	TOMM70	translocase of outer mitochondrial membrane 70
+Details
+
+94	
+95
+
+hsa-miR-551b-5p	MDM2	MDM2 proto-oncogene
+Details
+
+95	
+95
+
+hsa-miR-551b-5p	SRRM1	serine and arginine repetitive matrix 1
+Details
+
+96	
+95
+
+hsa-miR-551b-5p	FAM120A	family with sequence similarity 120A
+Details
+
+97	
+95
+
+hsa-miR-551b-5p	ST13	ST13, Hsp70 interacting protein
+Details
+
+98	
+95
+
+hsa-miR-551b-5p	PLAC8	placenta specific 8
+Details
+
+99	
+95
+
+hsa-miR-551b-5p	BTBD7	BTB domain containing 7
+Details
+
+100	
+95
+
+hsa-miR-551b-5p	PPP1R9A	protein phosphatase 1 regulatory subunit 9A
+Details
+
+101	
+95
+
+hsa-miR-551b-5p	EIF5A2	eukaryotic translation initiation factor 5A2
+Details
+
+102	
+95
+
+hsa-miR-551b-5p	ATP5MG	ATP synthase membrane subunit g
+Details
+
+103	
+95
+
+hsa-miR-551b-5p	SESN1	sestrin 1
+Details
+
+104	
+95
+
+hsa-miR-551b-5p	LRP6	LDL receptor related protein 6
+Details
+
+105	
+95
+
+hsa-miR-551b-5p	SLC17A4	solute carrier family 17 member 4
+Details
+
+106	
+95
+
+hsa-miR-551b-5p	SOX11	SRY-box 11
+Details
+
+107	
+95
+
+hsa-miR-551b-5p	GPM6A	glycoprotein M6A
+Details
+
+108	
+94
+
+hsa-miR-551b-5p	STON1-GTF2A1L	STON1-GTF2A1L readthrough
+Details
+
+109	
+94
+
+hsa-miR-551b-5p	EIF3A	eukaryotic translation initiation factor 3 subunit A
+Details
+
+110	
+94
+
+hsa-miR-551b-5p	TM4SF4	transmembrane 4 L six family member 4
+Details
+
+111	
+94
+
+hsa-miR-551b-5p	ADNP2	ADNP homeobox 2
+Details
+
+112	
+94
+
+hsa-miR-551b-5p	CCDC84	coiled-coil domain containing 84
+Details
+
+113	
+94
+
+hsa-miR-551b-5p	TSHZ1	teashirt zinc finger homeobox 1
+Details
+
+114	
+94
+
+hsa-miR-551b-5p	SLC7A14	solute carrier family 7 member 14
+Details
+
+115	
+94
+
+hsa-miR-551b-5p	CPD	carboxypeptidase D
+Details
+
+116	
+94
+
+hsa-miR-551b-5p	FCHO2	FCH domain only 2
+Details
+
+117	
+94
+
+hsa-miR-551b-5p	NR2E1	nuclear receptor subfamily 2 group E member 1
+Details
+
+118	
+94
+
+hsa-miR-551b-5p	RINL	Ras and Rab interactor like
+Details
+
+119	
+94
+
+hsa-miR-551b-5p	PXN	paxillin
+Details
+
+120	
+94
+
+hsa-miR-551b-5p	CCNC	cyclin C
+Details
+
+121	
+94
+
+hsa-miR-551b-5p	CLINT1	clathrin interactor 1
+Details
+
+122	
+94
+
+hsa-miR-551b-5p	NR1D2	nuclear receptor subfamily 1 group D member 2
+Details
+
+123	
+94
+
+hsa-miR-551b-5p	SLC31A1	solute carrier family 31 member 1
+Details
+
+124	
+94
+
+hsa-miR-551b-5p	CCDC88C	coiled-coil domain containing 88C
+Details
+
+125	
+94
+
+hsa-miR-551b-5p	GOSR1	golgi SNAP receptor complex member 1
+Details
+
+126	
+94
+
+hsa-miR-551b-5p	TMEM245	transmembrane protein 245
+Details
+
+127	
+94
+
+hsa-miR-551b-5p	NAALADL2	N-acetylated alpha-linked acidic dipeptidase like 2
+Details
+
+128	
+94
+
+hsa-miR-551b-5p	ZBTB20	zinc finger and BTB domain containing 20
+Details
+
+129	
+94
+
+hsa-miR-551b-5p	DGKH	diacylglycerol kinase eta
+Details
+
+130	
+93
+
+hsa-miR-551b-5p	TBC1D15	TBC1 domain family member 15
+Details
+
+131	
+93
+
+hsa-miR-551b-5p	MARK1	microtubule affinity regulating kinase 1
+Details
+
+132	
+93
+
+hsa-miR-551b-5p	HIPK3	homeodomain interacting protein kinase 3
+Details
+
+133	
+93
+
+hsa-miR-551b-5p	ZBTB41	zinc finger and BTB domain containing 41
+Details
+
+134	
+93
+
+hsa-miR-551b-5p	PCID2	PCI domain containing 2
+Details
+
+135	
+93
+
+hsa-miR-551b-5p	FSBP	fibrinogen silencer binding protein
+Details
+
+136	
+93
+
+hsa-miR-551b-5p	ANKH	ANKH inorganic pyrophosphate transport regulator
+Details
+
+137	
+93
+
+hsa-miR-551b-5p	TMEM33	transmembrane protein 33
+Details
+
+138	
+93
+
+hsa-miR-551b-5p	FNDC3B	fibronectin type III domain containing 3B
+Details
+
+139	
+93
+
+hsa-miR-551b-5p	ARHGAP5	Rho GTPase activating protein 5
+Details
+
+140	
+93
+
+hsa-miR-551b-5p	DHRS2	dehydrogenase/reductase 2
+Details
+
+141	
+93
+
+hsa-miR-551b-5p	SRSF6	serine and arginine rich splicing factor 6
+Details
+
+142	
+93
+
+hsa-miR-551b-5p	MARK2	microtubule affinity regulating kinase 2
+Details
+
+143	
+93
+
+hsa-miR-551b-5p	CDC14A	cell division cycle 14A
+Details
+
+144	
+93
+
+hsa-miR-551b-5p	COL1A2	collagen type I alpha 2 chain
+Details
+
+145	
+93
+
+hsa-miR-551b-5p	FOXA1	forkhead box A1
+Details
+
+146	
+93
+
+hsa-miR-551b-5p	AAK1	AP2 associated kinase 1
+Details
+
+147	
+93
+
+hsa-miR-551b-5p	C12orf56	chromosome 12 open reading frame 56
+Details
+
+148	
+92
+
+hsa-miR-551b-5p	COG3	component of oligomeric golgi complex 3
+Details
+
+149	
+92
+
+hsa-miR-551b-5p	VGLL3	vestigial like family member 3
+Details
+
+150	
+92
+
+hsa-miR-551b-5p	C6orf58	chromosome 6 open reading frame 58
+Details
+
+151	
+92
+
+hsa-miR-551b-5p	KIAA1210	KIAA1210
+Details
+
+152	
+92
+
+hsa-miR-551b-5p	NOVA1	NOVA alternative splicing regulator 1
+Details
+
+153	
+92
+
+hsa-miR-551b-5p	ETV1	ETS variant 1
+Details
+
+154	
+92
+
+hsa-miR-551b-5p	ZNF354C	zinc finger protein 354C
+Details
+
+155	
+92
+
+hsa-miR-551b-5p	GALR1	galanin receptor 1
+Details
+
+156	
+92
+
+hsa-miR-551b-5p	SMC5	structural maintenance of chromosomes 5
+Details
+
+157	
+92
+
+hsa-miR-551b-5p	CECR2	CECR2, histone acetyl-lysine reader
+Details
+
+158	
+92
+
+hsa-miR-551b-5p	ALCAM	activated leukocyte cell adhesion molecule
+Details
+
+159	
+92
+
+hsa-miR-551b-5p	CAB39	calcium binding protein 39
+Details
+
+160	
+92
+
+hsa-miR-551b-5p	ERO1B	endoplasmic reticulum oxidoreductase 1 beta
+Details
+
+161	
+92
+
+hsa-miR-551b-5p	SLC10A7	solute carrier family 10 member 7
+Details
+
+162	
+92
+
+hsa-miR-551b-5p	ANGPT1	angiopoietin 1
+Details
+
+163	
+92
+
+hsa-miR-551b-5p	STK3	serine/threonine kinase 3
+Details
+
+164	
+92
+
+hsa-miR-551b-5p	SLC30A4	solute carrier family 30 member 4
+Details
+
+165	
+92
+
+hsa-miR-551b-5p	UBR7	ubiquitin protein ligase E3 component n-recognin 7 (putative)
+Details
+
+166	
+92
+
+hsa-miR-551b-5p	TBC1D23	TBC1 domain family member 23
+Details
+
+167	
+92
+
+hsa-miR-551b-5p	PARD6B	par-6 family cell polarity regulator beta
+Details
+
+168	
+92
+
+hsa-miR-551b-5p	RPS6KB1	ribosomal protein S6 kinase B1
+Details
+
+169	
+92
+
+hsa-miR-551b-5p	KLHL15	kelch like family member 15
+Details
+
+170	
+92
+
+hsa-miR-551b-5p	CNKSR3	CNKSR family member 3
+Details
+
+171	
+92
+
+hsa-miR-551b-5p	PCDH11Y	protocadherin 11 Y-linked
+Details
+
+172	
+92
+
+hsa-miR-551b-5p	PARPBP	PARP1 binding protein
+Details
+
+173	
+92
+
+hsa-miR-551b-5p	ZNF236	zinc finger protein 236
+Details
+
+174	
+92
+
+hsa-miR-551b-5p	SP8	Sp8 transcription factor
+Details
+
+175	
+91
+
+hsa-miR-551b-5p	OCIAD1	OCIA domain containing 1
+Details
+
+176	
+91
+
+hsa-miR-551b-5p	GLS	glutaminase
+Details
+
+177	
+91
+
+hsa-miR-551b-5p	MPPED1	metallophosphoesterase domain containing 1
+Details
+
+178	
+91
+
+hsa-miR-551b-5p	RICTOR	RPTOR independent companion of MTOR complex 2
+Details
+
+179	
+91
+
+hsa-miR-551b-5p	PPP1CC	protein phosphatase 1 catalytic subunit gamma
+Details
+
+180	
+91
+
+hsa-miR-551b-5p	TLR1	toll like receptor 1
+Details
+
+181	
+91
+
+hsa-miR-551b-5p	MYEF2	myelin expression factor 2
+Details
+
+182	
+91
+
+hsa-miR-551b-5p	MBNL1	muscleblind like splicing regulator 1
+Details
+
+183	
+91
+
+hsa-miR-551b-5p	STX16	syntaxin 16
+Details
+
+184	
+91
+
+hsa-miR-551b-5p	GNG10	G protein subunit gamma 10
+Details
+
+185	
+91
+
+hsa-miR-551b-5p	RDX	radixin
+Details
+
+186	
+91
+
+hsa-miR-551b-5p	SYT16	synaptotagmin 16
+Details
+
+187	
+91
+
+hsa-miR-551b-5p	HECW1	HECT, C2 and WW domain containing E3 ubiquitin protein ligase 1
+Details
+
+188	
+91
+
+hsa-miR-551b-5p	TRIM9	tripartite motif containing 9
+Details
+
+189	
+91
+
+hsa-miR-551b-5p	ANKRD10	ankyrin repeat domain 10
+Details
+
+190	
+91
+
+hsa-miR-551b-5p	PLIN1	perilipin 1
+Details
+
+191	
+91
+
+hsa-miR-551b-5p	EPB41L4B	erythrocyte membrane protein band 4.1 like 4B
+Details
+
+192	
+91
+
+hsa-miR-551b-5p	PLCL1	phospholipase C like 1 (inactive)
+Details
+
+193	
+91
+
+hsa-miR-551b-5p	ALG13	ALG13, UDP-N-acetylglucosaminyltransferase subunit
+Details
+
+194	
+91
+
+hsa-miR-551b-5p	DPYD	dihydropyrimidine dehydrogenase
+Details
+
+195	
+91
+
+hsa-miR-551b-5p	SLC7A11	solute carrier family 7 member 11
+Details
+
+196	
+91
+
+hsa-miR-551b-5p	HEATR5B	HEAT repeat containing 5B
+Details
+
+197	
+91
+
+hsa-miR-551b-5p	DDX4	DEAD-box helicase 4
+Details
+
+198	
+91
+
+hsa-miR-551b-5p	PKNOX1	PBX/knotted 1 homeobox 1
+Details
+
+199	
+91
+
+hsa-miR-551b-5p	GGACT	gamma-glutamylamine cyclotransferase
+Details
+
+200	
+91
+
+hsa-miR-551b-5p	SSX2IP	SSX family member 2 interacting protein
+Details
+
+201	
+91
+
+hsa-miR-551b-5p	FSD1L	fibronectin type III and SPRY domain containing 1 like
+Details
+
+202	
+91
+
+hsa-miR-551b-5p	NRG3	neuregulin 3
+Details
+
+203	
+91
+
+hsa-miR-551b-5p	CPEB3	cytoplasmic polyadenylation element binding protein 3
+Details
+
+204	
+90
+
+hsa-miR-551b-5p	UHRF2	ubiquitin like with PHD and ring finger domains 2
+Details
+
+205	
+90
+
+hsa-miR-551b-5p	HIC2	HIC ZBTB transcriptional repressor 2
+Details
+
+206	
+90
+
+hsa-miR-551b-5p	STIMATE	STIM activating enhancer
+Details
+
+207	
+90
+
+hsa-miR-551b-5p	SLC4A7	solute carrier family 4 member 7
+Details
+
+208	
+90
+
+hsa-miR-551b-5p	PPP1R15B	protein phosphatase 1 regulatory subunit 15B
+Details
+
+209	
+90
+
+hsa-miR-551b-5p	ENPEP	glutamyl aminopeptidase
+Details
+
+210	
+90
+
+hsa-miR-551b-5p	CUL3	cullin 3
+Details
+
+211	
+90
+
+hsa-miR-551b-5p	PPP4R3A	protein phosphatase 4 regulatory subunit 3A
+Details
+
+212	
+90
+
+hsa-miR-551b-5p	CASZ1	castor zinc finger 1
+Details
+
+213	
+90
+
+hsa-miR-551b-5p	BNIP2	BCL2 interacting protein 2
+Details
+
+214	
+90
+
+hsa-miR-551b-5p	FAT1	FAT atypical cadherin 1
+Details
+
+215	
+90
+
+hsa-miR-551b-5p	TMEM35A	transmembrane protein 35A
+Details
+
+216	
+90
+
+hsa-miR-551b-5p	MTDH	metadherin
+Details
+
+217	
+90
+
+hsa-miR-551b-5p	NHS	NHS actin remodeling regulator
+Details
+
+218	
+90
+
+hsa-miR-551b-5p	ERCC4	ERCC excision repair 4, endonuclease catalytic subunit
+Details
+
+219	
+90
+
+hsa-miR-551b-5p	MMAB	metabolism of cobalamin associated B
+Details
+
+220	
+90
+
+hsa-miR-551b-5p	MTX2	metaxin 2
+Details
+
+221	
+90
+
+hsa-miR-551b-5p	FAXC	failed axon connections homolog
+Details
+
+222	
+90
+
+hsa-miR-551b-5p	PCNX3	pecanex 3
+Details
+
+223	
+90
+
+hsa-miR-551b-5p	FGF12	fibroblast growth factor 12
+Details
+
+224	
+90
+
+hsa-miR-551b-5p	LTA4H	leukotriene A4 hydrolase
+Details
+
+225	
+90
+
+hsa-miR-551b-5p	C1orf112	chromosome 1 open reading frame 112
+Details
+
+226	
+90
+
+hsa-miR-551b-5p	RAD54B	RAD54 homolog B
+Details
+
+227	
+90
+
+hsa-miR-551b-5p	PPHLN1	periphilin 1

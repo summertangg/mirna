@@ -1,0 +1,547 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-5584-5p	POU3F4	POU class 3 homeobox 4
+Details
+
+2	
+99
+
+hsa-miR-5584-5p	KPNA4	karyopherin subunit alpha 4
+Details
+
+3	
+99
+
+hsa-miR-5584-5p	PPP1CB	protein phosphatase 1 catalytic subunit beta
+Details
+
+4	
+98
+
+hsa-miR-5584-5p	STK10	serine/threonine kinase 10
+Details
+
+5	
+98
+
+hsa-miR-5584-5p	IMPAD1	inositol monophosphatase domain containing 1
+Details
+
+6	
+98
+
+hsa-miR-5584-5p	EDIL3	EGF like repeats and discoidin domains 3
+Details
+
+7	
+98
+
+hsa-miR-5584-5p	CREB5	cAMP responsive element binding protein 5
+Details
+
+8	
+97
+
+hsa-miR-5584-5p	TRMT13	tRNA methyltransferase 13 homolog
+Details
+
+9	
+97
+
+hsa-miR-5584-5p	CD300E	CD300e molecule
+Details
+
+10	
+97
+
+hsa-miR-5584-5p	SSTR1	somatostatin receptor 1
+Details
+
+11	
+97
+
+hsa-miR-5584-5p	BTBD1	BTB domain containing 1
+Details
+
+12	
+97
+
+hsa-miR-5584-5p	PTBP3	polypyrimidine tract binding protein 3
+Details
+
+13	
+97
+
+hsa-miR-5584-5p	AAK1	AP2 associated kinase 1
+Details
+
+14	
+97
+
+hsa-miR-5584-5p	A1CF	APOBEC1 complementation factor
+Details
+
+15	
+97
+
+hsa-miR-5584-5p	SRBD1	S1 RNA binding domain 1
+Details
+
+16	
+97
+
+hsa-miR-5584-5p	THSD7A	thrombospondin type 1 domain containing 7A
+Details
+
+17	
+96
+
+hsa-miR-5584-5p	PCNX1	pecanex 1
+Details
+
+18	
+96
+
+hsa-miR-5584-5p	IL1RAP	interleukin 1 receptor accessory protein
+Details
+
+19	
+96
+
+hsa-miR-5584-5p	QSER1	glutamine and serine rich 1
+Details
+
+20	
+96
+
+hsa-miR-5584-5p	DCAF6	DDB1 and CUL4 associated factor 6
+Details
+
+21	
+96
+
+hsa-miR-5584-5p	STX6	syntaxin 6
+Details
+
+22	
+96
+
+hsa-miR-5584-5p	GALNT13	polypeptide N-acetylgalactosaminyltransferase 13
+Details
+
+23	
+95
+
+hsa-miR-5584-5p	PPP2R2B	protein phosphatase 2 regulatory subunit Bbeta
+Details
+
+24	
+95
+
+hsa-miR-5584-5p	BBS10	Bardet-Biedl syndrome 10
+Details
+
+25	
+95
+
+hsa-miR-5584-5p	SLC39A12	solute carrier family 39 member 12
+Details
+
+26	
+95
+
+hsa-miR-5584-5p	ATP6V1G1	ATPase H+ transporting V1 subunit G1
+Details
+
+27	
+95
+
+hsa-miR-5584-5p	INO80D	INO80 complex subunit D
+Details
+
+28	
+95
+
+hsa-miR-5584-5p	CACNA1E	calcium voltage-gated channel subunit alpha1 E
+Details
+
+29	
+95
+
+hsa-miR-5584-5p	CPEB2	cytoplasmic polyadenylation element binding protein 2
+Details
+
+30	
+95
+
+hsa-miR-5584-5p	ABHD2	abhydrolase domain containing 2
+Details
+
+31	
+95
+
+hsa-miR-5584-5p	TCTN3	tectonic family member 3
+Details
+
+32	
+95
+
+hsa-miR-5584-5p	TBL1XR1	transducin beta like 1 X-linked receptor 1
+Details
+
+33	
+95
+
+hsa-miR-5584-5p	TMEM167B	transmembrane protein 167B
+Details
+
+34	
+95
+
+hsa-miR-5584-5p	NAP1L1	nucleosome assembly protein 1 like 1
+Details
+
+35	
+95
+
+hsa-miR-5584-5p	PHACTR2	phosphatase and actin regulator 2
+Details
+
+36	
+94
+
+hsa-miR-5584-5p	POU5F2	POU domain class 5, transcription factor 2
+Details
+
+37	
+94
+
+hsa-miR-5584-5p	KCNG3	potassium voltage-gated channel modifier subfamily G member 3
+Details
+
+38	
+94
+
+hsa-miR-5584-5p	SP1	Sp1 transcription factor
+Details
+
+39	
+94
+
+hsa-miR-5584-5p	HDDC2	HD domain containing 2
+Details
+
+40	
+94
+
+hsa-miR-5584-5p	RBM14	RNA binding motif protein 14
+Details
+
+41	
+94
+
+hsa-miR-5584-5p	LRP6	LDL receptor related protein 6
+Details
+
+42	
+94
+
+hsa-miR-5584-5p	AHCYL1	adenosylhomocysteinase like 1
+Details
+
+43	
+94
+
+hsa-miR-5584-5p	ENY2	ENY2, transcription and export complex 2 subunit
+Details
+
+44	
+94
+
+hsa-miR-5584-5p	ADIPOR2	adiponectin receptor 2
+Details
+
+45	
+94
+
+hsa-miR-5584-5p	ZNF680	zinc finger protein 680
+Details
+
+46	
+93
+
+hsa-miR-5584-5p	SPATA8	spermatogenesis associated 8
+Details
+
+47	
+93
+
+hsa-miR-5584-5p	PICALM	phosphatidylinositol binding clathrin assembly protein
+Details
+
+48	
+93
+
+hsa-miR-5584-5p	ZNF41	zinc finger protein 41
+Details
+
+49	
+93
+
+hsa-miR-5584-5p	MEAK7	MTOR associated protein, eak-7 homolog
+Details
+
+50	
+92
+
+hsa-miR-5584-5p	EP300	E1A binding protein p300
+Details
+
+51	
+92
+
+hsa-miR-5584-5p	DNAJB14	DnaJ heat shock protein family (Hsp40) member B14
+Details
+
+52	
+92
+
+hsa-miR-5584-5p	DNMT3B	DNA methyltransferase 3 beta
+Details
+
+53	
+92
+
+hsa-miR-5584-5p	SGIP1	SH3 domain GRB2 like endophilin interacting protein 1
+Details
+
+54	
+92
+
+hsa-miR-5584-5p	GNAQ	G protein subunit alpha q
+Details
+
+55	
+92
+
+hsa-miR-5584-5p	XG	Xg glycoprotein (Xg blood group)
+Details
+
+56	
+92
+
+hsa-miR-5584-5p	FBXO32	F-box protein 32
+Details
+
+57	
+92
+
+hsa-miR-5584-5p	RCC2	regulator of chromosome condensation 2
+Details
+
+58	
+92
+
+hsa-miR-5584-5p	CHTF8	chromosome transmission fidelity factor 8
+Details
+
+59	
+91
+
+hsa-miR-5584-5p	FAM19A2	family with sequence similarity 19 member A2, C-C motif chemokine like
+Details
+
+60	
+91
+
+hsa-miR-5584-5p	DRP2	dystrophin related protein 2
+Details
+
+61	
+91
+
+hsa-miR-5584-5p	RTBDN	retbindin
+Details
+
+62	
+91
+
+hsa-miR-5584-5p	ZNF695	zinc finger protein 695
+Details
+
+63	
+91
+
+hsa-miR-5584-5p	MFAP3L	microfibril associated protein 3 like
+Details
+
+64	
+91
+
+hsa-miR-5584-5p	KIAA0895	KIAA0895
+Details
+
+65	
+91
+
+hsa-miR-5584-5p	PGM2L1	phosphoglucomutase 2 like 1
+Details
+
+66	
+91
+
+hsa-miR-5584-5p	ATXN7L3B	ataxin 7 like 3B
+Details
+
+67	
+91
+
+hsa-miR-5584-5p	ARFIP1	ADP ribosylation factor interacting protein 1
+Details
+
+68	
+91
+
+hsa-miR-5584-5p	NUFIP2	nuclear FMR1 interacting protein 2
+Details
+
+69	
+91
+
+hsa-miR-5584-5p	RERG	RAS like estrogen regulated growth inhibitor
+Details
+
+70	
+90
+
+hsa-miR-5584-5p	PABPN1	poly(A) binding protein nuclear 1
+Details
+
+71	
+90
+
+hsa-miR-5584-5p	ZNRF1	zinc and ring finger 1
+Details
+
+72	
+90
+
+hsa-miR-5584-5p	PTPRQ	protein tyrosine phosphatase, receptor type Q
+Details
+
+73	
+90
+
+hsa-miR-5584-5p	COL6A3	collagen type VI alpha 3 chain
+Details
+
+74	
+90
+
+hsa-miR-5584-5p	ADNP	activity dependent neuroprotector homeobox
+Details
+
+75	
+90
+
+hsa-miR-5584-5p	FSBP	fibrinogen silencer binding protein
+Details
+
+76	
+90
+
+hsa-miR-5584-5p	PDCD4	programmed cell death 4
+Details
+
+77	
+90
+
+hsa-miR-5584-5p	NUP58	nucleoporin 58
+Details
+
+78	
+90
+
+hsa-miR-5584-5p	CCNJ	cyclin J
+Details
+
+79	
+90
+
+hsa-miR-5584-5p	CXADR	CXADR, Ig-like cell adhesion molecule
+Details
+
+80	
+90
+
+hsa-miR-5584-5p	CHD6	chromodomain helicase DNA binding protein 6
+Details
+
+81	
+90
+
+hsa-miR-5584-5p	USP49	ubiquitin specific peptidase 49
+Details
+
+82	
+90
+
+hsa-miR-5584-5p	BCL2L2-PABPN1	BCL2L2-PABPN1 readthrough
+Details
+
+83	
+90
+
+hsa-miR-5584-5p	STXBP6	syntaxin binding protein 6
+Details
+
+84	
+90
+
+hsa-miR-5584-5p	SMG1	SMG1, nonsense mediated mRNA decay associated PI3K related kinase
+Details
+
+85	
+90
+
+hsa-miR-5584-5p	COL25A1	collagen type XXV alpha 1 chain
+Details
+
+86	
+90
+
+hsa-miR-5584-5p	NMNAT2	nicotinamide nucleotide adenylyltransferase 2
+Details
+
+87	
+90
+
+hsa-miR-5584-5p	UBE2G1	ubiquitin conjugating enzyme E2 G1
+Details
+
+88	
+90
+
+hsa-miR-5584-5p	DACH1	dachshund family transcription factor 1
+Details
+
+89	
+90
+
+hsa-miR-5584-5p	FBXO42	F-box protein 42
+Details
+
+90	
+90
+
+hsa-miR-5584-5p	APOOL	apolipoprotein O like
+Details
+
+91	
+90
+
+hsa-miR-5584-5p	MARCH4	membrane associated ring-CH-type finger 4

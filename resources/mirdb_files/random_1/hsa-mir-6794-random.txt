@@ -1,0 +1,127 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-6794-3p	TLNRD1	talin rod domain containing 1
+Details
+
+2	
+94
+
+hsa-miR-6794-3p	KIAA1147	KIAA1147
+Details
+
+3	
+94
+
+hsa-miR-6794-3p	QSER1	glutamine and serine rich 1
+Details
+
+4	
+94
+
+hsa-miR-6794-3p	HOMER1	homer scaffold protein 1
+Details
+
+5	
+94
+
+hsa-miR-6794-3p	NXF1	nuclear RNA export factor 1
+Details
+
+6	
+93
+
+hsa-miR-6794-3p	DNAH11	dynein axonemal heavy chain 11
+Details
+
+7	
+93
+
+hsa-miR-6794-3p	SNUPN	snurportin 1
+Details
+
+8	
+93
+
+hsa-miR-6794-3p	CD59	CD59 molecule (CD59 blood group)
+Details
+
+9	
+93
+
+hsa-miR-6794-3p	OXTR	oxytocin receptor
+Details
+
+10	
+92
+
+hsa-miR-6794-3p	TGFBR3	transforming growth factor beta receptor 3
+Details
+
+11	
+92
+
+hsa-miR-6794-3p	ATP6AP2	ATPase H+ transporting accessory protein 2
+Details
+
+12	
+92
+
+hsa-miR-6794-3p	ARIH1	ariadne RBR E3 ubiquitin protein ligase 1
+Details
+
+13	
+91
+
+hsa-miR-6794-3p	SCN9A	sodium voltage-gated channel alpha subunit 9
+Details
+
+14	
+91
+
+hsa-miR-6794-3p	TRMT12	tRNA methyltransferase 12 homolog
+Details
+
+15	
+91
+
+hsa-miR-6794-3p	SLC26A4	solute carrier family 26 member 4
+Details
+
+16	
+91
+
+hsa-miR-6794-3p	HECW2	HECT, C2 and WW domain containing E3 ubiquitin protein ligase 2
+Details
+
+17	
+91
+
+hsa-miR-6794-3p	CADM1	cell adhesion molecule 1
+Details
+
+18	
+91
+
+hsa-miR-6794-3p	DCAF8	DDB1 and CUL4 associated factor 8
+Details
+
+19	
+90
+
+hsa-miR-6794-3p	ELF1	E74 like ETS transcription factor 1
+Details
+
+20	
+90
+
+hsa-miR-6794-3p	MAP4K3	mitogen-activated protein kinase kinase kinase kinase 3
+Details
+
+21	
+90
+
+hsa-miR-6794-3p	TNPO1	transportin 1

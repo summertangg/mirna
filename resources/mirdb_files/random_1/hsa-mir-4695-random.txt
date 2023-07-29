@@ -1,0 +1,157 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-4695-5p	RIMS4	regulating synaptic membrane exocytosis 4
+Details
+
+2	
+96
+
+hsa-miR-4695-5p	CDH15	cadherin 15
+Details
+
+3	
+95
+
+hsa-miR-4695-5p	FCHSD2	FCH and double SH3 domains 2
+Details
+
+4	
+95
+
+hsa-miR-4695-5p	ZNF737	zinc finger protein 737
+Details
+
+5	
+95
+
+hsa-miR-4695-5p	UBE2Q1	ubiquitin conjugating enzyme E2 Q1
+Details
+
+6	
+95
+
+hsa-miR-4695-5p	R3HDM1	R3H domain containing 1
+Details
+
+7	
+95
+
+hsa-miR-4695-5p	GFPT2	glutamine-fructose-6-phosphate transaminase 2
+Details
+
+8	
+95
+
+hsa-miR-4695-5p	NHEJ1	non-homologous end joining factor 1
+Details
+
+9	
+95
+
+hsa-miR-4695-5p	PARP3	poly(ADP-ribose) polymerase family member 3
+Details
+
+10	
+94
+
+hsa-miR-4695-5p	OLFML1	olfactomedin like 1
+Details
+
+11	
+93
+
+hsa-miR-4695-5p	TMEM214	transmembrane protein 214
+Details
+
+12	
+93
+
+hsa-miR-4695-5p	FBXW11	F-box and WD repeat domain containing 11
+Details
+
+13	
+92
+
+hsa-miR-4695-5p	THEM5	thioesterase superfamily member 5
+Details
+
+14	
+92
+
+hsa-miR-4695-5p	RBFA	ribosome binding factor A
+Details
+
+15	
+92
+
+hsa-miR-4695-5p	DMWD	DM1 locus, WD repeat containing
+Details
+
+16	
+92
+
+hsa-miR-4695-5p	SHC1	SHC adaptor protein 1
+Details
+
+17	
+92
+
+hsa-miR-4695-5p	GABRR2	gamma-aminobutyric acid type A receptor rho2 subunit
+Details
+
+18	
+92
+
+hsa-miR-4695-5p	NTRK3	neurotrophic receptor tyrosine kinase 3
+Details
+
+19	
+91
+
+hsa-miR-4695-5p	WASF2	WAS protein family member 2
+Details
+
+20	
+91
+
+hsa-miR-4695-5p	JAK3	Janus kinase 3
+Details
+
+21	
+90
+
+hsa-miR-4695-5p	METTL6	methyltransferase like 6
+Details
+
+22	
+90
+
+hsa-miR-4695-5p	IGF1R	insulin like growth factor 1 receptor
+Details
+
+23	
+90
+
+hsa-miR-4695-5p	PRKAB2	protein kinase AMP-activated non-catalytic subunit beta 2
+Details
+
+24	
+90
+
+hsa-miR-4695-5p	SPN	sialophorin
+Details
+
+25	
+90
+
+hsa-miR-4695-5p	GEMIN7	gem nuclear organelle associated protein 7
+Details
+
+26	
+90
+
+hsa-miR-4695-5p	SRSF1	serine and arginine rich splicing factor 1

@@ -1,0 +1,283 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-4756-5p	KLK4	kallikrein related peptidase 4
+Details
+
+2	
+100
+
+hsa-miR-4756-5p	SDK1	sidekick cell adhesion molecule 1
+Details
+
+3	
+99
+
+hsa-miR-4756-5p	C20orf96	chromosome 20 open reading frame 96
+Details
+
+4	
+99
+
+hsa-miR-4756-5p	LSAMP	limbic system associated membrane protein
+Details
+
+5	
+98
+
+hsa-miR-4756-5p	POU2AF1	POU class 2 associating factor 1
+Details
+
+6	
+98
+
+hsa-miR-4756-5p	OPA3	OPA3, outer mitochondrial membrane lipid metabolism regulator
+Details
+
+7	
+97
+
+hsa-miR-4756-5p	NFIX	nuclear factor I X
+Details
+
+8	
+97
+
+hsa-miR-4756-5p	LENG8	leukocyte receptor cluster member 8
+Details
+
+9	
+97
+
+hsa-miR-4756-5p	NFAT5	nuclear factor of activated T cells 5
+Details
+
+10	
+97
+
+hsa-miR-4756-5p	SNU13	small nuclear ribonucleoprotein 13
+Details
+
+11	
+97
+
+hsa-miR-4756-5p	CERS2	ceramide synthase 2
+Details
+
+12	
+96
+
+hsa-miR-4756-5p	ABCG4	ATP binding cassette subfamily G member 4
+Details
+
+13	
+96
+
+hsa-miR-4756-5p	WDTC1	WD and tetratricopeptide repeats 1
+Details
+
+14	
+95
+
+hsa-miR-4756-5p	PIANP	PILR alpha associated neural protein
+Details
+
+15	
+95
+
+hsa-miR-4756-5p	TBC1D24	TBC1 domain family member 24
+Details
+
+16	
+95
+
+hsa-miR-4756-5p	SKI	SKI proto-oncogene
+Details
+
+17	
+95
+
+hsa-miR-4756-5p	HOXC10	homeobox C10
+Details
+
+18	
+94
+
+hsa-miR-4756-5p	BAK1	BCL2 antagonist/killer 1
+Details
+
+19	
+94
+
+hsa-miR-4756-5p	PRRT2	proline rich transmembrane protein 2
+Details
+
+20	
+94
+
+hsa-miR-4756-5p	HECTD4	HECT domain E3 ubiquitin protein ligase 4
+Details
+
+21	
+94
+
+hsa-miR-4756-5p	RAB3IL1	RAB3A interacting protein like 1
+Details
+
+22	
+93
+
+hsa-miR-4756-5p	HNF4A	hepatocyte nuclear factor 4 alpha
+Details
+
+23	
+93
+
+hsa-miR-4756-5p	NEMP2	nuclear envelope integral membrane protein 2
+Details
+
+24	
+93
+
+hsa-miR-4756-5p	AIF1L	allograft inflammatory factor 1 like
+Details
+
+25	
+92
+
+hsa-miR-4756-5p	PDLIM5	PDZ and LIM domain 5
+Details
+
+26	
+92
+
+hsa-miR-4756-5p	FZD1	frizzled class receptor 1
+Details
+
+27	
+92
+
+hsa-miR-4756-5p	WNT9B	Wnt family member 9B
+Details
+
+28	
+92
+
+hsa-miR-4756-5p	SRP54	signal recognition particle 54
+Details
+
+29	
+92
+
+hsa-miR-4756-5p	MEIS3	Meis homeobox 3
+Details
+
+30	
+92
+
+hsa-miR-4756-5p	PLAGL2	PLAG1 like zinc finger 2
+Details
+
+31	
+91
+
+hsa-miR-4756-5p	NECTIN1	nectin cell adhesion molecule 1
+Details
+
+32	
+91
+
+hsa-miR-4756-5p	FGF23	fibroblast growth factor 23
+Details
+
+33	
+91
+
+hsa-miR-4756-5p	DLX3	distal-less homeobox 3
+Details
+
+34	
+91
+
+hsa-miR-4756-5p	ADD2	adducin 2
+Details
+
+35	
+91
+
+hsa-miR-4756-5p	DLK1	delta like non-canonical Notch ligand 1
+Details
+
+36	
+91
+
+hsa-miR-4756-5p	EYA3	EYA transcriptional coactivator and phosphatase 3
+Details
+
+37	
+91
+
+hsa-miR-4756-5p	PAX1	paired box 1
+Details
+
+38	
+90
+
+hsa-miR-4756-5p	GATAD2B	GATA zinc finger domain containing 2B
+Details
+
+39	
+90
+
+hsa-miR-4756-5p	DNA2	DNA replication helicase/nuclease 2
+Details
+
+40	
+90
+
+hsa-miR-4756-5p	SOX12	SRY-box 12
+Details
+
+41	
+90
+
+hsa-miR-4756-5p	NFAM1	NFAT activating protein with ITAM motif 1
+Details
+
+42	
+90
+
+hsa-miR-4756-5p	IL2RG	interleukin 2 receptor subunit gamma
+Details
+
+43	
+90
+
+hsa-miR-4756-5p	NISCH	nischarin
+Details
+
+44	
+90
+
+hsa-miR-4756-5p	CBX6	chromobox 6
+Details
+
+45	
+90
+
+hsa-miR-4756-5p	DTX1	deltex E3 ubiquitin ligase 1
+Details
+
+46	
+90
+
+hsa-miR-4756-5p	HSD17B13	hydroxysteroid 17-beta dehydrogenase 13
+Details
+
+47	
+90
+
+hsa-miR-4756-5p	ACKR2	atypical chemokine receptor 2

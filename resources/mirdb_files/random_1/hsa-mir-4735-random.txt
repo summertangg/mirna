@@ -1,0 +1,439 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-4735-5p	WAPL	WAPL cohesin release factor
+Details
+
+2	
+99
+
+hsa-miR-4735-5p	HOOK3	hook microtubule tethering protein 3
+Details
+
+3	
+99
+
+hsa-miR-4735-5p	UBE4A	ubiquitination factor E4A
+Details
+
+4	
+99
+
+hsa-miR-4735-5p	CCDC148	coiled-coil domain containing 148
+Details
+
+5	
+99
+
+hsa-miR-4735-5p	FZD3	frizzled class receptor 3
+Details
+
+6	
+98
+
+hsa-miR-4735-5p	LRRN1	leucine rich repeat neuronal 1
+Details
+
+7	
+98
+
+hsa-miR-4735-5p	QKI	QKI, KH domain containing RNA binding
+Details
+
+8	
+98
+
+hsa-miR-4735-5p	CAPS2	calcyphosine 2
+Details
+
+9	
+98
+
+hsa-miR-4735-5p	SPOPL	speckle type BTB/POZ protein like
+Details
+
+10	
+97
+
+hsa-miR-4735-5p	STAG2	stromal antigen 2
+Details
+
+11	
+97
+
+hsa-miR-4735-5p	SLIT2	slit guidance ligand 2
+Details
+
+12	
+97
+
+hsa-miR-4735-5p	VKORC1L1	vitamin K epoxide reductase complex subunit 1 like 1
+Details
+
+13	
+97
+
+hsa-miR-4735-5p	XRN1	5'-3' exoribonuclease 1
+Details
+
+14	
+97
+
+hsa-miR-4735-5p	RB1	RB transcriptional corepressor 1
+Details
+
+15	
+96
+
+hsa-miR-4735-5p	RBL2	RB transcriptional corepressor like 2
+Details
+
+16	
+96
+
+hsa-miR-4735-5p	RAB3C	RAB3C, member RAS oncogene family
+Details
+
+17	
+96
+
+hsa-miR-4735-5p	AAK1	AP2 associated kinase 1
+Details
+
+18	
+96
+
+hsa-miR-4735-5p	LARP4	La ribonucleoprotein domain family member 4
+Details
+
+19	
+96
+
+hsa-miR-4735-5p	MAP7	microtubule associated protein 7
+Details
+
+20	
+95
+
+hsa-miR-4735-5p	AGPS	alkylglycerone phosphate synthase
+Details
+
+21	
+95
+
+hsa-miR-4735-5p	PJA2	praja ring finger ubiquitin ligase 2
+Details
+
+22	
+95
+
+hsa-miR-4735-5p	AQP4	aquaporin 4
+Details
+
+23	
+95
+
+hsa-miR-4735-5p	THAP1	THAP domain containing 1
+Details
+
+24	
+95
+
+hsa-miR-4735-5p	RC3H1	ring finger and CCCH-type domains 1
+Details
+
+25	
+95
+
+hsa-miR-4735-5p	CREBL2	cAMP responsive element binding protein like 2
+Details
+
+26	
+95
+
+hsa-miR-4735-5p	ANKRD13C	ankyrin repeat domain 13C
+Details
+
+27	
+95
+
+hsa-miR-4735-5p	RABEP1	rabaptin, RAB GTPase binding effector protein 1
+Details
+
+28	
+94
+
+hsa-miR-4735-5p	RCBTB1	RCC1 and BTB domain containing protein 1
+Details
+
+29	
+94
+
+hsa-miR-4735-5p	MAGEB3	MAGE family member B3
+Details
+
+30	
+94
+
+hsa-miR-4735-5p	AUTS2	AUTS2, activator of transcription and developmental regulator
+Details
+
+31	
+93
+
+hsa-miR-4735-5p	TP53BP2	tumor protein p53 binding protein 2
+Details
+
+32	
+93
+
+hsa-miR-4735-5p	EFEMP1	EGF containing fibulin extracellular matrix protein 1
+Details
+
+33	
+93
+
+hsa-miR-4735-5p	DPP10	dipeptidyl peptidase like 10
+Details
+
+34	
+93
+
+hsa-miR-4735-5p	CNTD1	cyclin N-terminal domain containing 1
+Details
+
+35	
+93
+
+hsa-miR-4735-5p	B4GALT6	beta-1,4-galactosyltransferase 6
+Details
+
+36	
+93
+
+hsa-miR-4735-5p	NTS	neurotensin
+Details
+
+37	
+93
+
+hsa-miR-4735-5p	VCPIP1	valosin containing protein interacting protein 1
+Details
+
+38	
+93
+
+hsa-miR-4735-5p	MYO5B	myosin VB
+Details
+
+39	
+92
+
+hsa-miR-4735-5p	FIGN	fidgetin, microtubule severing factor
+Details
+
+40	
+92
+
+hsa-miR-4735-5p	FPR3	formyl peptide receptor 3
+Details
+
+41	
+92
+
+hsa-miR-4735-5p	TRIM33	tripartite motif containing 33
+Details
+
+42	
+92
+
+hsa-miR-4735-5p	HERC1	HECT and RLD domain containing E3 ubiquitin protein ligase family member 1
+Details
+
+43	
+92
+
+hsa-miR-4735-5p	EFHB	EF-hand domain family member B
+Details
+
+44	
+92
+
+hsa-miR-4735-5p	SETD7	SET domain containing 7, histone lysine methyltransferase
+Details
+
+45	
+92
+
+hsa-miR-4735-5p	SUSD5	sushi domain containing 5
+Details
+
+46	
+92
+
+hsa-miR-4735-5p	OMD	osteomodulin
+Details
+
+47	
+92
+
+hsa-miR-4735-5p	CDK6	cyclin dependent kinase 6
+Details
+
+48	
+92
+
+hsa-miR-4735-5p	GOLGA4	golgin A4
+Details
+
+49	
+92
+
+hsa-miR-4735-5p	TEAD1	TEA domain transcription factor 1
+Details
+
+50	
+91
+
+hsa-miR-4735-5p	PDLIM5	PDZ and LIM domain 5
+Details
+
+51	
+91
+
+hsa-miR-4735-5p	SNX29	sorting nexin 29
+Details
+
+52	
+91
+
+hsa-miR-4735-5p	RASSF8	Ras association domain family member 8
+Details
+
+53	
+91
+
+hsa-miR-4735-5p	PPP4R2	protein phosphatase 4 regulatory subunit 2
+Details
+
+54	
+91
+
+hsa-miR-4735-5p	SGTB	small glutamine rich tetratricopeptide repeat containing beta
+Details
+
+55	
+91
+
+hsa-miR-4735-5p	ELK4	ELK4, ETS transcription factor
+Details
+
+56	
+91
+
+hsa-miR-4735-5p	SOHLH2	spermatogenesis and oogenesis specific basic helix-loop-helix 2
+Details
+
+57	
+91
+
+hsa-miR-4735-5p	EED	embryonic ectoderm development
+Details
+
+58	
+91
+
+hsa-miR-4735-5p	GOSR1	golgi SNAP receptor complex member 1
+Details
+
+59	
+91
+
+hsa-miR-4735-5p	LCOR	ligand dependent nuclear receptor corepressor
+Details
+
+60	
+91
+
+hsa-miR-4735-5p	PCDH17	protocadherin 17
+Details
+
+61	
+90
+
+hsa-miR-4735-5p	SLC4A4	solute carrier family 4 member 4
+Details
+
+62	
+90
+
+hsa-miR-4735-5p	ITGA4	integrin subunit alpha 4
+Details
+
+63	
+90
+
+hsa-miR-4735-5p	SKP2	S-phase kinase associated protein 2
+Details
+
+64	
+90
+
+hsa-miR-4735-5p	COL4A1	collagen type IV alpha 1 chain
+Details
+
+65	
+90
+
+hsa-miR-4735-5p	FAM49B	family with sequence similarity 49 member B
+Details
+
+66	
+90
+
+hsa-miR-4735-5p	RAB6C	RAB6C, member RAS oncogene family
+Details
+
+67	
+90
+
+hsa-miR-4735-5p	NR2C1	nuclear receptor subfamily 2 group C member 1
+Details
+
+68	
+90
+
+hsa-miR-4735-5p	RAB6D	RAB6D, member RAS oncogene family
+Details
+
+69	
+90
+
+hsa-miR-4735-5p	FAM84B	family with sequence similarity 84 member B
+Details
+
+70	
+90
+
+hsa-miR-4735-5p	LATS2	large tumor suppressor kinase 2
+Details
+
+71	
+90
+
+hsa-miR-4735-5p	ANKIB1	ankyrin repeat and IBR domain containing 1
+Details
+
+72	
+90
+
+hsa-miR-4735-5p	PCSK2	proprotein convertase subtilisin/kexin type 2
+Details
+
+73	
+90
+
+hsa-miR-4735-5p	EPC2	enhancer of polycomb homolog 2

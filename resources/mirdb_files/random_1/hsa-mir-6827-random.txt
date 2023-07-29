@@ -1,0 +1,115 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+98
+
+hsa-miR-6827-5p	RARG	retinoic acid receptor gamma
+Details
+
+2	
+96
+
+hsa-miR-6827-5p	TBL1XR1	transducin beta like 1 X-linked receptor 1
+Details
+
+3	
+96
+
+hsa-miR-6827-5p	ZDHHC18	zinc finger DHHC-type containing 18
+Details
+
+4	
+95
+
+hsa-miR-6827-5p	ITGA11	integrin subunit alpha 11
+Details
+
+5	
+94
+
+hsa-miR-6827-5p	SMCR8	Smith-Magenis syndrome chromosome region, candidate 8
+Details
+
+6	
+94
+
+hsa-miR-6827-5p	THBS3	thrombospondin 3
+Details
+
+7	
+94
+
+hsa-miR-6827-5p	LY6G6C	lymphocyte antigen 6 family member G6C
+Details
+
+8	
+94
+
+hsa-miR-6827-5p	COQ4	coenzyme Q4
+Details
+
+9	
+93
+
+hsa-miR-6827-5p	LMX1A	LIM homeobox transcription factor 1 alpha
+Details
+
+10	
+92
+
+hsa-miR-6827-5p	PTGES	prostaglandin E synthase
+Details
+
+11	
+92
+
+hsa-miR-6827-5p	BCL2L1	BCL2 like 1
+Details
+
+12	
+91
+
+hsa-miR-6827-5p	ESAM	endothelial cell adhesion molecule
+Details
+
+13	
+91
+
+hsa-miR-6827-5p	DMGDH	dimethylglycine dehydrogenase
+Details
+
+14	
+91
+
+hsa-miR-6827-5p	SRR	serine racemase
+Details
+
+15	
+91
+
+hsa-miR-6827-5p	ATP8A2	ATPase phospholipid transporting 8A2
+Details
+
+16	
+91
+
+hsa-miR-6827-5p	GALNT13	polypeptide N-acetylgalactosaminyltransferase 13
+Details
+
+17	
+90
+
+hsa-miR-6827-5p	KPNA1	karyopherin subunit alpha 1
+Details
+
+18	
+90
+
+hsa-miR-6827-5p	MARK2	microtubule affinity regulating kinase 2
+Details
+
+19	
+90
+
+hsa-miR-6827-5p	HEATR9	HEAT repeat containing 9
