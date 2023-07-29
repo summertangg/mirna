@@ -32,7 +32,8 @@ def export_interactions(db_conn, root_path, out_file):
         else:
             disease_col.append('No')
     
-    pivot_df.insert(0, 'DIAGNOSTIC_POSITIVE', disease_col)
+    # pivot_df.insert(0, 'DIAGNOSTIC_POSITIVE', disease_col)
+    pivot_df['DIAGNOSTIC_POSITIVE'] = disease_col
 
     # Write the pivoted DataFrame to a CSV file
     pivot_df.to_csv(file_path, index=True)
