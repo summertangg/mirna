@@ -90,7 +90,7 @@ WHERE target_score > 96
 ORDER BY gene
 
 -- delete FROM mirdb_mirna_gene
--- where mirna = 'hsa-mir-585'
+-- where mirna = 'hsa-mir-551b'
 
 SELECT gene, COUNT(mirna) AS num_interactions, STRING_AGG(DISTINCT mirna, ',') AS grouped_mirna
 FROM mirdb_mirna_gene
@@ -102,6 +102,8 @@ group by gene
 ORDER BY num_interactions desc
 
 SELECT DISTINCT (mirna)
-FROM mirdb_mirna_gene
+FROM mirdb_mirna_gene AS i
+INNER JOIN mirnas AS m on m.mirna_id = i.mirna and m.disease is NULL
+order by mirna
 
 
