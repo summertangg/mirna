@@ -93,17 +93,15 @@ ORDER BY gene
 -- where mirna = 'hsa-mir-551b'
 
 SELECT gene, COUNT(mirna) AS num_interactions, STRING_AGG(DISTINCT mirna, ',') AS grouped_mirna
-FROM mirdb_mirna_gene
--- where mirna in ('hsa-mir-155', 'hsa-mir-145', 'hsa-mir-19b', 'hsa-mir-21', 'hsa-mir-217', 'hsa-mir-181a', 'hsa-mir-143', 
--- 				'hsa-mir-144', 'hsa-mir-451b', 'hsa-mir-146a', 'hsa-mir-146b', 'hsa-mir-27b',
--- 			    'hsa-mir-329', 'hsa-mir-626', 'hsa-mir-876', 'hsa-mir-1245b', 'hsa-mir-3922', 'hsa-mir-4510',
--- 			    'hsa-mir-378f', 'hsa-mir-6133', 'hsa-mir-6827', 'hsa-mir-6780a', 'hsa-mir-5010', 'hsa-mir-4727')
+FROM mirdb_mirna_gene i
+INNER JOIN mirnas AS m on m.mirna_id = i.mirna and m.disease is not NULL
+WHERE target_score > 96
 group by gene
 ORDER BY num_interactions desc
 
-SELECT DISTINCT (mirna)
+SELECT DISTINCT (mirna), m.disease
 FROM mirdb_mirna_gene AS i
-INNER JOIN mirnas AS m on m.mirna_id = i.mirna and m.disease is NULL
+INNER JOIN mirnas AS m on m.mirna_id = i.mirna -- and m.disease is not NULL
 order by mirna
 
 

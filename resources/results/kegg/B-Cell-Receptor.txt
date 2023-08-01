@@ -1,0 +1,5 @@
+5290 yellow,red
+5530 yellow,red
+5970 yellow,red
+6654 yellow,red
+10000 yellow,red
