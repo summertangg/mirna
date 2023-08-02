@@ -1,0 +1,43 @@
+"kegg_id","gene","grouped_mirna"
+9252,"RPS6KA5","hsa-mir-17,hsa-mir-19a,hsa-mir-19b,hsa-mir-20a,hsa-mir-27b"
+2005,"ELK4","hsa-mir-145,hsa-mir-17,hsa-mir-20a"
+775,"CACNA1C","hsa-mir-19a,hsa-mir-19b"
+777,"CACNA1E","hsa-mir-15a,hsa-mir-34a"
+3312,"HSPA8","hsa-mir-17,hsa-mir-20a"
+3654,"IRAK1","hsa-mir-146a,hsa-mir-146b"
+10746,"MAP3K2","hsa-mir-17,hsa-mir-20a"
+5924,"RASGRF2","hsa-mir-17,hsa-mir-20a"
+7189,"TRAF6","hsa-mir-146a,hsa-mir-146b"
+10000,"AKT3","hsa-mir-15a"
+2247,"FGF2","hsa-mir-15a"
+2252,"FGF7","hsa-mir-15a"
+6416,"MAP2K4","hsa-mir-92a"
+4216,"MAP3K4","hsa-mir-144"
+4233,"MET","hsa-mir-34a"
+5530,"PPP3CA","hsa-mir-145"
+6237,"RRAS","hsa-mir-34a"
+6654,"SOS1","hsa-mir-27b"
+57551,"TAOK1","hsa-mir-19b"
+7010,"TEK","hsa-mir-144"
+
+
+9252	#DC143C,black
+2005	#FA8072,black
+775	#FFB6C1,black
+777	#FFB6C1,black
+3312	#FFB6C1,black
+3654	#FFB6C1,black
+10746	#FFB6C1,black
+5924	#FFB6C1,black
+7189	#FFB6C1,black
+10000	#FFE4E1,black
+2247	#FFE4E1,black
+2252	#FFE4E1,black
+6416	#FFE4E1,black
+4216	#FFE4E1,black
+4233	#FFE4E1,black
+5530	#FFE4E1,black
+6237	#FFE4E1,black
+6654	#FFE4E1,black
+57551	#FFE4E1,black
+7010	#FFE4E1,black

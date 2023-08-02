@@ -1,0 +1,12 @@
+"kegg_id","gene","grouped_mirna"
+4194,"MDM4","hsa-mir-19a,hsa-mir-19b,hsa-mir-34a"
+595,"CCND1","hsa-mir-17,hsa-mir-20a"
+143686,"SESN3","hsa-mir-181a,hsa-mir-92a"
+894,"CCND2","hsa-mir-15a"
+898,"CCNE1","hsa-mir-15a"
+
+4194 #FA8072,black
+595 #FFB6C1,black
+143686 #FFB6C1,black
+894 #FFE4E1,black
+898 #FFE4E1,black

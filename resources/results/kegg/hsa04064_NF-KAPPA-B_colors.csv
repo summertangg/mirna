@@ -1,0 +1,8 @@
+"kegg_id","gene","grouped_mirna"
+3654,"IRAK1","hsa-mir-146a,hsa-mir-146b"
+7189,"TRAF6","hsa-mir-146a,hsa-mir-146b"
+257397,"TAB3","hsa-mir-27b"
+
+3654	#FFB6C1,black
+7189	#FFB6C1,black
+257397	#FFE4E1,black
