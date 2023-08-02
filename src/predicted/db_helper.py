@@ -13,7 +13,7 @@ def insert_mirna(conn, cur, mirna_id, description):
         print(f"{mirna_id} is updated with new description: {description}.")
     conn.commit()
 
-def insert_gene(conn, cur, gene_id, description):
+def insert_gene(conn, cur, gene_id, description, kegg_id=None):
     gene_id = gene_id.upper()
     print(gene_id)
     cur.execute("SELECT COUNT(*) FROM genes WHERE gene_id = %s", (gene_id,))
@@ -21,11 +21,15 @@ def insert_gene(conn, cur, gene_id, description):
     
     if record_count == 0:
         # Insert the record if it doesn't exist
-        cur.execute("INSERT INTO genes (gene_id, description) VALUES (%s, %s)", (gene_id, description))
+        cur.execute("INSERT INTO genes (gene_id, description, kegg_id) VALUES (%s, %s, %s)", (gene_id, description, kegg_id))
         print(f"{gene_id} inserted successfully.")
     else:
-        cur.execute("UPDATE genes SET description = %s WHERE gene_id = %s", (description, gene_id))
-        print(f"{gene_id} is updated with new description: {description}.")
+        if description and len(description) > 0:
+            cur.execute("UPDATE genes SET description = %s WHERE gene_id = %s", (description, gene_id))
+            print(f"{gene_id} is updated with new description: {description}.")
+        if kegg_id:
+            cur.execute("UPDATE genes SET kegg_id = %s WHERE gene_id = %s", (kegg_id, gene_id))
+            print(f"{gene_id} is updated with new kegg_id: {kegg_id}.")
     conn.commit()
 
 
@@ -66,3 +70,31 @@ SELECT mirna_id, disease FROM mirnas
     # Fetch all the query results
     results = cur.fetchall()
     return results
+
+def get_pathway(cur, pathway_id):
+    print(f'pathway id: {pathway_id}')
+    cur.execute("SELECT name FROM pathways WHERE pathway_id = %s", (pathway_id,))
+    # Fetch the record
+    record = cur.fetchone()
+
+    if record:
+        # Access the name column from the record
+        pathway_name = record[0]
+        print("Pathway name:", pathway_name)
+    else:
+        print("No record found.")
+    return pathway_name
+
+def insert_pathway_gene(conn, cur, pathway_id, gene_id):
+    gene_id = gene_id.upper()
+    print(f"pathway - gene: {pathway_id} - {gene_id} from KEGG")
+    cur.execute("SELECT COUNT(*) FROM pathway_gene WHERE pathway_id = %s AND gene = %s", (pathway_id, gene_id))
+    record_count = cur.fetchone()[0]
+    
+    if record_count == 0:
+        # Insert the record if it doesn't exist
+        cur.execute("INSERT INTO pathway_gene (pathway_id, gene) VALUES (%s, %s)", (pathway_id, gene_id))
+        conn.commit()
+        print(f"{pathway_id} - {gene_id} inserted successfully.")
+    else:
+        print(f"{pathway_id} - {gene_id} already exists.")

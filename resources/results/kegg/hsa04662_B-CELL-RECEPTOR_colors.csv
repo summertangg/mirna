@@ -1,0 +1,12 @@
+"kegg_id","gene","grouped_mirna"
+5290,"PIK3CA","hsa-mir-19a,hsa-mir-19b"
+10000,"AKT3","hsa-mir-15a"
+5530,"PPP3CA","hsa-mir-145"
+6654,"SOS1","hsa-mir-27b"
+
+
+5290	#FFB6C1,black
+10000	#FFE4E1,black
+5530	#FFE4E1,black
+6654	#FFE4E1,black
+

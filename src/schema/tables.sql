@@ -43,6 +43,27 @@ CREATE TABLE mirdb_mirna_gene (
   FOREIGN KEY (gene) REFERENCES genes (gene_id)
 );
 
+-- Create a table to save pathway:gene interactions from KEGG
+CREATE TABLE pathway_gene (
+  pathway_id smallint,
+  gene VARCHAR(20),
+  PRIMARY KEY (pathway_id, gene),
+  FOREIGN KEY (gene) REFERENCES genes (gene_id),
+  FOREIGN KEY (pathway_id) REFERENCES pathways (pathway_id)
+);
+
+-- Create a table to save colors to render targetted genes depending on the number of interactions
+CREATE TABLE interaction_colors (
+  num_interactions smallint,
+  color VARCHAR(20),
+  PRIMARY KEY (num_interactions)
+);
+
+INSERT INTO interaction_colors (num_interactions, color) VALUES (1, '#FFE4E1,black');
+INSERT INTO interaction_colors (num_interactions, color) VALUES (2, '#FFB6C1,black');
+INSERT INTO interaction_colors (num_interactions, color) VALUES (3, '#FA8072,black');
+INSERT INTO interaction_colors (num_interactions, color) VALUES (4, '#CD5C5C,black');
+INSERT INTO interaction_colors (num_interactions, color) VALUES (5, '#DC143C,black');
 
 
 

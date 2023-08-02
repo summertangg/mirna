@@ -1,6 +1,0 @@
-7189 yellow,red
-7706 yellow,red
-3654 yellow,red
-5970 yellow,red
-5971 yellow,red
-257397 yellow,red

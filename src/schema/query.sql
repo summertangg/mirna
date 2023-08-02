@@ -13,7 +13,7 @@ insert into mirnas (mirna_id, description) values ('pigu','ligu')
 -- where mirna_id like 'hsa-mir-19a%'
 
 select * from genes
-where gene_id = 'DICER1'
+where gene_id = 'IGH'
 
 select * from pathways
 
@@ -96,12 +96,49 @@ SELECT gene, COUNT(mirna) AS num_interactions, STRING_AGG(DISTINCT mirna, ',') A
 FROM mirdb_mirna_gene i
 INNER JOIN mirnas AS m on m.mirna_id = i.mirna and m.disease is not NULL
 WHERE target_score > 96
+  --AND gene in ('PIK3CA', 'PPP3CA', 'RELA', 'SOS1', 'AKT3')
+  --AND gene = 'RELA'
 group by gene
 ORDER BY num_interactions desc
 
 SELECT DISTINCT (mirna), m.disease
 FROM mirdb_mirna_gene AS i
-INNER JOIN mirnas AS m on m.mirna_id = i.mirna -- and m.disease is not NULL
+INNER JOIN mirnas AS m on m.mirna_id = i.mirna and m.disease is NULL
 order by mirna
+
+select * from pathways
+
+SELECT * 
+FROM pathway_gene
+
+-- get pathway genes targeted by miRNAs 
+SELECT g.kegg_id, mg.gene, STRING_AGG(DISTINCT mirna, ',') AS grouped_mirna
+FROM pathway_gene AS pg
+INNER JOIN genes AS g ON g.gene_id = pg.gene
+INNER JOIN mirdb_mirna_gene AS mg ON mg.gene = pg.gene
+INNER JOIN mirnas AS m on m.mirna_id = mg.mirna and m.disease is not NULL
+WHERE mg.target_score > 96
+  AND pg.pathway_id = 1
+group by mg.gene, pg.gene, g.kegg_id
+ORDER BY count(mg.mirna) desc, mg.gene
+
+SELECT t.kegg_id, c.color --t.* 
+FROM interaction_colors AS c
+INNER JOIN (
+	SELECT g.kegg_id, mg.gene, count(mg.mirna) AS num_mirna, STRING_AGG(DISTINCT mirna, ',') AS grouped_mirna
+	FROM pathway_gene AS pg
+	INNER JOIN genes AS g ON g.gene_id = pg.gene
+	INNER JOIN mirdb_mirna_gene AS mg ON mg.gene = pg.gene
+	INNER JOIN mirnas AS m on m.mirna_id = mg.mirna and m.disease is not NULL
+	WHERE mg.target_score > 96
+	  AND pg.pathway_id = 1
+	group by mg.gene, pg.gene, g.kegg_id
+	ORDER BY mg.gene
+	) AS t ON c.num_interactions = t.num_mirna
+order by t.num_mirna desc, t.gene
+
+select * from interaction_colors
+
+
 
 
