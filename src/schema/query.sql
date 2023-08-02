@@ -89,7 +89,7 @@ WHERE target_score > 96
 -- 			    'hsa-mir-378f', 'hsa-mir-6133', 'hsa-mir-6827', 'hsa-mir-6780a', 'hsa-mir-5010', 'hsa-mir-4727')
 ORDER BY gene
 
--- delete FROM mirdb_mirna_gene
+--delete FROM mirdb_mirna_gene
 -- where mirna = 'hsa-mir-551b'
 
 SELECT gene, COUNT(mirna) AS num_interactions, STRING_AGG(DISTINCT mirna, ',') AS grouped_mirna
@@ -97,29 +97,30 @@ FROM mirdb_mirna_gene i
 INNER JOIN mirnas AS m on m.mirna_id = i.mirna and m.disease is not NULL
 WHERE target_score > 96
   --AND gene in ('PIK3CA', 'PPP3CA', 'RELA', 'SOS1', 'AKT3')
-  AND gene = 'TRIM25'
+  --AND gene = 'TRIM25'
 group by gene
 ORDER BY num_interactions desc
 
-SELECT DISTINCT (mirna), m.disease
+SELECT DISTINCT (mirna)--, m.disease
 FROM mirdb_mirna_gene AS i
-INNER JOIN mirnas AS m on m.mirna_id = i.mirna and m.disease is NULL
+--INNER JOIN mirnas AS m on m.mirna_id = i.mirna and m.disease is NULL
 order by mirna
 
 select * from pathways
+select * from genes
 
 SELECT pathway_id, count(gene)
 FROM pathway_gene
 group by pathway_id
 
 -- get pathway genes targeted by miRNAs 
-SELECT g.kegg_id, mg.gene, STRING_AGG(DISTINCT mirna, ',') AS grouped_mirna --,count(mg.mirna)
+SELECT g.kegg_id, mg.gene, STRING_AGG(DISTINCT mirna, ',') AS grouped_mirna ,count(mg.mirna)
 FROM pathway_gene AS pg
 INNER JOIN genes AS g ON g.gene_id = pg.gene
 INNER JOIN mirdb_mirna_gene AS mg ON mg.gene = pg.gene
 INNER JOIN mirnas AS m on m.mirna_id = mg.mirna and m.disease is not NULL
 WHERE mg.target_score >= 97
-  AND pg.pathway_id = 6
+  AND pg.pathway_id = 1
 group by mg.gene, pg.gene, g.kegg_id
 ORDER BY count(mg.mirna) desc, mg.gene
 
@@ -132,7 +133,7 @@ INNER JOIN (
 	INNER JOIN mirdb_mirna_gene AS mg ON mg.gene = pg.gene
 	INNER JOIN mirnas AS m on m.mirna_id = mg.mirna and m.disease is not NULL
 	WHERE mg.target_score >= 97
-	  AND pg.pathway_id = 6
+	  AND pg.pathway_id = 1
 	group by mg.gene, pg.gene, g.kegg_id
 	ORDER BY mg.gene
 	) AS t ON c.num_interactions = t.num_mirna
