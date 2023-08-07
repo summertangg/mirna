@@ -1,0 +1,475 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-222-3p	GABRA1	gamma-aminobutyric acid type A receptor alpha1 subunit
+Details
+
+2	
+100
+
+hsa-miR-222-3p	RIMS3	regulating synaptic membrane exocytosis 3
+Details
+
+3	
+99
+
+hsa-miR-222-3p	CDKN1B	cyclin dependent kinase inhibitor 1B
+Details
+
+4	
+98
+
+hsa-miR-222-3p	TCF12	transcription factor 12
+Details
+
+5	
+98
+
+hsa-miR-222-3p	PANK3	pantothenate kinase 3
+Details
+
+6	
+98
+
+hsa-miR-222-3p	HECTD2	HECT domain E3 ubiquitin protein ligase 2
+Details
+
+7	
+98
+
+hsa-miR-222-3p	PAIP1	poly(A) binding protein interacting protein 1
+Details
+
+8	
+97
+
+hsa-miR-222-3p	HMBOX1	homeobox containing 1
+Details
+
+9	
+97
+
+hsa-miR-222-3p	RGS6	regulator of G protein signaling 6
+Details
+
+10	
+97
+
+hsa-miR-222-3p	RFX7	regulatory factor X7
+Details
+
+11	
+96
+
+hsa-miR-222-3p	EIF5A2	eukaryotic translation initiation factor 5A2
+Details
+
+12	
+95
+
+hsa-miR-222-3p	GRB10	growth factor receptor bound protein 10
+Details
+
+13	
+95
+
+hsa-miR-222-3p	KIT	KIT proto-oncogene receptor tyrosine kinase
+Details
+
+14	
+95
+
+hsa-miR-222-3p	ARHGEF38	Rho guanine nucleotide exchange factor 38
+Details
+
+15	
+95
+
+hsa-miR-222-3p	MIDN	midnolin
+Details
+
+16	
+95
+
+hsa-miR-222-3p	EML6	EMAP like 6
+Details
+
+17	
+95
+
+hsa-miR-222-3p	CLVS2	clavesin 2
+Details
+
+18	
+95
+
+hsa-miR-222-3p	GNAI3	G protein subunit alpha i3
+Details
+
+19	
+94
+
+hsa-miR-222-3p	VAPB	VAMP associated protein B and C
+Details
+
+20	
+94
+
+hsa-miR-222-3p	RAB18	RAB18, member RAS oncogene family
+Details
+
+21	
+94
+
+hsa-miR-222-3p	FNDC3A	fibronectin type III domain containing 3A
+Details
+
+22	
+94
+
+hsa-miR-222-3p	MYLIP	myosin regulatory light chain interacting protein
+Details
+
+23	
+94
+
+hsa-miR-222-3p	TGS1	trimethylguanosine synthase 1
+Details
+
+24	
+94
+
+hsa-miR-222-3p	FNIP2	folliculin interacting protein 2
+Details
+
+25	
+94
+
+hsa-miR-222-3p	GRIK1	glutamate ionotropic receptor kainate type subunit 1
+Details
+
+26	
+94
+
+hsa-miR-222-3p	DENND1B	DENN domain containing 1B
+Details
+
+27	
+94
+
+hsa-miR-222-3p	ADAM22	ADAM metallopeptidase domain 22
+Details
+
+28	
+93
+
+hsa-miR-222-3p	LOC100506388	uncharacterized LOC100506388
+Details
+
+29	
+93
+
+hsa-miR-222-3p	TFG	TRK-fused gene
+Details
+
+30	
+93
+
+hsa-miR-222-3p	GALNT3	polypeptide N-acetylgalactosaminyltransferase 3
+Details
+
+31	
+93
+
+hsa-miR-222-3p	ZNF91	zinc finger protein 91
+Details
+
+32	
+93
+
+hsa-miR-222-3p	NRK	Nik related kinase
+Details
+
+33	
+93
+
+hsa-miR-222-3p	PCMTD1	protein-L-isoaspartate (D-aspartate) O-methyltransferase domain containing 1
+Details
+
+34	
+93
+
+hsa-miR-222-3p	WDR35	WD repeat domain 35
+Details
+
+35	
+93
+
+hsa-miR-222-3p	MIER3	MIER family member 3
+Details
+
+36	
+93
+
+hsa-miR-222-3p	C3orf70	chromosome 3 open reading frame 70
+Details
+
+37	
+92
+
+hsa-miR-222-3p	DCUN1D1	defective in cullin neddylation 1 domain containing 1
+Details
+
+38	
+92
+
+hsa-miR-222-3p	AGTPBP1	ATP/GTP binding protein 1
+Details
+
+39	
+92
+
+hsa-miR-222-3p	CDH2	cadherin 2
+Details
+
+40	
+92
+
+hsa-miR-222-3p	POGZ	pogo transposable element derived with ZNF domain
+Details
+
+41	
+92
+
+hsa-miR-222-3p	DMRT3	doublesex and mab-3 related transcription factor 3
+Details
+
+42	
+92
+
+hsa-miR-222-3p	SEC62	SEC62 homolog, preprotein translocation factor
+Details
+
+43	
+92
+
+hsa-miR-222-3p	RSBN1L	round spermatid basic protein 1 like
+Details
+
+44	
+92
+
+hsa-miR-222-3p	PPP3R1	protein phosphatase 3 regulatory subunit B, alpha
+Details
+
+45	
+92
+
+hsa-miR-222-3p	ARF4	ADP ribosylation factor 4
+Details
+
+46	
+92
+
+hsa-miR-222-3p	NAA25	N(alpha)-acetyltransferase 25, NatB auxiliary subunit
+Details
+
+47	
+92
+
+hsa-miR-222-3p	CHSY1	chondroitin sulfate synthase 1
+Details
+
+48	
+92
+
+hsa-miR-222-3p	ERBB4	erb-b2 receptor tyrosine kinase 4
+Details
+
+49	
+92
+
+hsa-miR-222-3p	CCN1	cellular communication network factor 1
+Details
+
+50	
+92
+
+hsa-miR-222-3p	RIT2	Ras like without CAAX 2
+Details
+
+51	
+92
+
+hsa-miR-222-3p	ZFPM2	zinc finger protein, FOG family member 2
+Details
+
+52	
+91
+
+hsa-miR-222-3p	CBWD6	COBW domain containing 6
+Details
+
+53	
+91
+
+hsa-miR-222-3p	VASH1	vasohibin 1
+Details
+
+54	
+91
+
+hsa-miR-222-3p	TP53BP2	tumor protein p53 binding protein 2
+Details
+
+55	
+91
+
+hsa-miR-222-3p	CBWD1	COBW domain containing 1
+Details
+
+56	
+91
+
+hsa-miR-222-3p	ATXN1	ataxin 1
+Details
+
+57	
+91
+
+hsa-miR-222-3p	KIF20A	kinesin family member 20A
+Details
+
+58	
+91
+
+hsa-miR-222-3p	AP3B2	adaptor related protein complex 3 subunit beta 2
+Details
+
+59	
+91
+
+hsa-miR-222-3p	CBWD5	COBW domain containing 5
+Details
+
+60	
+91
+
+hsa-miR-222-3p	CASZ1	castor zinc finger 1
+Details
+
+61	
+91
+
+hsa-miR-222-3p	TMCC1	transmembrane and coiled-coil domain family 1
+Details
+
+62	
+91
+
+hsa-miR-222-3p	ETV3	ETS variant 3
+Details
+
+63	
+91
+
+hsa-miR-222-3p	DCAF12	DDB1 and CUL4 associated factor 12
+Details
+
+64	
+91
+
+hsa-miR-222-3p	SUN2	Sad1 and UNC84 domain containing 2
+Details
+
+65	
+91
+
+hsa-miR-222-3p	CBWD3	COBW domain containing 3
+Details
+
+66	
+91
+
+hsa-miR-222-3p	FMR1	fragile X mental retardation 1
+Details
+
+67	
+91
+
+hsa-miR-222-3p	FOXN2	forkhead box N2
+Details
+
+68	
+91
+
+hsa-miR-222-3p	HNRNPH3	heterogeneous nuclear ribonucleoprotein H3
+Details
+
+69	
+91
+
+hsa-miR-222-3p	MRAP2	melanocortin 2 receptor accessory protein 2
+Details
+
+70	
+91
+
+hsa-miR-222-3p	KIF16B	kinesin family member 16B
+Details
+
+71	
+90
+
+hsa-miR-222-3p	MARK1	microtubule affinity regulating kinase 1
+Details
+
+72	
+90
+
+hsa-miR-222-3p	APOLD1	apolipoprotein L domain containing 1
+Details
+
+73	
+90
+
+hsa-miR-222-3p	CBWD2	COBW domain containing 2
+Details
+
+74	
+90
+
+hsa-miR-222-3p	SYT10	synaptotagmin 10
+Details
+
+75	
+90
+
+hsa-miR-222-3p	KLF7	Kruppel like factor 7
+Details
+
+76	
+90
+
+hsa-miR-222-3p	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1
+Details
+
+77	
+90
+
+hsa-miR-222-3p	PHACTR4	phosphatase and actin regulator 4
+Details
+
+78	
+90
+
+hsa-miR-222-3p	LHFPL2	LHFPL tetraspan subfamily member 2
+Details
+
+79	
+90
+
+hsa-miR-222-3p	FERMT2	fermitin family member 2

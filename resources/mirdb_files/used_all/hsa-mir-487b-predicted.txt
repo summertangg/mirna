@@ -1,0 +1,229 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-487b-5p	SLC6A13	solute carrier family 6 member 13
+Details
+
+2	
+97
+
+hsa-miR-487b-5p	FILIP1	filamin A interacting protein 1
+Details
+
+3	
+97
+
+hsa-miR-487b-5p	ANKRD42	ankyrin repeat domain 42
+Details
+
+4	
+97
+
+hsa-miR-487b-5p	BAZ2A	bromodomain adjacent to zinc finger domain 2A
+Details
+
+5	
+96
+
+hsa-miR-487b-5p	CAMK4	calcium/calmodulin dependent protein kinase IV
+Details
+
+6	
+96
+
+hsa-miR-487b-5p	GLIPR1	GLI pathogenesis related 1
+Details
+
+7	
+95
+
+hsa-miR-487b-5p	SORBS1	sorbin and SH3 domain containing 1
+Details
+
+8	
+94
+
+hsa-miR-487b-5p	KIF13A	kinesin family member 13A
+Details
+
+9	
+94
+
+hsa-miR-487b-5p	MTMR4	myotubularin related protein 4
+Details
+
+10	
+94
+
+hsa-miR-487b-5p	NEDD4	neural precursor cell expressed, developmentally down-regulated 4, E3 ubiquitin protein ligase
+Details
+
+11	
+94
+
+hsa-miR-487b-5p	SACS	sacsin molecular chaperone
+Details
+
+12	
+93
+
+hsa-miR-487b-5p	TSC22D2	TSC22 domain family member 2
+Details
+
+13	
+93
+
+hsa-miR-487b-5p	COL4A3	collagen type IV alpha 3 chain
+Details
+
+14	
+93
+
+hsa-miR-487b-5p	EMB	embigin
+Details
+
+15	
+93
+
+hsa-miR-487b-5p	PDZRN3	PDZ domain containing ring finger 3
+Details
+
+16	
+93
+
+hsa-miR-487b-5p	RAB5C	RAB5C, member RAS oncogene family
+Details
+
+17	
+92
+
+hsa-miR-487b-5p	UTRN	utrophin
+Details
+
+18	
+92
+
+hsa-miR-487b-5p	AP1S3	adaptor related protein complex 1 subunit sigma 3
+Details
+
+19	
+92
+
+hsa-miR-487b-5p	DIO2	iodothyronine deiodinase 2
+Details
+
+20	
+92
+
+hsa-miR-487b-5p	HMBS	hydroxymethylbilane synthase
+Details
+
+21	
+92
+
+hsa-miR-487b-5p	AKTIP	AKT interacting protein
+Details
+
+22	
+92
+
+hsa-miR-487b-5p	MOB3B	MOB kinase activator 3B
+Details
+
+23	
+92
+
+hsa-miR-487b-5p	NFATC1	nuclear factor of activated T cells 1
+Details
+
+24	
+91
+
+hsa-miR-487b-5p	PLP1	proteolipid protein 1
+Details
+
+25	
+91
+
+hsa-miR-487b-5p	MINAR1	membrane integral NOTCH2 associated receptor 1
+Details
+
+26	
+91
+
+hsa-miR-487b-5p	RIMKLB	ribosomal modification protein rimK like family member B
+Details
+
+27	
+91
+
+hsa-miR-487b-5p	PARG	poly(ADP-ribose) glycohydrolase
+Details
+
+28	
+91
+
+hsa-miR-487b-5p	SERTAD4	SERTA domain containing 4
+Details
+
+29	
+91
+
+hsa-miR-487b-5p	FMNL2	formin like 2
+Details
+
+30	
+91
+
+hsa-miR-487b-5p	PHYKPL	5-phosphohydroxy-L-lysine phospho-lyase
+Details
+
+31	
+91
+
+hsa-miR-487b-5p	MAGT1	magnesium transporter 1
+Details
+
+32	
+91
+
+hsa-miR-487b-5p	IDNK	IDNK, gluconokinase
+Details
+
+33	
+91
+
+hsa-miR-487b-5p	CBLN2	cerebellin 2 precursor
+Details
+
+34	
+90
+
+hsa-miR-487b-5p	CCL28	C-C motif chemokine ligand 28
+Details
+
+35	
+90
+
+hsa-miR-487b-5p	ARID1A	AT-rich interaction domain 1A
+Details
+
+36	
+90
+
+hsa-miR-487b-5p	ATF1	activating transcription factor 1
+Details
+
+37	
+90
+
+hsa-miR-487b-5p	POLK	DNA polymerase kappa
+Details
+
+38	
+90
+
+hsa-miR-487b-5p	TESK2	testis associated actin remodelling kinase 2

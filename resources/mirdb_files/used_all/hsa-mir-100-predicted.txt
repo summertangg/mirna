@@ -1,0 +1,133 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-100-3p	TOB1	transducer of ERBB2, 1
+Details
+
+2	
+99
+
+hsa-miR-100-3p	EBF1	EBF transcription factor 1
+Details
+
+3	
+97
+
+hsa-miR-100-3p	RTN4	reticulon 4
+Details
+
+4	
+95
+
+hsa-miR-100-3p	SEC24A	SEC24 homolog A, COPII coat complex component
+Details
+
+5	
+94
+
+hsa-miR-100-3p	NT5DC1	5'-nucleotidase domain containing 1
+Details
+
+6	
+94
+
+hsa-miR-100-3p	VAMP3	vesicle associated membrane protein 3
+Details
+
+7	
+94
+
+hsa-miR-100-3p	SOCS5	suppressor of cytokine signaling 5
+Details
+
+8	
+94
+
+hsa-miR-100-3p	FBXL2	F-box and leucine rich repeat protein 2
+Details
+
+9	
+93
+
+hsa-miR-100-3p	RBX1	ring-box 1
+Details
+
+10	
+93
+
+hsa-miR-100-3p	BCAS2	BCAS2, pre-mRNA processing factor
+Details
+
+11	
+92
+
+hsa-miR-100-3p	MIA2	MIA SH3 domain ER export factor 2
+Details
+
+12	
+92
+
+hsa-miR-100-3p	C10orf126	chromosome 10 open reading frame 126
+Details
+
+13	
+92
+
+hsa-miR-100-3p	AKIRIN2	akirin 2
+Details
+
+14	
+92
+
+hsa-miR-100-3p	TMEM33	transmembrane protein 33
+Details
+
+15	
+92
+
+hsa-miR-100-3p	FBN2	fibrillin 2
+Details
+
+16	
+92
+
+hsa-miR-100-3p	DNAJC27	DnaJ heat shock protein family (Hsp40) member C27
+Details
+
+17	
+91
+
+hsa-miR-100-3p	ATRX	ATRX, chromatin remodeler
+Details
+
+18	
+90
+
+hsa-miR-100-3p	PACSIN1	protein kinase C and casein kinase substrate in neurons 1
+Details
+
+19	
+90
+
+hsa-miR-100-3p	ZSWIM5	zinc finger SWIM-type containing 5
+Details
+
+20	
+90
+
+hsa-miR-100-3p	RALA	RAS like proto-oncogene A
+Details
+
+21	
+90
+
+hsa-miR-100-3p	FAM169A	family with sequence similarity 169 member A
+Details
+
+22	
+90
+
+hsa-miR-100-3p	OSMR	oncostatin M receptor

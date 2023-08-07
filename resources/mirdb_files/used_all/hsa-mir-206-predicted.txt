@@ -1,0 +1,967 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-206	HACD3	3-hydroxyacyl-CoA dehydratase 3
+Details
+
+2	
+100
+
+hsa-miR-206	MMD	monocyte to macrophage differentiation associated
+Details
+
+3	
+100
+
+hsa-miR-206	SLC44A1	solute carrier family 44 member 1
+Details
+
+4	
+99
+
+hsa-miR-206	PAX7	paired box 7
+Details
+
+5	
+99
+
+hsa-miR-206	CDK14	cyclin dependent kinase 14
+Details
+
+6	
+99
+
+hsa-miR-206	CPED1	cadherin like and PC-esterase domain containing 1
+Details
+
+7	
+99
+
+hsa-miR-206	SMIM14	small integral membrane protein 14
+Details
+
+8	
+99
+
+hsa-miR-206	GJA1	gap junction protein alpha 1
+Details
+
+9	
+99
+
+hsa-miR-206	TAGLN2	transgelin 2
+Details
+
+10	
+99
+
+hsa-miR-206	TNKS2	tankyrase 2
+Details
+
+11	
+99
+
+hsa-miR-206	XPO6	exportin 6
+Details
+
+12	
+99
+
+hsa-miR-206	GLCCI1	glucocorticoid induced 1
+Details
+
+13	
+98
+
+hsa-miR-206	TWF1	twinfilin actin binding protein 1
+Details
+
+14	
+98
+
+hsa-miR-206	SS18	SS18, nBAF chromatin remodeling complex subunit
+Details
+
+15	
+98
+
+hsa-miR-206	SNX2	sorting nexin 2
+Details
+
+16	
+98
+
+hsa-miR-206	SLC39A10	solute carrier family 39 member 10
+Details
+
+17	
+98
+
+hsa-miR-206	ZNF281	zinc finger protein 281
+Details
+
+18	
+98
+
+hsa-miR-206	PHAX	phosphorylated adaptor for RNA export
+Details
+
+19	
+98
+
+hsa-miR-206	KCNIP3	potassium voltage-gated channel interacting protein 3
+Details
+
+20	
+98
+
+hsa-miR-206	SULF1	sulfatase 1
+Details
+
+21	
+98
+
+hsa-miR-206	PDIK1L	PDLIM1 interacting kinase 1 like
+Details
+
+22	
+97
+
+hsa-miR-206	CORO1C	coronin 1C
+Details
+
+23	
+97
+
+hsa-miR-206	UTRN	utrophin
+Details
+
+24	
+97
+
+hsa-miR-206	G6PD	glucose-6-phosphate dehydrogenase
+Details
+
+25	
+97
+
+hsa-miR-206	KAT6A	lysine acetyltransferase 6A
+Details
+
+26	
+97
+
+hsa-miR-206	TMCC1	transmembrane and coiled-coil domain family 1
+Details
+
+27	
+97
+
+hsa-miR-206	SLC10A7	solute carrier family 10 member 7
+Details
+
+28	
+97
+
+hsa-miR-206	GPR137C	G protein-coupled receptor 137C
+Details
+
+29	
+97
+
+hsa-miR-206	MMD2	monocyte to macrophage differentiation associated 2
+Details
+
+30	
+97
+
+hsa-miR-206	UNC119B	unc-119 lipid binding chaperone B
+Details
+
+31	
+97
+
+hsa-miR-206	CEBPZ	CCAAT enhancer binding protein zeta
+Details
+
+32	
+97
+
+hsa-miR-206	TPPP	tubulin polymerization promoting protein
+Details
+
+33	
+97
+
+hsa-miR-206	BDNF	brain derived neurotrophic factor
+Details
+
+34	
+97
+
+hsa-miR-206	NFATC3	nuclear factor of activated T cells 3
+Details
+
+35	
+96
+
+hsa-miR-206	PAX3	paired box 3
+Details
+
+36	
+96
+
+hsa-miR-206	FBXO33	F-box protein 33
+Details
+
+37	
+96
+
+hsa-miR-206	PDCD4	programmed cell death 4
+Details
+
+38	
+96
+
+hsa-miR-206	FOXP1	forkhead box P1
+Details
+
+39	
+96
+
+hsa-miR-206	TRAPPC3	trafficking protein particle complex 3
+Details
+
+40	
+96
+
+hsa-miR-206	ADAR	adenosine deaminase, RNA specific
+Details
+
+41	
+96
+
+hsa-miR-206	CAAP1	caspase activity and apoptosis inhibitor 1
+Details
+
+42	
+96
+
+hsa-miR-206	FAM102A	family with sequence similarity 102 member A
+Details
+
+43	
+96
+
+hsa-miR-206	GPD2	glycerol-3-phosphate dehydrogenase 2
+Details
+
+44	
+96
+
+hsa-miR-206	LRRC8A	leucine rich repeat containing 8 VRAC subunit A
+Details
+
+45	
+96
+
+hsa-miR-206	C5orf51	chromosome 5 open reading frame 51
+Details
+
+46	
+96
+
+hsa-miR-206	FAM168A	family with sequence similarity 168 member A
+Details
+
+47	
+96
+
+hsa-miR-206	AP1G1	adaptor related protein complex 1 subunit gamma 1
+Details
+
+48	
+96
+
+hsa-miR-206	NXT2	nuclear transport factor 2 like export factor 2
+Details
+
+49	
+96
+
+hsa-miR-206	KIF2A	kinesin family member 2A
+Details
+
+50	
+96
+
+hsa-miR-206	PDCD10	programmed cell death 10
+Details
+
+51	
+95
+
+hsa-miR-206	HSP90B1	heat shock protein 90 beta family member 1
+Details
+
+52	
+95
+
+hsa-miR-206	IMPACT	impact RWD domain protein
+Details
+
+53	
+95
+
+hsa-miR-206	EIF4E	eukaryotic translation initiation factor 4E
+Details
+
+54	
+95
+
+hsa-miR-206	MAP4K3	mitogen-activated protein kinase kinase kinase kinase 3
+Details
+
+55	
+95
+
+hsa-miR-206	SLC25A22	solute carrier family 25 member 22
+Details
+
+56	
+95
+
+hsa-miR-206	UST	uronyl 2-sulfotransferase
+Details
+
+57	
+95
+
+hsa-miR-206	NFAT5	nuclear factor of activated T cells 5
+Details
+
+58	
+95
+
+hsa-miR-206	MCHR1	melanin concentrating hormone receptor 1
+Details
+
+59	
+95
+
+hsa-miR-206	CD2AP	CD2 associated protein
+Details
+
+60	
+95
+
+hsa-miR-206	CBL	Cbl proto-oncogene
+Details
+
+61	
+95
+
+hsa-miR-206	HIGD1A	HIG1 hypoxia inducible domain family member 1A
+Details
+
+62	
+95
+
+hsa-miR-206	EIF1AX	eukaryotic translation initiation factor 1A X-linked
+Details
+
+63	
+95
+
+hsa-miR-206	GNPDA2	glucosamine-6-phosphate deaminase 2
+Details
+
+64	
+95
+
+hsa-miR-206	ANKRD29	ankyrin repeat domain 29
+Details
+
+65	
+95
+
+hsa-miR-206	TMEM243	transmembrane protein 243
+Details
+
+66	
+94
+
+hsa-miR-206	ZFP36L2	ZFP36 ring finger protein like 2
+Details
+
+67	
+94
+
+hsa-miR-206	MATR3	matrin 3
+Details
+
+68	
+94
+
+hsa-miR-206	ATP6V1A	ATPase H+ transporting V1 subunit A
+Details
+
+69	
+94
+
+hsa-miR-206	FNDC3A	fibronectin type III domain containing 3A
+Details
+
+70	
+94
+
+hsa-miR-206	TMEM178A	transmembrane protein 178A
+Details
+
+71	
+94
+
+hsa-miR-206	API5	apoptosis inhibitor 5
+Details
+
+72	
+94
+
+hsa-miR-206	SPRED1	sprouty related EVH1 domain containing 1
+Details
+
+73	
+94
+
+hsa-miR-206	HELZ2	helicase with zinc finger 2
+Details
+
+74	
+94
+
+hsa-miR-206	WDR48	WD repeat domain 48
+Details
+
+75	
+94
+
+hsa-miR-206	C2orf69	chromosome 2 open reading frame 69
+Details
+
+76	
+94
+
+hsa-miR-206	TMSB4X	thymosin beta 4 X-linked
+Details
+
+77	
+94
+
+hsa-miR-206	EDN1	endothelin 1
+Details
+
+78	
+94
+
+hsa-miR-206	MFSD14A	major facilitator superfamily domain containing 14A
+Details
+
+79	
+94
+
+hsa-miR-206	MON2	MON2 homolog, regulator of endosome-to-Golgi trafficking
+Details
+
+80	
+93
+
+hsa-miR-206	SRSF9	serine and arginine rich splicing factor 9
+Details
+
+81	
+93
+
+hsa-miR-206	TRA2B	transformer 2 beta homolog
+Details
+
+82	
+93
+
+hsa-miR-206	FAM155A	family with sequence similarity 155 member A
+Details
+
+83	
+93
+
+hsa-miR-206	DDX5	DEAD-box helicase 5
+Details
+
+84	
+93
+
+hsa-miR-206	SRI	sorcin
+Details
+
+85	
+93
+
+hsa-miR-206	MXD1	MAX dimerization protein 1
+Details
+
+86	
+93
+
+hsa-miR-206	CTTNBP2NL	CTTNBP2 N-terminal like
+Details
+
+87	
+93
+
+hsa-miR-206	POGK	pogo transposable element derived with KRAB domain
+Details
+
+88	
+93
+
+hsa-miR-206	FRS2	fibroblast growth factor receptor substrate 2
+Details
+
+89	
+93
+
+hsa-miR-206	RARB	retinoic acid receptor beta
+Details
+
+90	
+93
+
+hsa-miR-206	HSPD1	heat shock protein family D (Hsp60) member 1
+Details
+
+91	
+93
+
+hsa-miR-206	MYOCD	myocardin
+Details
+
+92	
+93
+
+hsa-miR-206	IFT52	intraflagellar transport 52
+Details
+
+93	
+93
+
+hsa-miR-206	HS3ST3B1	heparan sulfate-glucosamine 3-sulfotransferase 3B1
+Details
+
+94	
+92
+
+hsa-miR-206	HMBOX1	homeobox containing 1
+Details
+
+95	
+92
+
+hsa-miR-206	CNN3	calponin 3
+Details
+
+96	
+92
+
+hsa-miR-206	STAG2	stromal antigen 2
+Details
+
+97	
+92
+
+hsa-miR-206	KTN1	kinectin 1
+Details
+
+98	
+92
+
+hsa-miR-206	SLC39A9	solute carrier family 39 member 9
+Details
+
+99	
+92
+
+hsa-miR-206	CLTC	clathrin heavy chain
+Details
+
+100	
+92
+
+hsa-miR-206	PIK3C2A	phosphatidylinositol-4-phosphate 3-kinase catalytic subunit type 2 alpha
+Details
+
+101	
+92
+
+hsa-miR-206	ATF2	activating transcription factor 2
+Details
+
+102	
+92
+
+hsa-miR-206	CLOCK	clock circadian regulator
+Details
+
+103	
+92
+
+hsa-miR-206	KCTD10	potassium channel tetramerization domain containing 10
+Details
+
+104	
+92
+
+hsa-miR-206	SLC25A30	solute carrier family 25 member 30
+Details
+
+105	
+92
+
+hsa-miR-206	MGAT4A	alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase A
+Details
+
+106	
+92
+
+hsa-miR-206	PLXNA4	plexin A4
+Details
+
+107	
+92
+
+hsa-miR-206	MPP5	membrane palmitoylated protein 5
+Details
+
+108	
+92
+
+hsa-miR-206	STC2	stanniocalcin 2
+Details
+
+109	
+92
+
+hsa-miR-206	GLCE	glucuronic acid epimerase
+Details
+
+110	
+92
+
+hsa-miR-206	SEC22B	SEC22 homolog B, vesicle trafficking protein (gene/pseudogene)
+Details
+
+111	
+92
+
+hsa-miR-206	PCDHB13	protocadherin beta 13
+Details
+
+112	
+92
+
+hsa-miR-206	HIVEP3	human immunodeficiency virus type I enhancer binding protein 3
+Details
+
+113	
+92
+
+hsa-miR-206	PLPPR4	phospholipid phosphatase related 4
+Details
+
+114	
+92
+
+hsa-miR-206	NRP1	neuropilin 1
+Details
+
+115	
+92
+
+hsa-miR-206	CAVIN2	caveolae associated protein 2
+Details
+
+116	
+92
+
+hsa-miR-206	SRGAP2	SLIT-ROBO Rho GTPase activating protein 2
+Details
+
+117	
+91
+
+hsa-miR-206	RTN4IP1	reticulon 4 interacting protein 1
+Details
+
+118	
+91
+
+hsa-miR-206	SERP1	stress associated endoplasmic reticulum protein 1
+Details
+
+119	
+91
+
+hsa-miR-206	HNRNPU	heterogeneous nuclear ribonucleoprotein U
+Details
+
+120	
+91
+
+hsa-miR-206	RNF145	ring finger protein 145
+Details
+
+121	
+91
+
+hsa-miR-206	MECOM	MDS1 and EVI1 complex locus
+Details
+
+122	
+91
+
+hsa-miR-206	WWC1	WW and C2 domain containing 1
+Details
+
+123	
+91
+
+hsa-miR-206	EBPL	EBP like
+Details
+
+124	
+91
+
+hsa-miR-206	THAP12	THAP domain containing 12
+Details
+
+125	
+91
+
+hsa-miR-206	ARF3	ADP ribosylation factor 3
+Details
+
+126	
+91
+
+hsa-miR-206	TIMP3	TIMP metallopeptidase inhibitor 3
+Details
+
+127	
+91
+
+hsa-miR-206	PBX1	PBX homeobox 1
+Details
+
+128	
+91
+
+hsa-miR-206	CREB5	cAMP responsive element binding protein 5
+Details
+
+129	
+91
+
+hsa-miR-206	SAMSN1	SAM domain, SH3 domain and nuclear localization signals 1
+Details
+
+130	
+91
+
+hsa-miR-206	LASP1	LIM and SH3 protein 1
+Details
+
+131	
+91
+
+hsa-miR-206	NFATC2	nuclear factor of activated T cells 2
+Details
+
+132	
+91
+
+hsa-miR-206	GCH1	GTP cyclohydrolase 1
+Details
+
+133	
+91
+
+hsa-miR-206	HP1BP3	heterochromatin protein 1 binding protein 3
+Details
+
+134	
+91
+
+hsa-miR-206	METTL21A	methyltransferase like 21A
+Details
+
+135	
+91
+
+hsa-miR-206	PTPRG	protein tyrosine phosphatase, receptor type G
+Details
+
+136	
+91
+
+hsa-miR-206	SMARCC1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin subfamily c member 1
+Details
+
+137	
+91
+
+hsa-miR-206	RABGAP1L	RAB GTPase activating protein 1 like
+Details
+
+138	
+91
+
+hsa-miR-206	ASXL3	ASXL transcriptional regulator 3
+Details
+
+139	
+91
+
+hsa-miR-206	SEC61A1	Sec61 translocon alpha 1 subunit
+Details
+
+140	
+91
+
+hsa-miR-206	LRCH1	leucine rich repeats and calponin homology domain containing 1
+Details
+
+141	
+91
+
+hsa-miR-206	PPIB	peptidylprolyl isomerase B
+Details
+
+142	
+91
+
+hsa-miR-206	MEX3C	mex-3 RNA binding family member C
+Details
+
+143	
+91
+
+hsa-miR-206	RIT2	Ras like without CAAX 2
+Details
+
+144	
+90
+
+hsa-miR-206	CLCN3	chloride voltage-gated channel 3
+Details
+
+145	
+90
+
+hsa-miR-206	BTAF1	B-TFIID TATA-box binding protein associated factor 1
+Details
+
+146	
+90
+
+hsa-miR-206	MAB21L1	mab-21 like 1
+Details
+
+147	
+90
+
+hsa-miR-206	ZBTB41	zinc finger and BTB domain containing 41
+Details
+
+148	
+90
+
+hsa-miR-206	SLC25A53	solute carrier family 25 member 53
+Details
+
+149	
+90
+
+hsa-miR-206	CCSAP	centriole, cilia and spindle associated protein
+Details
+
+150	
+90
+
+hsa-miR-206	SYT1	synaptotagmin 1
+Details
+
+151	
+90
+
+hsa-miR-206	ZFP36L1	ZFP36 ring finger protein like 1
+Details
+
+152	
+90
+
+hsa-miR-206	TFE3	transcription factor binding to IGHM enhancer 3
+Details
+
+153	
+90
+
+hsa-miR-206	ADPGK	ADP dependent glucokinase
+Details
+
+154	
+90
+
+hsa-miR-206	WBP1L	WW domain binding protein 1 like
+Details
+
+155	
+90
+
+hsa-miR-206	ETS1	ETS proto-oncogene 1, transcription factor
+Details
+
+156	
+90
+
+hsa-miR-206	TNPO2	transportin 2
+Details
+
+157	
+90
+
+hsa-miR-206	RGS7	regulator of G protein signaling 7
+Details
+
+158	
+90
+
+hsa-miR-206	TSPAN4	tetraspanin 4
+Details
+
+159	
+90
+
+hsa-miR-206	CREBL2	cAMP responsive element binding protein like 2
+Details
+
+160	
+90
+
+hsa-miR-206	S100A7A	S100 calcium binding protein A7A
+Details
+
+161	
+90
+
+hsa-miR-206	GCLC	glutamate-cysteine ligase catalytic subunit

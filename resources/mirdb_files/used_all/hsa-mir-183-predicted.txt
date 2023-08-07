@@ -1,0 +1,667 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-183-5p	PFN2	profilin 2
+Details
+
+2	
+99
+
+hsa-miR-183-5p	MEF2C	myocyte enhancer factor 2C
+Details
+
+3	
+99
+
+hsa-miR-183-5p	KCNK10	potassium two pore domain channel subfamily K member 10
+Details
+
+4	
+98
+
+hsa-miR-183-5p	GNG5	G protein subunit gamma 5
+Details
+
+5	
+98
+
+hsa-miR-183-5p	UNC13B	unc-13 homolog B
+Details
+
+6	
+98
+
+hsa-miR-183-5p	SLAIN1	SLAIN motif family member 1
+Details
+
+7	
+98
+
+hsa-miR-183-5p	FOXN2	forkhead box N2
+Details
+
+8	
+97
+
+hsa-miR-183-5p	L3MBTL3	L3MBTL3, histone methyl-lysine binding protein
+Details
+
+9	
+97
+
+hsa-miR-183-5p	CSMD1	CUB and Sushi multiple domains 1
+Details
+
+10	
+97
+
+hsa-miR-183-5p	TMPO	thymopoietin
+Details
+
+11	
+97
+
+hsa-miR-183-5p	FRMD6	FERM domain containing 6
+Details
+
+12	
+97
+
+hsa-miR-183-5p	ATP2B4	ATPase plasma membrane Ca2+ transporting 4
+Details
+
+13	
+97
+
+hsa-miR-183-5p	STC1	stanniocalcin 1
+Details
+
+14	
+97
+
+hsa-miR-183-5p	PCK2	phosphoenolpyruvate carboxykinase 2, mitochondrial
+Details
+
+15	
+97
+
+hsa-miR-183-5p	ITGB1	integrin subunit beta 1
+Details
+
+16	
+97
+
+hsa-miR-183-5p	PSEN2	presenilin 2
+Details
+
+17	
+97
+
+hsa-miR-183-5p	MAL2	mal, T cell differentiation protein 2 (gene/pseudogene)
+Details
+
+18	
+97
+
+hsa-miR-183-5p	SREK1IP1	SREK1 interacting protein 1
+Details
+
+19	
+97
+
+hsa-miR-183-5p	POLR1C	RNA polymerase I and III subunit C
+Details
+
+20	
+96
+
+hsa-miR-183-5p	SOCS6	suppressor of cytokine signaling 6
+Details
+
+21	
+96
+
+hsa-miR-183-5p	ICA1	islet cell autoantigen 1
+Details
+
+22	
+96
+
+hsa-miR-183-5p	ATF2	activating transcription factor 2
+Details
+
+23	
+96
+
+hsa-miR-183-5p	VDAC1	voltage dependent anion channel 1
+Details
+
+24	
+96
+
+hsa-miR-183-5p	CEP170B	centrosomal protein 170B
+Details
+
+25	
+96
+
+hsa-miR-183-5p	TMEM184C	transmembrane protein 184C
+Details
+
+26	
+96
+
+hsa-miR-183-5p	MTERF2	mitochondrial transcription termination factor 2
+Details
+
+27	
+95
+
+hsa-miR-183-5p	BIRC6	baculoviral IAP repeat containing 6
+Details
+
+28	
+95
+
+hsa-miR-183-5p	NCK2	NCK adaptor protein 2
+Details
+
+29	
+95
+
+hsa-miR-183-5p	KCNK2	potassium two pore domain channel subfamily K member 2
+Details
+
+30	
+95
+
+hsa-miR-183-5p	ZNF197	zinc finger protein 197
+Details
+
+31	
+95
+
+hsa-miR-183-5p	CTDSPL	CTD small phosphatase like
+Details
+
+32	
+95
+
+hsa-miR-183-5p	DEPDC5	DEP domain containing 5
+Details
+
+33	
+95
+
+hsa-miR-183-5p	SRSF2	serine and arginine rich splicing factor 2
+Details
+
+34	
+95
+
+hsa-miR-183-5p	IDH2	isocitrate dehydrogenase (NADP(+)) 2, mitochondrial
+Details
+
+35	
+95
+
+hsa-miR-183-5p	PTPN4	protein tyrosine phosphatase, non-receptor type 4
+Details
+
+36	
+95
+
+hsa-miR-183-5p	AMIGO2	adhesion molecule with Ig like domain 2
+Details
+
+37	
+95
+
+hsa-miR-183-5p	TTC7B	tetratricopeptide repeat domain 7B
+Details
+
+38	
+94
+
+hsa-miR-183-5p	CELF2	CUGBP Elav-like family member 2
+Details
+
+39	
+94
+
+hsa-miR-183-5p	DAAM1	dishevelled associated activator of morphogenesis 1
+Details
+
+40	
+94
+
+hsa-miR-183-5p	XPNPEP3	X-prolyl aminopeptidase 3
+Details
+
+41	
+94
+
+hsa-miR-183-5p	RCN2	reticulocalbin 2
+Details
+
+42	
+94
+
+hsa-miR-183-5p	EZR	ezrin
+Details
+
+43	
+94
+
+hsa-miR-183-5p	IPPK	inositol-pentakisphosphate 2-kinase
+Details
+
+44	
+94
+
+hsa-miR-183-5p	ACVR2B	activin A receptor type 2B
+Details
+
+45	
+94
+
+hsa-miR-183-5p	TAOK1	TAO kinase 1
+Details
+
+46	
+94
+
+hsa-miR-183-5p	SPC25	SPC25, NDC80 kinetochore complex component
+Details
+
+47	
+94
+
+hsa-miR-183-5p	RABGAP1L	RAB GTPase activating protein 1 like
+Details
+
+48	
+94
+
+hsa-miR-183-5p	RPS6KA3	ribosomal protein S6 kinase A3
+Details
+
+49	
+94
+
+hsa-miR-183-5p	AP3M1	adaptor related protein complex 3 subunit mu 1
+Details
+
+50	
+94
+
+hsa-miR-183-5p	RBMS1	RNA binding motif single stranded interacting protein 1
+Details
+
+51	
+94
+
+hsa-miR-183-5p	DGKH	diacylglycerol kinase eta
+Details
+
+52	
+94
+
+hsa-miR-183-5p	GJA3	gap junction protein alpha 3
+Details
+
+53	
+93
+
+hsa-miR-183-5p	DGCR2	DiGeorge syndrome critical region gene 2
+Details
+
+54	
+93
+
+hsa-miR-183-5p	TET1	tet methylcytosine dioxygenase 1
+Details
+
+55	
+93
+
+hsa-miR-183-5p	KLHL24	kelch like family member 24
+Details
+
+56	
+93
+
+hsa-miR-183-5p	PPP2CA	protein phosphatase 2 catalytic subunit alpha
+Details
+
+57	
+93
+
+hsa-miR-183-5p	DMXL1	Dmx like 1
+Details
+
+58	
+93
+
+hsa-miR-183-5p	MFSD6	major facilitator superfamily domain containing 6
+Details
+
+59	
+93
+
+hsa-miR-183-5p	FAM217B	family with sequence similarity 217 member B
+Details
+
+60	
+93
+
+hsa-miR-183-5p	KDM2B	lysine demethylase 2B
+Details
+
+61	
+93
+
+hsa-miR-183-5p	BACH2	BTB domain and CNC homolog 2
+Details
+
+62	
+93
+
+hsa-miR-183-5p	MACROD2	MACRO domain containing 2
+Details
+
+63	
+93
+
+hsa-miR-183-5p	MAP3K4	mitogen-activated protein kinase kinase kinase 4
+Details
+
+64	
+93
+
+hsa-miR-183-5p	PPP2CB	protein phosphatase 2 catalytic subunit beta
+Details
+
+65	
+93
+
+hsa-miR-183-5p	NUFIP2	nuclear FMR1 interacting protein 2
+Details
+
+66	
+93
+
+hsa-miR-183-5p	PKD2	polycystin 2, transient receptor potential cation channel
+Details
+
+67	
+92
+
+hsa-miR-183-5p	KIF13A	kinesin family member 13A
+Details
+
+68	
+92
+
+hsa-miR-183-5p	SLITRK1	SLIT and NTRK like family member 1
+Details
+
+69	
+92
+
+hsa-miR-183-5p	KIAA0355	KIAA0355
+Details
+
+70	
+92
+
+hsa-miR-183-5p	CEP97	centrosomal protein 97
+Details
+
+71	
+92
+
+hsa-miR-183-5p	ABAT	4-aminobutyrate aminotransferase
+Details
+
+72	
+92
+
+hsa-miR-183-5p	PDCD4	programmed cell death 4
+Details
+
+73	
+92
+
+hsa-miR-183-5p	FLRT3	fibronectin leucine rich transmembrane protein 3
+Details
+
+74	
+92
+
+hsa-miR-183-5p	MAP7D2	MAP7 domain containing 2
+Details
+
+75	
+92
+
+hsa-miR-183-5p	ABRAXAS2	abraxas 2, BRISC complex subunit
+Details
+
+76	
+92
+
+hsa-miR-183-5p	ABCB10	ATP binding cassette subfamily B member 10
+Details
+
+77	
+92
+
+hsa-miR-183-5p	MAPK4	mitogen-activated protein kinase 4
+Details
+
+78	
+92
+
+hsa-miR-183-5p	TRAM1	translocation associated membrane protein 1
+Details
+
+79	
+92
+
+hsa-miR-183-5p	CACNB4	calcium voltage-gated channel auxiliary subunit beta 4
+Details
+
+80	
+92
+
+hsa-miR-183-5p	RAB8B	RAB8B, member RAS oncogene family
+Details
+
+81	
+92
+
+hsa-miR-183-5p	SESN1	sestrin 1
+Details
+
+82	
+92
+
+hsa-miR-183-5p	CTNNA2	catenin alpha 2
+Details
+
+83	
+92
+
+hsa-miR-183-5p	SACS	sacsin molecular chaperone
+Details
+
+84	
+92
+
+hsa-miR-183-5p	MAPK8IP1	mitogen-activated protein kinase 8 interacting protein 1
+Details
+
+85	
+92
+
+hsa-miR-183-5p	GOLPH3	golgi phosphoprotein 3
+Details
+
+86	
+91
+
+hsa-miR-183-5p	PDCD6	programmed cell death 6
+Details
+
+87	
+91
+
+hsa-miR-183-5p	GPAM	glycerol-3-phosphate acyltransferase, mitochondrial
+Details
+
+88	
+91
+
+hsa-miR-183-5p	PLEKHA5	pleckstrin homology domain containing A5
+Details
+
+89	
+91
+
+hsa-miR-183-5p	ARHGAP21	Rho GTPase activating protein 21
+Details
+
+90	
+91
+
+hsa-miR-183-5p	RFX3	regulatory factor X3
+Details
+
+91	
+91
+
+hsa-miR-183-5p	REV1	REV1, DNA directed polymerase
+Details
+
+92	
+91
+
+hsa-miR-183-5p	FCHO2	FCH domain only 2
+Details
+
+93	
+91
+
+hsa-miR-183-5p	OSBPL8	oxysterol binding protein like 8
+Details
+
+94	
+91
+
+hsa-miR-183-5p	RHPN2	rhophilin Rho GTPase binding protein 2
+Details
+
+95	
+91
+
+hsa-miR-183-5p	NUDT4	nudix hydrolase 4
+Details
+
+96	
+91
+
+hsa-miR-183-5p	OTUD4	OTU deubiquitinase 4
+Details
+
+97	
+91
+
+hsa-miR-183-5p	ZFPM2	zinc finger protein, FOG family member 2
+Details
+
+98	
+90
+
+hsa-miR-183-5p	EPHA7	EPH receptor A7
+Details
+
+99	
+90
+
+hsa-miR-183-5p	GCLM	glutamate-cysteine ligase modifier subunit
+Details
+
+100	
+90
+
+hsa-miR-183-5p	ARFGAP2	ADP ribosylation factor GTPase activating protein 2
+Details
+
+101	
+90
+
+hsa-miR-183-5p	MAP3K13	mitogen-activated protein kinase kinase kinase 13
+Details
+
+102	
+90
+
+hsa-miR-183-5p	AJAP1	adherens junctions associated protein 1
+Details
+
+103	
+90
+
+hsa-miR-183-5p	PHLDB2	pleckstrin homology like domain family B member 2
+Details
+
+104	
+90
+
+hsa-miR-183-5p	SH3D19	SH3 domain containing 19
+Details
+
+105	
+90
+
+hsa-miR-183-5p	SLC35A1	solute carrier family 35 member A1
+Details
+
+106	
+90
+
+hsa-miR-183-5p	ARPP19	cAMP regulated phosphoprotein 19
+Details
+
+107	
+90
+
+hsa-miR-183-5p	RALA	RAS like proto-oncogene A
+Details
+
+108	
+90
+
+hsa-miR-183-5p	TAB3	TGF-beta activated kinase 1 (MAP3K7) binding protein 3
+Details
+
+109	
+90
+
+hsa-miR-183-5p	NR3C1	nuclear receptor subfamily 3 group C member 1
+Details
+
+110	
+90
+
+hsa-miR-183-5p	NPAS3	neuronal PAS domain protein 3
+Details
+
+111	
+90
+
+hsa-miR-183-5p	TRIM27	tripartite motif containing 27

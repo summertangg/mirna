@@ -1,0 +1,247 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+96
+
+hsa-miR-342-3p	RFX3	regulatory factor X3
+Details
+
+2	
+96
+
+hsa-miR-342-3p	GXYLT1	glucoside xylosyltransferase 1
+Details
+
+3	
+96
+
+hsa-miR-342-3p	KCNA4	potassium voltage-gated channel subfamily A member 4
+Details
+
+4	
+96
+
+hsa-miR-342-3p	TASOR	transcription activation suppressor
+Details
+
+5	
+96
+
+hsa-miR-342-3p	UBE2D2	ubiquitin conjugating enzyme E2 D2
+Details
+
+6	
+95
+
+hsa-miR-342-3p	RRM2	ribonucleotide reductase regulatory subunit M2
+Details
+
+7	
+95
+
+hsa-miR-342-3p	EPC1	enhancer of polycomb homolog 1
+Details
+
+8	
+95
+
+hsa-miR-342-3p	EEA1	early endosome antigen 1
+Details
+
+9	
+95
+
+hsa-miR-342-3p	ATXN7	ataxin 7
+Details
+
+10	
+95
+
+hsa-miR-342-3p	DTNBP1	dystrobrevin binding protein 1
+Details
+
+11	
+94
+
+hsa-miR-342-3p	MAP3K7CL	MAP3K7 C-terminal like
+Details
+
+12	
+94
+
+hsa-miR-342-3p	TXK	TXK tyrosine kinase
+Details
+
+13	
+94
+
+hsa-miR-342-3p	IBTK	inhibitor of Bruton tyrosine kinase
+Details
+
+14	
+94
+
+hsa-miR-342-3p	RICTOR	RPTOR independent companion of MTOR complex 2
+Details
+
+15	
+94
+
+hsa-miR-342-3p	CA12	carbonic anhydrase 12
+Details
+
+16	
+94
+
+hsa-miR-342-3p	RGS4	regulator of G protein signaling 4
+Details
+
+17	
+94
+
+hsa-miR-342-3p	ANKRD49	ankyrin repeat domain 49
+Details
+
+18	
+94
+
+hsa-miR-342-3p	KCTD6	potassium channel tetramerization domain containing 6
+Details
+
+19	
+93
+
+hsa-miR-342-3p	KDM6B	lysine demethylase 6B
+Details
+
+20	
+93
+
+hsa-miR-342-3p	ZNF225	zinc finger protein 225
+Details
+
+21	
+93
+
+hsa-miR-342-3p	HTR2C	5-hydroxytryptamine receptor 2C
+Details
+
+22	
+93
+
+hsa-miR-342-3p	TGIF1	TGFB induced factor homeobox 1
+Details
+
+23	
+93
+
+hsa-miR-342-3p	PLEKHB2	pleckstrin homology domain containing B2
+Details
+
+24	
+92
+
+hsa-miR-342-3p	DHRSX	dehydrogenase/reductase X-linked
+Details
+
+25	
+92
+
+hsa-miR-342-3p	CASP2	caspase 2
+Details
+
+26	
+92
+
+hsa-miR-342-3p	TTBK2	tau tubulin kinase 2
+Details
+
+27	
+92
+
+hsa-miR-342-3p	ZNF740	zinc finger protein 740
+Details
+
+28	
+92
+
+hsa-miR-342-3p	JADE1	jade family PHD finger 1
+Details
+
+29	
+92
+
+hsa-miR-342-3p	ZNF568	zinc finger protein 568
+Details
+
+30	
+92
+
+hsa-miR-342-3p	S100A7A	S100 calcium binding protein A7A
+Details
+
+31	
+91
+
+hsa-miR-342-3p	CACNA1C	calcium voltage-gated channel subunit alpha1 C
+Details
+
+32	
+91
+
+hsa-miR-342-3p	CTNND2	catenin delta 2
+Details
+
+33	
+91
+
+hsa-miR-342-3p	MEX3A	mex-3 RNA binding family member A
+Details
+
+34	
+91
+
+hsa-miR-342-3p	ID4	inhibitor of DNA binding 4, HLH protein
+Details
+
+35	
+91
+
+hsa-miR-342-3p	MRFAP1	Morf4 family associated protein 1
+Details
+
+36	
+90
+
+hsa-miR-342-3p	CDKL5	cyclin dependent kinase like 5
+Details
+
+37	
+90
+
+hsa-miR-342-3p	FAM126B	family with sequence similarity 126 member B
+Details
+
+38	
+90
+
+hsa-miR-342-3p	PDE12	phosphodiesterase 12
+Details
+
+39	
+90
+
+hsa-miR-342-3p	ZFP28	ZFP28 zinc finger protein
+Details
+
+40	
+90
+
+hsa-miR-342-3p	EHF	ETS homologous factor
+Details
+
+41	
+90
+
+hsa-miR-342-3p	ATG10	autophagy related 10

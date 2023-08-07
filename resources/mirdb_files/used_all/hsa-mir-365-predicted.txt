@@ -1,0 +1,307 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-365a-3p	ACVR1	activin A receptor type 1
+Details
+
+2	
+99
+
+hsa-miR-365a-3p	NR1D2	nuclear receptor subfamily 1 group D member 2
+Details
+
+3	
+98
+
+hsa-miR-365a-3p	HHIP	hedgehog interacting protein
+Details
+
+4	
+97
+
+hsa-miR-365a-3p	ADM	adrenomedullin
+Details
+
+5	
+97
+
+hsa-miR-365a-3p	SGK1	serum/glucocorticoid regulated kinase 1
+Details
+
+6	
+97
+
+hsa-miR-365a-3p	PCNP	PEST proteolytic signal containing nuclear protein
+Details
+
+7	
+96
+
+hsa-miR-365a-3p	KANSL1	KAT8 regulatory NSL complex subunit 1
+Details
+
+8	
+95
+
+hsa-miR-365a-3p	CREBRF	CREB3 regulatory factor
+Details
+
+9	
+95
+
+hsa-miR-365a-3p	USP33	ubiquitin specific peptidase 33
+Details
+
+10	
+95
+
+hsa-miR-365a-3p	MYLIP	myosin regulatory light chain interacting protein
+Details
+
+11	
+95
+
+hsa-miR-365a-3p	ARRB2	arrestin beta 2
+Details
+
+12	
+95
+
+hsa-miR-365a-3p	TIAM2	T cell lymphoma invasion and metastasis 2
+Details
+
+13	
+95
+
+hsa-miR-365a-3p	MYLK	myosin light chain kinase
+Details
+
+14	
+95
+
+hsa-miR-365a-3p	ADD3	adducin 3
+Details
+
+15	
+95
+
+hsa-miR-365a-3p	TRHDE	thyrotropin releasing hormone degrading enzyme
+Details
+
+16	
+95
+
+hsa-miR-365a-3p	ZNF680	zinc finger protein 680
+Details
+
+17	
+94
+
+hsa-miR-365a-3p	ANKRD17	ankyrin repeat domain 17
+Details
+
+18	
+94
+
+hsa-miR-365a-3p	KCNJ2	potassium voltage-gated channel subfamily J member 2
+Details
+
+19	
+94
+
+hsa-miR-365a-3p	E2F2	E2F transcription factor 2
+Details
+
+20	
+94
+
+hsa-miR-365a-3p	CREB5	cAMP responsive element binding protein 5
+Details
+
+21	
+94
+
+hsa-miR-365a-3p	TLL2	tolloid like 2
+Details
+
+22	
+94
+
+hsa-miR-365a-3p	FAM91A1	family with sequence similarity 91 member A1
+Details
+
+23	
+94
+
+hsa-miR-365a-3p	ANKRD11	ankyrin repeat domain 11
+Details
+
+24	
+94
+
+hsa-miR-365a-3p	ZNF148	zinc finger protein 148
+Details
+
+25	
+93
+
+hsa-miR-365a-3p	AFAP1L1	actin filament associated protein 1 like 1
+Details
+
+26	
+93
+
+hsa-miR-365a-3p	MEX3A	mex-3 RNA binding family member A
+Details
+
+27	
+93
+
+hsa-miR-365a-3p	UBP1	upstream binding protein 1
+Details
+
+28	
+93
+
+hsa-miR-365a-3p	PRPF40A	pre-mRNA processing factor 40 homolog A
+Details
+
+29	
+93
+
+hsa-miR-365a-3p	JADE2	jade family PHD finger 2
+Details
+
+30	
+93
+
+hsa-miR-365a-3p	NR3C2	nuclear receptor subfamily 3 group C member 2
+Details
+
+31	
+92
+
+hsa-miR-365a-3p	RAPGEF4	Rap guanine nucleotide exchange factor 4
+Details
+
+32	
+92
+
+hsa-miR-365a-3p	BCLAF3	BCLAF1 and THRAP3 family member 3
+Details
+
+33	
+92
+
+hsa-miR-365a-3p	ARHGAP12	Rho GTPase activating protein 12
+Details
+
+34	
+92
+
+hsa-miR-365a-3p	RGS20	regulator of G protein signaling 20
+Details
+
+35	
+92
+
+hsa-miR-365a-3p	SSH2	slingshot protein phosphatase 2
+Details
+
+36	
+91
+
+hsa-miR-365a-3p	KLF3	Kruppel like factor 3
+Details
+
+37	
+91
+
+hsa-miR-365a-3p	SLC43A3	solute carrier family 43 member 3
+Details
+
+38	
+91
+
+hsa-miR-365a-3p	RASD1	ras related dexamethasone induced 1
+Details
+
+39	
+91
+
+hsa-miR-365a-3p	USP48	ubiquitin specific peptidase 48
+Details
+
+40	
+91
+
+hsa-miR-365a-3p	SEMA3A	semaphorin 3A
+Details
+
+41	
+91
+
+hsa-miR-365a-3p	PRUNE2	prune homolog 2 with BCH domain
+Details
+
+42	
+90
+
+hsa-miR-365a-3p	DLAT	dihydrolipoamide S-acetyltransferase
+Details
+
+43	
+90
+
+hsa-miR-365a-3p	DLX3	distal-less homeobox 3
+Details
+
+44	
+90
+
+hsa-miR-365a-3p	ROR1	receptor tyrosine kinase like orphan receptor 1
+Details
+
+45	
+90
+
+hsa-miR-365a-3p	EHF	ETS homologous factor
+Details
+
+46	
+90
+
+hsa-miR-365a-3p	TBK1	TANK binding kinase 1
+Details
+
+47	
+90
+
+hsa-miR-365a-3p	SIAH3	siah E3 ubiquitin protein ligase family member 3
+Details
+
+48	
+90
+
+hsa-miR-365a-3p	WDR37	WD repeat domain 37
+Details
+
+49	
+90
+
+hsa-miR-365a-3p	UBAC2	UBA domain containing 2
+Details
+
+50	
+90
+
+hsa-miR-365a-3p	CBFB	core-binding factor subunit beta
+Details
+
+51	
+90
+
+hsa-miR-365a-3p	PLCB4	phospholipase C beta 4

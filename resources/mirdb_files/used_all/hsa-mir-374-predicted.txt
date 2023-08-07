@@ -1,0 +1,1081 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-374a-5p	CADM2	cell adhesion molecule 2
+Details
+
+2	
+100
+
+hsa-miR-374a-5p	N4BP2	NEDD4 binding protein 2
+Details
+
+3	
+100
+
+hsa-miR-374a-5p	PRDM11	PR/SET domain 11
+Details
+
+4	
+100
+
+hsa-miR-374a-5p	PARP8	poly(ADP-ribose) polymerase family member 8
+Details
+
+5	
+99
+
+hsa-miR-374a-5p	UBE3A	ubiquitin protein ligase E3A
+Details
+
+6	
+99
+
+hsa-miR-374a-5p	TACC1	transforming acidic coiled-coil containing protein 1
+Details
+
+7	
+99
+
+hsa-miR-374a-5p	GABRG1	gamma-aminobutyric acid type A receptor gamma1 subunit
+Details
+
+8	
+99
+
+hsa-miR-374a-5p	HIBADH	3-hydroxyisobutyrate dehydrogenase
+Details
+
+9	
+99
+
+hsa-miR-374a-5p	ZNF423	zinc finger protein 423
+Details
+
+10	
+99
+
+hsa-miR-374a-5p	EN1	engrailed homeobox 1
+Details
+
+11	
+99
+
+hsa-miR-374a-5p	ADD3	adducin 3
+Details
+
+12	
+99
+
+hsa-miR-374a-5p	NHLRC2	NHL repeat containing 2
+Details
+
+13	
+99
+
+hsa-miR-374a-5p	NETO1	neuropilin and tolloid like 1
+Details
+
+14	
+99
+
+hsa-miR-374a-5p	ACVR2B	activin A receptor type 2B
+Details
+
+15	
+99
+
+hsa-miR-374a-5p	RORA	RAR related orphan receptor A
+Details
+
+16	
+99
+
+hsa-miR-374a-5p	PAQR3	progestin and adipoQ receptor family member 3
+Details
+
+17	
+98
+
+hsa-miR-374a-5p	RNF180	ring finger protein 180
+Details
+
+18	
+98
+
+hsa-miR-374a-5p	MCTP2	multiple C2 and transmembrane domain containing 2
+Details
+
+19	
+98
+
+hsa-miR-374a-5p	MKX	mohawk homeobox
+Details
+
+20	
+98
+
+hsa-miR-374a-5p	TMEM108	transmembrane protein 108
+Details
+
+21	
+98
+
+hsa-miR-374a-5p	TMEM245	transmembrane protein 245
+Details
+
+22	
+98
+
+hsa-miR-374a-5p	AHR	aryl hydrocarbon receptor
+Details
+
+23	
+98
+
+hsa-miR-374a-5p	ZSWIM6	zinc finger SWIM-type containing 6
+Details
+
+24	
+98
+
+hsa-miR-374a-5p	GABRG2	gamma-aminobutyric acid type A receptor gamma2 subunit
+Details
+
+25	
+98
+
+hsa-miR-374a-5p	EXOC7	exocyst complex component 7
+Details
+
+26	
+98
+
+hsa-miR-374a-5p	CCDC34	coiled-coil domain containing 34
+Details
+
+27	
+98
+
+hsa-miR-374a-5p	CEBPB	CCAAT enhancer binding protein beta
+Details
+
+28	
+98
+
+hsa-miR-374a-5p	ACSL6	acyl-CoA synthetase long chain family member 6
+Details
+
+29	
+98
+
+hsa-miR-374a-5p	PRRG1	proline rich and Gla domain 1
+Details
+
+30	
+97
+
+hsa-miR-374a-5p	MMP14	matrix metallopeptidase 14
+Details
+
+31	
+97
+
+hsa-miR-374a-5p	RSF1	remodeling and spacing factor 1
+Details
+
+32	
+97
+
+hsa-miR-374a-5p	TBC1D23	TBC1 domain family member 23
+Details
+
+33	
+97
+
+hsa-miR-374a-5p	LDLRAD4	low density lipoprotein receptor class A domain containing 4
+Details
+
+34	
+97
+
+hsa-miR-374a-5p	IGFBP3	insulin like growth factor binding protein 3
+Details
+
+35	
+97
+
+hsa-miR-374a-5p	VSTM2A	V-set and transmembrane domain containing 2A
+Details
+
+36	
+97
+
+hsa-miR-374a-5p	DMXL1	Dmx like 1
+Details
+
+37	
+97
+
+hsa-miR-374a-5p	TMEM192	transmembrane protein 192
+Details
+
+38	
+97
+
+hsa-miR-374a-5p	ACAN	aggrecan
+Details
+
+39	
+97
+
+hsa-miR-374a-5p	MACC1	MET transcriptional regulator MACC1
+Details
+
+40	
+97
+
+hsa-miR-374a-5p	ATAD2	ATPase family, AAA domain containing 2
+Details
+
+41	
+96
+
+hsa-miR-374a-5p	PDE10A	phosphodiesterase 10A
+Details
+
+42	
+96
+
+hsa-miR-374a-5p	ITGA2	integrin subunit alpha 2
+Details
+
+43	
+96
+
+hsa-miR-374a-5p	NGLY1	N-glycanase 1
+Details
+
+44	
+96
+
+hsa-miR-374a-5p	NEUROG2	neurogenin 2
+Details
+
+45	
+96
+
+hsa-miR-374a-5p	TMPRSS11B	transmembrane serine protease 11B
+Details
+
+46	
+96
+
+hsa-miR-374a-5p	SLIT3	slit guidance ligand 3
+Details
+
+47	
+96
+
+hsa-miR-374a-5p	AHI1	Abelson helper integration site 1
+Details
+
+48	
+95
+
+hsa-miR-374a-5p	MBLAC2	metallo-beta-lactamase domain containing 2
+Details
+
+49	
+95
+
+hsa-miR-374a-5p	CSGALNACT2	chondroitin sulfate N-acetylgalactosaminyltransferase 2
+Details
+
+50	
+95
+
+hsa-miR-374a-5p	SHANK3	SH3 and multiple ankyrin repeat domains 3
+Details
+
+51	
+95
+
+hsa-miR-374a-5p	CRIM1	cysteine rich transmembrane BMP regulator 1
+Details
+
+52	
+95
+
+hsa-miR-374a-5p	RTKN2	rhotekin 2
+Details
+
+53	
+95
+
+hsa-miR-374a-5p	PITX2	paired like homeodomain 2
+Details
+
+54	
+95
+
+hsa-miR-374a-5p	SEL1L	SEL1L, ERAD E3 ligase adaptor subunit
+Details
+
+55	
+95
+
+hsa-miR-374a-5p	TFDP1	transcription factor Dp-1
+Details
+
+56	
+95
+
+hsa-miR-374a-5p	CXADR	CXADR, Ig-like cell adhesion molecule
+Details
+
+57	
+95
+
+hsa-miR-374a-5p	PDE4B	phosphodiesterase 4B
+Details
+
+58	
+95
+
+hsa-miR-374a-5p	ZFP37	ZFP37 zinc finger protein
+Details
+
+59	
+95
+
+hsa-miR-374a-5p	BRWD3	bromodomain and WD repeat domain containing 3
+Details
+
+60	
+95
+
+hsa-miR-374a-5p	RABEP1	rabaptin, RAB GTPase binding effector protein 1
+Details
+
+61	
+95
+
+hsa-miR-374a-5p	DSG2	desmoglein 2
+Details
+
+62	
+94
+
+hsa-miR-374a-5p	PDE7B	phosphodiesterase 7B
+Details
+
+63	
+94
+
+hsa-miR-374a-5p	ZNF711	zinc finger protein 711
+Details
+
+64	
+94
+
+hsa-miR-374a-5p	EDAR	ectodysplasin A receptor
+Details
+
+65	
+94
+
+hsa-miR-374a-5p	ATXN1	ataxin 1
+Details
+
+66	
+94
+
+hsa-miR-374a-5p	MYO5A	myosin VA
+Details
+
+67	
+94
+
+hsa-miR-374a-5p	MAPK6	mitogen-activated protein kinase 6
+Details
+
+68	
+94
+
+hsa-miR-374a-5p	LPAR1	lysophosphatidic acid receptor 1
+Details
+
+69	
+94
+
+hsa-miR-374a-5p	BMP2	bone morphogenetic protein 2
+Details
+
+70	
+94
+
+hsa-miR-374a-5p	PTGER3	prostaglandin E receptor 3
+Details
+
+71	
+94
+
+hsa-miR-374a-5p	TCERG1	transcription elongation regulator 1
+Details
+
+72	
+94
+
+hsa-miR-374a-5p	STBD1	starch binding domain 1
+Details
+
+73	
+94
+
+hsa-miR-374a-5p	C11orf87	chromosome 11 open reading frame 87
+Details
+
+74	
+94
+
+hsa-miR-374a-5p	ASTN2	astrotactin 2
+Details
+
+75	
+94
+
+hsa-miR-374a-5p	SRSF7	serine and arginine rich splicing factor 7
+Details
+
+76	
+94
+
+hsa-miR-374a-5p	NKX2-2	NK2 homeobox 2
+Details
+
+77	
+94
+
+hsa-miR-374a-5p	WDR72	WD repeat domain 72
+Details
+
+78	
+94
+
+hsa-miR-374a-5p	NSUN3	NOP2/Sun RNA methyltransferase family member 3
+Details
+
+79	
+94
+
+hsa-miR-374a-5p	SGPP1	sphingosine-1-phosphate phosphatase 1
+Details
+
+80	
+94
+
+hsa-miR-374a-5p	ZBTB46	zinc finger and BTB domain containing 46
+Details
+
+81	
+94
+
+hsa-miR-374a-5p	FNIP1	folliculin interacting protein 1
+Details
+
+82	
+94
+
+hsa-miR-374a-5p	WNT5A	Wnt family member 5A
+Details
+
+83	
+93
+
+hsa-miR-374a-5p	IL22	interleukin 22
+Details
+
+84	
+93
+
+hsa-miR-374a-5p	TAF5L	TATA-box binding protein associated factor 5 like
+Details
+
+85	
+93
+
+hsa-miR-374a-5p	FAM47E-STBD1	FAM47E-STBD1 readthrough
+Details
+
+86	
+93
+
+hsa-miR-374a-5p	FAF2	Fas associated factor family member 2
+Details
+
+87	
+93
+
+hsa-miR-374a-5p	OCRL	OCRL, inositol polyphosphate-5-phosphatase
+Details
+
+88	
+93
+
+hsa-miR-374a-5p	ANKRD34B	ankyrin repeat domain 34B
+Details
+
+89	
+93
+
+hsa-miR-374a-5p	ACSL4	acyl-CoA synthetase long chain family member 4
+Details
+
+90	
+93
+
+hsa-miR-374a-5p	LCA5	LCA5, lebercilin
+Details
+
+91	
+93
+
+hsa-miR-374a-5p	POLK	DNA polymerase kappa
+Details
+
+92	
+93
+
+hsa-miR-374a-5p	DBR1	debranching RNA lariats 1
+Details
+
+93	
+93
+
+hsa-miR-374a-5p	PARD6B	par-6 family cell polarity regulator beta
+Details
+
+94	
+93
+
+hsa-miR-374a-5p	GABRA1	gamma-aminobutyric acid type A receptor alpha1 subunit
+Details
+
+95	
+93
+
+hsa-miR-374a-5p	HNMT	histamine N-methyltransferase
+Details
+
+96	
+93
+
+hsa-miR-374a-5p	CELF4	CUGBP Elav-like family member 4
+Details
+
+97	
+93
+
+hsa-miR-374a-5p	PELI1	pellino E3 ubiquitin protein ligase 1
+Details
+
+98	
+93
+
+hsa-miR-374a-5p	HAPLN1	hyaluronan and proteoglycan link protein 1
+Details
+
+99	
+93
+
+hsa-miR-374a-5p	PCDHB15	protocadherin beta 15
+Details
+
+100	
+93
+
+hsa-miR-374a-5p	CLVS2	clavesin 2
+Details
+
+101	
+93
+
+hsa-miR-374a-5p	STK38L	serine/threonine kinase 38 like
+Details
+
+102	
+93
+
+hsa-miR-374a-5p	TNRC6A	trinucleotide repeat containing 6A
+Details
+
+103	
+92
+
+hsa-miR-374a-5p	LNPK	lunapark, ER junction formation factor
+Details
+
+104	
+92
+
+hsa-miR-374a-5p	ETS2	ETS proto-oncogene 2, transcription factor
+Details
+
+105	
+92
+
+hsa-miR-374a-5p	ZNF280D	zinc finger protein 280D
+Details
+
+106	
+92
+
+hsa-miR-374a-5p	STYX	serine/threonine/tyrosine interacting protein
+Details
+
+107	
+92
+
+hsa-miR-374a-5p	CCL2	C-C motif chemokine ligand 2
+Details
+
+108	
+92
+
+hsa-miR-374a-5p	RREB1	ras responsive element binding protein 1
+Details
+
+109	
+92
+
+hsa-miR-374a-5p	CAPZA2	capping actin protein of muscle Z-line subunit alpha 2
+Details
+
+110	
+92
+
+hsa-miR-374a-5p	SLITRK1	SLIT and NTRK like family member 1
+Details
+
+111	
+92
+
+hsa-miR-374a-5p	DUSP19	dual specificity phosphatase 19
+Details
+
+112	
+92
+
+hsa-miR-374a-5p	GCLM	glutamate-cysteine ligase modifier subunit
+Details
+
+113	
+92
+
+hsa-miR-374a-5p	PLD5	phospholipase D family member 5
+Details
+
+114	
+92
+
+hsa-miR-374a-5p	PKD1L2	polycystin 1 like 2 (gene/pseudogene)
+Details
+
+115	
+92
+
+hsa-miR-374a-5p	PDCD1	programmed cell death 1
+Details
+
+116	
+92
+
+hsa-miR-374a-5p	NLN	neurolysin
+Details
+
+117	
+92
+
+hsa-miR-374a-5p	PSMC3IP	PSMC3 interacting protein
+Details
+
+118	
+92
+
+hsa-miR-374a-5p	FABP2	fatty acid binding protein 2
+Details
+
+119	
+92
+
+hsa-miR-374a-5p	MZT1	mitotic spindle organizing protein 1
+Details
+
+120	
+92
+
+hsa-miR-374a-5p	TSPOAP1	TSPO associated protein 1
+Details
+
+121	
+92
+
+hsa-miR-374a-5p	MLX	MLX, MAX dimerization protein
+Details
+
+122	
+92
+
+hsa-miR-374a-5p	CAMSAP2	calmodulin regulated spectrin associated protein family member 2
+Details
+
+123	
+92
+
+hsa-miR-374a-5p	PREX2	phosphatidylinositol-3,4,5-trisphosphate dependent Rac exchange factor 2
+Details
+
+124	
+92
+
+hsa-miR-374a-5p	GPANK1	G-patch domain and ankyrin repeats 1
+Details
+
+125	
+92
+
+hsa-miR-374a-5p	PLN	phospholamban
+Details
+
+126	
+92
+
+hsa-miR-374a-5p	AAK1	AP2 associated kinase 1
+Details
+
+127	
+92
+
+hsa-miR-374a-5p	TMEM185A	transmembrane protein 185A
+Details
+
+128	
+92
+
+hsa-miR-374a-5p	GOLGA8M	golgin A8 family member M
+Details
+
+129	
+91
+
+hsa-miR-374a-5p	FDXACB1	ferredoxin-fold anticodon binding domain containing 1
+Details
+
+130	
+91
+
+hsa-miR-374a-5p	ZCCHC9	zinc finger CCHC-type containing 9
+Details
+
+131	
+91
+
+hsa-miR-374a-5p	SNX4	sorting nexin 4
+Details
+
+132	
+91
+
+hsa-miR-374a-5p	DSEL	dermatan sulfate epimerase like
+Details
+
+133	
+91
+
+hsa-miR-374a-5p	SOS1	SOS Ras/Rac guanine nucleotide exchange factor 1
+Details
+
+134	
+91
+
+hsa-miR-374a-5p	RBM27	RNA binding motif protein 27
+Details
+
+135	
+91
+
+hsa-miR-374a-5p	TAF4B	TATA-box binding protein associated factor 4b
+Details
+
+136	
+91
+
+hsa-miR-374a-5p	CDS1	CDP-diacylglycerol synthase 1
+Details
+
+137	
+91
+
+hsa-miR-374a-5p	RNF214	ring finger protein 214
+Details
+
+138	
+91
+
+hsa-miR-374a-5p	STEAP2	STEAP2 metalloreductase
+Details
+
+139	
+91
+
+hsa-miR-374a-5p	SNX18	sorting nexin 18
+Details
+
+140	
+91
+
+hsa-miR-374a-5p	SUMO4	small ubiquitin-like modifier 4
+Details
+
+141	
+91
+
+hsa-miR-374a-5p	CDC14A	cell division cycle 14A
+Details
+
+142	
+91
+
+hsa-miR-374a-5p	NR4A3	nuclear receptor subfamily 4 group A member 3
+Details
+
+143	
+91
+
+hsa-miR-374a-5p	TLE4	TLE family member 4, transcriptional corepressor
+Details
+
+144	
+91
+
+hsa-miR-374a-5p	HMGN5	high mobility group nucleosome binding domain 5
+Details
+
+145	
+91
+
+hsa-miR-374a-5p	TXLNB	taxilin beta
+Details
+
+146	
+91
+
+hsa-miR-374a-5p	DCDC2	doublecortin domain containing 2
+Details
+
+147	
+91
+
+hsa-miR-374a-5p	MED13	mediator complex subunit 13
+Details
+
+148	
+91
+
+hsa-miR-374a-5p	RGS4	regulator of G protein signaling 4
+Details
+
+149	
+91
+
+hsa-miR-374a-5p	ZNF81	zinc finger protein 81
+Details
+
+150	
+91
+
+hsa-miR-374a-5p	ASCL1	achaete-scute family bHLH transcription factor 1
+Details
+
+151	
+91
+
+hsa-miR-374a-5p	CDC42BPB	CDC42 binding protein kinase beta
+Details
+
+152	
+91
+
+hsa-miR-374a-5p	RNF14	ring finger protein 14
+Details
+
+153	
+91
+
+hsa-miR-374a-5p	UST	uronyl 2-sulfotransferase
+Details
+
+154	
+91
+
+hsa-miR-374a-5p	PRDM1	PR/SET domain 1
+Details
+
+155	
+91
+
+hsa-miR-374a-5p	RELCH	RAB11 binding and LisH domain, coiled-coil and HEAT repeat containing
+Details
+
+156	
+90
+
+hsa-miR-374a-5p	ADCYAP1	adenylate cyclase activating polypeptide 1
+Details
+
+157	
+90
+
+hsa-miR-374a-5p	TMEM207	transmembrane protein 207
+Details
+
+158	
+90
+
+hsa-miR-374a-5p	RAB3GAP2	RAB3 GTPase activating non-catalytic protein subunit 2
+Details
+
+159	
+90
+
+hsa-miR-374a-5p	ABHD18	abhydrolase domain containing 18
+Details
+
+160	
+90
+
+hsa-miR-374a-5p	HUNK	hormonally up-regulated Neu-associated kinase
+Details
+
+161	
+90
+
+hsa-miR-374a-5p	DCUN1D1	defective in cullin neddylation 1 domain containing 1
+Details
+
+162	
+90
+
+hsa-miR-374a-5p	ZCCHC4	zinc finger CCHC-type containing 4
+Details
+
+163	
+90
+
+hsa-miR-374a-5p	AGL	amylo-alpha-1, 6-glucosidase, 4-alpha-glucanotransferase
+Details
+
+164	
+90
+
+hsa-miR-374a-5p	PPIL3	peptidylprolyl isomerase like 3
+Details
+
+165	
+90
+
+hsa-miR-374a-5p	BEND4	BEN domain containing 4
+Details
+
+166	
+90
+
+hsa-miR-374a-5p	GNB2	G protein subunit beta 2
+Details
+
+167	
+90
+
+hsa-miR-374a-5p	ZNF587B	zinc finger protein 587B
+Details
+
+168	
+90
+
+hsa-miR-374a-5p	GNPNAT1	glucosamine-phosphate N-acetyltransferase 1
+Details
+
+169	
+90
+
+hsa-miR-374a-5p	MAP4K3	mitogen-activated protein kinase kinase kinase kinase 3
+Details
+
+170	
+90
+
+hsa-miR-374a-5p	SPOPL	speckle type BTB/POZ protein like
+Details
+
+171	
+90
+
+hsa-miR-374a-5p	STMN2	stathmin 2
+Details
+
+172	
+90
+
+hsa-miR-374a-5p	KLHL29	kelch like family member 29
+Details
+
+173	
+90
+
+hsa-miR-374a-5p	TMEM267	transmembrane protein 267
+Details
+
+174	
+90
+
+hsa-miR-374a-5p	NEO1	neogenin 1
+Details
+
+175	
+90
+
+hsa-miR-374a-5p	PRH2	proline rich protein HaeIII subfamily 2
+Details
+
+176	
+90
+
+hsa-miR-374a-5p	TMEM123	transmembrane protein 123
+Details
+
+177	
+90
+
+hsa-miR-374a-5p	APOBEC4	apolipoprotein B mRNA editing enzyme catalytic polypeptide like 4
+Details
+
+178	
+90
+
+hsa-miR-374a-5p	KCTD20	potassium channel tetramerization domain containing 20
+Details
+
+179	
+90
+
+hsa-miR-374a-5p	NME5	NME/NM23 family member 5
+Details
+
+180	
+90
+
+hsa-miR-374a-5p	PEX2	peroxisomal biogenesis factor 2

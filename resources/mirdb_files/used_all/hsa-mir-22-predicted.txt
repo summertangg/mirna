@@ -1,0 +1,337 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-22-3p	GRM5	glutamate metabotropic receptor 5
+Details
+
+2	
+99
+
+hsa-miR-22-3p	FUT9	fucosyltransferase 9
+Details
+
+3	
+97
+
+hsa-miR-22-3p	ESR1	estrogen receptor 1
+Details
+
+4	
+97
+
+hsa-miR-22-3p	ELOVL6	ELOVL fatty acid elongase 6
+Details
+
+5	
+97
+
+hsa-miR-22-3p	EMILIN3	elastin microfibril interfacer 3
+Details
+
+6	
+97
+
+hsa-miR-22-3p	LAMC1	laminin subunit gamma 1
+Details
+
+7	
+97
+
+hsa-miR-22-3p	NET1	neuroepithelial cell transforming 1
+Details
+
+8	
+96
+
+hsa-miR-22-3p	PDSS1	decaprenyl diphosphate synthase subunit 1
+Details
+
+9	
+96
+
+hsa-miR-22-3p	RCOR1	REST corepressor 1
+Details
+
+10	
+96
+
+hsa-miR-22-3p	DDIT4	DNA damage inducible transcript 4
+Details
+
+11	
+96
+
+hsa-miR-22-3p	LIN7C	lin-7 homolog C, crumbs cell polarity complex component
+Details
+
+12	
+96
+
+hsa-miR-22-3p	WDR82	WD repeat domain 82
+Details
+
+13	
+96
+
+hsa-miR-22-3p	IL17RD	interleukin 17 receptor D
+Details
+
+14	
+95
+
+hsa-miR-22-3p	PHF8	PHD finger protein 8
+Details
+
+15	
+95
+
+hsa-miR-22-3p	FRAT2	FRAT2, WNT signaling pathway regulator
+Details
+
+16	
+95
+
+hsa-miR-22-3p	ERBB3	erb-b2 receptor tyrosine kinase 3
+Details
+
+17	
+95
+
+hsa-miR-22-3p	PLCXD3	phosphatidylinositol specific phospholipase C X domain containing 3
+Details
+
+18	
+94
+
+hsa-miR-22-3p	H3F3B	H3 histone family member 3B
+Details
+
+19	
+94
+
+hsa-miR-22-3p	SIRT1	sirtuin 1
+Details
+
+20	
+94
+
+hsa-miR-22-3p	RPS6KC1	ribosomal protein S6 kinase C1
+Details
+
+21	
+94
+
+hsa-miR-22-3p	LRRC1	leucine rich repeat containing 1
+Details
+
+22	
+94
+
+hsa-miR-22-3p	NLRP3	NLR family pyrin domain containing 3
+Details
+
+23	
+94
+
+hsa-miR-22-3p	ANKRD13A	ankyrin repeat domain 13A
+Details
+
+24	
+94
+
+hsa-miR-22-3p	GATM	glycine amidinotransferase
+Details
+
+25	
+94
+
+hsa-miR-22-3p	CARMIL1	capping protein regulator and myosin 1 linker 1
+Details
+
+26	
+94
+
+hsa-miR-22-3p	TP53INP1	tumor protein p53 inducible nuclear protein 1
+Details
+
+27	
+94
+
+hsa-miR-22-3p	ZBTB39	zinc finger and BTB domain containing 39
+Details
+
+28	
+93
+
+hsa-miR-22-3p	PPM1K	protein phosphatase, Mg2+/Mn2+ dependent 1K
+Details
+
+29	
+93
+
+hsa-miR-22-3p	AKT3	AKT serine/threonine kinase 3
+Details
+
+30	
+93
+
+hsa-miR-22-3p	RAB5B	RAB5B, member RAS oncogene family
+Details
+
+31	
+93
+
+hsa-miR-22-3p	MTHFR	methylenetetrahydrofolate reductase
+Details
+
+32	
+93
+
+hsa-miR-22-3p	C5orf24	chromosome 5 open reading frame 24
+Details
+
+33	
+93
+
+hsa-miR-22-3p	GABBR2	gamma-aminobutyric acid type B receptor subunit 2
+Details
+
+34	
+93
+
+hsa-miR-22-3p	CLIP2	CAP-Gly domain containing linker protein 2
+Details
+
+35	
+93
+
+hsa-miR-22-3p	HOXA4	homeobox A4
+Details
+
+36	
+93
+
+hsa-miR-22-3p	CCDC47	coiled-coil domain containing 47
+Details
+
+37	
+93
+
+hsa-miR-22-3p	CYTH3	cytohesin 3
+Details
+
+38	
+92
+
+hsa-miR-22-3p	PRRC2C	proline rich coiled-coil 2C
+Details
+
+39	
+92
+
+hsa-miR-22-3p	RSBN1	round spermatid basic protein 1
+Details
+
+40	
+92
+
+hsa-miR-22-3p	RBM15	RNA binding motif protein 15
+Details
+
+41	
+91
+
+hsa-miR-22-3p	SNRK	SNF related kinase
+Details
+
+42	
+91
+
+hsa-miR-22-3p	KLF6	Kruppel like factor 6
+Details
+
+43	
+91
+
+hsa-miR-22-3p	SESN1	sestrin 1
+Details
+
+44	
+91
+
+hsa-miR-22-3p	MAX	MYC associated factor X
+Details
+
+45	
+91
+
+hsa-miR-22-3p	RFXANK	regulatory factor X associated ankyrin containing protein
+Details
+
+46	
+91
+
+hsa-miR-22-3p	SEPHS1	selenophosphate synthetase 1
+Details
+
+47	
+91
+
+hsa-miR-22-3p	MSL2	MSL complex subunit 2
+Details
+
+48	
+91
+
+hsa-miR-22-3p	KCNK10	potassium two pore domain channel subfamily K member 10
+Details
+
+49	
+90
+
+hsa-miR-22-3p	CIITA	class II major histocompatibility complex transactivator
+Details
+
+50	
+90
+
+hsa-miR-22-3p	STYX	serine/threonine/tyrosine interacting protein
+Details
+
+51	
+90
+
+hsa-miR-22-3p	ZCCHC14	zinc finger CCHC-type containing 14
+Details
+
+52	
+90
+
+hsa-miR-22-3p	KHNYN	KH and NYN domain containing
+Details
+
+53	
+90
+
+hsa-miR-22-3p	CLIC4	chloride intracellular channel 4
+Details
+
+54	
+90
+
+hsa-miR-22-3p	KIAA0040	KIAA0040
+Details
+
+55	
+90
+
+hsa-miR-22-3p	YARS	tyrosyl-tRNA synthetase
+Details
+
+56	
+90
+
+hsa-miR-22-3p	BCL9	BCL9, transcription coactivator

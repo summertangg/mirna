@@ -1,0 +1,493 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-105-5p	RAB2A	RAB2A, member RAS oncogene family
+Details
+
+2	
+99
+
+hsa-miR-105-5p	TEX2	testis expressed 2
+Details
+
+3	
+99
+
+hsa-miR-105-5p	FLRT2	fibronectin leucine rich transmembrane protein 2
+Details
+
+4	
+98
+
+hsa-miR-105-5p	ARHGEF7	Rho guanine nucleotide exchange factor 7
+Details
+
+5	
+98
+
+hsa-miR-105-5p	LDLRAD3	low density lipoprotein receptor class A domain containing 3
+Details
+
+6	
+98
+
+hsa-miR-105-5p	SEL1L	SEL1L, ERAD E3 ligase adaptor subunit
+Details
+
+7	
+98
+
+hsa-miR-105-5p	F13A1	coagulation factor XIII A chain
+Details
+
+8	
+98
+
+hsa-miR-105-5p	TJP1	tight junction protein 1
+Details
+
+9	
+98
+
+hsa-miR-105-5p	TM9SF2	transmembrane 9 superfamily member 2
+Details
+
+10	
+98
+
+hsa-miR-105-5p	SLITRK5	SLIT and NTRK like family member 5
+Details
+
+11	
+97
+
+hsa-miR-105-5p	AP1S3	adaptor related protein complex 1 subunit sigma 3
+Details
+
+12	
+97
+
+hsa-miR-105-5p	SHISA9	shisa family member 9
+Details
+
+13	
+97
+
+hsa-miR-105-5p	CHRNA9	cholinergic receptor nicotinic alpha 9 subunit
+Details
+
+14	
+97
+
+hsa-miR-105-5p	POU4F1	POU class 4 homeobox 1
+Details
+
+15	
+97
+
+hsa-miR-105-5p	ACER3	alkaline ceramidase 3
+Details
+
+16	
+97
+
+hsa-miR-105-5p	TULP4	tubby like protein 4
+Details
+
+17	
+96
+
+hsa-miR-105-5p	STARD13	StAR related lipid transfer domain containing 13
+Details
+
+18	
+96
+
+hsa-miR-105-5p	C17orf58	chromosome 17 open reading frame 58
+Details
+
+19	
+96
+
+hsa-miR-105-5p	HNRNPK	heterogeneous nuclear ribonucleoprotein K
+Details
+
+20	
+96
+
+hsa-miR-105-5p	SLC5A1	solute carrier family 5 member 1
+Details
+
+21	
+95
+
+hsa-miR-105-5p	PRKAB2	protein kinase AMP-activated non-catalytic subunit beta 2
+Details
+
+22	
+95
+
+hsa-miR-105-5p	PPP1CB	protein phosphatase 1 catalytic subunit beta
+Details
+
+23	
+95
+
+hsa-miR-105-5p	SUZ12	SUZ12, polycomb repressive complex 2 subunit
+Details
+
+24	
+94
+
+hsa-miR-105-5p	MAGI1	membrane associated guanylate kinase, WW and PDZ domain containing 1
+Details
+
+25	
+94
+
+hsa-miR-105-5p	STT3B	STT3B, catalytic subunit of the oligosaccharyltransferase complex
+Details
+
+26	
+94
+
+hsa-miR-105-5p	ZEB1	zinc finger E-box binding homeobox 1
+Details
+
+27	
+94
+
+hsa-miR-105-5p	PDE4D	phosphodiesterase 4D
+Details
+
+28	
+94
+
+hsa-miR-105-5p	GOLT1B	golgi transport 1B
+Details
+
+29	
+94
+
+hsa-miR-105-5p	TRAM1	translocation associated membrane protein 1
+Details
+
+30	
+94
+
+hsa-miR-105-5p	SSBP2	single stranded DNA binding protein 2
+Details
+
+31	
+94
+
+hsa-miR-105-5p	SSH2	slingshot protein phosphatase 2
+Details
+
+32	
+94
+
+hsa-miR-105-5p	CARMIL1	capping protein regulator and myosin 1 linker 1
+Details
+
+33	
+94
+
+hsa-miR-105-5p	REST	RE1 silencing transcription factor
+Details
+
+34	
+94
+
+hsa-miR-105-5p	AMDHD1	amidohydrolase domain containing 1
+Details
+
+35	
+93
+
+hsa-miR-105-5p	ODC1	ornithine decarboxylase 1
+Details
+
+36	
+93
+
+hsa-miR-105-5p	KHDC4	KH domain containing 4, pre-mRNA splicing factor
+Details
+
+37	
+93
+
+hsa-miR-105-5p	AGO1	argonaute RISC catalytic component 1
+Details
+
+38	
+93
+
+hsa-miR-105-5p	SMNDC1	survival motor neuron domain containing 1
+Details
+
+39	
+93
+
+hsa-miR-105-5p	ABCA9	ATP binding cassette subfamily A member 9
+Details
+
+40	
+93
+
+hsa-miR-105-5p	RNF170	ring finger protein 170
+Details
+
+41	
+93
+
+hsa-miR-105-5p	USP37	ubiquitin specific peptidase 37
+Details
+
+42	
+93
+
+hsa-miR-105-5p	DMRTA1	DMRT like family A1
+Details
+
+43	
+93
+
+hsa-miR-105-5p	ENDOU	endonuclease, poly(U) specific
+Details
+
+44	
+93
+
+hsa-miR-105-5p	USP15	ubiquitin specific peptidase 15
+Details
+
+45	
+93
+
+hsa-miR-105-5p	SCAPER	S-phase cyclin A associated protein in the ER
+Details
+
+46	
+93
+
+hsa-miR-105-5p	CITED2	Cbp/p300 interacting transactivator with Glu/Asp rich carboxy-terminal domain 2
+Details
+
+47	
+93
+
+hsa-miR-105-5p	PPP3R1	protein phosphatase 3 regulatory subunit B, alpha
+Details
+
+48	
+93
+
+hsa-miR-105-5p	OGG1	8-oxoguanine DNA glycosylase
+Details
+
+49	
+93
+
+hsa-miR-105-5p	MRAP2	melanocortin 2 receptor accessory protein 2
+Details
+
+50	
+93
+
+hsa-miR-105-5p	CD24	CD24 molecule
+Details
+
+51	
+93
+
+hsa-miR-105-5p	UBE2K	ubiquitin conjugating enzyme E2 K
+Details
+
+52	
+93
+
+hsa-miR-105-5p	ULK2	unc-51 like autophagy activating kinase 2
+Details
+
+53	
+92
+
+hsa-miR-105-5p	WAC	WW domain containing adaptor with coiled-coil
+Details
+
+54	
+92
+
+hsa-miR-105-5p	RAPGEF2	Rap guanine nucleotide exchange factor 2
+Details
+
+55	
+92
+
+hsa-miR-105-5p	ROR1	receptor tyrosine kinase like orphan receptor 1
+Details
+
+56	
+92
+
+hsa-miR-105-5p	DET1	DET1, COP1 ubiquitin ligase partner
+Details
+
+57	
+92
+
+hsa-miR-105-5p	LPIN1	lipin 1
+Details
+
+58	
+92
+
+hsa-miR-105-5p	NKAIN2	sodium/potassium transporting ATPase interacting 2
+Details
+
+59	
+92
+
+hsa-miR-105-5p	CLDN10	claudin 10
+Details
+
+60	
+92
+
+hsa-miR-105-5p	RPP14	ribonuclease P/MRP subunit p14
+Details
+
+61	
+91
+
+hsa-miR-105-5p	ITGB6	integrin subunit beta 6
+Details
+
+62	
+91
+
+hsa-miR-105-5p	SLF2	SMC5-SMC6 complex localization factor 2
+Details
+
+63	
+91
+
+hsa-miR-105-5p	RHOBTB1	Rho related BTB domain containing 1
+Details
+
+64	
+91
+
+hsa-miR-105-5p	SLC4A1AP	solute carrier family 4 member 1 adaptor protein
+Details
+
+65	
+91
+
+hsa-miR-105-5p	CYP51A1	cytochrome P450 family 51 subfamily A member 1
+Details
+
+66	
+91
+
+hsa-miR-105-5p	ITGA6	integrin subunit alpha 6
+Details
+
+67	
+91
+
+hsa-miR-105-5p	PHEX	phosphate regulating endopeptidase homolog X-linked
+Details
+
+68	
+91
+
+hsa-miR-105-5p	KIAA0408	KIAA0408
+Details
+
+69	
+91
+
+hsa-miR-105-5p	MORF4L2	mortality factor 4 like 2
+Details
+
+70	
+91
+
+hsa-miR-105-5p	ATP8A1	ATPase phospholipid transporting 8A1
+Details
+
+71	
+91
+
+hsa-miR-105-5p	FASLG	Fas ligand
+Details
+
+72	
+91
+
+hsa-miR-105-5p	KCNJ13	potassium voltage-gated channel subfamily J member 13
+Details
+
+73	
+91
+
+hsa-miR-105-5p	POMP	proteasome maturation protein
+Details
+
+74	
+91
+
+hsa-miR-105-5p	MAP3K8	mitogen-activated protein kinase kinase kinase 8
+Details
+
+75	
+90
+
+hsa-miR-105-5p	ZNF532	zinc finger protein 532
+Details
+
+76	
+90
+
+hsa-miR-105-5p	STXBP5	syntaxin binding protein 5
+Details
+
+77	
+90
+
+hsa-miR-105-5p	LIMCH1	LIM and calponin homology domains 1
+Details
+
+78	
+90
+
+hsa-miR-105-5p	GRAMD2B	GRAM domain containing 2B
+Details
+
+79	
+90
+
+hsa-miR-105-5p	C2orf68	chromosome 2 open reading frame 68
+Details
+
+80	
+90
+
+hsa-miR-105-5p	GPCPD1	glycerophosphocholine phosphodiesterase 1
+Details
+
+81	
+90
+
+hsa-miR-105-5p	CBL	Cbl proto-oncogene
+Details
+
+82	
+90
+
+hsa-miR-105-5p	COPS8	COP9 signalosome subunit 8

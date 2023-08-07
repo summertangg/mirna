@@ -1,0 +1,757 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-107	SCN8A	sodium voltage-gated channel alpha subunit 8
+Details
+
+2	
+100
+
+hsa-miR-107	DICER1	dicer 1, ribonuclease III
+Details
+
+3	
+99
+
+hsa-miR-107	MED26	mediator complex subunit 26
+Details
+
+4	
+99
+
+hsa-miR-107	ANO3	anoctamin 3
+Details
+
+5	
+99
+
+hsa-miR-107	NPAS3	neuronal PAS domain protein 3
+Details
+
+6	
+99
+
+hsa-miR-107	AGFG1	ArfGAP with FG repeats 1
+Details
+
+7	
+99
+
+hsa-miR-107	KIF21A	kinesin family member 21A
+Details
+
+8	
+98
+
+hsa-miR-107	ATP13A3	ATPase 13A3
+Details
+
+9	
+98
+
+hsa-miR-107	N4BP1	NEDD4 binding protein 1
+Details
+
+10	
+98
+
+hsa-miR-107	TWF1	twinfilin actin binding protein 1
+Details
+
+11	
+98
+
+hsa-miR-107	AXIN2	axin 2
+Details
+
+12	
+98
+
+hsa-miR-107	TRIAP1	TP53 regulated inhibitor of apoptosis 1
+Details
+
+13	
+98
+
+hsa-miR-107	AMMECR1	Alport syndrome, mental retardation, midface hypoplasia and elliptocytosis chromosomal region gene 1
+Details
+
+14	
+98
+
+hsa-miR-107	SNRK	SNF related kinase
+Details
+
+15	
+98
+
+hsa-miR-107	FBXW7	F-box and WD repeat domain containing 7
+Details
+
+16	
+97
+
+hsa-miR-107	RBM24	RNA binding motif protein 24
+Details
+
+17	
+97
+
+hsa-miR-107	JAKMIP2	janus kinase and microtubule interacting protein 2
+Details
+
+18	
+97
+
+hsa-miR-107	CLIP1	CAP-Gly domain containing linker protein 1
+Details
+
+19	
+97
+
+hsa-miR-107	CLOCK	clock circadian regulator
+Details
+
+20	
+97
+
+hsa-miR-107	RIMS3	regulating synaptic membrane exocytosis 3
+Details
+
+21	
+97
+
+hsa-miR-107	CPEB3	cytoplasmic polyadenylation element binding protein 3
+Details
+
+22	
+96
+
+hsa-miR-107	MEF2D	myocyte enhancer factor 2D
+Details
+
+23	
+96
+
+hsa-miR-107	PLEKHA1	pleckstrin homology domain containing A1
+Details
+
+24	
+96
+
+hsa-miR-107	KIF23	kinesin family member 23
+Details
+
+25	
+96
+
+hsa-miR-107	PPIP5K2	diphosphoinositol pentakisphosphate kinase 2
+Details
+
+26	
+96
+
+hsa-miR-107	MYH9	myosin heavy chain 9
+Details
+
+27	
+96
+
+hsa-miR-107	IARS	isoleucyl-tRNA synthetase
+Details
+
+28	
+96
+
+hsa-miR-107	NF1	neurofibromin 1
+Details
+
+29	
+96
+
+hsa-miR-107	NUP50	nucleoporin 50
+Details
+
+30	
+96
+
+hsa-miR-107	AMOT	angiomotin
+Details
+
+31	
+96
+
+hsa-miR-107	TNRC6B	trinucleotide repeat containing 6B
+Details
+
+32	
+96
+
+hsa-miR-107	PPP6R2	protein phosphatase 6 regulatory subunit 2
+Details
+
+33	
+95
+
+hsa-miR-107	USP42	ubiquitin specific peptidase 42
+Details
+
+34	
+95
+
+hsa-miR-107	ARMC1	armadillo repeat containing 1
+Details
+
+35	
+95
+
+hsa-miR-107	RNF38	ring finger protein 38
+Details
+
+36	
+95
+
+hsa-miR-107	FOXP1	forkhead box P1
+Details
+
+37	
+95
+
+hsa-miR-107	SCN2A	sodium voltage-gated channel alpha subunit 2
+Details
+
+38	
+95
+
+hsa-miR-107	ATF7	activating transcription factor 7
+Details
+
+39	
+95
+
+hsa-miR-107	ACVR2B	activin A receptor type 2B
+Details
+
+40	
+95
+
+hsa-miR-107	ZBTB10	zinc finger and BTB domain containing 10
+Details
+
+41	
+95
+
+hsa-miR-107	FGFRL1	fibroblast growth factor receptor like 1
+Details
+
+42	
+95
+
+hsa-miR-107	ELK4	ELK4, ETS transcription factor
+Details
+
+43	
+95
+
+hsa-miR-107	PTPN4	protein tyrosine phosphatase, non-receptor type 4
+Details
+
+44	
+94
+
+hsa-miR-107	MYCN	MYCN proto-oncogene, bHLH transcription factor
+Details
+
+45	
+94
+
+hsa-miR-107	PLEKHF2	pleckstrin homology and FYVE domain containing 2
+Details
+
+46	
+94
+
+hsa-miR-107	HDGFL3	HDGF like 3
+Details
+
+47	
+94
+
+hsa-miR-107	AGO4	argonaute RISC catalytic component 4
+Details
+
+48	
+94
+
+hsa-miR-107	HTATIP2	HIV-1 Tat interactive protein 2
+Details
+
+49	
+94
+
+hsa-miR-107	CRYBG1	crystallin beta-gamma domain containing 1
+Details
+
+50	
+94
+
+hsa-miR-107	ZCCHC2	zinc finger CCHC-type containing 2
+Details
+
+51	
+94
+
+hsa-miR-107	INO80D	INO80 complex subunit D
+Details
+
+52	
+94
+
+hsa-miR-107	PAFAH1B2	platelet activating factor acetylhydrolase 1b catalytic subunit 2
+Details
+
+53	
+94
+
+hsa-miR-107	SPATS2L	spermatogenesis associated serine rich 2 like
+Details
+
+54	
+94
+
+hsa-miR-107	NDEL1	nudE neurodevelopment protein 1 like 1
+Details
+
+55	
+94
+
+hsa-miR-107	ZHX1	zinc fingers and homeoboxes 1
+Details
+
+56	
+94
+
+hsa-miR-107	HERC2	HECT and RLD domain containing E3 ubiquitin protein ligase 2
+Details
+
+57	
+94
+
+hsa-miR-107	GPC6	glypican 6
+Details
+
+58	
+93
+
+hsa-miR-107	EPHA7	EPH receptor A7
+Details
+
+59	
+93
+
+hsa-miR-107	CACNA2D1	calcium voltage-gated channel auxiliary subunit alpha2delta 1
+Details
+
+60	
+93
+
+hsa-miR-107	SLITRK1	SLIT and NTRK like family member 1
+Details
+
+61	
+93
+
+hsa-miR-107	ANK3	ankyrin 3
+Details
+
+62	
+93
+
+hsa-miR-107	NRP2	neuropilin 2
+Details
+
+63	
+93
+
+hsa-miR-107	CHD2	chromodomain helicase DNA binding protein 2
+Details
+
+64	
+93
+
+hsa-miR-107	EVA1A	eva-1 homolog A, regulator of programmed cell death
+Details
+
+65	
+93
+
+hsa-miR-107	PCGF2	polycomb group ring finger 2
+Details
+
+66	
+93
+
+hsa-miR-107	SUN2	Sad1 and UNC84 domain containing 2
+Details
+
+67	
+93
+
+hsa-miR-107	NEDD9	neural precursor cell expressed, developmentally down-regulated 9
+Details
+
+68	
+93
+
+hsa-miR-107	PRKAG3	protein kinase AMP-activated non-catalytic subunit gamma 3
+Details
+
+69	
+93
+
+hsa-miR-107	WDR20	WD repeat domain 20
+Details
+
+70	
+93
+
+hsa-miR-107	FERMT2	fermitin family member 2
+Details
+
+71	
+93
+
+hsa-miR-107	IGSF3	immunoglobulin superfamily member 3
+Details
+
+72	
+92
+
+hsa-miR-107	EIF5	eukaryotic translation initiation factor 5
+Details
+
+73	
+92
+
+hsa-miR-107	ZDHHC21	zinc finger DHHC-type containing 21
+Details
+
+74	
+92
+
+hsa-miR-107	PRKG1	protein kinase cGMP-dependent 1
+Details
+
+75	
+92
+
+hsa-miR-107	PDZD8	PDZ domain containing 8
+Details
+
+76	
+92
+
+hsa-miR-107	TGFBR3	transforming growth factor beta receptor 3
+Details
+
+77	
+92
+
+hsa-miR-107	NKTR	natural killer cell triggering receptor
+Details
+
+78	
+92
+
+hsa-miR-107	CAB39	calcium binding protein 39
+Details
+
+79	
+92
+
+hsa-miR-107	PGRMC2	progesterone receptor membrane component 2
+Details
+
+80	
+92
+
+hsa-miR-107	SIX4	SIX homeobox 4
+Details
+
+81	
+92
+
+hsa-miR-107	DYRK2	dual specificity tyrosine phosphorylation regulated kinase 2
+Details
+
+82	
+92
+
+hsa-miR-107	GPCPD1	glycerophosphocholine phosphodiesterase 1
+Details
+
+83	
+92
+
+hsa-miR-107	PAG1	phosphoprotein membrane anchor with glycosphingolipid microdomains 1
+Details
+
+84	
+92
+
+hsa-miR-107	PTH	parathyroid hormone
+Details
+
+85	
+92
+
+hsa-miR-107	BTRC	beta-transducin repeat containing E3 ubiquitin protein ligase
+Details
+
+86	
+92
+
+hsa-miR-107	PPP2R3C	protein phosphatase 2 regulatory subunit B''gamma
+Details
+
+87	
+92
+
+hsa-miR-107	KLF4	Kruppel like factor 4
+Details
+
+88	
+92
+
+hsa-miR-107	UNC80	unc-80 homolog, NALCN channel complex subunit
+Details
+
+89	
+92
+
+hsa-miR-107	PPP6C	protein phosphatase 6 catalytic subunit
+Details
+
+90	
+92
+
+hsa-miR-107	TRIM71	tripartite motif containing 71
+Details
+
+91	
+92
+
+hsa-miR-107	PHYHIPL	phytanoyl-CoA 2-hydroxylase interacting protein like
+Details
+
+92	
+91
+
+hsa-miR-107	SYNJ1	synaptojanin 1
+Details
+
+93	
+91
+
+hsa-miR-107	TDG	thymine DNA glycosylase
+Details
+
+94	
+91
+
+hsa-miR-107	PDE3B	phosphodiesterase 3B
+Details
+
+95	
+91
+
+hsa-miR-107	ARIH2	ariadne RBR E3 ubiquitin protein ligase 2
+Details
+
+96	
+91
+
+hsa-miR-107	TBKBP1	TBK1 binding protein 1
+Details
+
+97	
+91
+
+hsa-miR-107	CCNYL1	cyclin Y like 1
+Details
+
+98	
+91
+
+hsa-miR-107	NUDCD2	NudC domain containing 2
+Details
+
+99	
+91
+
+hsa-miR-107	ZNRF2	zinc and ring finger 2
+Details
+
+100	
+91
+
+hsa-miR-107	EDIL3	EGF like repeats and discoidin domains 3
+Details
+
+101	
+91
+
+hsa-miR-107	STRN	striatin
+Details
+
+102	
+91
+
+hsa-miR-107	TMEM47	transmembrane protein 47
+Details
+
+103	
+91
+
+hsa-miR-107	DCTN5	dynactin subunit 5
+Details
+
+104	
+91
+
+hsa-miR-107	GGA3	golgi associated, gamma adaptin ear containing, ARF binding protein 3
+Details
+
+105	
+91
+
+hsa-miR-107	ASH1L	ASH1 like histone lysine methyltransferase
+Details
+
+106	
+91
+
+hsa-miR-107	SNX12	sorting nexin 12
+Details
+
+107	
+91
+
+hsa-miR-107	SLC25A37	solute carrier family 25 member 37
+Details
+
+108	
+91
+
+hsa-miR-107	SMARCE1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1
+Details
+
+109	
+91
+
+hsa-miR-107	ZNF449	zinc finger protein 449
+Details
+
+110	
+91
+
+hsa-miR-107	CCDC50	coiled-coil domain containing 50
+Details
+
+111	
+91
+
+hsa-miR-107	KIF5C	kinesin family member 5C
+Details
+
+112	
+91
+
+hsa-miR-107	SH3BP4	SH3 domain binding protein 4
+Details
+
+113	
+90
+
+hsa-miR-107	GSKIP	GSK3B interacting protein
+Details
+
+114	
+90
+
+hsa-miR-107	SBNO1	strawberry notch homolog 1
+Details
+
+115	
+90
+
+hsa-miR-107	GALNT7	polypeptide N-acetylgalactosaminyltransferase 7
+Details
+
+116	
+90
+
+hsa-miR-107	DYNLT3	dynein light chain Tctex-type 3
+Details
+
+117	
+90
+
+hsa-miR-107	CC2D1B	coiled-coil and C2 domain containing 1B
+Details
+
+118	
+90
+
+hsa-miR-107	FAM98A	family with sequence similarity 98 member A
+Details
+
+119	
+90
+
+hsa-miR-107	CSNK1G2	casein kinase 1 gamma 2
+Details
+
+120	
+90
+
+hsa-miR-107	HTT	huntingtin
+Details
+
+121	
+90
+
+hsa-miR-107	MAPK8	mitogen-activated protein kinase 8
+Details
+
+122	
+90
+
+hsa-miR-107	STOM	stomatin
+Details
+
+123	
+90
+
+hsa-miR-107	SLAIN2	SLAIN motif family member 2
+Details
+
+124	
+90
+
+hsa-miR-107	KDM7A	lysine demethylase 7A
+Details
+
+125	
+90
+
+hsa-miR-107	TMEM170A	transmembrane protein 170A
+Details
+
+126	
+90
+
+hsa-miR-107	ZFPM2	zinc finger protein, FOG family member 2

@@ -1,0 +1,224 @@
+
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-146b-5p	TRAF6	TNF receptor associated factor 6
+Details
+
+2	
+99
+
+hsa-miR-146b-5p	IRAK1	interleukin 1 receptor associated kinase 1
+Details
+
+3	
+99
+
+hsa-miR-146b-5p	SEC23IP	SEC23 interacting protein
+Details
+
+4	
+98
+
+hsa-miR-146b-5p	NOVA1	NOVA alternative splicing regulator 1
+Details
+
+5	
+97
+
+hsa-miR-146b-5p	UPP2	uridine phosphorylase 2
+Details
+
+6	
+97
+
+hsa-miR-146b-5p	WWC2	WW and C2 domain containing 2
+Details
+
+7	
+97
+
+hsa-miR-146b-5p	PPP1R11	protein phosphatase 1 regulatory inhibitor subunit 11
+Details
+
+8	
+96
+
+hsa-miR-146b-5p	BCORL1	BCL6 corepressor like 1
+Details
+
+9	
+95
+
+hsa-miR-146b-5p	SORT1	sortilin 1
+Details
+
+10	
+95
+
+hsa-miR-146b-5p	ZNF649	zinc finger protein 649
+Details
+
+11	
+94
+
+hsa-miR-146b-5p	NUMB	NUMB, endocytic adaptor protein
+Details
+
+12	
+94
+
+hsa-miR-146b-5p	USP32	ubiquitin specific peptidase 32
+Details
+
+13	
+94
+
+hsa-miR-146b-5p	PLSCR4	phospholipid scramblase 4
+Details
+
+14	
+93
+
+hsa-miR-146b-5p	GDAP1L1	ganglioside induced differentiation associated protein 1 like 1
+Details
+
+15	
+93
+
+hsa-miR-146b-5p	SIAH2	siah E3 ubiquitin protein ligase 2
+Details
+
+16	
+93
+
+hsa-miR-146b-5p	SRSF6	serine and arginine rich splicing factor 6
+Details
+
+17	
+93
+
+hsa-miR-146b-5p	APPL1	adaptor protein, phosphotyrosine interacting with PH domain and leucine zipper 1
+Details
+
+18	
+93
+
+hsa-miR-146b-5p	ZNF652	zinc finger protein 652
+Details
+
+19	
+93
+
+hsa-miR-146b-5p	CARD10	caspase recruitment domain family member 10
+Details
+
+20	
+92
+
+hsa-miR-146b-5p	MRS2	magnesium transporter MRS2
+Details
+
+21	
+92
+
+hsa-miR-146b-5p	EIF4G2	eukaryotic translation initiation factor 4 gamma 2
+Details
+
+22	
+92
+
+hsa-miR-146b-5p	ZNF540	zinc finger protein 540
+Details
+
+23	
+92
+
+hsa-miR-146b-5p	SLC10A3	solute carrier family 10 member 3
+Details
+
+24	
+92
+
+hsa-miR-146b-5p	C9orf72	chromosome 9 open reading frame 72
+Details
+
+25	
+92
+
+hsa-miR-146b-5p	ZNF354B	zinc finger protein 354B
+Details
+
+26	
+92
+
+hsa-miR-146b-5p	GRIA3	glutamate ionotropic receptor AMPA type subunit 3
+Details
+
+27	
+91
+
+hsa-miR-146b-5p	DDHD1	DDHD domain containing 1
+Details
+
+28	
+91
+
+hsa-miR-146b-5p	LOC388813	uncharacterized protein ENSP00000383407-like
+Details
+
+29	
+91
+
+hsa-miR-146b-5p	TDRKH	tudor and KH domain containing
+Details
+
+30	
+91
+
+hsa-miR-146b-5p	BRK1	BRICK1, SCAR/WAVE actin nucleating complex subunit
+Details
+
+31	
+90
+
+hsa-miR-146b-5p	NEMP1	nuclear envelope integral membrane protein 1
+Details
+
+32	
+90
+
+hsa-miR-146b-5p	CD80	CD80 molecule
+Details
+
+33	
+90
+
+hsa-miR-146b-5p	DCAF12	DDB1 and CUL4 associated factor 12
+Details
+
+34	
+90
+
+hsa-miR-146b-5p	ZBTB2	zinc finger and BTB domain containing 2
+Details
+
+35	
+90
+
+hsa-miR-146b-5p	CXXC4	CXXC finger protein 4
+Details
+
+36	
+90
+
+hsa-miR-146b-5p	FBXW2	F-box and WD repeat domain containing 2
+Details
+
+37	
+90
+
+hsa-miR-146b-5p	POFUT2	protein O-fucosyltransferase 2

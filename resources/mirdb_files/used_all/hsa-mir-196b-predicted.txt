@@ -1,0 +1,223 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-196b-5p	ZMYND11	zinc finger MYND-type containing 11
+Details
+
+2	
+100
+
+hsa-miR-196b-5p	HOXA7	homeobox A7
+Details
+
+3	
+100
+
+hsa-miR-196b-5p	HOXC8	homeobox C8
+Details
+
+4	
+99
+
+hsa-miR-196b-5p	SLC9A6	solute carrier family 9 member A6
+Details
+
+5	
+99
+
+hsa-miR-196b-5p	NR6A1	nuclear receptor subfamily 6 group A member 1
+Details
+
+6	
+98
+
+hsa-miR-196b-5p	HMGA2	high mobility group AT-hook 2
+Details
+
+7	
+97
+
+hsa-miR-196b-5p	LRIG3	leucine rich repeats and immunoglobulin like domains 3
+Details
+
+8	
+97
+
+hsa-miR-196b-5p	EXOC8	exocyst complex component 8
+Details
+
+9	
+96
+
+hsa-miR-196b-5p	GATA6	GATA binding protein 6
+Details
+
+10	
+96
+
+hsa-miR-196b-5p	HOXA9	homeobox A9
+Details
+
+11	
+96
+
+hsa-miR-196b-5p	PRTG	protogenin
+Details
+
+12	
+95
+
+hsa-miR-196b-5p	HOXB7	homeobox B7
+Details
+
+13	
+95
+
+hsa-miR-196b-5p	ERI2	ERI1 exoribonuclease family member 2
+Details
+
+14	
+95
+
+hsa-miR-196b-5p	PBX1	PBX homeobox 1
+Details
+
+15	
+95
+
+hsa-miR-196b-5p	LRIG2	leucine rich repeats and immunoglobulin like domains 2
+Details
+
+16	
+94
+
+hsa-miR-196b-5p	CCNJ	cyclin J
+Details
+
+17	
+93
+
+hsa-miR-196b-5p	SMC3	structural maintenance of chromosomes 3
+Details
+
+18	
+93
+
+hsa-miR-196b-5p	TRMT1L	tRNA methyltransferase 1 like
+Details
+
+19	
+93
+
+hsa-miR-196b-5p	FAM19A5	family with sequence similarity 19 member A5, C-C motif chemokine like
+Details
+
+20	
+93
+
+hsa-miR-196b-5p	TSTD3	thiosulfate sulfurtransferase like domain containing 3
+Details
+
+21	
+93
+
+hsa-miR-196b-5p	CBFA2T3	CBFA2/RUNX1 translocation partner 3
+Details
+
+22	
+93
+
+hsa-miR-196b-5p	NR2C2	nuclear receptor subfamily 2 group C member 2
+Details
+
+23	
+93
+
+hsa-miR-196b-5p	LRP1B	LDL receptor related protein 1B
+Details
+
+24	
+92
+
+hsa-miR-196b-5p	PLD1	phospholipase D1
+Details
+
+25	
+92
+
+hsa-miR-196b-5p	GAN	gigaxonin
+Details
+
+26	
+92
+
+hsa-miR-196b-5p	SNX16	sorting nexin 16
+Details
+
+27	
+92
+
+hsa-miR-196b-5p	HOXA5	homeobox A5
+Details
+
+28	
+92
+
+hsa-miR-196b-5p	ST6GALNAC5	ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 5
+Details
+
+29	
+91
+
+hsa-miR-196b-5p	HOXB6	homeobox B6
+Details
+
+30	
+91
+
+hsa-miR-196b-5p	SNX24	sorting nexin 24
+Details
+
+31	
+91
+
+hsa-miR-196b-5p	AQP4	aquaporin 4
+Details
+
+32	
+91
+
+hsa-miR-196b-5p	PTPRG	protein tyrosine phosphatase, receptor type G
+Details
+
+33	
+90
+
+hsa-miR-196b-5p	IGF2BP3	insulin like growth factor 2 mRNA binding protein 3
+Details
+
+34	
+90
+
+hsa-miR-196b-5p	IGF2BP1	insulin like growth factor 2 mRNA binding protein 1
+Details
+
+35	
+90
+
+hsa-miR-196b-5p	GALC	galactosylceramidase
+Details
+
+36	
+90
+
+hsa-miR-196b-5p	RNF10	ring finger protein 10
+Details
+
+37	
+90
+
+hsa-miR-196b-5p	MAPK8	mitogen-activated protein kinase 8

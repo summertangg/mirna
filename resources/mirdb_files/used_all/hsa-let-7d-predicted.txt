@@ -1,0 +1,847 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-let-7d-5p	STARD13	StAR related lipid transfer domain containing 13
+Details
+
+2	
+100
+
+hsa-let-7d-5p	HMGA2	high mobility group AT-hook 2
+Details
+
+3	
+100
+
+hsa-let-7d-5p	IGF2BP1	insulin like growth factor 2 mRNA binding protein 1
+Details
+
+4	
+100
+
+hsa-let-7d-5p	PRTG	protogenin
+Details
+
+5	
+100
+
+hsa-let-7d-5p	LIN28B	lin-28 homolog B
+Details
+
+6	
+100
+
+hsa-let-7d-5p	TRIM71	tripartite motif containing 71
+Details
+
+7	
+99
+
+hsa-let-7d-5p	FIGN	fidgetin, microtubule severing factor
+Details
+
+8	
+99
+
+hsa-let-7d-5p	IGDCC3	immunoglobulin superfamily DCC subclass member 3
+Details
+
+9	
+99
+
+hsa-let-7d-5p	SMARCAD1	SWI/SNF-related, matrix-associated actin-dependent regulator of chromatin, subfamily a, containing DEAD/H box 1
+Details
+
+10	
+99
+
+hsa-let-7d-5p	NPHP3	nephrocystin 3
+Details
+
+11	
+99
+
+hsa-let-7d-5p	FIGNL2	fidgetin like 2
+Details
+
+12	
+99
+
+hsa-let-7d-5p	NR6A1	nuclear receptor subfamily 6 group A member 1
+Details
+
+13	
+99
+
+hsa-let-7d-5p	ARID3B	AT-rich interaction domain 3B
+Details
+
+14	
+99
+
+hsa-let-7d-5p	C14orf28	chromosome 14 open reading frame 28
+Details
+
+15	
+99
+
+hsa-let-7d-5p	FRMD4B	FERM domain containing 4B
+Details
+
+16	
+98
+
+hsa-let-7d-5p	PTAFR	platelet activating factor receptor
+Details
+
+17	
+98
+
+hsa-let-7d-5p	NAP1L1	nucleosome assembly protein 1 like 1
+Details
+
+18	
+98
+
+hsa-let-7d-5p	CCND2	cyclin D2
+Details
+
+19	
+98
+
+hsa-let-7d-5p	GATM	glycine amidinotransferase
+Details
+
+20	
+97
+
+hsa-let-7d-5p	HIC2	HIC ZBTB transcriptional repressor 2
+Details
+
+21	
+97
+
+hsa-let-7d-5p	NME6	NME/NM23 nucleoside diphosphate kinase 6
+Details
+
+22	
+97
+
+hsa-let-7d-5p	SLF2	SMC5-SMC6 complex localization factor 2
+Details
+
+23	
+97
+
+hsa-let-7d-5p	SALL4	spalt like transcription factor 4
+Details
+
+24	
+97
+
+hsa-let-7d-5p	ADAMTS15	ADAM metallopeptidase with thrombospondin type 1 motif 15
+Details
+
+25	
+97
+
+hsa-let-7d-5p	MIB1	mindbomb E3 ubiquitin protein ligase 1
+Details
+
+26	
+97
+
+hsa-let-7d-5p	SLC10A7	solute carrier family 10 member 7
+Details
+
+27	
+97
+
+hsa-let-7d-5p	SFMBT1	Scm like with four mbt domains 1
+Details
+
+28	
+97
+
+hsa-let-7d-5p	LRIG3	leucine rich repeats and immunoglobulin like domains 3
+Details
+
+29	
+97
+
+hsa-let-7d-5p	PGRMC1	progesterone receptor membrane component 1
+Details
+
+30	
+97
+
+hsa-let-7d-5p	CBX5	chromobox 5
+Details
+
+31	
+97
+
+hsa-let-7d-5p	ZNF512B	zinc finger protein 512B
+Details
+
+32	
+96
+
+hsa-let-7d-5p	NRAS	NRAS proto-oncogene, GTPase
+Details
+
+33	
+96
+
+hsa-let-7d-5p	ZNF710	zinc finger protein 710
+Details
+
+34	
+96
+
+hsa-let-7d-5p	UTRN	utrophin
+Details
+
+35	
+96
+
+hsa-let-7d-5p	GNG5	G protein subunit gamma 5
+Details
+
+36	
+96
+
+hsa-let-7d-5p	USP44	ubiquitin specific peptidase 44
+Details
+
+37	
+96
+
+hsa-let-7d-5p	PAPPA	pappalysin 1
+Details
+
+38	
+96
+
+hsa-let-7d-5p	LPGAT1	lysophosphatidylglycerol acyltransferase 1
+Details
+
+39	
+96
+
+hsa-let-7d-5p	CDC34	cell division cycle 34
+Details
+
+40	
+96
+
+hsa-let-7d-5p	CCNJ	cyclin J
+Details
+
+41	
+96
+
+hsa-let-7d-5p	ZBTB5	zinc finger and BTB domain containing 5
+Details
+
+42	
+96
+
+hsa-let-7d-5p	FZD3	frizzled class receptor 3
+Details
+
+43	
+95
+
+hsa-let-7d-5p	C8orf58	chromosome 8 open reading frame 58
+Details
+
+44	
+95
+
+hsa-let-7d-5p	PPP1R15B	protein phosphatase 1 regulatory subunit 15B
+Details
+
+45	
+95
+
+hsa-let-7d-5p	SKIL	SKI like proto-oncogene
+Details
+
+46	
+95
+
+hsa-let-7d-5p	BACH1	BTB domain and CNC homolog 1
+Details
+
+47	
+95
+
+hsa-let-7d-5p	IGF1R	insulin like growth factor 1 receptor
+Details
+
+48	
+95
+
+hsa-let-7d-5p	AGO4	argonaute RISC catalytic component 4
+Details
+
+49	
+95
+
+hsa-let-7d-5p	GNPTAB	N-acetylglucosamine-1-phosphate transferase subunits alpha and beta
+Details
+
+50	
+95
+
+hsa-let-7d-5p	ADAMTS8	ADAM metallopeptidase with thrombospondin type 1 motif 8
+Details
+
+51	
+95
+
+hsa-let-7d-5p	ZSWIM5	zinc finger SWIM-type containing 5
+Details
+
+52	
+95
+
+hsa-let-7d-5p	THRSP	thyroid hormone responsive
+Details
+
+53	
+95
+
+hsa-let-7d-5p	PIK3IP1	phosphoinositide-3-kinase interacting protein 1
+Details
+
+54	
+95
+
+hsa-let-7d-5p	COL3A1	collagen type III alpha 1 chain
+Details
+
+55	
+95
+
+hsa-let-7d-5p	BIN3	bridging integrator 3
+Details
+
+56	
+95
+
+hsa-let-7d-5p	STX3	syntaxin 3
+Details
+
+57	
+94
+
+hsa-let-7d-5p	ZNF644	zinc finger protein 644
+Details
+
+58	
+94
+
+hsa-let-7d-5p	SMIM3	small integral membrane protein 3
+Details
+
+59	
+94
+
+hsa-let-7d-5p	TGFBR3	transforming growth factor beta receptor 3
+Details
+
+60	
+94
+
+hsa-let-7d-5p	CLDN12	claudin 12
+Details
+
+61	
+94
+
+hsa-let-7d-5p	YOD1	YOD1 deubiquitinase
+Details
+
+62	
+94
+
+hsa-let-7d-5p	STK40	serine/threonine kinase 40
+Details
+
+63	
+94
+
+hsa-let-7d-5p	PXT1	peroxisomal testis enriched protein 1
+Details
+
+64	
+94
+
+hsa-let-7d-5p	GXYLT1	glucoside xylosyltransferase 1
+Details
+
+65	
+94
+
+hsa-let-7d-5p	E2F5	E2F transcription factor 5
+Details
+
+66	
+94
+
+hsa-let-7d-5p	COIL	coilin
+Details
+
+67	
+94
+
+hsa-let-7d-5p	DLST	dihydrolipoamide S-succinyltransferase
+Details
+
+68	
+94
+
+hsa-let-7d-5p	ADRB2	adrenoceptor beta 2
+Details
+
+69	
+94
+
+hsa-let-7d-5p	DLC1	DLC1 Rho GTPase activating protein
+Details
+
+70	
+94
+
+hsa-let-7d-5p	CLCN5	chloride voltage-gated channel 5
+Details
+
+71	
+94
+
+hsa-let-7d-5p	SMC1A	structural maintenance of chromosomes 1A
+Details
+
+72	
+93
+
+hsa-let-7d-5p	AHCTF1	AT-hook containing transcription factor 1
+Details
+
+73	
+93
+
+hsa-let-7d-5p	ATP8B4	ATPase phospholipid transporting 8B4 (putative)
+Details
+
+74	
+93
+
+hsa-let-7d-5p	IGF2BP3	insulin like growth factor 2 mRNA binding protein 3
+Details
+
+75	
+93
+
+hsa-let-7d-5p	MAP4K3	mitogen-activated protein kinase kinase kinase kinase 3
+Details
+
+76	
+93
+
+hsa-let-7d-5p	NIPAL4	NIPA like domain containing 4
+Details
+
+77	
+93
+
+hsa-let-7d-5p	DMD	dystrophin
+Details
+
+78	
+93
+
+hsa-let-7d-5p	TMPRSS2	transmembrane serine protease 2
+Details
+
+79	
+93
+
+hsa-let-7d-5p	ADRB3	adrenoceptor beta 3
+Details
+
+80	
+93
+
+hsa-let-7d-5p	C5orf51	chromosome 5 open reading frame 51
+Details
+
+81	
+93
+
+hsa-let-7d-5p	SLC16A9	solute carrier family 16 member 9
+Details
+
+82	
+93
+
+hsa-let-7d-5p	TET3	tet methylcytosine dioxygenase 3
+Details
+
+83	
+92
+
+hsa-let-7d-5p	WNT9B	Wnt family member 9B
+Details
+
+84	
+92
+
+hsa-let-7d-5p	DNA2	DNA replication helicase/nuclease 2
+Details
+
+85	
+92
+
+hsa-let-7d-5p	PTPRD	protein tyrosine phosphatase, receptor type D
+Details
+
+86	
+92
+
+hsa-let-7d-5p	USP38	ubiquitin specific peptidase 38
+Details
+
+87	
+92
+
+hsa-let-7d-5p	FAM122A	family with sequence similarity 122A
+Details
+
+88	
+92
+
+hsa-let-7d-5p	SENP2	SUMO specific peptidase 2
+Details
+
+89	
+92
+
+hsa-let-7d-5p	TSEN34	tRNA splicing endonuclease subunit 34
+Details
+
+90	
+92
+
+hsa-let-7d-5p	PEX11B	peroxisomal biogenesis factor 11 beta
+Details
+
+91	
+92
+
+hsa-let-7d-5p	MARS2	methionyl-tRNA synthetase 2, mitochondrial
+Details
+
+92	
+92
+
+hsa-let-7d-5p	RUFY3	RUN and FYVE domain containing 3
+Details
+
+93	
+92
+
+hsa-let-7d-5p	COL4A2	collagen type IV alpha 2 chain
+Details
+
+94	
+92
+
+hsa-let-7d-5p	HAND1	heart and neural crest derivatives expressed 1
+Details
+
+95	
+92
+
+hsa-let-7d-5p	BZW1	basic leucine zipper and W2 domains 1
+Details
+
+96	
+92
+
+hsa-let-7d-5p	CLP1	cleavage and polyadenylation factor I subunit 1
+Details
+
+97	
+92
+
+hsa-let-7d-5p	FAM189A1	family with sequence similarity 189 member A1
+Details
+
+98	
+92
+
+hsa-let-7d-5p	ZNF280B	zinc finger protein 280B
+Details
+
+99	
+91
+
+hsa-let-7d-5p	ZNF322	zinc finger protein 322
+Details
+
+100	
+91
+
+hsa-let-7d-5p	SLC35D2	solute carrier family 35 member D2
+Details
+
+101	
+91
+
+hsa-let-7d-5p	ONECUT2	one cut homeobox 2
+Details
+
+102	
+91
+
+hsa-let-7d-5p	PCGF3	polycomb group ring finger 3
+Details
+
+103	
+91
+
+hsa-let-7d-5p	PLEKHA8	pleckstrin homology domain containing A8
+Details
+
+104	
+91
+
+hsa-let-7d-5p	PBX1	PBX homeobox 1
+Details
+
+105	
+91
+
+hsa-let-7d-5p	CEP135	centrosomal protein 135
+Details
+
+106	
+91
+
+hsa-let-7d-5p	ZFYVE26	zinc finger FYVE-type containing 26
+Details
+
+107	
+91
+
+hsa-let-7d-5p	TMEM65	transmembrane protein 65
+Details
+
+108	
+91
+
+hsa-let-7d-5p	TMPPE	transmembrane protein with metallophosphoesterase domain
+Details
+
+109	
+91
+
+hsa-let-7d-5p	ARHGEF38	Rho guanine nucleotide exchange factor 38
+Details
+
+110	
+91
+
+hsa-let-7d-5p	EDN1	endothelin 1
+Details
+
+111	
+91
+
+hsa-let-7d-5p	SRGAP1	SLIT-ROBO Rho GTPase activating protein 1
+Details
+
+112	
+91
+
+hsa-let-7d-5p	ITGB3	integrin subunit beta 3
+Details
+
+113	
+91
+
+hsa-let-7d-5p	CEMIP2	cell migration inducing hyaluronidase 2
+Details
+
+114	
+91
+
+hsa-let-7d-5p	HAS2	hyaluronan synthase 2
+Details
+
+115	
+91
+
+hsa-let-7d-5p	PLXNC1	plexin C1
+Details
+
+116	
+90
+
+hsa-let-7d-5p	GDF6	growth differentiation factor 6
+Details
+
+117	
+90
+
+hsa-let-7d-5p	DTX4	deltex E3 ubiquitin ligase 4
+Details
+
+118	
+90
+
+hsa-let-7d-5p	RGS16	regulator of G protein signaling 16
+Details
+
+119	
+90
+
+hsa-let-7d-5p	DDI2	DNA damage inducible 1 homolog 2
+Details
+
+120	
+90
+
+hsa-let-7d-5p	ACVR1C	activin A receptor type 1C
+Details
+
+121	
+90
+
+hsa-let-7d-5p	CPEB1	cytoplasmic polyadenylation element binding protein 1
+Details
+
+122	
+90
+
+hsa-let-7d-5p	GALC	galactosylceramidase
+Details
+
+123	
+90
+
+hsa-let-7d-5p	XRN1	5'-3' exoribonuclease 1
+Details
+
+124	
+90
+
+hsa-let-7d-5p	MDM4	MDM4, p53 regulator
+Details
+
+125	
+90
+
+hsa-let-7d-5p	CARNMT1	carnosine N-methyltransferase 1
+Details
+
+126	
+90
+
+hsa-let-7d-5p	FGF11	fibroblast growth factor 11
+Details
+
+127	
+90
+
+hsa-let-7d-5p	PBX2	PBX homeobox 2
+Details
+
+128	
+90
+
+hsa-let-7d-5p	TTLL4	tubulin tyrosine ligase like 4
+Details
+
+129	
+90
+
+hsa-let-7d-5p	RASGRP1	RAS guanyl releasing protein 1
+Details
+
+130	
+90
+
+hsa-let-7d-5p	FNIP1	folliculin interacting protein 1
+Details
+
+131	
+90
+
+hsa-let-7d-5p	HIP1	huntingtin interacting protein 1
+Details
+
+132	
+90
+
+hsa-let-7d-5p	FRAS1	Fraser extracellular matrix complex subunit 1
+Details
+
+133	
+90
+
+hsa-let-7d-5p	GAS7	growth arrest specific 7
+Details
+
+134	
+90
+
+hsa-let-7d-5p	E2F6	E2F transcription factor 6
+Details
+
+135	
+90
+
+hsa-let-7d-5p	MAPK6	mitogen-activated protein kinase 6
+Details
+
+136	
+90
+
+hsa-let-7d-5p	TRIM67	tripartite motif containing 67
+Details
+
+137	
+90
+
+hsa-let-7d-5p	LAMP2	lysosomal associated membrane protein 2
+Details
+
+138	
+90
+
+hsa-let-7d-5p	LIMD2	LIM domain containing 2
+Details
+
+139	
+90
+
+hsa-let-7d-5p	SLC5A9	solute carrier family 5 member 9
+Details
+
+140	
+90
+
+hsa-let-7d-5p	AMT	aminomethyltransferase
+Details
+
+141	
+90
+
+hsa-let-7d-5p	NHLRC3	NHL repeat containing 3

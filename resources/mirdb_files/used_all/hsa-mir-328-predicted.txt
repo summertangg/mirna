@@ -1,0 +1,85 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-328-5p	NFIC	nuclear factor I C
+Details
+
+2	
+98
+
+hsa-miR-328-5p	ZBTB7A	zinc finger and BTB domain containing 7A
+Details
+
+3	
+97
+
+hsa-miR-328-5p	TUBB4A	tubulin beta 4A class IVa
+Details
+
+4	
+95
+
+hsa-miR-328-5p	DYNLRB1	dynein light chain roadblock-type 1
+Details
+
+5	
+93
+
+hsa-miR-328-5p	FBN3	fibrillin 3
+Details
+
+6	
+93
+
+hsa-miR-328-5p	ANKRD40	ankyrin repeat domain 40
+Details
+
+7	
+92
+
+hsa-miR-328-5p	IQSEC2	IQ motif and Sec7 domain 2
+Details
+
+8	
+92
+
+hsa-miR-328-5p	PATZ1	POZ/BTB and AT hook containing zinc finger 1
+Details
+
+9	
+91
+
+hsa-miR-328-5p	SKI	SKI proto-oncogene
+Details
+
+10	
+91
+
+hsa-miR-328-5p	PLPPR2	phospholipid phosphatase related 2
+Details
+
+11	
+91
+
+hsa-miR-328-5p	ARHGDIA	Rho GDP dissociation inhibitor alpha
+Details
+
+12	
+91
+
+hsa-miR-328-5p	RIMS4	regulating synaptic membrane exocytosis 4
+Details
+
+13	
+90
+
+hsa-miR-328-5p	MEAF6	MYST/Esa1 associated factor 6
+Details
+
+14	
+90
+
+hsa-miR-328-5p	CD7	CD7 molecule

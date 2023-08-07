@@ -1,0 +1,535 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-636	PIEZO2	piezo type mechanosensitive ion channel component 2
+Details
+
+2	
+100
+
+hsa-miR-636	ONECUT2	one cut homeobox 2
+Details
+
+3	
+100
+
+hsa-miR-636	GLCE	glucuronic acid epimerase
+Details
+
+4	
+99
+
+hsa-miR-636	ARID4B	AT-rich interaction domain 4B
+Details
+
+5	
+99
+
+hsa-miR-636	CETN2	centrin 2
+Details
+
+6	
+98
+
+hsa-miR-636	JMY	junction mediating and regulatory protein, p53 cofactor
+Details
+
+7	
+98
+
+hsa-miR-636	TPD52	tumor protein D52
+Details
+
+8	
+98
+
+hsa-miR-636	LDOC1	LDOC1, regulator of NFKB signaling
+Details
+
+9	
+98
+
+hsa-miR-636	GRIP1	glutamate receptor interacting protein 1
+Details
+
+10	
+98
+
+hsa-miR-636	MAST4	microtubule associated serine/threonine kinase family member 4
+Details
+
+11	
+98
+
+hsa-miR-636	VAT1	vesicle amine transport 1
+Details
+
+12	
+98
+
+hsa-miR-636	RNF165	ring finger protein 165
+Details
+
+13	
+97
+
+hsa-miR-636	SFRP2	secreted frizzled related protein 2
+Details
+
+14	
+97
+
+hsa-miR-636	HAPLN1	hyaluronan and proteoglycan link protein 1
+Details
+
+15	
+97
+
+hsa-miR-636	AP3M1	adaptor related protein complex 3 subunit mu 1
+Details
+
+16	
+97
+
+hsa-miR-636	VSIG10	V-set and immunoglobulin domain containing 10
+Details
+
+17	
+96
+
+hsa-miR-636	MOSPD1	motile sperm domain containing 1
+Details
+
+18	
+96
+
+hsa-miR-636	ANKRD44	ankyrin repeat domain 44
+Details
+
+19	
+96
+
+hsa-miR-636	GASK1B	golgi associated kinase 1B
+Details
+
+20	
+96
+
+hsa-miR-636	FGF12	fibroblast growth factor 12
+Details
+
+21	
+96
+
+hsa-miR-636	BRINP3	BMP/retinoic acid inducible neural specific 3
+Details
+
+22	
+95
+
+hsa-miR-636	COLGALT1	collagen beta(1-O)galactosyltransferase 1
+Details
+
+23	
+95
+
+hsa-miR-636	RAP1A	RAP1A, member of RAS oncogene family
+Details
+
+24	
+95
+
+hsa-miR-636	FCHO2	FCH domain only 2
+Details
+
+25	
+95
+
+hsa-miR-636	SHTN1	shootin 1
+Details
+
+26	
+95
+
+hsa-miR-636	RPS6KA2	ribosomal protein S6 kinase A2
+Details
+
+27	
+95
+
+hsa-miR-636	RUNX2	runt related transcription factor 2
+Details
+
+28	
+95
+
+hsa-miR-636	NRXN1	neurexin 1
+Details
+
+29	
+95
+
+hsa-miR-636	NPY1R	neuropeptide Y receptor Y1
+Details
+
+30	
+95
+
+hsa-miR-636	C3orf70	chromosome 3 open reading frame 70
+Details
+
+31	
+94
+
+hsa-miR-636	COMMD3-BMI1	COMMD3-BMI1 readthrough
+Details
+
+32	
+94
+
+hsa-miR-636	CHST8	carbohydrate sulfotransferase 8
+Details
+
+33	
+94
+
+hsa-miR-636	ACSL1	acyl-CoA synthetase long chain family member 1
+Details
+
+34	
+94
+
+hsa-miR-636	HIVEP1	human immunodeficiency virus type I enhancer binding protein 1
+Details
+
+35	
+94
+
+hsa-miR-636	RICTOR	RPTOR independent companion of MTOR complex 2
+Details
+
+36	
+94
+
+hsa-miR-636	SEMA4A	semaphorin 4A
+Details
+
+37	
+94
+
+hsa-miR-636	ITGA9	integrin subunit alpha 9
+Details
+
+38	
+94
+
+hsa-miR-636	CDC42SE2	CDC42 small effector 2
+Details
+
+39	
+94
+
+hsa-miR-636	KLF9	Kruppel like factor 9
+Details
+
+40	
+94
+
+hsa-miR-636	YTHDF3	YTH N6-methyladenosine RNA binding protein 3
+Details
+
+41	
+94
+
+hsa-miR-636	EBF3	EBF transcription factor 3
+Details
+
+42	
+94
+
+hsa-miR-636	SFMBT1	Scm like with four mbt domains 1
+Details
+
+43	
+94
+
+hsa-miR-636	TMEM25	transmembrane protein 25
+Details
+
+44	
+94
+
+hsa-miR-636	HOXD10	homeobox D10
+Details
+
+45	
+93
+
+hsa-miR-636	NEURL4	neuralized E3 ubiquitin protein ligase 4
+Details
+
+46	
+93
+
+hsa-miR-636	PNPLA8	patatin like phospholipase domain containing 8
+Details
+
+47	
+93
+
+hsa-miR-636	KCNH1	potassium voltage-gated channel subfamily H member 1
+Details
+
+48	
+93
+
+hsa-miR-636	SAXO2	stabilizer of axonemal microtubules 2
+Details
+
+49	
+93
+
+hsa-miR-636	PHC3	polyhomeotic homolog 3
+Details
+
+50	
+93
+
+hsa-miR-636	DOCK9	dedicator of cytokinesis 9
+Details
+
+51	
+93
+
+hsa-miR-636	RBPJ	recombination signal binding protein for immunoglobulin kappa J region
+Details
+
+52	
+93
+
+hsa-miR-636	STATH	statherin
+Details
+
+53	
+92
+
+hsa-miR-636	KIRREL3	kirre like nephrin family adhesion molecule 3
+Details
+
+54	
+92
+
+hsa-miR-636	ROBO2	roundabout guidance receptor 2
+Details
+
+55	
+92
+
+hsa-miR-636	IL20RA	interleukin 20 receptor subunit alpha
+Details
+
+56	
+92
+
+hsa-miR-636	NR1D2	nuclear receptor subfamily 1 group D member 2
+Details
+
+57	
+92
+
+hsa-miR-636	MYORG	myogenesis regulating glycosidase (putative)
+Details
+
+58	
+92
+
+hsa-miR-636	JADE3	jade family PHD finger 3
+Details
+
+59	
+92
+
+hsa-miR-636	RABGAP1L	RAB GTPase activating protein 1 like
+Details
+
+60	
+92
+
+hsa-miR-636	TUB	tubby bipartite transcription factor
+Details
+
+61	
+92
+
+hsa-miR-636	RTN3	reticulon 3
+Details
+
+62	
+92
+
+hsa-miR-636	HTN3	histatin 3
+Details
+
+63	
+92
+
+hsa-miR-636	MARCH4	membrane associated ring-CH-type finger 4
+Details
+
+64	
+91
+
+hsa-miR-636	ZNF831	zinc finger protein 831
+Details
+
+65	
+91
+
+hsa-miR-636	SENP1	SUMO specific peptidase 1
+Details
+
+66	
+91
+
+hsa-miR-636	MKX	mohawk homeobox
+Details
+
+67	
+91
+
+hsa-miR-636	MDGA2	MAM domain containing glycosylphosphatidylinositol anchor 2
+Details
+
+68	
+91
+
+hsa-miR-636	PSEN1	presenilin 1
+Details
+
+69	
+91
+
+hsa-miR-636	INSYN2B	inhibitory synaptic factor family member 2B
+Details
+
+70	
+91
+
+hsa-miR-636	ZFYVE26	zinc finger FYVE-type containing 26
+Details
+
+71	
+91
+
+hsa-miR-636	ZDHHC8	zinc finger DHHC-type containing 8
+Details
+
+72	
+91
+
+hsa-miR-636	VOPP1	VOPP1, WBP1/VOPP1 family member
+Details
+
+73	
+91
+
+hsa-miR-636	GNG3	G protein subunit gamma 3
+Details
+
+74	
+91
+
+hsa-miR-636	HECTD2	HECT domain E3 ubiquitin protein ligase 2
+Details
+
+75	
+91
+
+hsa-miR-636	JADE2	jade family PHD finger 2
+Details
+
+76	
+91
+
+hsa-miR-636	UQCR10	ubiquinol-cytochrome c reductase, complex III subunit X
+Details
+
+77	
+91
+
+hsa-miR-636	DCAF5	DDB1 and CUL4 associated factor 5
+Details
+
+78	
+91
+
+hsa-miR-636	UBE2E2	ubiquitin conjugating enzyme E2 E2
+Details
+
+79	
+90
+
+hsa-miR-636	ABRA	actin binding Rho activating protein
+Details
+
+80	
+90
+
+hsa-miR-636	CCDC89	coiled-coil domain containing 89
+Details
+
+81	
+90
+
+hsa-miR-636	DCBLD2	discoidin, CUB and LCCL domain containing 2
+Details
+
+82	
+90
+
+hsa-miR-636	C17orf102	chromosome 17 open reading frame 102
+Details
+
+83	
+90
+
+hsa-miR-636	TRIM9	tripartite motif containing 9
+Details
+
+84	
+90
+
+hsa-miR-636	NUMB	NUMB, endocytic adaptor protein
+Details
+
+85	
+90
+
+hsa-miR-636	CISD1	CDGSH iron sulfur domain 1
+Details
+
+86	
+90
+
+hsa-miR-636	C20orf197	chromosome 20 open reading frame 197
+Details
+
+87	
+90
+
+hsa-miR-636	DCDC2	doublecortin domain containing 2
+Details
+
+88	
+90
+
+hsa-miR-636	SETBP1	SET binding protein 1
+Details
+
+89	
+90
+
+hsa-miR-636	FRMD4B	FERM domain containing 4B

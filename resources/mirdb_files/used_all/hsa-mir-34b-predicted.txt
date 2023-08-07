@@ -1,0 +1,337 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-34b-5p	TENM1	teneurin transmembrane protein 1
+Details
+
+2	
+98
+
+hsa-miR-34b-5p	ELMOD1	ELMO domain containing 1
+Details
+
+3	
+98
+
+hsa-miR-34b-5p	RFX3	regulatory factor X3
+Details
+
+4	
+97
+
+hsa-miR-34b-5p	ZC4H2	zinc finger C4H2-type containing
+Details
+
+5	
+97
+
+hsa-miR-34b-5p	RAB3C	RAB3C, member RAS oncogene family
+Details
+
+6	
+97
+
+hsa-miR-34b-5p	DLL1	delta like canonical Notch ligand 1
+Details
+
+7	
+96
+
+hsa-miR-34b-5p	PLEKHA1	pleckstrin homology domain containing A1
+Details
+
+8	
+96
+
+hsa-miR-34b-5p	THRB	thyroid hormone receptor beta
+Details
+
+9	
+96
+
+hsa-miR-34b-5p	CAMSAP2	calmodulin regulated spectrin associated protein family member 2
+Details
+
+10	
+96
+
+hsa-miR-34b-5p	STK38L	serine/threonine kinase 38 like
+Details
+
+11	
+95
+
+hsa-miR-34b-5p	PIK3C2A	phosphatidylinositol-4-phosphate 3-kinase catalytic subunit type 2 alpha
+Details
+
+12	
+95
+
+hsa-miR-34b-5p	NEUROD1	neuronal differentiation 1
+Details
+
+13	
+95
+
+hsa-miR-34b-5p	ANKS1B	ankyrin repeat and sterile alpha motif domain containing 1B
+Details
+
+14	
+95
+
+hsa-miR-34b-5p	SOX6	SRY-box 6
+Details
+
+15	
+94
+
+hsa-miR-34b-5p	ASCL1	achaete-scute family bHLH transcription factor 1
+Details
+
+16	
+93
+
+hsa-miR-34b-5p	ELMSAN1	ELM2 and Myb/SANT domain containing 1
+Details
+
+17	
+93
+
+hsa-miR-34b-5p	APH1A	aph-1 homolog A, gamma-secretase subunit
+Details
+
+18	
+93
+
+hsa-miR-34b-5p	THAP12	THAP domain containing 12
+Details
+
+19	
+93
+
+hsa-miR-34b-5p	ATP11C	ATPase phospholipid transporting 11C
+Details
+
+20	
+93
+
+hsa-miR-34b-5p	RDX	radixin
+Details
+
+21	
+93
+
+hsa-miR-34b-5p	MYF5	myogenic factor 5
+Details
+
+22	
+93
+
+hsa-miR-34b-5p	ARID1B	AT-rich interaction domain 1B
+Details
+
+23	
+93
+
+hsa-miR-34b-5p	GAS1	growth arrest specific 1
+Details
+
+24	
+93
+
+hsa-miR-34b-5p	CBLB	Cbl proto-oncogene B
+Details
+
+25	
+92
+
+hsa-miR-34b-5p	HOXB8	homeobox B8
+Details
+
+26	
+92
+
+hsa-miR-34b-5p	MARVELD2	MARVEL domain containing 2
+Details
+
+27	
+92
+
+hsa-miR-34b-5p	KCNA1	potassium voltage-gated channel subfamily A member 1
+Details
+
+28	
+92
+
+hsa-miR-34b-5p	MYCBP2	MYC binding protein 2, E3 ubiquitin protein ligase
+Details
+
+29	
+92
+
+hsa-miR-34b-5p	ATP6V0A2	ATPase H+ transporting V0 subunit a2
+Details
+
+30	
+92
+
+hsa-miR-34b-5p	STK39	serine/threonine kinase 39
+Details
+
+31	
+92
+
+hsa-miR-34b-5p	QDPR	quinoid dihydropteridine reductase
+Details
+
+32	
+92
+
+hsa-miR-34b-5p	CDK19	cyclin dependent kinase 19
+Details
+
+33	
+92
+
+hsa-miR-34b-5p	CNTNAP1	contactin associated protein 1
+Details
+
+34	
+92
+
+hsa-miR-34b-5p	HOXC8	homeobox C8
+Details
+
+35	
+91
+
+hsa-miR-34b-5p	PHACTR1	phosphatase and actin regulator 1
+Details
+
+36	
+91
+
+hsa-miR-34b-5p	MYC	MYC proto-oncogene, bHLH transcription factor
+Details
+
+37	
+91
+
+hsa-miR-34b-5p	CTNND2	catenin delta 2
+Details
+
+38	
+91
+
+hsa-miR-34b-5p	APOB	apolipoprotein B
+Details
+
+39	
+91
+
+hsa-miR-34b-5p	STMN2	stathmin 2
+Details
+
+40	
+91
+
+hsa-miR-34b-5p	MTCL1	microtubule crosslinking factor 1
+Details
+
+41	
+91
+
+hsa-miR-34b-5p	NHSL1	NHS like 1
+Details
+
+42	
+90
+
+hsa-miR-34b-5p	CELF2	CUGBP Elav-like family member 2
+Details
+
+43	
+90
+
+hsa-miR-34b-5p	FKBP1B	FKBP prolyl isomerase 1B
+Details
+
+44	
+90
+
+hsa-miR-34b-5p	PIEZO2	piezo type mechanosensitive ion channel component 2
+Details
+
+45	
+90
+
+hsa-miR-34b-5p	CADM2	cell adhesion molecule 2
+Details
+
+46	
+90
+
+hsa-miR-34b-5p	XKR6	XK related 6
+Details
+
+47	
+90
+
+hsa-miR-34b-5p	WIPF3	WAS/WASL interacting protein family member 3
+Details
+
+48	
+90
+
+hsa-miR-34b-5p	MAPK4	mitogen-activated protein kinase 4
+Details
+
+49	
+90
+
+hsa-miR-34b-5p	RALA	RAS like proto-oncogene A
+Details
+
+50	
+90
+
+hsa-miR-34b-5p	MTDH	metadherin
+Details
+
+51	
+90
+
+hsa-miR-34b-5p	IL1RAP	interleukin 1 receptor accessory protein
+Details
+
+52	
+90
+
+hsa-miR-34b-5p	RHOH	ras homolog family member H
+Details
+
+53	
+90
+
+hsa-miR-34b-5p	ACTL6A	actin like 6A
+Details
+
+54	
+90
+
+hsa-miR-34b-5p	PTPRG	protein tyrosine phosphatase, receptor type G
+Details
+
+55	
+90
+
+hsa-miR-34b-5p	TENT4A	terminal nucleotidyltransferase 4A
+Details
+
+56	
+90
+
+hsa-miR-34b-5p	PTPN4	protein tyrosine phosphatase, non-receptor type 4

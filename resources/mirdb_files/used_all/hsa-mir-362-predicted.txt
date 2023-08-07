@@ -1,0 +1,181 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-362-3p	PPP2R2D	protein phosphatase 2 regulatory subunit Bdelta
+Details
+
+2	
+99
+
+hsa-miR-362-3p	PTBP2	polypyrimidine tract binding protein 2
+Details
+
+3	
+99
+
+hsa-miR-362-3p	BLCAP	BLCAP, apoptosis inducing factor
+Details
+
+4	
+98
+
+hsa-miR-362-3p	DLGAP4	DLG associated protein 4
+Details
+
+5	
+98
+
+hsa-miR-362-3p	TENT4B	terminal nucleotidyltransferase 4B
+Details
+
+6	
+98
+
+hsa-miR-362-3p	TNRC6B	trinucleotide repeat containing 6B
+Details
+
+7	
+97
+
+hsa-miR-362-3p	SMNDC1	survival motor neuron domain containing 1
+Details
+
+8	
+96
+
+hsa-miR-362-3p	SRSF4	serine and arginine rich splicing factor 4
+Details
+
+9	
+96
+
+hsa-miR-362-3p	KLHL2	kelch like family member 2
+Details
+
+10	
+96
+
+hsa-miR-362-3p	SHB	SH2 domain containing adaptor protein B
+Details
+
+11	
+95
+
+hsa-miR-362-3p	BCL7A	BCL7A, BAF complex component
+Details
+
+12	
+95
+
+hsa-miR-362-3p	PTDSS1	phosphatidylserine synthase 1
+Details
+
+13	
+94
+
+hsa-miR-362-3p	RNF19B	ring finger protein 19B
+Details
+
+14	
+94
+
+hsa-miR-362-3p	ADAMTS9	ADAM metallopeptidase with thrombospondin type 1 motif 9
+Details
+
+15	
+93
+
+hsa-miR-362-3p	AK4	adenylate kinase 4
+Details
+
+16	
+93
+
+hsa-miR-362-3p	RLN1	relaxin 1
+Details
+
+17	
+93
+
+hsa-miR-362-3p	ZNF304	zinc finger protein 304
+Details
+
+18	
+93
+
+hsa-miR-362-3p	TMEM245	transmembrane protein 245
+Details
+
+19	
+93
+
+hsa-miR-362-3p	ADGRF5	adhesion G protein-coupled receptor F5
+Details
+
+20	
+92
+
+hsa-miR-362-3p	DAAM1	dishevelled associated activator of morphogenesis 1
+Details
+
+21	
+92
+
+hsa-miR-362-3p	RTL5	retrotransposon Gag like 5
+Details
+
+22	
+92
+
+hsa-miR-362-3p	KLF6	Kruppel like factor 6
+Details
+
+23	
+92
+
+hsa-miR-362-3p	NRBF2	nuclear receptor binding factor 2
+Details
+
+24	
+91
+
+hsa-miR-362-3p	EIF4G1	eukaryotic translation initiation factor 4 gamma 1
+Details
+
+25	
+91
+
+hsa-miR-362-3p	RALA	RAS like proto-oncogene A
+Details
+
+26	
+91
+
+hsa-miR-362-3p	VOPP1	VOPP1, WBP1/VOPP1 family member
+Details
+
+27	
+91
+
+hsa-miR-362-3p	PLCXD1	phosphatidylinositol specific phospholipase C X domain containing 1
+Details
+
+28	
+90
+
+hsa-miR-362-3p	SLF2	SMC5-SMC6 complex localization factor 2
+Details
+
+29	
+90
+
+hsa-miR-362-3p	CEP85L	centrosomal protein 85 like
+Details
+
+30	
+90
+
+hsa-miR-362-3p	METTL9	methyltransferase like 9

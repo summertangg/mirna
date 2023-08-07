@@ -1,0 +1,487 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-199a-5p	DDR1	discoidin domain receptor tyrosine kinase 1
+Details
+
+2	
+99
+
+hsa-miR-199a-5p	SLC25A23	solute carrier family 25 member 23
+Details
+
+3	
+99
+
+hsa-miR-199a-5p	NAA40	N(alpha)-acetyltransferase 40, NatD catalytic subunit
+Details
+
+4	
+99
+
+hsa-miR-199a-5p	ZNF763	zinc finger protein 763
+Details
+
+5	
+99
+
+hsa-miR-199a-5p	MYRF	myelin regulatory factor
+Details
+
+6	
+98
+
+hsa-miR-199a-5p	CLCN3	chloride voltage-gated channel 3
+Details
+
+7	
+98
+
+hsa-miR-199a-5p	SLC24A3	solute carrier family 24 member 3
+Details
+
+8	
+98
+
+hsa-miR-199a-5p	CELSR1	cadherin EGF LAG seven-pass G-type receptor 1
+Details
+
+9	
+98
+
+hsa-miR-199a-5p	LIN7C	lin-7 homolog C, crumbs cell polarity complex component
+Details
+
+10	
+98
+
+hsa-miR-199a-5p	HAPLN1	hyaluronan and proteoglycan link protein 1
+Details
+
+11	
+97
+
+hsa-miR-199a-5p	FZD4	frizzled class receptor 4
+Details
+
+12	
+97
+
+hsa-miR-199a-5p	MAP3K11	mitogen-activated protein kinase kinase kinase 11
+Details
+
+13	
+97
+
+hsa-miR-199a-5p	RAD23B	RAD23 homolog B, nucleotide excision repair protein
+Details
+
+14	
+97
+
+hsa-miR-199a-5p	GCNT2	glucosaminyl (N-acetyl) transferase 2 (I blood group)
+Details
+
+15	
+97
+
+hsa-miR-199a-5p	SULF1	sulfatase 1
+Details
+
+16	
+97
+
+hsa-miR-199a-5p	AKAP1	A-kinase anchoring protein 1
+Details
+
+17	
+96
+
+hsa-miR-199a-5p	KL	klotho
+Details
+
+18	
+96
+
+hsa-miR-199a-5p	ARHGAP12	Rho GTPase activating protein 12
+Details
+
+19	
+96
+
+hsa-miR-199a-5p	ZNF189	zinc finger protein 189
+Details
+
+20	
+96
+
+hsa-miR-199a-5p	CDCA7L	cell division cycle associated 7 like
+Details
+
+21	
+95
+
+hsa-miR-199a-5p	FAM222B	family with sequence similarity 222 member B
+Details
+
+22	
+95
+
+hsa-miR-199a-5p	GPR63	G protein-coupled receptor 63
+Details
+
+23	
+95
+
+hsa-miR-199a-5p	ZNF773	zinc finger protein 773
+Details
+
+24	
+95
+
+hsa-miR-199a-5p	RASSF2	Ras association domain family member 2
+Details
+
+25	
+95
+
+hsa-miR-199a-5p	MICAL3	microtubule associated monooxygenase, calponin and LIM domain containing 3
+Details
+
+26	
+95
+
+hsa-miR-199a-5p	ZNF426	zinc finger protein 426
+Details
+
+27	
+95
+
+hsa-miR-199a-5p	BCAM	basal cell adhesion molecule (Lutheran blood group)
+Details
+
+28	
+95
+
+hsa-miR-199a-5p	ZNF439	zinc finger protein 439
+Details
+
+29	
+95
+
+hsa-miR-199a-5p	MARCH8	membrane associated ring-CH-type finger 8
+Details
+
+30	
+95
+
+hsa-miR-199a-5p	ZBTB20	zinc finger and BTB domain containing 20
+Details
+
+31	
+94
+
+hsa-miR-199a-5p	GNG5	G protein subunit gamma 5
+Details
+
+32	
+94
+
+hsa-miR-199a-5p	ZNF544	zinc finger protein 544
+Details
+
+33	
+94
+
+hsa-miR-199a-5p	ITGA3	integrin subunit alpha 3
+Details
+
+34	
+93
+
+hsa-miR-199a-5p	ZNF440	zinc finger protein 440
+Details
+
+35	
+93
+
+hsa-miR-199a-5p	MAB21L1	mab-21 like 1
+Details
+
+36	
+93
+
+hsa-miR-199a-5p	TSPAN6	tetraspanin 6
+Details
+
+37	
+93
+
+hsa-miR-199a-5p	ARHGAP21	Rho GTPase activating protein 21
+Details
+
+38	
+93
+
+hsa-miR-199a-5p	GPRC5A	G protein-coupled receptor class C group 5 member A
+Details
+
+39	
+93
+
+hsa-miR-199a-5p	ZNF704	zinc finger protein 704
+Details
+
+40	
+93
+
+hsa-miR-199a-5p	ZFYVE27	zinc finger FYVE-type containing 27
+Details
+
+41	
+93
+
+hsa-miR-199a-5p	RBM47	RNA binding motif protein 47
+Details
+
+42	
+93
+
+hsa-miR-199a-5p	ECE1	endothelin converting enzyme 1
+Details
+
+43	
+93
+
+hsa-miR-199a-5p	TUBG1	tubulin gamma 1
+Details
+
+44	
+93
+
+hsa-miR-199a-5p	ZNF516	zinc finger protein 516
+Details
+
+45	
+93
+
+hsa-miR-199a-5p	PAXBP1	PAX3 and PAX7 binding protein 1
+Details
+
+46	
+92
+
+hsa-miR-199a-5p	SIRT1	sirtuin 1
+Details
+
+47	
+92
+
+hsa-miR-199a-5p	ZFAND4	zinc finger AN1-type containing 4
+Details
+
+48	
+92
+
+hsa-miR-199a-5p	NSG1	neuronal vesicle trafficking associated 1
+Details
+
+49	
+92
+
+hsa-miR-199a-5p	CLIP1	CAP-Gly domain containing linker protein 1
+Details
+
+50	
+92
+
+hsa-miR-199a-5p	ACVR2B	activin A receptor type 2B
+Details
+
+51	
+92
+
+hsa-miR-199a-5p	WAPL	WAPL cohesin release factor
+Details
+
+52	
+92
+
+hsa-miR-199a-5p	VPS26A	VPS26, retromer complex component A
+Details
+
+53	
+92
+
+hsa-miR-199a-5p	M6PR	mannose-6-phosphate receptor, cation dependent
+Details
+
+54	
+92
+
+hsa-miR-199a-5p	PDPN	podoplanin
+Details
+
+55	
+91
+
+hsa-miR-199a-5p	HMCN1	hemicentin 1
+Details
+
+56	
+91
+
+hsa-miR-199a-5p	NFIL3	nuclear factor, interleukin 3 regulated
+Details
+
+57	
+91
+
+hsa-miR-199a-5p	NPAS2	neuronal PAS domain protein 2
+Details
+
+58	
+91
+
+hsa-miR-199a-5p	FER	FER tyrosine kinase
+Details
+
+59	
+91
+
+hsa-miR-199a-5p	ANK3	ankyrin 3
+Details
+
+60	
+91
+
+hsa-miR-199a-5p	SHOC2	SHOC2, leucine rich repeat scaffold protein
+Details
+
+61	
+91
+
+hsa-miR-199a-5p	CCNL1	cyclin L1
+Details
+
+62	
+91
+
+hsa-miR-199a-5p	KPNA4	karyopherin subunit alpha 4
+Details
+
+63	
+91
+
+hsa-miR-199a-5p	TPR	translocated promoter region, nuclear basket protein
+Details
+
+64	
+91
+
+hsa-miR-199a-5p	ASRGL1	asparaginase like 1
+Details
+
+65	
+91
+
+hsa-miR-199a-5p	SOS2	SOS Ras/Rho guanine nucleotide exchange factor 2
+Details
+
+66	
+91
+
+hsa-miR-199a-5p	AUTS2	AUTS2, activator of transcription and developmental regulator
+Details
+
+67	
+91
+
+hsa-miR-199a-5p	CCDC88C	coiled-coil domain containing 88C
+Details
+
+68	
+91
+
+hsa-miR-199a-5p	FZD6	frizzled class receptor 6
+Details
+
+69	
+91
+
+hsa-miR-199a-5p	ZNF563	zinc finger protein 563
+Details
+
+70	
+90
+
+hsa-miR-199a-5p	PLXNA2	plexin A2
+Details
+
+71	
+90
+
+hsa-miR-199a-5p	PPARGC1A	PPARG coactivator 1 alpha
+Details
+
+72	
+90
+
+hsa-miR-199a-5p	TXNL1	thioredoxin like 1
+Details
+
+73	
+90
+
+hsa-miR-199a-5p	POU3F2	POU class 3 homeobox 2
+Details
+
+74	
+90
+
+hsa-miR-199a-5p	FLRT3	fibronectin leucine rich transmembrane protein 3
+Details
+
+75	
+90
+
+hsa-miR-199a-5p	SORCS3	sortilin related VPS10 domain containing receptor 3
+Details
+
+76	
+90
+
+hsa-miR-199a-5p	INO80D	INO80 complex subunit D
+Details
+
+77	
+90
+
+hsa-miR-199a-5p	BTRC	beta-transducin repeat containing E3 ubiquitin protein ligase
+Details
+
+78	
+90
+
+hsa-miR-199a-5p	CSDC2	cold shock domain containing C2
+Details
+
+79	
+90
+
+hsa-miR-199a-5p	TMEM245	transmembrane protein 245
+Details
+
+80	
+90
+
+hsa-miR-199a-5p	RASSF3	Ras association domain family member 3
+Details
+
+81	
+90
+
+hsa-miR-199a-5p	NINL	ninein like

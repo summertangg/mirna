@@ -1,0 +1,151 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+98
+
+hsa-miR-660-5p	TMED7-TICAM2	TMED7-TICAM2 readthrough
+Details
+
+2	
+97
+
+hsa-miR-660-5p	JPH1	junctophilin 1
+Details
+
+3	
+97
+
+hsa-miR-660-5p	IRS1	insulin receptor substrate 1
+Details
+
+4	
+96
+
+hsa-miR-660-5p	EPAS1	endothelial PAS domain protein 1
+Details
+
+5	
+96
+
+hsa-miR-660-5p	CDH13	cadherin 13
+Details
+
+6	
+96
+
+hsa-miR-660-5p	ARHGAP36	Rho GTPase activating protein 36
+Details
+
+7	
+94
+
+hsa-miR-660-5p	FOLH1B	folate hydrolase 1B
+Details
+
+8	
+94
+
+hsa-miR-660-5p	MED8	mediator complex subunit 8
+Details
+
+9	
+93
+
+hsa-miR-660-5p	ACTRT3	actin related protein T3
+Details
+
+10	
+93
+
+hsa-miR-660-5p	CDR2L	cerebellar degeneration related protein 2 like
+Details
+
+11	
+93
+
+hsa-miR-660-5p	KIF3A	kinesin family member 3A
+Details
+
+12	
+92
+
+hsa-miR-660-5p	SFXN2	sideroflexin 2
+Details
+
+13	
+91
+
+hsa-miR-660-5p	ARMCX3	armadillo repeat containing X-linked 3
+Details
+
+14	
+91
+
+hsa-miR-660-5p	ZNF805	zinc finger protein 805
+Details
+
+15	
+91
+
+hsa-miR-660-5p	LEPR	leptin receptor
+Details
+
+16	
+91
+
+hsa-miR-660-5p	TPD52L2	TPD52 like 2
+Details
+
+17	
+91
+
+hsa-miR-660-5p	CYP4V2	cytochrome P450 family 4 subfamily V member 2
+Details
+
+18	
+91
+
+hsa-miR-660-5p	PPP6R3	protein phosphatase 6 regulatory subunit 3
+Details
+
+19	
+90
+
+hsa-miR-660-5p	LMNTD1	lamin tail domain containing 1
+Details
+
+20	
+90
+
+hsa-miR-660-5p	KBTBD8	kelch repeat and BTB domain containing 8
+Details
+
+21	
+90
+
+hsa-miR-660-5p	HIPK1	homeodomain interacting protein kinase 1
+Details
+
+22	
+90
+
+hsa-miR-660-5p	RRAGC	Ras related GTP binding C
+Details
+
+23	
+90
+
+hsa-miR-660-5p	SPCS2	signal peptidase complex subunit 2
+Details
+
+24	
+90
+
+hsa-miR-660-5p	NUFIP1	nuclear FMR1 interacting protein 1
+Details
+
+25	
+90
+
+hsa-miR-660-5p	NPAS3	neuronal PAS domain protein 3

@@ -1,0 +1,421 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-155-5p	ZNF652	zinc finger protein 652
+Details
+
+2	
+99
+
+hsa-miR-155-5p	ZIC3	Zic family member 3
+Details
+
+3	
+99
+
+hsa-miR-155-5p	BACH1	BTB domain and CNC homolog 1
+Details
+
+4	
+99
+
+hsa-miR-155-5p	JARID2	jumonji and AT-rich interaction domain containing 2
+Details
+
+5	
+97
+
+hsa-miR-155-5p	KDM5B	lysine demethylase 5B
+Details
+
+6	
+97
+
+hsa-miR-155-5p	ZNF98	zinc finger protein 98
+Details
+
+7	
+97
+
+hsa-miR-155-5p	TBR1	T-box, brain 1
+Details
+
+8	
+97
+
+hsa-miR-155-5p	IRF2BP2	interferon regulatory factor 2 binding protein 2
+Details
+
+9	
+97
+
+hsa-miR-155-5p	OLFML3	olfactomedin like 3
+Details
+
+10	
+96
+
+hsa-miR-155-5p	MPEG1	macrophage expressed 1
+Details
+
+11	
+96
+
+hsa-miR-155-5p	CDX1	caudal type homeobox 1
+Details
+
+12	
+96
+
+hsa-miR-155-5p	ACTL7A	actin like 7A
+Details
+
+13	
+96
+
+hsa-miR-155-5p	MARCH1	membrane associated ring-CH-type finger 1
+Details
+
+14	
+96
+
+hsa-miR-155-5p	FOS	Fos proto-oncogene, AP-1 transcription factor subunit
+Details
+
+15	
+96
+
+hsa-miR-155-5p	IKBIP	IKBKB interacting protein
+Details
+
+16	
+96
+
+hsa-miR-155-5p	CHAF1A	chromatin assembly factor 1 subunit A
+Details
+
+17	
+95
+
+hsa-miR-155-5p	VAV3	vav guanine nucleotide exchange factor 3
+Details
+
+18	
+95
+
+hsa-miR-155-5p	TSHZ3	teashirt zinc finger homeobox 3
+Details
+
+19	
+95
+
+hsa-miR-155-5p	GABARAPL1	GABA type A receptor associated protein like 1
+Details
+
+20	
+95
+
+hsa-miR-155-5p	GYG1	glycogenin 1
+Details
+
+21	
+95
+
+hsa-miR-155-5p	KANSL1	KAT8 regulatory NSL complex subunit 1
+Details
+
+22	
+95
+
+hsa-miR-155-5p	MYBL1	MYB proto-oncogene like 1
+Details
+
+23	
+95
+
+hsa-miR-155-5p	TP53INP1	tumor protein p53 inducible nuclear protein 1
+Details
+
+24	
+95
+
+hsa-miR-155-5p	RGP1	RGP1 homolog, RAB6A GEF complex partner 1
+Details
+
+25	
+94
+
+hsa-miR-155-5p	LSM14A	LSM14A, mRNA processing body assembly factor
+Details
+
+26	
+94
+
+hsa-miR-155-5p	TWF1	twinfilin actin binding protein 1
+Details
+
+27	
+94
+
+hsa-miR-155-5p	TRAM1	translocation associated membrane protein 1
+Details
+
+28	
+94
+
+hsa-miR-155-5p	DPY19L1	dpy-19 like C-mannosyltransferase 1
+Details
+
+29	
+94
+
+hsa-miR-155-5p	CARD11	caspase recruitment domain family member 11
+Details
+
+30	
+94
+
+hsa-miR-155-5p	LCORL	ligand dependent nuclear receptor corepressor like
+Details
+
+31	
+94
+
+hsa-miR-155-5p	E2F2	E2F transcription factor 2
+Details
+
+32	
+94
+
+hsa-miR-155-5p	RPS6KA3	ribosomal protein S6 kinase A3
+Details
+
+33	
+94
+
+hsa-miR-155-5p	TRIM32	tripartite motif containing 32
+Details
+
+34	
+93
+
+hsa-miR-155-5p	G2E3	G2/M-phase specific E3 ubiquitin protein ligase
+Details
+
+35	
+93
+
+hsa-miR-155-5p	MIDN	midnolin
+Details
+
+36	
+93
+
+hsa-miR-155-5p	ASAP2	ArfGAP with SH3 domain, ankyrin repeat and PH domain 2
+Details
+
+37	
+93
+
+hsa-miR-155-5p	MYB	MYB proto-oncogene, transcription factor
+Details
+
+38	
+93
+
+hsa-miR-155-5p	TLE4	TLE family member 4, transcriptional corepressor
+Details
+
+39	
+93
+
+hsa-miR-155-5p	CSRNP2	cysteine and serine rich nuclear protein 2
+Details
+
+40	
+93
+
+hsa-miR-155-5p	VMA21	VMA21, vacuolar ATPase assembly factor
+Details
+
+41	
+93
+
+hsa-miR-155-5p	WEE1	WEE1 G2 checkpoint kinase
+Details
+
+42	
+93
+
+hsa-miR-155-5p	HIVEP2	human immunodeficiency virus type I enhancer binding protein 2
+Details
+
+43	
+93
+
+hsa-miR-155-5p	ZNF236	zinc finger protein 236
+Details
+
+44	
+93
+
+hsa-miR-155-5p	CSNK1G2	casein kinase 1 gamma 2
+Details
+
+45	
+92
+
+hsa-miR-155-5p	SMAD2	SMAD family member 2
+Details
+
+46	
+92
+
+hsa-miR-155-5p	ZMYM2	zinc finger MYM-type containing 2
+Details
+
+47	
+92
+
+hsa-miR-155-5p	ARID2	AT-rich interaction domain 2
+Details
+
+48	
+92
+
+hsa-miR-155-5p	DET1	DET1, COP1 ubiquitin ligase partner
+Details
+
+49	
+92
+
+hsa-miR-155-5p	ZNF492	zinc finger protein 492
+Details
+
+50	
+92
+
+hsa-miR-155-5p	C2orf80	chromosome 2 open reading frame 80
+Details
+
+51	
+92
+
+hsa-miR-155-5p	UBQLN1	ubiquilin 1
+Details
+
+52	
+92
+
+hsa-miR-155-5p	ATXN1L	ataxin 1 like
+Details
+
+53	
+92
+
+hsa-miR-155-5p	MED13L	mediator complex subunit 13 like
+Details
+
+54	
+92
+
+hsa-miR-155-5p	ZNF860	zinc finger protein 860
+Details
+
+55	
+91
+
+hsa-miR-155-5p	ZC2HC1B	zinc finger C2HC-type containing 1B
+Details
+
+56	
+91
+
+hsa-miR-155-5p	TRAF3	TNF receptor associated factor 3
+Details
+
+57	
+91
+
+hsa-miR-155-5p	ZBTB41	zinc finger and BTB domain containing 41
+Details
+
+58	
+91
+
+hsa-miR-155-5p	DYNC1I1	dynein cytoplasmic 1 intermediate chain 1
+Details
+
+59	
+91
+
+hsa-miR-155-5p	SGK3	serum/glucocorticoid regulated kinase family member 3
+Details
+
+60	
+91
+
+hsa-miR-155-5p	CSF1R	colony stimulating factor 1 receptor
+Details
+
+61	
+91
+
+hsa-miR-155-5p	MITF	melanocyte inducing transcription factor
+Details
+
+62	
+91
+
+hsa-miR-155-5p	SEMA5A	semaphorin 5A
+Details
+
+63	
+91
+
+hsa-miR-155-5p	MED21	mediator complex subunit 21
+Details
+
+64	
+91
+
+hsa-miR-155-5p	UNC80	unc-80 homolog, NALCN channel complex subunit
+Details
+
+65	
+91
+
+hsa-miR-155-5p	SPRTN	SprT-like N-terminal domain
+Details
+
+66	
+90
+
+hsa-miR-155-5p	PALD1	phosphatase domain containing paladin 1
+Details
+
+67	
+90
+
+hsa-miR-155-5p	PLEKHA1	pleckstrin homology domain containing A1
+Details
+
+68	
+90
+
+hsa-miR-155-5p	RICTOR	RPTOR independent companion of MTOR complex 2
+Details
+
+69	
+90
+
+hsa-miR-155-5p	KLHL4	kelch like family member 4
+Details
+
+70	
+90
+
+hsa-miR-155-5p	MAP3K7	mitogen-activated protein kinase kinase kinase 7

@@ -1,0 +1,391 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-150-5p	SV2B	synaptic vesicle glycoprotein 2B
+Details
+
+2	
+100
+
+hsa-miR-150-5p	MYB	MYB proto-oncogene, transcription factor
+Details
+
+3	
+99
+
+hsa-miR-150-5p	MDM4	MDM4, p53 regulator
+Details
+
+4	
+99
+
+hsa-miR-150-5p	ADIPOR2	adiponectin receptor 2
+Details
+
+5	
+96
+
+hsa-miR-150-5p	PAPPA	pappalysin 1
+Details
+
+6	
+96
+
+hsa-miR-150-5p	CHD2	chromodomain helicase DNA binding protein 2
+Details
+
+7	
+96
+
+hsa-miR-150-5p	TADA1	transcriptional adaptor 1
+Details
+
+8	
+96
+
+hsa-miR-150-5p	BASP1	brain abundant membrane attached signal protein 1
+Details
+
+9	
+96
+
+hsa-miR-150-5p	NRCAM	neuronal cell adhesion molecule
+Details
+
+10	
+95
+
+hsa-miR-150-5p	HOXA2	homeobox A2
+Details
+
+11	
+95
+
+hsa-miR-150-5p	NLRP7	NLR family pyrin domain containing 7
+Details
+
+12	
+95
+
+hsa-miR-150-5p	CYP4X1	cytochrome P450 family 4 subfamily X member 1
+Details
+
+13	
+94
+
+hsa-miR-150-5p	MTCH2	mitochondrial carrier 2
+Details
+
+14	
+94
+
+hsa-miR-150-5p	ZNF25	zinc finger protein 25
+Details
+
+15	
+94
+
+hsa-miR-150-5p	FADS1	fatty acid desaturase 1
+Details
+
+16	
+94
+
+hsa-miR-150-5p	HILPDA	hypoxia inducible lipid droplet associated
+Details
+
+17	
+94
+
+hsa-miR-150-5p	FKBP14	FKBP prolyl isomerase 14
+Details
+
+18	
+94
+
+hsa-miR-150-5p	ADAM19	ADAM metallopeptidase domain 19
+Details
+
+19	
+94
+
+hsa-miR-150-5p	SETD7	SET domain containing 7, histone lysine methyltransferase
+Details
+
+20	
+94
+
+hsa-miR-150-5p	POM121	POM121 transmembrane nucleoporin
+Details
+
+21	
+93
+
+hsa-miR-150-5p	PTGFR	prostaglandin F receptor
+Details
+
+22	
+93
+
+hsa-miR-150-5p	SNAP23	synaptosome associated protein 23
+Details
+
+23	
+93
+
+hsa-miR-150-5p	SLC30A5	solute carrier family 30 member 5
+Details
+
+24	
+93
+
+hsa-miR-150-5p	DCAF6	DDB1 and CUL4 associated factor 6
+Details
+
+25	
+93
+
+hsa-miR-150-5p	CDKN1B	cyclin dependent kinase inhibitor 1B
+Details
+
+26	
+93
+
+hsa-miR-150-5p	PERP	PERP, TP53 apoptosis effector
+Details
+
+27	
+93
+
+hsa-miR-150-5p	PIK3AP1	phosphoinositide-3-kinase adaptor protein 1
+Details
+
+28	
+93
+
+hsa-miR-150-5p	KMT2A	lysine methyltransferase 2A
+Details
+
+29	
+92
+
+hsa-miR-150-5p	SMC3	structural maintenance of chromosomes 3
+Details
+
+30	
+92
+
+hsa-miR-150-5p	PDE7A	phosphodiesterase 7A
+Details
+
+31	
+92
+
+hsa-miR-150-5p	ITGAX	integrin subunit alpha X
+Details
+
+32	
+92
+
+hsa-miR-150-5p	IRGQ	immunity related GTPase Q
+Details
+
+33	
+92
+
+hsa-miR-150-5p	TMPRSS11A	transmembrane serine protease 11A
+Details
+
+34	
+92
+
+hsa-miR-150-5p	WTAP	WT1 associated protein
+Details
+
+35	
+91
+
+hsa-miR-150-5p	LOC102724951	uncharacterized LOC102724951
+Details
+
+36	
+91
+
+hsa-miR-150-5p	EIF5	eukaryotic translation initiation factor 5
+Details
+
+37	
+91
+
+hsa-miR-150-5p	PRKCA	protein kinase C alpha
+Details
+
+38	
+91
+
+hsa-miR-150-5p	ST6GAL1	ST6 beta-galactoside alpha-2,6-sialyltransferase 1
+Details
+
+39	
+91
+
+hsa-miR-150-5p	MBTD1	mbt domain containing 1
+Details
+
+40	
+91
+
+hsa-miR-150-5p	PPARGC1A	PPARG coactivator 1 alpha
+Details
+
+41	
+91
+
+hsa-miR-150-5p	SP1	Sp1 transcription factor
+Details
+
+42	
+91
+
+hsa-miR-150-5p	MOB1B	MOB kinase activator 1B
+Details
+
+43	
+91
+
+hsa-miR-150-5p	IST1	IST1, ESCRT-III associated factor
+Details
+
+44	
+91
+
+hsa-miR-150-5p	ZHX2	zinc fingers and homeoboxes 2
+Details
+
+45	
+91
+
+hsa-miR-150-5p	LOC102723360	uncharacterized LOC102723360
+Details
+
+46	
+91
+
+hsa-miR-150-5p	LOC102724219	uncharacterized LOC102724219
+Details
+
+47	
+91
+
+hsa-miR-150-5p	VPS53	VPS53, GARP complex subunit
+Details
+
+48	
+91
+
+hsa-miR-150-5p	CBL	Cbl proto-oncogene
+Details
+
+49	
+91
+
+hsa-miR-150-5p	EPHB2	EPH receptor B2
+Details
+
+50	
+91
+
+hsa-miR-150-5p	PIRT	phosphoinositide interacting regulator of transient receptor potential channels
+Details
+
+51	
+91
+
+hsa-miR-150-5p	LOC102724843	uncharacterized LOC102724843
+Details
+
+52	
+91
+
+hsa-miR-150-5p	FTO	FTO, alpha-ketoglutarate dependent dioxygenase
+Details
+
+53	
+91
+
+hsa-miR-150-5p	MINDY2	MINDY lysine 48 deubiquitinase 2
+Details
+
+54	
+91
+
+hsa-miR-150-5p	ATP6V1H	ATPase H+ transporting V1 subunit H
+Details
+
+55	
+90
+
+hsa-miR-150-5p	FBXL5	F-box and leucine rich repeat protein 5
+Details
+
+56	
+90
+
+hsa-miR-150-5p	KCNIP1	potassium voltage-gated channel interacting protein 1
+Details
+
+57	
+90
+
+hsa-miR-150-5p	SAYSD1	SAYSVFN motif domain containing 1
+Details
+
+58	
+90
+
+hsa-miR-150-5p	IPO5	importin 5
+Details
+
+59	
+90
+
+hsa-miR-150-5p	PKP4	plakophilin 4
+Details
+
+60	
+90
+
+hsa-miR-150-5p	IMPACT	impact RWD domain protein
+Details
+
+61	
+90
+
+hsa-miR-150-5p	ZFP91	ZFP91 zinc finger protein
+Details
+
+62	
+90
+
+hsa-miR-150-5p	SEMA3A	semaphorin 3A
+Details
+
+63	
+90
+
+hsa-miR-150-5p	ZNF460	zinc finger protein 460
+Details
+
+64	
+90
+
+hsa-miR-150-5p	CLSPN	claspin
+Details
+
+65	
+90
+
+hsa-miR-150-5p	SLITRK2	SLIT and NTRK like family member 2

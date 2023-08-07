@@ -1,0 +1,811 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-142-5p	BOD1L1	biorientation of chromosomes in cell division 1 like 1
+Details
+
+2	
+99
+
+hsa-miR-142-5p	DMD	dystrophin
+Details
+
+3	
+99
+
+hsa-miR-142-5p	DIAPH2	diaphanous related formin 2
+Details
+
+4	
+99
+
+hsa-miR-142-5p	ITGAV	integrin subunit alpha V
+Details
+
+5	
+99
+
+hsa-miR-142-5p	MAP3K2	mitogen-activated protein kinase kinase kinase 2
+Details
+
+6	
+99
+
+hsa-miR-142-5p	ZFPM2	zinc finger protein, FOG family member 2
+Details
+
+7	
+98
+
+hsa-miR-142-5p	IGF2BP3	insulin like growth factor 2 mRNA binding protein 3
+Details
+
+8	
+98
+
+hsa-miR-142-5p	RPS6KA5	ribosomal protein S6 kinase A5
+Details
+
+9	
+98
+
+hsa-miR-142-5p	PSAT1	phosphoserine aminotransferase 1
+Details
+
+10	
+98
+
+hsa-miR-142-5p	ADGRB3	adhesion G protein-coupled receptor B3
+Details
+
+11	
+98
+
+hsa-miR-142-5p	NFAT5	nuclear factor of activated T cells 5
+Details
+
+12	
+98
+
+hsa-miR-142-5p	FAM91A1	family with sequence similarity 91 member A1
+Details
+
+13	
+98
+
+hsa-miR-142-5p	MTMR10	myotubularin related protein 10
+Details
+
+14	
+97
+
+hsa-miR-142-5p	CBLN4	cerebellin 4 precursor
+Details
+
+15	
+97
+
+hsa-miR-142-5p	UFL1	UFM1 specific ligase 1
+Details
+
+16	
+97
+
+hsa-miR-142-5p	TVP23B	trans-golgi network vesicle protein 23 homolog B
+Details
+
+17	
+97
+
+hsa-miR-142-5p	RERG	RAS like estrogen regulated growth inhibitor
+Details
+
+18	
+97
+
+hsa-miR-142-5p	RNF138	ring finger protein 138
+Details
+
+19	
+97
+
+hsa-miR-142-5p	TVP23C	trans-golgi network vesicle protein 23 homolog C
+Details
+
+20	
+97
+
+hsa-miR-142-5p	C8orf34	chromosome 8 open reading frame 34
+Details
+
+21	
+97
+
+hsa-miR-142-5p	PGM2	phosphoglucomutase 2
+Details
+
+22	
+97
+
+hsa-miR-142-5p	LPP	LIM domain containing preferred translocation partner in lipoma
+Details
+
+23	
+97
+
+hsa-miR-142-5p	HELQ	helicase, POLQ like
+Details
+
+24	
+97
+
+hsa-miR-142-5p	DENND1B	DENN domain containing 1B
+Details
+
+25	
+97
+
+hsa-miR-142-5p	LRP1B	LDL receptor related protein 1B
+Details
+
+26	
+96
+
+hsa-miR-142-5p	NR2C1	nuclear receptor subfamily 2 group C member 1
+Details
+
+27	
+96
+
+hsa-miR-142-5p	SLAIN1	SLAIN motif family member 1
+Details
+
+28	
+96
+
+hsa-miR-142-5p	CNEP1R1	CTD nuclear envelope phosphatase 1 regulatory subunit 1
+Details
+
+29	
+96
+
+hsa-miR-142-5p	RAP1A	RAP1A, member of RAS oncogene family
+Details
+
+30	
+96
+
+hsa-miR-142-5p	SRSF6	serine and arginine rich splicing factor 6
+Details
+
+31	
+96
+
+hsa-miR-142-5p	DYNC1I2	dynein cytoplasmic 1 intermediate chain 2
+Details
+
+32	
+96
+
+hsa-miR-142-5p	PRPF40A	pre-mRNA processing factor 40 homolog A
+Details
+
+33	
+96
+
+hsa-miR-142-5p	BRD1	bromodomain containing 1
+Details
+
+34	
+96
+
+hsa-miR-142-5p	WWP1	WW domain containing E3 ubiquitin protein ligase 1
+Details
+
+35	
+95
+
+hsa-miR-142-5p	KLF8	Kruppel like factor 8
+Details
+
+36	
+95
+
+hsa-miR-142-5p	PRKG1	protein kinase cGMP-dependent 1
+Details
+
+37	
+95
+
+hsa-miR-142-5p	ATP1B4	ATPase Na+/K+ transporting family member beta 4
+Details
+
+38	
+95
+
+hsa-miR-142-5p	CDK17	cyclin dependent kinase 17
+Details
+
+39	
+95
+
+hsa-miR-142-5p	ROBO1	roundabout guidance receptor 1
+Details
+
+40	
+95
+
+hsa-miR-142-5p	ADAMTS1	ADAM metallopeptidase with thrombospondin type 1 motif 1
+Details
+
+41	
+95
+
+hsa-miR-142-5p	SOCS1	suppressor of cytokine signaling 1
+Details
+
+42	
+95
+
+hsa-miR-142-5p	KITLG	KIT ligand
+Details
+
+43	
+95
+
+hsa-miR-142-5p	CEP290	centrosomal protein 290
+Details
+
+44	
+95
+
+hsa-miR-142-5p	PAIP1	poly(A) binding protein interacting protein 1
+Details
+
+45	
+94
+
+hsa-miR-142-5p	VPS50	VPS50, EARP/GARPII complex subunit
+Details
+
+46	
+94
+
+hsa-miR-142-5p	ICK	intestinal cell kinase
+Details
+
+47	
+94
+
+hsa-miR-142-5p	SLC18A2	solute carrier family 18 member A2
+Details
+
+48	
+94
+
+hsa-miR-142-5p	AHR	aryl hydrocarbon receptor
+Details
+
+49	
+94
+
+hsa-miR-142-5p	ZXDC	ZXD family zinc finger C
+Details
+
+50	
+94
+
+hsa-miR-142-5p	ZC3H12B	zinc finger CCCH-type containing 12B
+Details
+
+51	
+94
+
+hsa-miR-142-5p	STK17B	serine/threonine kinase 17b
+Details
+
+52	
+94
+
+hsa-miR-142-5p	NENF	neudesin neurotrophic factor
+Details
+
+53	
+94
+
+hsa-miR-142-5p	IGF1	insulin like growth factor 1
+Details
+
+54	
+94
+
+hsa-miR-142-5p	ANGPTL5	angiopoietin like 5
+Details
+
+55	
+94
+
+hsa-miR-142-5p	DBR1	debranching RNA lariats 1
+Details
+
+56	
+94
+
+hsa-miR-142-5p	DYNLT1	dynein light chain Tctex-type 1
+Details
+
+57	
+94
+
+hsa-miR-142-5p	FEM1C	fem-1 homolog C
+Details
+
+58	
+94
+
+hsa-miR-142-5p	RC3H1	ring finger and CCCH-type domains 1
+Details
+
+59	
+94
+
+hsa-miR-142-5p	TOPORS	TOP1 binding arginine/serine rich protein
+Details
+
+60	
+94
+
+hsa-miR-142-5p	GK5	glycerol kinase 5
+Details
+
+61	
+93
+
+hsa-miR-142-5p	TRUB1	TruB pseudouridine synthase family member 1
+Details
+
+62	
+93
+
+hsa-miR-142-5p	NUP133	nucleoporin 133
+Details
+
+63	
+93
+
+hsa-miR-142-5p	SGCE	sarcoglycan epsilon
+Details
+
+64	
+93
+
+hsa-miR-142-5p	NCK2	NCK adaptor protein 2
+Details
+
+65	
+93
+
+hsa-miR-142-5p	LMX1A	LIM homeobox transcription factor 1 alpha
+Details
+
+66	
+93
+
+hsa-miR-142-5p	RRP15	ribosomal RNA processing 15 homolog
+Details
+
+67	
+93
+
+hsa-miR-142-5p	AFF4	AF4/FMR2 family member 4
+Details
+
+68	
+93
+
+hsa-miR-142-5p	ZNF239	zinc finger protein 239
+Details
+
+69	
+93
+
+hsa-miR-142-5p	ZNF736	zinc finger protein 736
+Details
+
+70	
+93
+
+hsa-miR-142-5p	AQP11	aquaporin 11
+Details
+
+71	
+93
+
+hsa-miR-142-5p	MRPS36	mitochondrial ribosomal protein S36
+Details
+
+72	
+93
+
+hsa-miR-142-5p	ZSCAN12	zinc finger and SCAN domain containing 12
+Details
+
+73	
+93
+
+hsa-miR-142-5p	UBE2D1	ubiquitin conjugating enzyme E2 D1
+Details
+
+74	
+93
+
+hsa-miR-142-5p	ATP1B1	ATPase Na+/K+ transporting subunit beta 1
+Details
+
+75	
+93
+
+hsa-miR-142-5p	MCMDC2	minichromosome maintenance domain containing 2
+Details
+
+76	
+93
+
+hsa-miR-142-5p	DNAJC7	DnaJ heat shock protein family (Hsp40) member C7
+Details
+
+77	
+93
+
+hsa-miR-142-5p	ATXN7L2	ataxin 7 like 2
+Details
+
+78	
+93
+
+hsa-miR-142-5p	IFIT5	interferon induced protein with tetratricopeptide repeats 5
+Details
+
+79	
+93
+
+hsa-miR-142-5p	SLC24A2	solute carrier family 24 member 2
+Details
+
+80	
+93
+
+hsa-miR-142-5p	MID2	midline 2
+Details
+
+81	
+92
+
+hsa-miR-142-5p	STAU1	staufen double-stranded RNA binding protein 1
+Details
+
+82	
+92
+
+hsa-miR-142-5p	PRPF4B	pre-mRNA processing factor 4B
+Details
+
+83	
+92
+
+hsa-miR-142-5p	LSM8	LSM8 homolog, U6 small nuclear RNA associated
+Details
+
+84	
+92
+
+hsa-miR-142-5p	RB1CC1	RB1 inducible coiled-coil 1
+Details
+
+85	
+92
+
+hsa-miR-142-5p	ZMYND11	zinc finger MYND-type containing 11
+Details
+
+86	
+92
+
+hsa-miR-142-5p	PIK3C2A	phosphatidylinositol-4-phosphate 3-kinase catalytic subunit type 2 alpha
+Details
+
+87	
+92
+
+hsa-miR-142-5p	PRDM8	PR/SET domain 8
+Details
+
+88	
+92
+
+hsa-miR-142-5p	CAPN10	calpain 10
+Details
+
+89	
+92
+
+hsa-miR-142-5p	SLC12A2	solute carrier family 12 member 2
+Details
+
+90	
+92
+
+hsa-miR-142-5p	ZNF770	zinc finger protein 770
+Details
+
+91	
+92
+
+hsa-miR-142-5p	MED14	mediator complex subunit 14
+Details
+
+92	
+92
+
+hsa-miR-142-5p	C20orf78	chromosome 20 open reading frame 78
+Details
+
+93	
+92
+
+hsa-miR-142-5p	MTCP1	mature T cell proliferation 1
+Details
+
+94	
+92
+
+hsa-miR-142-5p	FAM126A	family with sequence similarity 126 member A
+Details
+
+95	
+92
+
+hsa-miR-142-5p	BCOR	BCL6 corepressor
+Details
+
+96	
+92
+
+hsa-miR-142-5p	SWSAP1	SWIM-type zinc finger 7 associated protein 1
+Details
+
+97	
+92
+
+hsa-miR-142-5p	BTBD1	BTB domain containing 1
+Details
+
+98	
+92
+
+hsa-miR-142-5p	GOPC	golgi associated PDZ and coiled-coil motif containing
+Details
+
+99	
+92
+
+hsa-miR-142-5p	EFCAB14	EF-hand calcium binding domain 14
+Details
+
+100	
+92
+
+hsa-miR-142-5p	PLEKHA3	pleckstrin homology domain containing A3
+Details
+
+101	
+92
+
+hsa-miR-142-5p	FAM199X	family with sequence similarity 199, X-linked
+Details
+
+102	
+92
+
+hsa-miR-142-5p	CLVS2	clavesin 2
+Details
+
+103	
+92
+
+hsa-miR-142-5p	SACS	sacsin molecular chaperone
+Details
+
+104	
+92
+
+hsa-miR-142-5p	FGD6	FYVE, RhoGEF and PH domain containing 6
+Details
+
+105	
+91
+
+hsa-miR-142-5p	SMAD2	SMAD family member 2
+Details
+
+106	
+91
+
+hsa-miR-142-5p	MYCN	MYCN proto-oncogene, bHLH transcription factor
+Details
+
+107	
+91
+
+hsa-miR-142-5p	TMX3	thioredoxin related transmembrane protein 3
+Details
+
+108	
+91
+
+hsa-miR-142-5p	BVES	blood vessel epicardial substance
+Details
+
+109	
+91
+
+hsa-miR-142-5p	ONECUT2	one cut homeobox 2
+Details
+
+110	
+91
+
+hsa-miR-142-5p	CNTN1	contactin 1
+Details
+
+111	
+91
+
+hsa-miR-142-5p	HIPK1	homeodomain interacting protein kinase 1
+Details
+
+112	
+91
+
+hsa-miR-142-5p	LHFPL3	LHFPL tetraspan subfamily member 3
+Details
+
+113	
+91
+
+hsa-miR-142-5p	TRPC4	transient receptor potential cation channel subfamily C member 4
+Details
+
+114	
+91
+
+hsa-miR-142-5p	BNIP2	BCL2 interacting protein 2
+Details
+
+115	
+91
+
+hsa-miR-142-5p	KNG1	kininogen 1
+Details
+
+116	
+91
+
+hsa-miR-142-5p	KLF10	Kruppel like factor 10
+Details
+
+117	
+91
+
+hsa-miR-142-5p	LEPROT	leptin receptor overlapping transcript
+Details
+
+118	
+91
+
+hsa-miR-142-5p	NFE2L2	nuclear factor, erythroid 2 like 2
+Details
+
+119	
+91
+
+hsa-miR-142-5p	ERH	ERH, mRNA splicing and mitosis factor
+Details
+
+120	
+91
+
+hsa-miR-142-5p	ANKS1B	ankyrin repeat and sterile alpha motif domain containing 1B
+Details
+
+121	
+91
+
+hsa-miR-142-5p	FGF12	fibroblast growth factor 12
+Details
+
+122	
+91
+
+hsa-miR-142-5p	RORA	RAR related orphan receptor A
+Details
+
+123	
+90
+
+hsa-miR-142-5p	MED12L	mediator complex subunit 12 like
+Details
+
+124	
+90
+
+hsa-miR-142-5p	RAB6B	RAB6B, member RAS oncogene family
+Details
+
+125	
+90
+
+hsa-miR-142-5p	FAM19A1	family with sequence similarity 19 member A1, C-C motif chemokine like
+Details
+
+126	
+90
+
+hsa-miR-142-5p	ACADSB	acyl-CoA dehydrogenase short/branched chain
+Details
+
+127	
+90
+
+hsa-miR-142-5p	DNAJC25	DnaJ heat shock protein family (Hsp40) member C25
+Details
+
+128	
+90
+
+hsa-miR-142-5p	ADAMTS5	ADAM metallopeptidase with thrombospondin type 1 motif 5
+Details
+
+129	
+90
+
+hsa-miR-142-5p	MAP3K20	mitogen-activated protein kinase kinase kinase 20
+Details
+
+130	
+90
+
+hsa-miR-142-5p	GAS7	growth arrest specific 7
+Details
+
+131	
+90
+
+hsa-miR-142-5p	MTR	5-methyltetrahydrofolate-homocysteine methyltransferase
+Details
+
+132	
+90
+
+hsa-miR-142-5p	CD109	CD109 molecule
+Details
+
+133	
+90
+
+hsa-miR-142-5p	ZNF503	zinc finger protein 503
+Details
+
+134	
+90
+
+hsa-miR-142-5p	ZBTB20	zinc finger and BTB domain containing 20
+Details
+
+135	
+90
+
+hsa-miR-142-5p	VMP1	vacuole membrane protein 1
