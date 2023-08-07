@@ -1,4 +1,4 @@
-def insert_mirna(conn, cur, mirna_id, description):
+def insert_mirna(conn, cur, mirna_id, description, disease):
     mirna_id = mirna_id.lower()
     print(mirna_id)
     cur.execute("SELECT COUNT(*) FROM mirnas WHERE mirna_id = %s", (mirna_id,))
@@ -6,11 +6,16 @@ def insert_mirna(conn, cur, mirna_id, description):
     
     if record_count == 0:
         # Insert the record if it doesn't exist
-        cur.execute("INSERT INTO mirnas (mirna_id, description) VALUES (%s, %s)", (mirna_id, description))
+        cur.execute("INSERT INTO mirnas (mirna_id, description, disease) VALUES (%s, %s)", (mirna_id, description, disease))
         print(f"{mirna_id} inserted successfully.")
     else:
-        cur.execute("UPDATE mirnas SET description = %s WHERE mirna_id = %s", (description, mirna_id))
-        print(f"{mirna_id} is updated with new description: {description}.")
+        if description and len(description) > 0:
+            cur.execute("UPDATE mirnas SET description = %s WHERE mirna_id = %s", (description, mirna_id))
+            print(f"{mirna_id} is updated with new description: {description}.")
+
+        if disease and len(disease) > 0:
+            cur.execute("UPDATE mirnas SET disease = %s WHERE mirna_id = %s", (disease, mirna_id))
+            print(f"{mirna_id} is updated with new disease: {disease}.")
     conn.commit()
 
 def insert_gene(conn, cur, gene_id, description, kegg_id=None):

@@ -5,16 +5,16 @@ import psycopg2
 from db_helper import *
 
 
-def import_batch_files(conn, root_path):
+def import_batch_files(conn, root_path, disease=None):
     # Iterate through all '.txt' files in the folder
     root_path = os.path.abspath(os.path.expanduser(root_path))
     for file_path in glob.glob(os.path.join(root_path, '*.txt')):
         if os.path.isfile(file_path):
             print(file_path)
-            import_targets_predicted(conn, None, file_path)
+            import_targets_predicted(conn, None, file_path, disease)
 
 
-def import_targets_predicted(conn, root_path, target_file):
+def import_targets_predicted(conn, root_path, target_file, disease=None):
     print("\n*** Importing predicted target genes ......")
     if root_path:
         file_path = os.path.join(root_path, target_file)
@@ -58,7 +58,7 @@ def import_targets_predicted(conn, root_path, target_file):
             mirna_id = data[index]['mirna']
             if mirna_id.endswith('p'):
                 mirna_id = mirna_id[:-3]
-            insert_mirna(conn, cur, mirna_id, '')
+            insert_mirna(conn, cur, mirna_id, '', disease)
         
         # Insert the target gene if it does't exist
         insert_gene(conn, cur, data[index]['gene'], data[index]['description'])
@@ -69,13 +69,13 @@ def import_targets_predicted(conn, root_path, target_file):
     cur.close()
 
 
-root_path = "~/code/mirna/resources/mirdb_files/random_1"
-target_file = "hsa-mir-451b-predicted.txt"
+root_path = "~/code/mirna/resources/mirdb_files/used_all"
+target_file = "hsa-mir-21-predicted.txt"
 
 db_conn = psycopg2.connect(database="postgres", user="postgres", password="1qaz2wsX", host="127.0.0.1", port="5432")
 try:
     # import_targets_predicted(db_conn, root_path, target_file)
-    import_batch_files(db_conn, root_path)
+    import_batch_files(db_conn, root_path, 'DLBCL')
 except(Exception, psycopg2.DatabaseError) as error:
     raise error
 finally:
