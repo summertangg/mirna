@@ -30,7 +30,7 @@ clean_set = [
     "hsa-mir-634",
 ]
 
-# Natural set results:
+# Natural set results: Total 15 57.69% overlapping with m54 training set
 # J48 M2 
 # Correctly Classified Instances          23              100      %
 # Incorrectly Classified Instances         0                0      %
