@@ -2,9 +2,11 @@ import os
 import psycopg2
 import pandas as pd
 from db_helper import *
+from config import mir17_training_set as m17
+from config import mir10_testing_set as m10
 
 
-def export_interactions(db_conn, root_path, out_file):
+def export_interactions(db_conn, root_path, out_file, config=None):
     print("\n*** Exporting miRNA - Gene interactions from miRDB records ......")
     file_path = os.path.join(root_path, out_file)
     cur = conn.cursor()
@@ -12,7 +14,7 @@ def export_interactions(db_conn, root_path, out_file):
     mirnas = get_all_mirans(db_conn, cur)
     mirnas_dict = {record[0]: record[1] for record in mirnas}
 
-    results = get_interactions(db_conn, cur)
+    results = get_interactions(db_conn, cur, config)
 
     cur.close()
 
@@ -21,6 +23,9 @@ def export_interactions(db_conn, root_path, out_file):
 
     # Pivot the DataFrame
     pivot_df = pd.pivot_table(df, values="is_target", index="mirna", columns="gene", fill_value=0)
+
+    # Remove the mir-0 row
+    pivot_df.drop('mir-0', inplace=True)
 
     # Replace float values 1.0 and 0.0 with strings 'Yes' and 'No', respectively
     pivot_df = pivot_df.replace({1.0: 'Yes', 0.0: 'No'})
@@ -43,10 +48,10 @@ def export_interactions(db_conn, root_path, out_file):
 
 
 root_path = "~/code/mirna/resources/results"
-interaction_file = "mirdb_interactions_m17_s97.csv"
+interaction_file = "mirdb_interactions_m10_s97_testing.csv"
 conn = psycopg2.connect(database="postgres", user="postgres", password="1qaz2wsX", host="127.0.0.1", port="5432")
 try:
-    export_interactions(conn, root_path, interaction_file)
+    export_interactions(conn, root_path, interaction_file, None)
 except(Exception, psycopg2.DatabaseError) as error:
     raise error
 finally:

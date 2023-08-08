@@ -54,12 +54,29 @@ def insert_mirna_gene_interaction(conn, cur, mirna_id, gene_id, target_score):
         print(f"{mirna_id} - {gene_id} (target_score: {target_score}) already exists.")
 
 
-def get_interactions(conn, cur):
+def get_interactions(conn, cur, config=None):
+    selected_mirna = ''
+    
+    if config:
+        # Join the elements in the mirna list with single quotes and comma
+        selected_mirna = ', '.join([f"'{mirna}'" for mirna in config])
+        selected_mirna = f'AND mirna IN ({selected_mirna})'
+    print(selected_mirna)
+
     # Execute the SQL query
-    cur.execute("""
-SELECT mirna, gene, '1' AS is_target FROM mirdb_mirna_gene 
-WHERE target_score > 96
-ORDER BY gene
+#     cur.execute(f"""
+# SELECT mirna, gene, '1' AS is_target FROM mirdb_mirna_gene 
+# WHERE target_score >= 97
+# {selected_mirna}
+# ORDER BY gene
+# """)
+
+    cur.execute(f"""
+SELECT COALESCE(i.mirna, 'mir-0') AS mirna, ge.gene_id, '1' AS is_target
+FROM genes AS ge
+LEFT JOIN mirdb_mirna_gene AS i ON ge.gene_id = i.gene AND i.target_score >=97 
+{selected_mirna}
+ORDER BY ge.gene_id
 """)
 
     # Fetch all the query results
