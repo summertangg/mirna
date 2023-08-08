@@ -1,0 +1,1897 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-23b-3p	ZNF99	zinc finger protein 99
+Details
+
+2	
+100
+
+hsa-miR-23b-3p	PDE7A	phosphodiesterase 7A
+Details
+
+3	
+100
+
+hsa-miR-23b-3p	PPARGC1A	PPARG coactivator 1 alpha
+Details
+
+4	
+100
+
+hsa-miR-23b-3p	KLF3	Kruppel like factor 3
+Details
+
+5	
+100
+
+hsa-miR-23b-3p	SEMA6D	semaphorin 6D
+Details
+
+6	
+100
+
+hsa-miR-23b-3p	FAM234B	family with sequence similarity 234 member B
+Details
+
+7	
+100
+
+hsa-miR-23b-3p	AUH	AU RNA binding methylglutaconyl-CoA hydratase
+Details
+
+8	
+100
+
+hsa-miR-23b-3p	PDE4B	phosphodiesterase 4B
+Details
+
+9	
+100
+
+hsa-miR-23b-3p	TOP1	DNA topoisomerase I
+Details
+
+10	
+100
+
+hsa-miR-23b-3p	FUT9	fucosyltransferase 9
+Details
+
+11	
+100
+
+hsa-miR-23b-3p	INTU	inturned planar cell polarity protein
+Details
+
+12	
+100
+
+hsa-miR-23b-3p	TAB3	TGF-beta activated kinase 1 (MAP3K7) binding protein 3
+Details
+
+13	
+100
+
+hsa-miR-23b-3p	ZBTB34	zinc finger and BTB domain containing 34
+Details
+
+14	
+100
+
+hsa-miR-23b-3p	SESN3	sestrin 3
+Details
+
+15	
+100
+
+hsa-miR-23b-3p	DNAJC6	DnaJ heat shock protein family (Hsp40) member C6
+Details
+
+16	
+100
+
+hsa-miR-23b-3p	TRIL	TLR4 interactor with leucine rich repeats
+Details
+
+17	
+100
+
+hsa-miR-23b-3p	ZNF138	zinc finger protein 138
+Details
+
+18	
+100
+
+hsa-miR-23b-3p	SEC23IP	SEC23 interacting protein
+Details
+
+19	
+100
+
+hsa-miR-23b-3p	TMED5	transmembrane p24 trafficking protein 5
+Details
+
+20	
+99
+
+hsa-miR-23b-3p	PPM1K	protein phosphatase, Mg2+/Mn2+ dependent 1K
+Details
+
+21	
+99
+
+hsa-miR-23b-3p	VGLL3	vestigial like family member 3
+Details
+
+22	
+99
+
+hsa-miR-23b-3p	ARHGAP20	Rho GTPase activating protein 20
+Details
+
+23	
+99
+
+hsa-miR-23b-3p	MRC1	mannose receptor C-type 1
+Details
+
+24	
+99
+
+hsa-miR-23b-3p	FAM126B	family with sequence similarity 126 member B
+Details
+
+25	
+99
+
+hsa-miR-23b-3p	TMPO	thymopoietin
+Details
+
+26	
+99
+
+hsa-miR-23b-3p	PPP4R4	protein phosphatase 4 regulatory subunit 4
+Details
+
+27	
+99
+
+hsa-miR-23b-3p	HEXIM1	HEXIM P-TEFb complex subunit 1
+Details
+
+28	
+99
+
+hsa-miR-23b-3p	PKP4	plakophilin 4
+Details
+
+29	
+99
+
+hsa-miR-23b-3p	SFT2D1	SFT2 domain containing 1
+Details
+
+30	
+99
+
+hsa-miR-23b-3p	ATP11C	ATPase phospholipid transporting 11C
+Details
+
+31	
+99
+
+hsa-miR-23b-3p	NEK6	NIMA related kinase 6
+Details
+
+32	
+99
+
+hsa-miR-23b-3p	PTEN	phosphatase and tensin homolog
+Details
+
+33	
+99
+
+hsa-miR-23b-3p	TNRC6A	trinucleotide repeat containing 6A
+Details
+
+34	
+99
+
+hsa-miR-23b-3p	SLC6A14	solute carrier family 6 member 14
+Details
+
+35	
+99
+
+hsa-miR-23b-3p	C2orf69	chromosome 2 open reading frame 69
+Details
+
+36	
+99
+
+hsa-miR-23b-3p	LPP	LIM domain containing preferred translocation partner in lipoma
+Details
+
+37	
+99
+
+hsa-miR-23b-3p	ETNK1	ethanolamine kinase 1
+Details
+
+38	
+99
+
+hsa-miR-23b-3p	CCNT2	cyclin T2
+Details
+
+39	
+99
+
+hsa-miR-23b-3p	ZNF716	zinc finger protein 716
+Details
+
+40	
+99
+
+hsa-miR-23b-3p	WBP2	WW domain binding protein 2
+Details
+
+41	
+98
+
+hsa-miR-23b-3p	MICU3	mitochondrial calcium uptake family member 3
+Details
+
+42	
+98
+
+hsa-miR-23b-3p	CACUL1	CDK2 associated cullin domain 1
+Details
+
+43	
+98
+
+hsa-miR-23b-3p	ZFHX4	zinc finger homeobox 4
+Details
+
+44	
+98
+
+hsa-miR-23b-3p	ROBO2	roundabout guidance receptor 2
+Details
+
+45	
+98
+
+hsa-miR-23b-3p	CTCF	CCCTC-binding factor
+Details
+
+46	
+98
+
+hsa-miR-23b-3p	CNOT6L	CCR4-NOT transcription complex subunit 6 like
+Details
+
+47	
+98
+
+hsa-miR-23b-3p	ZNF117	zinc finger protein 117
+Details
+
+48	
+98
+
+hsa-miR-23b-3p	CSNK1G3	casein kinase 1 gamma 3
+Details
+
+49	
+98
+
+hsa-miR-23b-3p	SLC1A1	solute carrier family 1 member 1
+Details
+
+50	
+98
+
+hsa-miR-23b-3p	SEC24A	SEC24 homolog A, COPII coat complex component
+Details
+
+51	
+98
+
+hsa-miR-23b-3p	BORA	bora, aurora kinase A activator
+Details
+
+52	
+98
+
+hsa-miR-23b-3p	NACC2	NACC family member 2
+Details
+
+53	
+98
+
+hsa-miR-23b-3p	SLC4A4	solute carrier family 4 member 4
+Details
+
+54	
+98
+
+hsa-miR-23b-3p	PPIF	peptidylprolyl isomerase F
+Details
+
+55	
+98
+
+hsa-miR-23b-3p	PRTG	protogenin
+Details
+
+56	
+98
+
+hsa-miR-23b-3p	CDC40	cell division cycle 40
+Details
+
+57	
+98
+
+hsa-miR-23b-3p	NR6A1	nuclear receptor subfamily 6 group A member 1
+Details
+
+58	
+98
+
+hsa-miR-23b-3p	NUP50	nucleoporin 50
+Details
+
+59	
+98
+
+hsa-miR-23b-3p	RAB8B	RAB8B, member RAS oncogene family
+Details
+
+60	
+98
+
+hsa-miR-23b-3p	REPS2	RALBP1 associated Eps domain containing 2
+Details
+
+61	
+98
+
+hsa-miR-23b-3p	MAP4K4	mitogen-activated protein kinase kinase kinase kinase 4
+Details
+
+62	
+98
+
+hsa-miR-23b-3p	NUFIP2	nuclear FMR1 interacting protein 2
+Details
+
+63	
+98
+
+hsa-miR-23b-3p	RPRD2	regulation of nuclear pre-mRNA domain containing 2
+Details
+
+64	
+98
+
+hsa-miR-23b-3p	SCG5	secretogranin V
+Details
+
+65	
+98
+
+hsa-miR-23b-3p	NCOA2	nuclear receptor coactivator 2
+Details
+
+66	
+97
+
+hsa-miR-23b-3p	CLCN3	chloride voltage-gated channel 3
+Details
+
+67	
+97
+
+hsa-miR-23b-3p	AGAP1	ArfGAP with GTPase domain, ankyrin repeat and PH domain 1
+Details
+
+68	
+97
+
+hsa-miR-23b-3p	STAT5B	signal transducer and activator of transcription 5B
+Details
+
+69	
+97
+
+hsa-miR-23b-3p	CRLF3	cytokine receptor like factor 3
+Details
+
+70	
+97
+
+hsa-miR-23b-3p	ELF4	E74 like ETS transcription factor 4
+Details
+
+71	
+97
+
+hsa-miR-23b-3p	SNX5	sorting nexin 5
+Details
+
+72	
+97
+
+hsa-miR-23b-3p	CNR1	cannabinoid receptor 1
+Details
+
+73	
+97
+
+hsa-miR-23b-3p	SOCS6	suppressor of cytokine signaling 6
+Details
+
+74	
+97
+
+hsa-miR-23b-3p	TLK1	tousled like kinase 1
+Details
+
+75	
+97
+
+hsa-miR-23b-3p	MCFD2	multiple coagulation factor deficiency 2
+Details
+
+76	
+97
+
+hsa-miR-23b-3p	SEC23A	Sec23 homolog A, coat complex II component
+Details
+
+77	
+97
+
+hsa-miR-23b-3p	ZIC4	Zic family member 4
+Details
+
+78	
+97
+
+hsa-miR-23b-3p	TUSC2	tumor suppressor 2, mitochondrial calcium regulator
+Details
+
+79	
+97
+
+hsa-miR-23b-3p	PDIA6	protein disulfide isomerase family A member 6
+Details
+
+80	
+97
+
+hsa-miR-23b-3p	OSBPL8	oxysterol binding protein like 8
+Details
+
+81	
+97
+
+hsa-miR-23b-3p	PTGER4	prostaglandin E receptor 4
+Details
+
+82	
+97
+
+hsa-miR-23b-3p	MAP3K1	mitogen-activated protein kinase kinase kinase 1
+Details
+
+83	
+97
+
+hsa-miR-23b-3p	NUAK2	NUAK family kinase 2
+Details
+
+84	
+97
+
+hsa-miR-23b-3p	TNPO1	transportin 1
+Details
+
+85	
+97
+
+hsa-miR-23b-3p	STX12	syntaxin 12
+Details
+
+86	
+97
+
+hsa-miR-23b-3p	IGSF8	immunoglobulin superfamily member 8
+Details
+
+87	
+97
+
+hsa-miR-23b-3p	CGGBP1	CGG triplet repeat binding protein 1
+Details
+
+88	
+97
+
+hsa-miR-23b-3p	CRISPLD1	cysteine rich secretory protein LCCL domain containing 1
+Details
+
+89	
+97
+
+hsa-miR-23b-3p	NSD2	nuclear receptor binding SET domain protein 2
+Details
+
+90	
+97
+
+hsa-miR-23b-3p	BRWD1	bromodomain and WD repeat domain containing 1
+Details
+
+91	
+97
+
+hsa-miR-23b-3p	C3orf52	chromosome 3 open reading frame 52
+Details
+
+92	
+97
+
+hsa-miR-23b-3p	TNFAIP3	TNF alpha induced protein 3
+Details
+
+93	
+97
+
+hsa-miR-23b-3p	NAP1L5	nucleosome assembly protein 1 like 5
+Details
+
+94	
+97
+
+hsa-miR-23b-3p	PRDM1	PR/SET domain 1
+Details
+
+95	
+97
+
+hsa-miR-23b-3p	MAP7	microtubule associated protein 7
+Details
+
+96	
+96
+
+hsa-miR-23b-3p	TMOD1	tropomodulin 1
+Details
+
+97	
+96
+
+hsa-miR-23b-3p	MBTD1	mbt domain containing 1
+Details
+
+98	
+96
+
+hsa-miR-23b-3p	AKAP11	A-kinase anchoring protein 11
+Details
+
+99	
+96
+
+hsa-miR-23b-3p	RGS8	regulator of G protein signaling 8
+Details
+
+100	
+96
+
+hsa-miR-23b-3p	MIS18A	MIS18 kinetochore protein A
+Details
+
+101	
+96
+
+hsa-miR-23b-3p	ARL8B	ADP ribosylation factor like GTPase 8B
+Details
+
+102	
+96
+
+hsa-miR-23b-3p	CCSAP	centriole, cilia and spindle associated protein
+Details
+
+103	
+96
+
+hsa-miR-23b-3p	GXYLT1	glucoside xylosyltransferase 1
+Details
+
+104	
+96
+
+hsa-miR-23b-3p	NLGN4X	neuroligin 4 X-linked
+Details
+
+105	
+96
+
+hsa-miR-23b-3p	SPOPL	speckle type BTB/POZ protein like
+Details
+
+106	
+96
+
+hsa-miR-23b-3p	FBXO32	F-box protein 32
+Details
+
+107	
+96
+
+hsa-miR-23b-3p	MIGA1	mitoguardin 1
+Details
+
+108	
+96
+
+hsa-miR-23b-3p	RUFY2	RUN and FYVE domain containing 2
+Details
+
+109	
+96
+
+hsa-miR-23b-3p	CREBZF	CREB/ATF bZIP transcription factor
+Details
+
+110	
+96
+
+hsa-miR-23b-3p	KPNA4	karyopherin subunit alpha 4
+Details
+
+111	
+96
+
+hsa-miR-23b-3p	KDM6A	lysine demethylase 6A
+Details
+
+112	
+96
+
+hsa-miR-23b-3p	RAP1A	RAP1A, member of RAS oncogene family
+Details
+
+113	
+96
+
+hsa-miR-23b-3p	G3BP2	G3BP stress granule assembly factor 2
+Details
+
+114	
+96
+
+hsa-miR-23b-3p	PKIA	cAMP-dependent protein kinase inhibitor alpha
+Details
+
+115	
+96
+
+hsa-miR-23b-3p	ATP6V1E1	ATPase H+ transporting V1 subunit E1
+Details
+
+116	
+96
+
+hsa-miR-23b-3p	CCL7	C-C motif chemokine ligand 7
+Details
+
+117	
+96
+
+hsa-miR-23b-3p	HNF4G	hepatocyte nuclear factor 4 gamma
+Details
+
+118	
+96
+
+hsa-miR-23b-3p	TNRC6C	trinucleotide repeat containing 6C
+Details
+
+119	
+96
+
+hsa-miR-23b-3p	POU4F2	POU class 4 homeobox 2
+Details
+
+120	
+96
+
+hsa-miR-23b-3p	ALDH1A2	aldehyde dehydrogenase 1 family member A2
+Details
+
+121	
+96
+
+hsa-miR-23b-3p	EGR3	early growth response 3
+Details
+
+122	
+96
+
+hsa-miR-23b-3p	STARD3NL	STARD3 N-terminal like
+Details
+
+123	
+96
+
+hsa-miR-23b-3p	AUTS2	AUTS2, activator of transcription and developmental regulator
+Details
+
+124	
+96
+
+hsa-miR-23b-3p	TJP1	tight junction protein 1
+Details
+
+125	
+96
+
+hsa-miR-23b-3p	ZNF506	zinc finger protein 506
+Details
+
+126	
+96
+
+hsa-miR-23b-3p	HS6ST2	heparan sulfate 6-O-sulfotransferase 2
+Details
+
+127	
+96
+
+hsa-miR-23b-3p	ZC3H12C	zinc finger CCCH-type containing 12C
+Details
+
+128	
+95
+
+hsa-miR-23b-3p	PNRC2	proline rich nuclear receptor coactivator 2
+Details
+
+129	
+95
+
+hsa-miR-23b-3p	ZNF493	zinc finger protein 493
+Details
+
+130	
+95
+
+hsa-miR-23b-3p	CELF2	CUGBP Elav-like family member 2
+Details
+
+131	
+95
+
+hsa-miR-23b-3p	ELF2	E74 like ETS transcription factor 2
+Details
+
+132	
+95
+
+hsa-miR-23b-3p	THAP12	THAP domain containing 12
+Details
+
+133	
+95
+
+hsa-miR-23b-3p	MT2A	metallothionein 2A
+Details
+
+134	
+95
+
+hsa-miR-23b-3p	PPP1R12A	protein phosphatase 1 regulatory subunit 12A
+Details
+
+135	
+95
+
+hsa-miR-23b-3p	ATXN7	ataxin 7
+Details
+
+136	
+95
+
+hsa-miR-23b-3p	ZBTB44	zinc finger and BTB domain containing 44
+Details
+
+137	
+95
+
+hsa-miR-23b-3p	NEK7	NIMA related kinase 7
+Details
+
+138	
+95
+
+hsa-miR-23b-3p	RAB11FIP2	RAB11 family interacting protein 2
+Details
+
+139	
+95
+
+hsa-miR-23b-3p	VCAN	versican
+Details
+
+140	
+95
+
+hsa-miR-23b-3p	TNKS2	tankyrase 2
+Details
+
+141	
+95
+
+hsa-miR-23b-3p	EPHB2	EPH receptor B2
+Details
+
+142	
+95
+
+hsa-miR-23b-3p	WDR37	WD repeat domain 37
+Details
+
+143	
+95
+
+hsa-miR-23b-3p	IL6R	interleukin 6 receptor
+Details
+
+144	
+95
+
+hsa-miR-23b-3p	LHFPL2	LHFPL tetraspan subfamily member 2
+Details
+
+145	
+95
+
+hsa-miR-23b-3p	TNFAIP6	TNF alpha induced protein 6
+Details
+
+146	
+95
+
+hsa-miR-23b-3p	MET	MET proto-oncogene, receptor tyrosine kinase
+Details
+
+147	
+95
+
+hsa-miR-23b-3p	NGLY1	N-glycanase 1
+Details
+
+148	
+95
+
+hsa-miR-23b-3p	ZNF839	zinc finger protein 839
+Details
+
+149	
+95
+
+hsa-miR-23b-3p	CBLB	Cbl proto-oncogene B
+Details
+
+150	
+95
+
+hsa-miR-23b-3p	CASP10	caspase 10
+Details
+
+151	
+95
+
+hsa-miR-23b-3p	RORA	RAR related orphan receptor A
+Details
+
+152	
+94
+
+hsa-miR-23b-3p	ZNF395	zinc finger protein 395
+Details
+
+153	
+94
+
+hsa-miR-23b-3p	QSER1	glutamine and serine rich 1
+Details
+
+154	
+94
+
+hsa-miR-23b-3p	TRIB1	tribbles pseudokinase 1
+Details
+
+155	
+94
+
+hsa-miR-23b-3p	PRDM10	PR/SET domain 10
+Details
+
+156	
+94
+
+hsa-miR-23b-3p	MDFIC	MyoD family inhibitor domain containing
+Details
+
+157	
+94
+
+hsa-miR-23b-3p	SWT1	SWT1, RNA endoribonuclease homolog
+Details
+
+158	
+94
+
+hsa-miR-23b-3p	TRIM14	tripartite motif containing 14
+Details
+
+159	
+94
+
+hsa-miR-23b-3p	ERBIN	erbb2 interacting protein
+Details
+
+160	
+94
+
+hsa-miR-23b-3p	FUT4	fucosyltransferase 4
+Details
+
+161	
+94
+
+hsa-miR-23b-3p	ZNF30	zinc finger protein 30
+Details
+
+162	
+94
+
+hsa-miR-23b-3p	CBLL1	Cbl proto-oncogene like 1
+Details
+
+163	
+94
+
+hsa-miR-23b-3p	CAB39	calcium binding protein 39
+Details
+
+164	
+94
+
+hsa-miR-23b-3p	SLC12A2	solute carrier family 12 member 2
+Details
+
+165	
+94
+
+hsa-miR-23b-3p	AP1S2	adaptor related protein complex 1 subunit sigma 2
+Details
+
+166	
+94
+
+hsa-miR-23b-3p	SERINC5	serine incorporator 5
+Details
+
+167	
+94
+
+hsa-miR-23b-3p	EBF3	EBF transcription factor 3
+Details
+
+168	
+94
+
+hsa-miR-23b-3p	RBBP6	RB binding protein 6, ubiquitin ligase
+Details
+
+169	
+94
+
+hsa-miR-23b-3p	RPL31	ribosomal protein L31
+Details
+
+170	
+94
+
+hsa-miR-23b-3p	ZNF676	zinc finger protein 676
+Details
+
+171	
+94
+
+hsa-miR-23b-3p	ZNF655	zinc finger protein 655
+Details
+
+172	
+94
+
+hsa-miR-23b-3p	NRXN1	neurexin 1
+Details
+
+173	
+94
+
+hsa-miR-23b-3p	NUS1	NUS1, dehydrodolichyl diphosphate synthase subunit
+Details
+
+174	
+94
+
+hsa-miR-23b-3p	SATB1	SATB homeobox 1
+Details
+
+175	
+94
+
+hsa-miR-23b-3p	ZNF208	zinc finger protein 208
+Details
+
+176	
+94
+
+hsa-miR-23b-3p	COL11A2	collagen type XI alpha 2 chain
+Details
+
+177	
+94
+
+hsa-miR-23b-3p	HOXD10	homeobox D10
+Details
+
+178	
+94
+
+hsa-miR-23b-3p	KMT5A	lysine methyltransferase 5A
+Details
+
+179	
+94
+
+hsa-miR-23b-3p	VKORC1L1	vitamin K epoxide reductase complex subunit 1 like 1
+Details
+
+180	
+94
+
+hsa-miR-23b-3p	PAX9	paired box 9
+Details
+
+181	
+94
+
+hsa-miR-23b-3p	TTC7B	tetratricopeptide repeat domain 7B
+Details
+
+182	
+94
+
+hsa-miR-23b-3p	C6orf62	chromosome 6 open reading frame 62
+Details
+
+183	
+94
+
+hsa-miR-23b-3p	VEPH1	ventricular zone expressed PH domain containing 1
+Details
+
+184	
+93
+
+hsa-miR-23b-3p	MAB21L2	mab-21 like 2
+Details
+
+185	
+93
+
+hsa-miR-23b-3p	ADAM23	ADAM metallopeptidase domain 23
+Details
+
+186	
+93
+
+hsa-miR-23b-3p	ZNF468	zinc finger protein 468
+Details
+
+187	
+93
+
+hsa-miR-23b-3p	PIP4K2B	phosphatidylinositol-5-phosphate 4-kinase type 2 beta
+Details
+
+188	
+93
+
+hsa-miR-23b-3p	STT3B	STT3B, catalytic subunit of the oligosaccharyltransferase complex
+Details
+
+189	
+93
+
+hsa-miR-23b-3p	SPSB4	splA/ryanodine receptor domain and SOCS box containing 4
+Details
+
+190	
+93
+
+hsa-miR-23b-3p	CHUK	conserved helix-loop-helix ubiquitous kinase
+Details
+
+191	
+93
+
+hsa-miR-23b-3p	CCDC186	coiled-coil domain containing 186
+Details
+
+192	
+93
+
+hsa-miR-23b-3p	ZNF721	zinc finger protein 721
+Details
+
+193	
+93
+
+hsa-miR-23b-3p	CEP63	centrosomal protein 63
+Details
+
+194	
+93
+
+hsa-miR-23b-3p	ZNF626	zinc finger protein 626
+Details
+
+195	
+93
+
+hsa-miR-23b-3p	PAK2	p21 (RAC1) activated kinase 2
+Details
+
+196	
+93
+
+hsa-miR-23b-3p	MAK16	MAK16 homolog
+Details
+
+197	
+93
+
+hsa-miR-23b-3p	SIX4	SIX homeobox 4
+Details
+
+198	
+93
+
+hsa-miR-23b-3p	JARID2	jumonji and AT-rich interaction domain containing 2
+Details
+
+199	
+93
+
+hsa-miR-23b-3p	RRAS2	RAS related 2
+Details
+
+200	
+93
+
+hsa-miR-23b-3p	POM121C	POM121 transmembrane nucleoporin C
+Details
+
+201	
+93
+
+hsa-miR-23b-3p	RALYL	RALY RNA binding protein like
+Details
+
+202	
+93
+
+hsa-miR-23b-3p	TMOD2	tropomodulin 2
+Details
+
+203	
+93
+
+hsa-miR-23b-3p	TOX	thymocyte selection associated high mobility group box
+Details
+
+204	
+93
+
+hsa-miR-23b-3p	BICD2	BICD cargo adaptor 2
+Details
+
+205	
+93
+
+hsa-miR-23b-3p	NKAIN2	sodium/potassium transporting ATPase interacting 2
+Details
+
+206	
+93
+
+hsa-miR-23b-3p	UQCRFS1	ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1
+Details
+
+207	
+93
+
+hsa-miR-23b-3p	IPMK	inositol polyphosphate multikinase
+Details
+
+208	
+93
+
+hsa-miR-23b-3p	ADGRG2	adhesion G protein-coupled receptor G2
+Details
+
+209	
+93
+
+hsa-miR-23b-3p	XIAP	X-linked inhibitor of apoptosis
+Details
+
+210	
+93
+
+hsa-miR-23b-3p	TOP2B	DNA topoisomerase II beta
+Details
+
+211	
+93
+
+hsa-miR-23b-3p	BEX5	brain expressed X-linked 5
+Details
+
+212	
+93
+
+hsa-miR-23b-3p	USP53	ubiquitin specific peptidase 53
+Details
+
+213	
+93
+
+hsa-miR-23b-3p	TMEM170A	transmembrane protein 170A
+Details
+
+214	
+93
+
+hsa-miR-23b-3p	LIN54	lin-54 DREAM MuvB core complex component
+Details
+
+215	
+92
+
+hsa-miR-23b-3p	ESRP1	epithelial splicing regulatory protein 1
+Details
+
+216	
+92
+
+hsa-miR-23b-3p	FOXP2	forkhead box P2
+Details
+
+217	
+92
+
+hsa-miR-23b-3p	MBOAT7	membrane bound O-acyltransferase domain containing 7
+Details
+
+218	
+92
+
+hsa-miR-23b-3p	ZNF737	zinc finger protein 737
+Details
+
+219	
+92
+
+hsa-miR-23b-3p	TMEM131L	transmembrane 131 like
+Details
+
+220	
+92
+
+hsa-miR-23b-3p	DCUN1D1	defective in cullin neddylation 1 domain containing 1
+Details
+
+221	
+92
+
+hsa-miR-23b-3p	MYH2	myosin heavy chain 2
+Details
+
+222	
+92
+
+hsa-miR-23b-3p	MTF1	metal regulatory transcription factor 1
+Details
+
+223	
+92
+
+hsa-miR-23b-3p	WBP4	WW domain binding protein 4
+Details
+
+224	
+92
+
+hsa-miR-23b-3p	TMEM135	transmembrane protein 135
+Details
+
+225	
+92
+
+hsa-miR-23b-3p	MYH1	myosin heavy chain 1
+Details
+
+226	
+92
+
+hsa-miR-23b-3p	ZBTB18	zinc finger and BTB domain containing 18
+Details
+
+227	
+92
+
+hsa-miR-23b-3p	CAMTA1	calmodulin binding transcription activator 1
+Details
+
+228	
+92
+
+hsa-miR-23b-3p	RNF150	ring finger protein 150
+Details
+
+229	
+92
+
+hsa-miR-23b-3p	SIPA1L1	signal induced proliferation associated 1 like 1
+Details
+
+230	
+92
+
+hsa-miR-23b-3p	HTR2A	5-hydroxytryptamine receptor 2A
+Details
+
+231	
+92
+
+hsa-miR-23b-3p	DTNA	dystrobrevin alpha
+Details
+
+232	
+92
+
+hsa-miR-23b-3p	GRM5	glutamate metabotropic receptor 5
+Details
+
+233	
+92
+
+hsa-miR-23b-3p	ZNF420	zinc finger protein 420
+Details
+
+234	
+92
+
+hsa-miR-23b-3p	TMEM263	transmembrane protein 263
+Details
+
+235	
+92
+
+hsa-miR-23b-3p	COL4A1	collagen type IV alpha 1 chain
+Details
+
+236	
+92
+
+hsa-miR-23b-3p	CASP7	caspase 7
+Details
+
+237	
+92
+
+hsa-miR-23b-3p	NKX2-1	NK2 homeobox 1
+Details
+
+238	
+92
+
+hsa-miR-23b-3p	CAMK2G	calcium/calmodulin dependent protein kinase II gamma
+Details
+
+239	
+92
+
+hsa-miR-23b-3p	CPEB2	cytoplasmic polyadenylation element binding protein 2
+Details
+
+240	
+92
+
+hsa-miR-23b-3p	TXLNG	taxilin gamma
+Details
+
+241	
+92
+
+hsa-miR-23b-3p	NIPSNAP2	nipsnap homolog 2
+Details
+
+242	
+92
+
+hsa-miR-23b-3p	ZNF559	zinc finger protein 559
+Details
+
+243	
+92
+
+hsa-miR-23b-3p	RAB39B	RAB39B, member RAS oncogene family
+Details
+
+244	
+92
+
+hsa-miR-23b-3p	SATB2	SATB homeobox 2
+Details
+
+245	
+92
+
+hsa-miR-23b-3p	SAFB	scaffold attachment factor B
+Details
+
+246	
+92
+
+hsa-miR-23b-3p	ELAVL4	ELAV like RNA binding protein 4
+Details
+
+247	
+92
+
+hsa-miR-23b-3p	FGF2	fibroblast growth factor 2
+Details
+
+248	
+92
+
+hsa-miR-23b-3p	ERBB4	erb-b2 receptor tyrosine kinase 4
+Details
+
+249	
+92
+
+hsa-miR-23b-3p	PTPN4	protein tyrosine phosphatase, non-receptor type 4
+Details
+
+250	
+92
+
+hsa-miR-23b-3p	WHAMM	WAS protein homolog associated with actin, golgi membranes and microtubules
+Details
+
+251	
+91
+
+hsa-miR-23b-3p	CCM2	CCM2 scaffold protein
+Details
+
+252	
+91
+
+hsa-miR-23b-3p	EPSTI1	epithelial stromal interaction 1
+Details
+
+253	
+91
+
+hsa-miR-23b-3p	NLGN4Y	neuroligin 4 Y-linked
+Details
+
+254	
+91
+
+hsa-miR-23b-3p	LPAR1	lysophosphatidic acid receptor 1
+Details
+
+255	
+91
+
+hsa-miR-23b-3p	TGFBR2	transforming growth factor beta receptor 2
+Details
+
+256	
+91
+
+hsa-miR-23b-3p	CLDN12	claudin 12
+Details
+
+257	
+91
+
+hsa-miR-23b-3p	SEC14L1	SEC14 like lipid binding 1
+Details
+
+258	
+91
+
+hsa-miR-23b-3p	PNRC1	proline rich nuclear receptor coactivator 1
+Details
+
+259	
+91
+
+hsa-miR-23b-3p	RAD21	RAD21 cohesin complex component
+Details
+
+260	
+91
+
+hsa-miR-23b-3p	ZNRF2	zinc and ring finger 2
+Details
+
+261	
+91
+
+hsa-miR-23b-3p	ZNF257	zinc finger protein 257
+Details
+
+262	
+91
+
+hsa-miR-23b-3p	CA2	carbonic anhydrase 2
+Details
+
+263	
+91
+
+hsa-miR-23b-3p	FGD4	FYVE, RhoGEF and PH domain containing 4
+Details
+
+264	
+91
+
+hsa-miR-23b-3p	ZNF652	zinc finger protein 652
+Details
+
+265	
+91
+
+hsa-miR-23b-3p	ABHD18	abhydrolase domain containing 18
+Details
+
+266	
+91
+
+hsa-miR-23b-3p	NDFIP2	Nedd4 family interacting protein 2
+Details
+
+267	
+91
+
+hsa-miR-23b-3p	KCNK5	potassium two pore domain channel subfamily K member 5
+Details
+
+268	
+91
+
+hsa-miR-23b-3p	RBM47	RNA binding motif protein 47
+Details
+
+269	
+91
+
+hsa-miR-23b-3p	ENTPD5	ectonucleoside triphosphate diphosphohydrolase 5
+Details
+
+270	
+91
+
+hsa-miR-23b-3p	GNRHR	gonadotropin releasing hormone receptor
+Details
+
+271	
+91
+
+hsa-miR-23b-3p	TET3	tet methylcytosine dioxygenase 3
+Details
+
+272	
+91
+
+hsa-miR-23b-3p	SSBP2	single stranded DNA binding protein 2
+Details
+
+273	
+91
+
+hsa-miR-23b-3p	LAMP1	lysosomal associated membrane protein 1
+Details
+
+274	
+91
+
+hsa-miR-23b-3p	BLCAP	BLCAP, apoptosis inducing factor
+Details
+
+275	
+91
+
+hsa-miR-23b-3p	TMEM245	transmembrane protein 245
+Details
+
+276	
+91
+
+hsa-miR-23b-3p	C12orf76	chromosome 12 open reading frame 76
+Details
+
+277	
+91
+
+hsa-miR-23b-3p	ASXL3	ASXL transcriptional regulator 3
+Details
+
+278	
+91
+
+hsa-miR-23b-3p	POM121	POM121 transmembrane nucleoporin
+Details
+
+279	
+91
+
+hsa-miR-23b-3p	UBE2R2	ubiquitin conjugating enzyme E2 R2
+Details
+
+280	
+91
+
+hsa-miR-23b-3p	ANKHD1	ankyrin repeat and KH domain containing 1
+Details
+
+281	
+91
+
+hsa-miR-23b-3p	PLXNC1	plexin C1
+Details
+
+282	
+90
+
+hsa-miR-23b-3p	MED12L	mediator complex subunit 12 like
+Details
+
+283	
+90
+
+hsa-miR-23b-3p	ZMYM2	zinc finger MYM-type containing 2
+Details
+
+284	
+90
+
+hsa-miR-23b-3p	FREM1	FRAS1 related extracellular matrix 1
+Details
+
+285	
+90
+
+hsa-miR-23b-3p	MYCT1	MYC target 1
+Details
+
+286	
+90
+
+hsa-miR-23b-3p	GLS	glutaminase
+Details
+
+287	
+90
+
+hsa-miR-23b-3p	ZNF765	zinc finger protein 765
+Details
+
+288	
+90
+
+hsa-miR-23b-3p	SMS	spermine synthase
+Details
+
+289	
+90
+
+hsa-miR-23b-3p	CUL3	cullin 3
+Details
+
+290	
+90
+
+hsa-miR-23b-3p	TOX3	TOX high mobility group box family member 3
+Details
+
+291	
+90
+
+hsa-miR-23b-3p	CXCL12	C-X-C motif chemokine ligand 12
+Details
+
+292	
+90
+
+hsa-miR-23b-3p	RFX3	regulatory factor X3
+Details
+
+293	
+90
+
+hsa-miR-23b-3p	STON2	stonin 2
+Details
+
+294	
+90
+
+hsa-miR-23b-3p	REEP1	receptor accessory protein 1
+Details
+
+295	
+90
+
+hsa-miR-23b-3p	NOL4	nucleolar protein 4
+Details
+
+296	
+90
+
+hsa-miR-23b-3p	IGSF10	immunoglobulin superfamily member 10
+Details
+
+297	
+90
+
+hsa-miR-23b-3p	HMGB2	high mobility group box 2
+Details
+
+298	
+90
+
+hsa-miR-23b-3p	TCF24	transcription factor 24
+Details
+
+299	
+90
+
+hsa-miR-23b-3p	EXOC3L4	exocyst complex component 3 like 4
+Details
+
+300	
+90
+
+hsa-miR-23b-3p	RETREG3	reticulophagy regulator family member 3
+Details
+
+301	
+90
+
+hsa-miR-23b-3p	UBE2D1	ubiquitin conjugating enzyme E2 D1
+Details
+
+302	
+90
+
+hsa-miR-23b-3p	UBE2O	ubiquitin conjugating enzyme E2 O
+Details
+
+303	
+90
+
+hsa-miR-23b-3p	ZCCHC2	zinc finger CCHC-type containing 2
+Details
+
+304	
+90
+
+hsa-miR-23b-3p	ELOVL3	ELOVL fatty acid elongase 3
+Details
+
+305	
+90
+
+hsa-miR-23b-3p	NFIA	nuclear factor I A
+Details
+
+306	
+90
+
+hsa-miR-23b-3p	ADCY1	adenylate cyclase 1
+Details
+
+307	
+90
+
+hsa-miR-23b-3p	MARCKSL1	MARCKS like 1
+Details
+
+308	
+90
+
+hsa-miR-23b-3p	SMIM9	small integral membrane protein 9
+Details
+
+309	
+90
+
+hsa-miR-23b-3p	SSH2	slingshot protein phosphatase 2
+Details
+
+310	
+90
+
+hsa-miR-23b-3p	CNN2	calponin 2
+Details
+
+311	
+90
+
+hsa-miR-23b-3p	HAS2	hyaluronan synthase 2
+Details
+
+312	
+90
+
+hsa-miR-23b-3p	TRPM7	transient receptor potential cation channel subfamily M member 7
+Details
+
+313	
+90
+
+hsa-miR-23b-3p	ZIC1	Zic family member 1
+Details
+
+314	
+90
+
+hsa-miR-23b-3p	ZNF680	zinc finger protein 680
+Details
+
+315	
+90
+
+hsa-miR-23b-3p	ASAH2B	N-acylsphingosine amidohydrolase 2B
+Details
+
+316	
+90
+
+hsa-miR-23b-3p	TCP11L1	t-complex 11 like 1

@@ -1,0 +1,1957 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-95-5p	PIAS2	protein inhibitor of activated STAT 2
+Details
+
+2	
+100
+
+hsa-miR-95-5p	BPTF	bromodomain PHD finger transcription factor
+Details
+
+3	
+100
+
+hsa-miR-95-5p	PHIP	pleckstrin homology domain interacting protein
+Details
+
+4	
+100
+
+hsa-miR-95-5p	EPC1	enhancer of polycomb homolog 1
+Details
+
+5	
+100
+
+hsa-miR-95-5p	PHOX2A	paired like homeobox 2A
+Details
+
+6	
+100
+
+hsa-miR-95-5p	NBEA	neurobeachin
+Details
+
+7	
+100
+
+hsa-miR-95-5p	ST3GAL1	ST3 beta-galactoside alpha-2,3-sialyltransferase 1
+Details
+
+8	
+100
+
+hsa-miR-95-5p	PCDH15	protocadherin related 15
+Details
+
+9	
+99
+
+hsa-miR-95-5p	TMX3	thioredoxin related transmembrane protein 3
+Details
+
+10	
+99
+
+hsa-miR-95-5p	IMPG2	interphotoreceptor matrix proteoglycan 2
+Details
+
+11	
+99
+
+hsa-miR-95-5p	KLHL8	kelch like family member 8
+Details
+
+12	
+99
+
+hsa-miR-95-5p	DTWD2	DTW domain containing 2
+Details
+
+13	
+99
+
+hsa-miR-95-5p	BRSK1	BR serine/threonine kinase 1
+Details
+
+14	
+99
+
+hsa-miR-95-5p	OTUD7B	OTU deubiquitinase 7B
+Details
+
+15	
+99
+
+hsa-miR-95-5p	POGZ	pogo transposable element derived with ZNF domain
+Details
+
+16	
+99
+
+hsa-miR-95-5p	TXNDC11	thioredoxin domain containing 11
+Details
+
+17	
+99
+
+hsa-miR-95-5p	C5orf30	chromosome 5 open reading frame 30
+Details
+
+18	
+99
+
+hsa-miR-95-5p	TBX3	T-box 3
+Details
+
+19	
+99
+
+hsa-miR-95-5p	CXCL2	C-X-C motif chemokine ligand 2
+Details
+
+20	
+99
+
+hsa-miR-95-5p	FGFR1OP	FGFR1 oncogene partner
+Details
+
+21	
+99
+
+hsa-miR-95-5p	PDCD6IP	programmed cell death 6 interacting protein
+Details
+
+22	
+99
+
+hsa-miR-95-5p	YIPF5	Yip1 domain family member 5
+Details
+
+23	
+99
+
+hsa-miR-95-5p	C5orf24	chromosome 5 open reading frame 24
+Details
+
+24	
+99
+
+hsa-miR-95-5p	MAGI2	membrane associated guanylate kinase, WW and PDZ domain containing 2
+Details
+
+25	
+99
+
+hsa-miR-95-5p	PPP6C	protein phosphatase 6 catalytic subunit
+Details
+
+26	
+99
+
+hsa-miR-95-5p	BDNF	brain derived neurotrophic factor
+Details
+
+27	
+99
+
+hsa-miR-95-5p	CBLB	Cbl proto-oncogene B
+Details
+
+28	
+99
+
+hsa-miR-95-5p	DGKH	diacylglycerol kinase eta
+Details
+
+29	
+98
+
+hsa-miR-95-5p	ZDHHC21	zinc finger DHHC-type containing 21
+Details
+
+30	
+98
+
+hsa-miR-95-5p	MSI2	musashi RNA binding protein 2
+Details
+
+31	
+98
+
+hsa-miR-95-5p	C14orf39	chromosome 14 open reading frame 39
+Details
+
+32	
+98
+
+hsa-miR-95-5p	JKAMP	JNK1/MAPK8 associated membrane protein
+Details
+
+33	
+98
+
+hsa-miR-95-5p	CTBP2	C-terminal binding protein 2
+Details
+
+34	
+98
+
+hsa-miR-95-5p	DIS3	DIS3 homolog, exosome endoribonuclease and 3'-5' exoribonuclease
+Details
+
+35	
+98
+
+hsa-miR-95-5p	IGF2R	insulin like growth factor 2 receptor
+Details
+
+36	
+98
+
+hsa-miR-95-5p	WIPF3	WAS/WASL interacting protein family member 3
+Details
+
+37	
+98
+
+hsa-miR-95-5p	MBD2	methyl-CpG binding domain protein 2
+Details
+
+38	
+98
+
+hsa-miR-95-5p	PRPF38B	pre-mRNA processing factor 38B
+Details
+
+39	
+98
+
+hsa-miR-95-5p	MTR	5-methyltetrahydrofolate-homocysteine methyltransferase
+Details
+
+40	
+98
+
+hsa-miR-95-5p	ERAP1	endoplasmic reticulum aminopeptidase 1
+Details
+
+41	
+98
+
+hsa-miR-95-5p	C5orf51	chromosome 5 open reading frame 51
+Details
+
+42	
+98
+
+hsa-miR-95-5p	DIPK2A	divergent protein kinase domain 2A
+Details
+
+43	
+98
+
+hsa-miR-95-5p	MAPK6	mitogen-activated protein kinase 6
+Details
+
+44	
+98
+
+hsa-miR-95-5p	CDH8	cadherin 8
+Details
+
+45	
+98
+
+hsa-miR-95-5p	MAFK	MAF bZIP transcription factor K
+Details
+
+46	
+98
+
+hsa-miR-95-5p	RIC1	RIC1 homolog, RAB6A GEF complex partner 1
+Details
+
+47	
+98
+
+hsa-miR-95-5p	AMOT	angiomotin
+Details
+
+48	
+98
+
+hsa-miR-95-5p	CLMN	calmin
+Details
+
+49	
+98
+
+hsa-miR-95-5p	CD164	CD164 molecule
+Details
+
+50	
+98
+
+hsa-miR-95-5p	CCNJ	cyclin J
+Details
+
+51	
+98
+
+hsa-miR-95-5p	PTGS2	prostaglandin-endoperoxide synthase 2
+Details
+
+52	
+98
+
+hsa-miR-95-5p	SPTY2D1	SPT2 chromatin protein domain containing 1
+Details
+
+53	
+98
+
+hsa-miR-95-5p	SESTD1	SEC14 and spectrin domain containing 1
+Details
+
+54	
+98
+
+hsa-miR-95-5p	PPFIA1	PTPRF interacting protein alpha 1
+Details
+
+55	
+97
+
+hsa-miR-95-5p	SMAD2	SMAD family member 2
+Details
+
+56	
+97
+
+hsa-miR-95-5p	PRMT2	protein arginine methyltransferase 2
+Details
+
+57	
+97
+
+hsa-miR-95-5p	PPP3CA	protein phosphatase 3 catalytic subunit alpha
+Details
+
+58	
+97
+
+hsa-miR-95-5p	COL19A1	collagen type XIX alpha 1 chain
+Details
+
+59	
+97
+
+hsa-miR-95-5p	TFDP1	transcription factor Dp-1
+Details
+
+60	
+97
+
+hsa-miR-95-5p	SELENOI	selenoprotein I
+Details
+
+61	
+97
+
+hsa-miR-95-5p	YIPF6	Yip1 domain family member 6
+Details
+
+62	
+97
+
+hsa-miR-95-5p	FGFR3	fibroblast growth factor receptor 3
+Details
+
+63	
+97
+
+hsa-miR-95-5p	FNDC3B	fibronectin type III domain containing 3B
+Details
+
+64	
+97
+
+hsa-miR-95-5p	RNF121	ring finger protein 121
+Details
+
+65	
+97
+
+hsa-miR-95-5p	TENT4B	terminal nucleotidyltransferase 4B
+Details
+
+66	
+97
+
+hsa-miR-95-5p	GSK3B	glycogen synthase kinase 3 beta
+Details
+
+67	
+97
+
+hsa-miR-95-5p	PPP1R2	protein phosphatase 1 regulatory inhibitor subunit 2
+Details
+
+68	
+97
+
+hsa-miR-95-5p	LEMD3	LEM domain containing 3
+Details
+
+69	
+97
+
+hsa-miR-95-5p	TTC28	tetratricopeptide repeat domain 28
+Details
+
+70	
+97
+
+hsa-miR-95-5p	CPEB2	cytoplasmic polyadenylation element binding protein 2
+Details
+
+71	
+97
+
+hsa-miR-95-5p	COL9A1	collagen type IX alpha 1 chain
+Details
+
+72	
+97
+
+hsa-miR-95-5p	PPIL4	peptidylprolyl isomerase like 4
+Details
+
+73	
+97
+
+hsa-miR-95-5p	ASTN2	astrotactin 2
+Details
+
+74	
+97
+
+hsa-miR-95-5p	MSX2	msh homeobox 2
+Details
+
+75	
+97
+
+hsa-miR-95-5p	PCDH17	protocadherin 17
+Details
+
+76	
+96
+
+hsa-miR-95-5p	ACADSB	acyl-CoA dehydrogenase short/branched chain
+Details
+
+77	
+96
+
+hsa-miR-95-5p	SPTBN1	spectrin beta, non-erythrocytic 1
+Details
+
+78	
+96
+
+hsa-miR-95-5p	TRIM5	tripartite motif containing 5
+Details
+
+79	
+96
+
+hsa-miR-95-5p	RRP15	ribosomal RNA processing 15 homolog
+Details
+
+80	
+96
+
+hsa-miR-95-5p	ADAMTS6	ADAM metallopeptidase with thrombospondin type 1 motif 6
+Details
+
+81	
+96
+
+hsa-miR-95-5p	RAP2A	RAP2A, member of RAS oncogene family
+Details
+
+82	
+96
+
+hsa-miR-95-5p	LONRF3	LON peptidase N-terminal domain and ring finger 3
+Details
+
+83	
+96
+
+hsa-miR-95-5p	CCSER2	coiled-coil serine rich protein 2
+Details
+
+84	
+96
+
+hsa-miR-95-5p	WDR7	WD repeat domain 7
+Details
+
+85	
+96
+
+hsa-miR-95-5p	SLC7A6	solute carrier family 7 member 6
+Details
+
+86	
+96
+
+hsa-miR-95-5p	ZNF106	zinc finger protein 106
+Details
+
+87	
+96
+
+hsa-miR-95-5p	SAXO2	stabilizer of axonemal microtubules 2
+Details
+
+88	
+96
+
+hsa-miR-95-5p	DOK6	docking protein 6
+Details
+
+89	
+96
+
+hsa-miR-95-5p	ACTC1	actin, alpha, cardiac muscle 1
+Details
+
+90	
+96
+
+hsa-miR-95-5p	COX5A	cytochrome c oxidase subunit 5A
+Details
+
+91	
+96
+
+hsa-miR-95-5p	HOXA9	homeobox A9
+Details
+
+92	
+96
+
+hsa-miR-95-5p	ZNF772	zinc finger protein 772
+Details
+
+93	
+96
+
+hsa-miR-95-5p	HNF4G	hepatocyte nuclear factor 4 gamma
+Details
+
+94	
+96
+
+hsa-miR-95-5p	TBX5	T-box 5
+Details
+
+95	
+96
+
+hsa-miR-95-5p	ATP2A2	ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2
+Details
+
+96	
+96
+
+hsa-miR-95-5p	UBA6	ubiquitin like modifier activating enzyme 6
+Details
+
+97	
+96
+
+hsa-miR-95-5p	SUZ12	SUZ12, polycomb repressive complex 2 subunit
+Details
+
+98	
+96
+
+hsa-miR-95-5p	PPP1R1C	protein phosphatase 1 regulatory inhibitor subunit 1C
+Details
+
+99	
+96
+
+hsa-miR-95-5p	C8orf37	chromosome 8 open reading frame 37
+Details
+
+100	
+96
+
+hsa-miR-95-5p	PRR5L	proline rich 5 like
+Details
+
+101	
+96
+
+hsa-miR-95-5p	FRK	fyn related Src family tyrosine kinase
+Details
+
+102	
+96
+
+hsa-miR-95-5p	IL27	interleukin 27
+Details
+
+103	
+95
+
+hsa-miR-95-5p	RCOR3	REST corepressor 3
+Details
+
+104	
+95
+
+hsa-miR-95-5p	DERL2	derlin 2
+Details
+
+105	
+95
+
+hsa-miR-95-5p	ACP7	acid phosphatase 7, tartrate resistant (putative)
+Details
+
+106	
+95
+
+hsa-miR-95-5p	RYBP	RING1 and YY1 binding protein
+Details
+
+107	
+95
+
+hsa-miR-95-5p	IL31	interleukin 31
+Details
+
+108	
+95
+
+hsa-miR-95-5p	NUBPL	nucleotide binding protein like
+Details
+
+109	
+95
+
+hsa-miR-95-5p	LSM8	LSM8 homolog, U6 small nuclear RNA associated
+Details
+
+110	
+95
+
+hsa-miR-95-5p	IDS	iduronate 2-sulfatase
+Details
+
+111	
+95
+
+hsa-miR-95-5p	AFF4	AF4/FMR2 family member 4
+Details
+
+112	
+95
+
+hsa-miR-95-5p	GPR65	G protein-coupled receptor 65
+Details
+
+113	
+95
+
+hsa-miR-95-5p	CUL3	cullin 3
+Details
+
+114	
+95
+
+hsa-miR-95-5p	SPDYE3	speedy/RINGO cell cycle regulator family member E3
+Details
+
+115	
+95
+
+hsa-miR-95-5p	GABRA1	gamma-aminobutyric acid type A receptor alpha1 subunit
+Details
+
+116	
+95
+
+hsa-miR-95-5p	KLHL24	kelch like family member 24
+Details
+
+117	
+95
+
+hsa-miR-95-5p	RFX3	regulatory factor X3
+Details
+
+118	
+95
+
+hsa-miR-95-5p	POLR2K	RNA polymerase II subunit K
+Details
+
+119	
+95
+
+hsa-miR-95-5p	CAV2	caveolin 2
+Details
+
+120	
+95
+
+hsa-miR-95-5p	LARP1	La ribonucleoprotein domain family member 1
+Details
+
+121	
+95
+
+hsa-miR-95-5p	TMEM33	transmembrane protein 33
+Details
+
+122	
+95
+
+hsa-miR-95-5p	ZNF264	zinc finger protein 264
+Details
+
+123	
+95
+
+hsa-miR-95-5p	DMP1	dentin matrix acidic phosphoprotein 1
+Details
+
+124	
+95
+
+hsa-miR-95-5p	CAMSAP1	calmodulin regulated spectrin associated protein 1
+Details
+
+125	
+95
+
+hsa-miR-95-5p	PDE4D	phosphodiesterase 4D
+Details
+
+126	
+95
+
+hsa-miR-95-5p	CASP7	caspase 7
+Details
+
+127	
+95
+
+hsa-miR-95-5p	SPIN4	spindlin family member 4
+Details
+
+128	
+95
+
+hsa-miR-95-5p	MMP16	matrix metallopeptidase 16
+Details
+
+129	
+95
+
+hsa-miR-95-5p	GEMIN2	gem nuclear organelle associated protein 2
+Details
+
+130	
+95
+
+hsa-miR-95-5p	RSBN1	round spermatid basic protein 1
+Details
+
+131	
+95
+
+hsa-miR-95-5p	PDIK1L	PDLIM1 interacting kinase 1 like
+Details
+
+132	
+95
+
+hsa-miR-95-5p	PPP2CB	protein phosphatase 2 catalytic subunit beta
+Details
+
+133	
+95
+
+hsa-miR-95-5p	RPE	ribulose-5-phosphate-3-epimerase
+Details
+
+134	
+95
+
+hsa-miR-95-5p	MID2	midline 2
+Details
+
+135	
+95
+
+hsa-miR-95-5p	TMEM236	transmembrane protein 236
+Details
+
+136	
+94
+
+hsa-miR-95-5p	HEXB	hexosaminidase subunit beta
+Details
+
+137	
+94
+
+hsa-miR-95-5p	VGLL3	vestigial like family member 3
+Details
+
+138	
+94
+
+hsa-miR-95-5p	TFCP2L1	transcription factor CP2 like 1
+Details
+
+139	
+94
+
+hsa-miR-95-5p	GPR63	G protein-coupled receptor 63
+Details
+
+140	
+94
+
+hsa-miR-95-5p	RAB3A	RAB3A, member RAS oncogene family
+Details
+
+141	
+94
+
+hsa-miR-95-5p	ATXN1	ataxin 1
+Details
+
+142	
+94
+
+hsa-miR-95-5p	RNF19A	ring finger protein 19A, RBR E3 ubiquitin protein ligase
+Details
+
+143	
+94
+
+hsa-miR-95-5p	MYO1E	myosin IE
+Details
+
+144	
+94
+
+hsa-miR-95-5p	PCGF3	polycomb group ring finger 3
+Details
+
+145	
+94
+
+hsa-miR-95-5p	FOXN4	forkhead box N4
+Details
+
+146	
+94
+
+hsa-miR-95-5p	CDK17	cyclin dependent kinase 17
+Details
+
+147	
+94
+
+hsa-miR-95-5p	SCN8A	sodium voltage-gated channel alpha subunit 8
+Details
+
+148	
+94
+
+hsa-miR-95-5p	PLEKHG3	pleckstrin homology and RhoGEF domain containing G3
+Details
+
+149	
+94
+
+hsa-miR-95-5p	SLC13A2	solute carrier family 13 member 2
+Details
+
+150	
+94
+
+hsa-miR-95-5p	SLIT2	slit guidance ligand 2
+Details
+
+151	
+94
+
+hsa-miR-95-5p	AK9	adenylate kinase 9
+Details
+
+152	
+94
+
+hsa-miR-95-5p	DRD1	dopamine receptor D1
+Details
+
+153	
+94
+
+hsa-miR-95-5p	STC1	stanniocalcin 1
+Details
+
+154	
+94
+
+hsa-miR-95-5p	LATS2	large tumor suppressor kinase 2
+Details
+
+155	
+94
+
+hsa-miR-95-5p	INPP5A	inositol polyphosphate-5-phosphatase A
+Details
+
+156	
+94
+
+hsa-miR-95-5p	HTR2A	5-hydroxytryptamine receptor 2A
+Details
+
+157	
+94
+
+hsa-miR-95-5p	IFIT1	interferon induced protein with tetratricopeptide repeats 1
+Details
+
+158	
+94
+
+hsa-miR-95-5p	PPP1CB	protein phosphatase 1 catalytic subunit beta
+Details
+
+159	
+94
+
+hsa-miR-95-5p	RO60	Ro60, Y RNA binding protein
+Details
+
+160	
+94
+
+hsa-miR-95-5p	INTS6L	integrator complex subunit 6 like
+Details
+
+161	
+94
+
+hsa-miR-95-5p	DMRTA1	DMRT like family A1
+Details
+
+162	
+94
+
+hsa-miR-95-5p	CPNE3	copine 3
+Details
+
+163	
+94
+
+hsa-miR-95-5p	SPRY1	sprouty RTK signaling antagonist 1
+Details
+
+164	
+94
+
+hsa-miR-95-5p	RASSF8	Ras association domain family member 8
+Details
+
+165	
+94
+
+hsa-miR-95-5p	OCRL	OCRL, inositol polyphosphate-5-phosphatase
+Details
+
+166	
+94
+
+hsa-miR-95-5p	FAM216B	family with sequence similarity 216 member B
+Details
+
+167	
+94
+
+hsa-miR-95-5p	PAFAH1B2	platelet activating factor acetylhydrolase 1b catalytic subunit 2
+Details
+
+168	
+94
+
+hsa-miR-95-5p	CD300LF	CD300 molecule like family member f
+Details
+
+169	
+94
+
+hsa-miR-95-5p	BACH2	BTB domain and CNC homolog 2
+Details
+
+170	
+94
+
+hsa-miR-95-5p	PHF21B	PHD finger protein 21B
+Details
+
+171	
+94
+
+hsa-miR-95-5p	SEMA6A	semaphorin 6A
+Details
+
+172	
+94
+
+hsa-miR-95-5p	PTPN11	protein tyrosine phosphatase, non-receptor type 11
+Details
+
+173	
+94
+
+hsa-miR-95-5p	OSBPL6	oxysterol binding protein like 6
+Details
+
+174	
+94
+
+hsa-miR-95-5p	CLIP4	CAP-Gly domain containing linker protein family member 4
+Details
+
+175	
+94
+
+hsa-miR-95-5p	SLC25A4	solute carrier family 25 member 4
+Details
+
+176	
+94
+
+hsa-miR-95-5p	PARP8	poly(ADP-ribose) polymerase family member 8
+Details
+
+177	
+94
+
+hsa-miR-95-5p	MIER3	MIER family member 3
+Details
+
+178	
+94
+
+hsa-miR-95-5p	POMGNT1	protein O-linked mannose N-acetylglucosaminyltransferase 1 (beta 1,2-)
+Details
+
+179	
+93
+
+hsa-miR-95-5p	ABHD13	abhydrolase domain containing 13
+Details
+
+180	
+93
+
+hsa-miR-95-5p	LAMC2	laminin subunit gamma 2
+Details
+
+181	
+93
+
+hsa-miR-95-5p	FERMT3	fermitin family member 3
+Details
+
+182	
+93
+
+hsa-miR-95-5p	KIF20A	kinesin family member 20A
+Details
+
+183	
+93
+
+hsa-miR-95-5p	GRK3	G protein-coupled receptor kinase 3
+Details
+
+184	
+93
+
+hsa-miR-95-5p	RAB3B	RAB3B, member RAS oncogene family
+Details
+
+185	
+93
+
+hsa-miR-95-5p	G3BP1	G3BP stress granule assembly factor 1
+Details
+
+186	
+93
+
+hsa-miR-95-5p	CD69	CD69 molecule
+Details
+
+187	
+93
+
+hsa-miR-95-5p	TMEM170B	transmembrane protein 170B
+Details
+
+188	
+93
+
+hsa-miR-95-5p	IRF9	interferon regulatory factor 9
+Details
+
+189	
+93
+
+hsa-miR-95-5p	SLC25A22	solute carrier family 25 member 22
+Details
+
+190	
+93
+
+hsa-miR-95-5p	EBF3	EBF transcription factor 3
+Details
+
+191	
+93
+
+hsa-miR-95-5p	HECA	hdc homolog, cell cycle regulator
+Details
+
+192	
+93
+
+hsa-miR-95-5p	STX17	syntaxin 17
+Details
+
+193	
+93
+
+hsa-miR-95-5p	DMPK	DM1 protein kinase
+Details
+
+194	
+93
+
+hsa-miR-95-5p	HGF	hepatocyte growth factor
+Details
+
+195	
+93
+
+hsa-miR-95-5p	CD2AP	CD2 associated protein
+Details
+
+196	
+93
+
+hsa-miR-95-5p	LRMP	lymphoid restricted membrane protein
+Details
+
+197	
+93
+
+hsa-miR-95-5p	TIAM2	T cell lymphoma invasion and metastasis 2
+Details
+
+198	
+93
+
+hsa-miR-95-5p	NAV3	neuron navigator 3
+Details
+
+199	
+93
+
+hsa-miR-95-5p	DDX3X	DEAD-box helicase 3 X-linked
+Details
+
+200	
+93
+
+hsa-miR-95-5p	QKI	QKI, KH domain containing RNA binding
+Details
+
+201	
+93
+
+hsa-miR-95-5p	MPZL3	myelin protein zero like 3
+Details
+
+202	
+93
+
+hsa-miR-95-5p	ATP6V1C1	ATPase H+ transporting V1 subunit C1
+Details
+
+203	
+93
+
+hsa-miR-95-5p	FAM84B	family with sequence similarity 84 member B
+Details
+
+204	
+93
+
+hsa-miR-95-5p	WDR44	WD repeat domain 44
+Details
+
+205	
+93
+
+hsa-miR-95-5p	GRIA2	glutamate ionotropic receptor AMPA type subunit 2
+Details
+
+206	
+93
+
+hsa-miR-95-5p	JADE3	jade family PHD finger 3
+Details
+
+207	
+93
+
+hsa-miR-95-5p	MINDY2	MINDY lysine 48 deubiquitinase 2
+Details
+
+208	
+93
+
+hsa-miR-95-5p	CAMK1	calcium/calmodulin dependent protein kinase I
+Details
+
+209	
+93
+
+hsa-miR-95-5p	NADK2	NAD kinase 2, mitochondrial
+Details
+
+210	
+93
+
+hsa-miR-95-5p	MBD5	methyl-CpG binding domain protein 5
+Details
+
+211	
+93
+
+hsa-miR-95-5p	ACTR1A	ARP1 actin related protein 1 homolog A
+Details
+
+212	
+93
+
+hsa-miR-95-5p	NOTCH1	notch 1
+Details
+
+213	
+93
+
+hsa-miR-95-5p	DHX15	DEAH-box helicase 15
+Details
+
+214	
+92
+
+hsa-miR-95-5p	FAM222B	family with sequence similarity 222 member B
+Details
+
+215	
+92
+
+hsa-miR-95-5p	USP34	ubiquitin specific peptidase 34
+Details
+
+216	
+92
+
+hsa-miR-95-5p	FEZF1	FEZ family zinc finger 1
+Details
+
+217	
+92
+
+hsa-miR-95-5p	HOOK3	hook microtubule tethering protein 3
+Details
+
+218	
+92
+
+hsa-miR-95-5p	CASKIN1	CASK interacting protein 1
+Details
+
+219	
+92
+
+hsa-miR-95-5p	NOX1	NADPH oxidase 1
+Details
+
+220	
+92
+
+hsa-miR-95-5p	HIVEP1	human immunodeficiency virus type I enhancer binding protein 1
+Details
+
+221	
+92
+
+hsa-miR-95-5p	ANKRD6	ankyrin repeat domain 6
+Details
+
+222	
+92
+
+hsa-miR-95-5p	SERPINB13	serpin family B member 13
+Details
+
+223	
+92
+
+hsa-miR-95-5p	RSRC2	arginine and serine rich coiled-coil 2
+Details
+
+224	
+92
+
+hsa-miR-95-5p	MAP3K13	mitogen-activated protein kinase kinase kinase 13
+Details
+
+225	
+92
+
+hsa-miR-95-5p	SKIL	SKI like proto-oncogene
+Details
+
+226	
+92
+
+hsa-miR-95-5p	ADAMTS5	ADAM metallopeptidase with thrombospondin type 1 motif 5
+Details
+
+227	
+92
+
+hsa-miR-95-5p	SLAIN1	SLAIN motif family member 1
+Details
+
+228	
+92
+
+hsa-miR-95-5p	SEMA3F	semaphorin 3F
+Details
+
+229	
+92
+
+hsa-miR-95-5p	SAV1	salvador family WW domain containing protein 1
+Details
+
+230	
+92
+
+hsa-miR-95-5p	UNC5D	unc-5 netrin receptor D
+Details
+
+231	
+92
+
+hsa-miR-95-5p	LRP2BP	LRP2 binding protein
+Details
+
+232	
+92
+
+hsa-miR-95-5p	TWIST1	twist family bHLH transcription factor 1
+Details
+
+233	
+92
+
+hsa-miR-95-5p	TXNRD1	thioredoxin reductase 1
+Details
+
+234	
+92
+
+hsa-miR-95-5p	SLC12A6	solute carrier family 12 member 6
+Details
+
+235	
+92
+
+hsa-miR-95-5p	NKIRAS2	NFKB inhibitor interacting Ras like 2
+Details
+
+236	
+92
+
+hsa-miR-95-5p	ZNF345	zinc finger protein 345
+Details
+
+237	
+92
+
+hsa-miR-95-5p	GOLGA2	golgin A2
+Details
+
+238	
+92
+
+hsa-miR-95-5p	MRPL19	mitochondrial ribosomal protein L19
+Details
+
+239	
+92
+
+hsa-miR-95-5p	SRF	serum response factor
+Details
+
+240	
+92
+
+hsa-miR-95-5p	CLINT1	clathrin interactor 1
+Details
+
+241	
+92
+
+hsa-miR-95-5p	P2RY1	purinergic receptor P2Y1
+Details
+
+242	
+92
+
+hsa-miR-95-5p	SNAI1	snail family transcriptional repressor 1
+Details
+
+243	
+92
+
+hsa-miR-95-5p	NUS1	NUS1, dehydrodolichyl diphosphate synthase subunit
+Details
+
+244	
+92
+
+hsa-miR-95-5p	NR3C1	nuclear receptor subfamily 3 group C member 1
+Details
+
+245	
+92
+
+hsa-miR-95-5p	KITLG	KIT ligand
+Details
+
+246	
+92
+
+hsa-miR-95-5p	SLC25A38	solute carrier family 25 member 38
+Details
+
+247	
+92
+
+hsa-miR-95-5p	WNT4	Wnt family member 4
+Details
+
+248	
+92
+
+hsa-miR-95-5p	KIAA1549L	KIAA1549 like
+Details
+
+249	
+92
+
+hsa-miR-95-5p	CIR1	corepressor interacting with RBPJ, 1
+Details
+
+250	
+92
+
+hsa-miR-95-5p	ISPD	isoprenoid synthase domain containing
+Details
+
+251	
+92
+
+hsa-miR-95-5p	PSTPIP2	proline-serine-threonine phosphatase interacting protein 2
+Details
+
+252	
+92
+
+hsa-miR-95-5p	TMTC2	transmembrane and tetratricopeptide repeat containing 2
+Details
+
+253	
+92
+
+hsa-miR-95-5p	PPFIA3	PTPRF interacting protein alpha 3
+Details
+
+254	
+92
+
+hsa-miR-95-5p	WWP1	WW domain containing E3 ubiquitin protein ligase 1
+Details
+
+255	
+92
+
+hsa-miR-95-5p	COQ10B	coenzyme Q10B
+Details
+
+256	
+92
+
+hsa-miR-95-5p	GPRIN3	GPRIN family member 3
+Details
+
+257	
+92
+
+hsa-miR-95-5p	TEAD1	TEA domain transcription factor 1
+Details
+
+258	
+91
+
+hsa-miR-95-5p	EIF4A1	eukaryotic translation initiation factor 4A1
+Details
+
+259	
+91
+
+hsa-miR-95-5p	ZC3H6	zinc finger CCCH-type containing 6
+Details
+
+260	
+91
+
+hsa-miR-95-5p	CASC4	cancer susceptibility 4
+Details
+
+261	
+91
+
+hsa-miR-95-5p	MYSM1	Myb like, SWIRM and MPN domains 1
+Details
+
+262	
+91
+
+hsa-miR-95-5p	ACTR8	ARP8 actin related protein 8 homolog
+Details
+
+263	
+91
+
+hsa-miR-95-5p	TGFB2	transforming growth factor beta 2
+Details
+
+264	
+91
+
+hsa-miR-95-5p	SP3	Sp3 transcription factor
+Details
+
+265	
+91
+
+hsa-miR-95-5p	ATP6V0B	ATPase H+ transporting V0 subunit b
+Details
+
+266	
+91
+
+hsa-miR-95-5p	CNTN1	contactin 1
+Details
+
+267	
+91
+
+hsa-miR-95-5p	LMNTD2	lamin tail domain containing 2
+Details
+
+268	
+91
+
+hsa-miR-95-5p	AMMECR1L	AMMECR1 like
+Details
+
+269	
+91
+
+hsa-miR-95-5p	RNF38	ring finger protein 38
+Details
+
+270	
+91
+
+hsa-miR-95-5p	SLC24A4	solute carrier family 24 member 4
+Details
+
+271	
+91
+
+hsa-miR-95-5p	ZDBF2	zinc finger DBF-type containing 2
+Details
+
+272	
+91
+
+hsa-miR-95-5p	ZSWIM4	zinc finger SWIM-type containing 4
+Details
+
+273	
+91
+
+hsa-miR-95-5p	SPDYE5	speedy/RINGO cell cycle regulator family member E5
+Details
+
+274	
+91
+
+hsa-miR-95-5p	ALCAM	activated leukocyte cell adhesion molecule
+Details
+
+275	
+91
+
+hsa-miR-95-5p	PPP1R12A	protein phosphatase 1 regulatory subunit 12A
+Details
+
+276	
+91
+
+hsa-miR-95-5p	YPEL3	yippee like 3
+Details
+
+277	
+91
+
+hsa-miR-95-5p	FAT4	FAT atypical cadherin 4
+Details
+
+278	
+91
+
+hsa-miR-95-5p	DYRK2	dual specificity tyrosine phosphorylation regulated kinase 2
+Details
+
+279	
+91
+
+hsa-miR-95-5p	C5orf15	chromosome 5 open reading frame 15
+Details
+
+280	
+91
+
+hsa-miR-95-5p	TMX4	thioredoxin related transmembrane protein 4
+Details
+
+281	
+91
+
+hsa-miR-95-5p	CILP2	cartilage intermediate layer protein 2
+Details
+
+282	
+91
+
+hsa-miR-95-5p	PTGER3	prostaglandin E receptor 3
+Details
+
+283	
+91
+
+hsa-miR-95-5p	DIPK1A	divergent protein kinase domain 1A
+Details
+
+284	
+91
+
+hsa-miR-95-5p	CACNB4	calcium voltage-gated channel auxiliary subunit beta 4
+Details
+
+285	
+91
+
+hsa-miR-95-5p	TMEM200B	transmembrane protein 200B
+Details
+
+286	
+91
+
+hsa-miR-95-5p	PSMC2	proteasome 26S subunit, ATPase 2
+Details
+
+287	
+91
+
+hsa-miR-95-5p	MBIP	MAP3K12 binding inhibitory protein 1
+Details
+
+288	
+91
+
+hsa-miR-95-5p	PUM2	pumilio RNA binding family member 2
+Details
+
+289	
+91
+
+hsa-miR-95-5p	CBFB	core-binding factor subunit beta
+Details
+
+290	
+91
+
+hsa-miR-95-5p	MTHFD2	methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2, methenyltetrahydrofolate cyclohydrolase
+Details
+
+291	
+91
+
+hsa-miR-95-5p	RAD51C	RAD51 paralog C
+Details
+
+292	
+91
+
+hsa-miR-95-5p	BAHCC1	BAH domain and coiled-coil containing 1
+Details
+
+293	
+91
+
+hsa-miR-95-5p	PAPSS2	3'-phosphoadenosine 5'-phosphosulfate synthase 2
+Details
+
+294	
+91
+
+hsa-miR-95-5p	ZC3H12C	zinc finger CCCH-type containing 12C
+Details
+
+295	
+91
+
+hsa-miR-95-5p	RORA	RAR related orphan receptor A
+Details
+
+296	
+90
+
+hsa-miR-95-5p	NUDT21	nudix hydrolase 21
+Details
+
+297	
+90
+
+hsa-miR-95-5p	RNF217	ring finger protein 217
+Details
+
+298	
+90
+
+hsa-miR-95-5p	FSIP1	fibrous sheath interacting protein 1
+Details
+
+299	
+90
+
+hsa-miR-95-5p	TP53BP2	tumor protein p53 binding protein 2
+Details
+
+300	
+90
+
+hsa-miR-95-5p	STAMBPL1	STAM binding protein like 1
+Details
+
+301	
+90
+
+hsa-miR-95-5p	HOXC5	homeobox C5
+Details
+
+302	
+90
+
+hsa-miR-95-5p	ABTB2	ankyrin repeat and BTB domain containing 2
+Details
+
+303	
+90
+
+hsa-miR-95-5p	AMFR	autocrine motility factor receptor
+Details
+
+304	
+90
+
+hsa-miR-95-5p	SRRM4	serine/arginine repetitive matrix 4
+Details
+
+305	
+90
+
+hsa-miR-95-5p	PPP4R3A	protein phosphatase 4 regulatory subunit 3A
+Details
+
+306	
+90
+
+hsa-miR-95-5p	SLITRK6	SLIT and NTRK like family member 6
+Details
+
+307	
+90
+
+hsa-miR-95-5p	ASB8	ankyrin repeat and SOCS box containing 8
+Details
+
+308	
+90
+
+hsa-miR-95-5p	GNAQ	G protein subunit alpha q
+Details
+
+309	
+90
+
+hsa-miR-95-5p	SLTM	SAFB like transcription modulator
+Details
+
+310	
+90
+
+hsa-miR-95-5p	DTD2	D-tyrosyl-tRNA deacylase 2 (putative)
+Details
+
+311	
+90
+
+hsa-miR-95-5p	CALCRL	calcitonin receptor like receptor
+Details
+
+312	
+90
+
+hsa-miR-95-5p	PLCH1	phospholipase C eta 1
+Details
+
+313	
+90
+
+hsa-miR-95-5p	CNTN5	contactin 5
+Details
+
+314	
+90
+
+hsa-miR-95-5p	FNIP1	folliculin interacting protein 1
+Details
+
+315	
+90
+
+hsa-miR-95-5p	TOX	thymocyte selection associated high mobility group box
+Details
+
+316	
+90
+
+hsa-miR-95-5p	C1orf74	chromosome 1 open reading frame 74
+Details
+
+317	
+90
+
+hsa-miR-95-5p	SCG2	secretogranin II
+Details
+
+318	
+90
+
+hsa-miR-95-5p	CARD16	caspase recruitment domain family member 16
+Details
+
+319	
+90
+
+hsa-miR-95-5p	C9orf72	chromosome 9 open reading frame 72
+Details
+
+320	
+90
+
+hsa-miR-95-5p	MYO10	myosin X
+Details
+
+321	
+90
+
+hsa-miR-95-5p	STX12	syntaxin 12
+Details
+
+322	
+90
+
+hsa-miR-95-5p	HBS1L	HBS1 like translational GTPase
+Details
+
+323	
+90
+
+hsa-miR-95-5p	RORB	RAR related orphan receptor B
+Details
+
+324	
+90
+
+hsa-miR-95-5p	GDAP2	ganglioside induced differentiation associated protein 2
+Details
+
+325	
+90
+
+hsa-miR-95-5p	PLK3	polo like kinase 3
+Details
+
+326	
+90
+
+hsa-miR-95-5p	SELENOT	selenoprotein T

@@ -1,0 +1,283 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-223-3p	FBXW7	F-box and WD repeat domain containing 7
+Details
+
+2	
+99
+
+hsa-miR-223-3p	SP3	Sp3 transcription factor
+Details
+
+3	
+97
+
+hsa-miR-223-3p	KPNA3	karyopherin subunit alpha 3
+Details
+
+4	
+97
+
+hsa-miR-223-3p	RRAS2	RAS related 2
+Details
+
+5	
+97
+
+hsa-miR-223-3p	SLC4A4	solute carrier family 4 member 4
+Details
+
+6	
+97
+
+hsa-miR-223-3p	CRIM1	cysteine rich transmembrane BMP regulator 1
+Details
+
+7	
+97
+
+hsa-miR-223-3p	ATP7A	ATPase copper transporting alpha
+Details
+
+8	
+96
+
+hsa-miR-223-3p	PAX6	paired box 6
+Details
+
+9	
+96
+
+hsa-miR-223-3p	GALNT18	polypeptide N-acetylgalactosaminyltransferase 18
+Details
+
+10	
+96
+
+hsa-miR-223-3p	FOXO1	forkhead box O1
+Details
+
+11	
+96
+
+hsa-miR-223-3p	SIAH1	siah E3 ubiquitin protein ligase 1
+Details
+
+12	
+95
+
+hsa-miR-223-3p	F3	coagulation factor III, tissue factor
+Details
+
+13	
+95
+
+hsa-miR-223-3p	UBR5	ubiquitin protein ligase E3 component n-recognin 5
+Details
+
+14	
+95
+
+hsa-miR-223-3p	PTBP2	polypyrimidine tract binding protein 2
+Details
+
+15	
+95
+
+hsa-miR-223-3p	INPP5B	inositol polyphosphate-5-phosphatase B
+Details
+
+16	
+95
+
+hsa-miR-223-3p	CBX5	chromobox 5
+Details
+
+17	
+94
+
+hsa-miR-223-3p	HSP90B1	heat shock protein 90 beta family member 1
+Details
+
+18	
+94
+
+hsa-miR-223-3p	ARMCX1	armadillo repeat containing X-linked 1
+Details
+
+19	
+94
+
+hsa-miR-223-3p	FBXO8	F-box protein 8
+Details
+
+20	
+93
+
+hsa-miR-223-3p	SLC35G2	solute carrier family 35 member G2
+Details
+
+21	
+93
+
+hsa-miR-223-3p	RHOB	ras homolog family member B
+Details
+
+22	
+92
+
+hsa-miR-223-3p	SEPT6	septin 6
+Details
+
+23	
+92
+
+hsa-miR-223-3p	ADCY7	adenylate cyclase 7
+Details
+
+24	
+92
+
+hsa-miR-223-3p	LMO2	LIM domain only 2
+Details
+
+25	
+92
+
+hsa-miR-223-3p	KAT6A	lysine acetyltransferase 6A
+Details
+
+26	
+92
+
+hsa-miR-223-3p	RUBCNL	rubicon like autophagy enhancer
+Details
+
+27	
+92
+
+hsa-miR-223-3p	ACSL3	acyl-CoA synthetase long chain family member 3
+Details
+
+28	
+92
+
+hsa-miR-223-3p	FEZ2	fasciculation and elongation protein zeta 2
+Details
+
+29	
+92
+
+hsa-miR-223-3p	ANKS1B	ankyrin repeat and sterile alpha motif domain containing 1B
+Details
+
+30	
+91
+
+hsa-miR-223-3p	HMGCS1	3-hydroxy-3-methylglutaryl-CoA synthase 1
+Details
+
+31	
+91
+
+hsa-miR-223-3p	NDNF	neuron derived neurotrophic factor
+Details
+
+32	
+91
+
+hsa-miR-223-3p	LSM8	LSM8 homolog, U6 small nuclear RNA associated
+Details
+
+33	
+91
+
+hsa-miR-223-3p	TENT5A	terminal nucleotidyltransferase 5A
+Details
+
+34	
+91
+
+hsa-miR-223-3p	HARBI1	harbinger transposase derived 1
+Details
+
+35	
+91
+
+hsa-miR-223-3p	INPP4A	inositol polyphosphate-4-phosphatase type I A
+Details
+
+36	
+91
+
+hsa-miR-223-3p	SLC8A1	solute carrier family 8 member A1
+Details
+
+37	
+91
+
+hsa-miR-223-3p	SLC7A8	solute carrier family 7 member 8
+Details
+
+38	
+91
+
+hsa-miR-223-3p	TMEM143	transmembrane protein 143
+Details
+
+39	
+91
+
+hsa-miR-223-3p	ZNF772	zinc finger protein 772
+Details
+
+40	
+91
+
+hsa-miR-223-3p	RBPJ	recombination signal binding protein for immunoglobulin kappa J region
+Details
+
+41	
+91
+
+hsa-miR-223-3p	SMIM15	small integral membrane protein 15
+Details
+
+42	
+90
+
+hsa-miR-223-3p	TWF1	twinfilin actin binding protein 1
+Details
+
+43	
+90
+
+hsa-miR-223-3p	FKBP5	FKBP prolyl isomerase 5
+Details
+
+44	
+90
+
+hsa-miR-223-3p	LAMB1	laminin subunit beta 1
+Details
+
+45	
+90
+
+hsa-miR-223-3p	NFIB	nuclear factor I B
+Details
+
+46	
+90
+
+hsa-miR-223-3p	INHBB	inhibin subunit beta B
+Details
+
+47	
+90
+
+hsa-miR-223-3p	LACC1	laccase domain containing 1

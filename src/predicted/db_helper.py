@@ -6,7 +6,7 @@ def insert_mirna(conn, cur, mirna_id, description, disease):
     
     if record_count == 0:
         # Insert the record if it doesn't exist
-        cur.execute("INSERT INTO mirnas (mirna_id, description, disease) VALUES (%s, %s)", (mirna_id, description, disease))
+        cur.execute("INSERT INTO mirnas (mirna_id, description, disease) VALUES (%s, %s, %s)", (mirna_id, description, disease))
         print(f"{mirna_id} inserted successfully.")
     else:
         if description and len(description) > 0:

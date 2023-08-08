@@ -1,0 +1,343 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-361-5p	PIK3CG	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit gamma
+Details
+
+2	
+99
+
+hsa-miR-361-5p	TFAP2B	transcription factor AP-2 beta
+Details
+
+3	
+98
+
+hsa-miR-361-5p	ZMAT3	zinc finger matrin-type 3
+Details
+
+4	
+98
+
+hsa-miR-361-5p	RANBP17	RAN binding protein 17
+Details
+
+5	
+97
+
+hsa-miR-361-5p	DEXI	Dexi homolog
+Details
+
+6	
+97
+
+hsa-miR-361-5p	CLDN22	claudin 22
+Details
+
+7	
+97
+
+hsa-miR-361-5p	FAM122C	family with sequence similarity 122C
+Details
+
+8	
+97
+
+hsa-miR-361-5p	MTX3	metaxin 3
+Details
+
+9	
+97
+
+hsa-miR-361-5p	MEX3C	mex-3 RNA binding family member C
+Details
+
+10	
+96
+
+hsa-miR-361-5p	WNT7A	Wnt family member 7A
+Details
+
+11	
+95
+
+hsa-miR-361-5p	PANX2	pannexin 2
+Details
+
+12	
+95
+
+hsa-miR-361-5p	BLMH	bleomycin hydrolase
+Details
+
+13	
+95
+
+hsa-miR-361-5p	CCDC58	coiled-coil domain containing 58
+Details
+
+14	
+94
+
+hsa-miR-361-5p	DERL2	derlin 2
+Details
+
+15	
+94
+
+hsa-miR-361-5p	BMPR2	bone morphogenetic protein receptor type 2
+Details
+
+16	
+94
+
+hsa-miR-361-5p	ZSCAN32	zinc finger and SCAN domain containing 32
+Details
+
+17	
+94
+
+hsa-miR-361-5p	MAP2	microtubule associated protein 2
+Details
+
+18	
+94
+
+hsa-miR-361-5p	LACTB	lactamase beta
+Details
+
+19	
+94
+
+hsa-miR-361-5p	RHOA	ras homolog family member A
+Details
+
+20	
+94
+
+hsa-miR-361-5p	GAPT	GRB2 binding adaptor protein, transmembrane
+Details
+
+21	
+94
+
+hsa-miR-361-5p	OPTN	optineurin
+Details
+
+22	
+93
+
+hsa-miR-361-5p	RDH11	retinol dehydrogenase 11
+Details
+
+23	
+93
+
+hsa-miR-361-5p	PROSER3	proline and serine rich 3
+Details
+
+24	
+93
+
+hsa-miR-361-5p	RAG1	recombination activating 1
+Details
+
+25	
+93
+
+hsa-miR-361-5p	SCAF8	SR-related CTD associated factor 8
+Details
+
+26	
+93
+
+hsa-miR-361-5p	ZBTB40	zinc finger and BTB domain containing 40
+Details
+
+27	
+93
+
+hsa-miR-361-5p	KPNB1	karyopherin subunit beta 1
+Details
+
+28	
+93
+
+hsa-miR-361-5p	ELOVL7	ELOVL fatty acid elongase 7
+Details
+
+29	
+92
+
+hsa-miR-361-5p	PLD1	phospholipase D1
+Details
+
+30	
+92
+
+hsa-miR-361-5p	FGF5	fibroblast growth factor 5
+Details
+
+31	
+92
+
+hsa-miR-361-5p	OGN	osteoglycin
+Details
+
+32	
+92
+
+hsa-miR-361-5p	NFE2	nuclear factor, erythroid 2
+Details
+
+33	
+92
+
+hsa-miR-361-5p	FUT9	fucosyltransferase 9
+Details
+
+34	
+92
+
+hsa-miR-361-5p	ANO6	anoctamin 6
+Details
+
+35	
+92
+
+hsa-miR-361-5p	TIPIN	TIMELESS interacting protein
+Details
+
+36	
+92
+
+hsa-miR-361-5p	ABHD3	abhydrolase domain containing 3
+Details
+
+37	
+91
+
+hsa-miR-361-5p	ATPAF1	ATP synthase mitochondrial F1 complex assembly factor 1
+Details
+
+38	
+91
+
+hsa-miR-361-5p	AWAT2	acyl-CoA wax alcohol acyltransferase 2
+Details
+
+39	
+91
+
+hsa-miR-361-5p	EDIL3	EGF like repeats and discoidin domains 3
+Details
+
+40	
+91
+
+hsa-miR-361-5p	CSNK1G3	casein kinase 1 gamma 3
+Details
+
+41	
+91
+
+hsa-miR-361-5p	SOWAHC	sosondowah ankyrin repeat domain family member C
+Details
+
+42	
+91
+
+hsa-miR-361-5p	THUMPD1	THUMP domain containing 1
+Details
+
+43	
+91
+
+hsa-miR-361-5p	GVQW2	GVQW motif containing 2
+Details
+
+44	
+91
+
+hsa-miR-361-5p	ELL3	elongation factor for RNA polymerase II 3
+Details
+
+45	
+91
+
+hsa-miR-361-5p	RRAGB	Ras related GTP binding B
+Details
+
+46	
+91
+
+hsa-miR-361-5p	ZNF460	zinc finger protein 460
+Details
+
+47	
+90
+
+hsa-miR-361-5p	DCTN6	dynactin subunit 6
+Details
+
+48	
+90
+
+hsa-miR-361-5p	SP1	Sp1 transcription factor
+Details
+
+49	
+90
+
+hsa-miR-361-5p	CNTN1	contactin 1
+Details
+
+50	
+90
+
+hsa-miR-361-5p	CCDC178	coiled-coil domain containing 178
+Details
+
+51	
+90
+
+hsa-miR-361-5p	ZBTB18	zinc finger and BTB domain containing 18
+Details
+
+52	
+90
+
+hsa-miR-361-5p	ARRDC3	arrestin domain containing 3
+Details
+
+53	
+90
+
+hsa-miR-361-5p	INTS8	integrator complex subunit 8
+Details
+
+54	
+90
+
+hsa-miR-361-5p	WNT3	Wnt family member 3
+Details
+
+55	
+90
+
+hsa-miR-361-5p	GLRB	glycine receptor beta
+Details
+
+56	
+90
+
+hsa-miR-361-5p	GOLGA4	golgin A4
+Details
+
+57	
+90
+
+hsa-miR-361-5p	SYT10	synaptotagmin 10

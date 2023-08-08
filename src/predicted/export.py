@@ -4,6 +4,10 @@ import pandas as pd
 from db_helper import *
 from config import mir17_training_set as m17
 from config import mir10_testing_set as m10
+from config import mir26_testing_set as m26
+from config import mir54_training_set as m54
+
+
 
 
 def export_interactions(db_conn, root_path, out_file, config=None):
@@ -48,10 +52,9 @@ def export_interactions(db_conn, root_path, out_file, config=None):
 
 
 root_path = "~/code/mirna/resources/results"
-interaction_file = "mirdb_interactions_m10_s97_testing.csv"
 conn = psycopg2.connect(database="postgres", user="postgres", password="1qaz2wsX", host="127.0.0.1", port="5432")
 try:
-    export_interactions(conn, root_path, interaction_file, None)
+    export_interactions(conn, root_path, m26.interaction_file, m26.positive_mirnas)
 except(Exception, psycopg2.DatabaseError) as error:
     raise error
 finally:
