@@ -1,0 +1,367 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-6807-3p	FRMD5	FERM domain containing 5
+Details
+
+2	
+99
+
+hsa-miR-6807-3p	BCL11A	BCL11A, BAF complex component
+Details
+
+3	
+99
+
+hsa-miR-6807-3p	ATP11C	ATPase phospholipid transporting 11C
+Details
+
+4	
+99
+
+hsa-miR-6807-3p	DACH1	dachshund family transcription factor 1
+Details
+
+5	
+99
+
+hsa-miR-6807-3p	ANLN	anillin actin binding protein
+Details
+
+6	
+99
+
+hsa-miR-6807-3p	SLC38A2	solute carrier family 38 member 2
+Details
+
+7	
+98
+
+hsa-miR-6807-3p	ATP1B1	ATPase Na+/K+ transporting subunit beta 1
+Details
+
+8	
+98
+
+hsa-miR-6807-3p	ZCCHC2	zinc finger CCHC-type containing 2
+Details
+
+9	
+97
+
+hsa-miR-6807-3p	COX18	cytochrome c oxidase assembly factor COX18
+Details
+
+10	
+97
+
+hsa-miR-6807-3p	KDELC1	KDEL motif containing 1
+Details
+
+11	
+97
+
+hsa-miR-6807-3p	SH3PXD2A	SH3 and PX domains 2A
+Details
+
+12	
+97
+
+hsa-miR-6807-3p	MIER3	MIER family member 3
+Details
+
+13	
+96
+
+hsa-miR-6807-3p	APPBP2	amyloid beta precursor protein binding protein 2
+Details
+
+14	
+96
+
+hsa-miR-6807-3p	SPOPL	speckle type BTB/POZ protein like
+Details
+
+15	
+96
+
+hsa-miR-6807-3p	C5orf24	chromosome 5 open reading frame 24
+Details
+
+16	
+96
+
+hsa-miR-6807-3p	GPM6A	glycoprotein M6A
+Details
+
+17	
+95
+
+hsa-miR-6807-3p	YTHDC1	YTH domain containing 1
+Details
+
+18	
+95
+
+hsa-miR-6807-3p	EZH2	enhancer of zeste 2 polycomb repressive complex 2 subunit
+Details
+
+19	
+95
+
+hsa-miR-6807-3p	PPM1A	protein phosphatase, Mg2+/Mn2+ dependent 1A
+Details
+
+20	
+95
+
+hsa-miR-6807-3p	CHN2	chimerin 2
+Details
+
+21	
+94
+
+hsa-miR-6807-3p	TXNDC16	thioredoxin domain containing 16
+Details
+
+22	
+94
+
+hsa-miR-6807-3p	RIMS2	regulating synaptic membrane exocytosis 2
+Details
+
+23	
+94
+
+hsa-miR-6807-3p	DOCK3	dedicator of cytokinesis 3
+Details
+
+24	
+94
+
+hsa-miR-6807-3p	ATP8A1	ATPase phospholipid transporting 8A1
+Details
+
+25	
+93
+
+hsa-miR-6807-3p	ICK	intestinal cell kinase
+Details
+
+26	
+93
+
+hsa-miR-6807-3p	GBE1	1,4-alpha-glucan branching enzyme 1
+Details
+
+27	
+93
+
+hsa-miR-6807-3p	SCAMP1	secretory carrier membrane protein 1
+Details
+
+28	
+93
+
+hsa-miR-6807-3p	MAST4	microtubule associated serine/threonine kinase family member 4
+Details
+
+29	
+93
+
+hsa-miR-6807-3p	PPP4R2	protein phosphatase 4 regulatory subunit 2
+Details
+
+30	
+93
+
+hsa-miR-6807-3p	DACT1	dishevelled binding antagonist of beta catenin 1
+Details
+
+31	
+93
+
+hsa-miR-6807-3p	RAPGEF6	Rap guanine nucleotide exchange factor 6
+Details
+
+32	
+93
+
+hsa-miR-6807-3p	STT3A	STT3A, catalytic subunit of the oligosaccharyltransferase complex
+Details
+
+33	
+92
+
+hsa-miR-6807-3p	NAB1	NGFI-A binding protein 1
+Details
+
+34	
+92
+
+hsa-miR-6807-3p	RHOT1	ras homolog family member T1
+Details
+
+35	
+92
+
+hsa-miR-6807-3p	PDE12	phosphodiesterase 12
+Details
+
+36	
+92
+
+hsa-miR-6807-3p	GXYLT1	glucoside xylosyltransferase 1
+Details
+
+37	
+92
+
+hsa-miR-6807-3p	RTF1	RTF1 homolog, Paf1/RNA polymerase II complex component
+Details
+
+38	
+92
+
+hsa-miR-6807-3p	ALDH16A1	aldehyde dehydrogenase 16 family member A1
+Details
+
+39	
+92
+
+hsa-miR-6807-3p	MGAT4A	alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase A
+Details
+
+40	
+92
+
+hsa-miR-6807-3p	RAB4A	RAB4A, member RAS oncogene family
+Details
+
+41	
+92
+
+hsa-miR-6807-3p	HNF1B	HNF1 homeobox B
+Details
+
+42	
+92
+
+hsa-miR-6807-3p	CDYL2	chromodomain Y like 2
+Details
+
+43	
+92
+
+hsa-miR-6807-3p	ZNF680	zinc finger protein 680
+Details
+
+44	
+91
+
+hsa-miR-6807-3p	HS3ST3A1	heparan sulfate-glucosamine 3-sulfotransferase 3A1
+Details
+
+45	
+91
+
+hsa-miR-6807-3p	TMTC4	transmembrane and tetratricopeptide repeat containing 4
+Details
+
+46	
+91
+
+hsa-miR-6807-3p	MYEF2	myelin expression factor 2
+Details
+
+47	
+91
+
+hsa-miR-6807-3p	CA8	carbonic anhydrase 8
+Details
+
+48	
+91
+
+hsa-miR-6807-3p	FBN2	fibrillin 2
+Details
+
+49	
+91
+
+hsa-miR-6807-3p	KRAS	KRAS proto-oncogene, GTPase
+Details
+
+50	
+91
+
+hsa-miR-6807-3p	ADGRB3	adhesion G protein-coupled receptor B3
+Details
+
+51	
+91
+
+hsa-miR-6807-3p	ATF1	activating transcription factor 1
+Details
+
+52	
+91
+
+hsa-miR-6807-3p	KATNA1	katanin catalytic subunit A1
+Details
+
+53	
+91
+
+hsa-miR-6807-3p	ACER3	alkaline ceramidase 3
+Details
+
+54	
+91
+
+hsa-miR-6807-3p	AAK1	AP2 associated kinase 1
+Details
+
+55	
+90
+
+hsa-miR-6807-3p	ZBTB24	zinc finger and BTB domain containing 24
+Details
+
+56	
+90
+
+hsa-miR-6807-3p	CTNNB1	catenin beta 1
+Details
+
+57	
+90
+
+hsa-miR-6807-3p	POLD3	DNA polymerase delta 3, accessory subunit
+Details
+
+58	
+90
+
+hsa-miR-6807-3p	WAPL	WAPL cohesin release factor
+Details
+
+59	
+90
+
+hsa-miR-6807-3p	ZNF92	zinc finger protein 92
+Details
+
+60	
+90
+
+hsa-miR-6807-3p	USP27X	ubiquitin specific peptidase 27 X-linked
+Details
+
+61	
+90
+
+hsa-miR-6807-3p	HIVEP3	human immunodeficiency virus type I enhancer binding protein 3

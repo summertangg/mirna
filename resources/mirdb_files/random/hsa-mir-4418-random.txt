@@ -1,0 +1,247 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+97
+
+hsa-miR-4418	TARDBP	TAR DNA binding protein
+Details
+
+2	
+97
+
+hsa-miR-4418	CALD1	caldesmon 1
+Details
+
+3	
+97
+
+hsa-miR-4418	SERTAD2	SERTA domain containing 2
+Details
+
+4	
+96
+
+hsa-miR-4418	NFAT5	nuclear factor of activated T cells 5
+Details
+
+5	
+96
+
+hsa-miR-4418	DOCK3	dedicator of cytokinesis 3
+Details
+
+6	
+96
+
+hsa-miR-4418	RHOT1	ras homolog family member T1
+Details
+
+7	
+96
+
+hsa-miR-4418	AGFG1	ArfGAP with FG repeats 1
+Details
+
+8	
+96
+
+hsa-miR-4418	SLC38A2	solute carrier family 38 member 2
+Details
+
+9	
+95
+
+hsa-miR-4418	FIGN	fidgetin, microtubule severing factor
+Details
+
+10	
+95
+
+hsa-miR-4418	CCSER2	coiled-coil serine rich protein 2
+Details
+
+11	
+94
+
+hsa-miR-4418	CD200R1	CD200 receptor 1
+Details
+
+12	
+94
+
+hsa-miR-4418	KIAA0232	KIAA0232
+Details
+
+13	
+94
+
+hsa-miR-4418	GALC	galactosylceramidase
+Details
+
+14	
+94
+
+hsa-miR-4418	GPM6A	glycoprotein M6A
+Details
+
+15	
+94
+
+hsa-miR-4418	ANKMY2	ankyrin repeat and MYND domain containing 2
+Details
+
+16	
+93
+
+hsa-miR-4418	E2F7	E2F transcription factor 7
+Details
+
+17	
+93
+
+hsa-miR-4418	SHROOM1	shroom family member 1
+Details
+
+18	
+93
+
+hsa-miR-4418	SLC25A38	solute carrier family 25 member 38
+Details
+
+19	
+93
+
+hsa-miR-4418	RETREG1	reticulophagy regulator 1
+Details
+
+20	
+93
+
+hsa-miR-4418	NUDT7	nudix hydrolase 7
+Details
+
+21	
+93
+
+hsa-miR-4418	NLGN1	neuroligin 1
+Details
+
+22	
+92
+
+hsa-miR-4418	ELOC	elongin C
+Details
+
+23	
+92
+
+hsa-miR-4418	TNFRSF19	TNF receptor superfamily member 19
+Details
+
+24	
+92
+
+hsa-miR-4418	NCAM1	neural cell adhesion molecule 1
+Details
+
+25	
+92
+
+hsa-miR-4418	ANKRD50	ankyrin repeat domain 50
+Details
+
+26	
+92
+
+hsa-miR-4418	SLC38A9	solute carrier family 38 member 9
+Details
+
+27	
+92
+
+hsa-miR-4418	SYNJ2BP	synaptojanin 2 binding protein
+Details
+
+28	
+91
+
+hsa-miR-4418	MGAT4A	alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase A
+Details
+
+29	
+91
+
+hsa-miR-4418	TDG	thymine DNA glycosylase
+Details
+
+30	
+91
+
+hsa-miR-4418	INO80D	INO80 complex subunit D
+Details
+
+31	
+91
+
+hsa-miR-4418	TMEM26	transmembrane protein 26
+Details
+
+32	
+91
+
+hsa-miR-4418	SPOPL	speckle type BTB/POZ protein like
+Details
+
+33	
+91
+
+hsa-miR-4418	EPB41	erythrocyte membrane protein band 4.1
+Details
+
+34	
+91
+
+hsa-miR-4418	C2orf73	chromosome 2 open reading frame 73
+Details
+
+35	
+91
+
+hsa-miR-4418	JARID2	jumonji and AT-rich interaction domain containing 2
+Details
+
+36	
+91
+
+hsa-miR-4418	WDR82	WD repeat domain 82
+Details
+
+37	
+90
+
+hsa-miR-4418	OGG1	8-oxoguanine DNA glycosylase
+Details
+
+38	
+90
+
+hsa-miR-4418	IP6K3	inositol hexakisphosphate kinase 3
+Details
+
+39	
+90
+
+hsa-miR-4418	CTNNB1	catenin beta 1
+Details
+
+40	
+90
+
+hsa-miR-4418	FGF2	fibroblast growth factor 2
+Details
+
+41	
+90
+
+hsa-miR-4418	MXRA5	matrix remodeling associated 5

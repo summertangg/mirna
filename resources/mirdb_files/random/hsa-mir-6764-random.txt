@@ -1,0 +1,463 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-6764-5p	DEAF1	DEAF1 transcription factor
+Details
+
+2	
+100
+
+hsa-miR-6764-5p	TFE3	transcription factor binding to IGHM enhancer 3
+Details
+
+3	
+99
+
+hsa-miR-6764-5p	MAFF	MAF bZIP transcription factor F
+Details
+
+4	
+98
+
+hsa-miR-6764-5p	WSCD1	WSC domain containing 1
+Details
+
+5	
+98
+
+hsa-miR-6764-5p	CDIP1	cell death inducing p53 target 1
+Details
+
+6	
+97
+
+hsa-miR-6764-5p	HEYL	hes related family bHLH transcription factor with YRPW motif-like
+Details
+
+7	
+97
+
+hsa-miR-6764-5p	C12orf49	chromosome 12 open reading frame 49
+Details
+
+8	
+97
+
+hsa-miR-6764-5p	PPP2R5D	protein phosphatase 2 regulatory subunit B'delta
+Details
+
+9	
+97
+
+hsa-miR-6764-5p	MYRF	myelin regulatory factor
+Details
+
+10	
+96
+
+hsa-miR-6764-5p	ADCY6	adenylate cyclase 6
+Details
+
+11	
+96
+
+hsa-miR-6764-5p	PDGFRB	platelet derived growth factor receptor beta
+Details
+
+12	
+96
+
+hsa-miR-6764-5p	CEP250	centrosomal protein 250
+Details
+
+13	
+96
+
+hsa-miR-6764-5p	TMEM217	transmembrane protein 217
+Details
+
+14	
+96
+
+hsa-miR-6764-5p	SREBF2	sterol regulatory element binding transcription factor 2
+Details
+
+15	
+95
+
+hsa-miR-6764-5p	KIF13A	kinesin family member 13A
+Details
+
+16	
+95
+
+hsa-miR-6764-5p	CACNG2	calcium voltage-gated channel auxiliary subunit gamma 2
+Details
+
+17	
+95
+
+hsa-miR-6764-5p	HHIPL2	HHIP like 2
+Details
+
+18	
+94
+
+hsa-miR-6764-5p	ELMSAN1	ELM2 and Myb/SANT domain containing 1
+Details
+
+19	
+94
+
+hsa-miR-6764-5p	TPBGL	trophoblast glycoprotein like
+Details
+
+20	
+94
+
+hsa-miR-6764-5p	CHTF8	chromosome transmission fidelity factor 8
+Details
+
+21	
+94
+
+hsa-miR-6764-5p	YPEL4	yippee like 4
+Details
+
+22	
+94
+
+hsa-miR-6764-5p	ALAD	aminolevulinate dehydratase
+Details
+
+23	
+94
+
+hsa-miR-6764-5p	EFR3B	EFR3 homolog B
+Details
+
+24	
+94
+
+hsa-miR-6764-5p	SLC18A1	solute carrier family 18 member A1
+Details
+
+25	
+94
+
+hsa-miR-6764-5p	RNF216	ring finger protein 216
+Details
+
+26	
+94
+
+hsa-miR-6764-5p	MMP24	matrix metallopeptidase 24
+Details
+
+27	
+94
+
+hsa-miR-6764-5p	LIN28A	lin-28 homolog A
+Details
+
+28	
+93
+
+hsa-miR-6764-5p	ZNF609	zinc finger protein 609
+Details
+
+29	
+93
+
+hsa-miR-6764-5p	MIGA2	mitoguardin 2
+Details
+
+30	
+93
+
+hsa-miR-6764-5p	STC1	stanniocalcin 1
+Details
+
+31	
+93
+
+hsa-miR-6764-5p	NPTX1	neuronal pentraxin 1
+Details
+
+32	
+93
+
+hsa-miR-6764-5p	ZNF426	zinc finger protein 426
+Details
+
+33	
+93
+
+hsa-miR-6764-5p	SORCS2	sortilin related VPS10 domain containing receptor 2
+Details
+
+34	
+93
+
+hsa-miR-6764-5p	TRIM67	tripartite motif containing 67
+Details
+
+35	
+93
+
+hsa-miR-6764-5p	RIMS4	regulating synaptic membrane exocytosis 4
+Details
+
+36	
+93
+
+hsa-miR-6764-5p	SPRED3	sprouty related EVH1 domain containing 3
+Details
+
+37	
+92
+
+hsa-miR-6764-5p	NDOR1	NADPH dependent diflavin oxidoreductase 1
+Details
+
+38	
+92
+
+hsa-miR-6764-5p	MEF2D	myocyte enhancer factor 2D
+Details
+
+39	
+92
+
+hsa-miR-6764-5p	CPXM2	carboxypeptidase X, M14 family member 2
+Details
+
+40	
+92
+
+hsa-miR-6764-5p	KCNC2	potassium voltage-gated channel subfamily C member 2
+Details
+
+41	
+92
+
+hsa-miR-6764-5p	CACFD1	calcium channel flower domain containing 1
+Details
+
+42	
+92
+
+hsa-miR-6764-5p	NDST1	N-deacetylase and N-sulfotransferase 1
+Details
+
+43	
+92
+
+hsa-miR-6764-5p	WNT3A	Wnt family member 3A
+Details
+
+44	
+92
+
+hsa-miR-6764-5p	ANKRD52	ankyrin repeat domain 52
+Details
+
+45	
+92
+
+hsa-miR-6764-5p	SET	SET nuclear proto-oncogene
+Details
+
+46	
+92
+
+hsa-miR-6764-5p	SLC7A8	solute carrier family 7 member 8
+Details
+
+47	
+92
+
+hsa-miR-6764-5p	OVOL1	ovo like transcriptional repressor 1
+Details
+
+48	
+92
+
+hsa-miR-6764-5p	CA7	carbonic anhydrase 7
+Details
+
+49	
+92
+
+hsa-miR-6764-5p	C1RL	complement C1r subcomponent like
+Details
+
+50	
+92
+
+hsa-miR-6764-5p	PTGES2	prostaglandin E synthase 2
+Details
+
+51	
+92
+
+hsa-miR-6764-5p	ADRA2B	adrenoceptor alpha 2B
+Details
+
+52	
+92
+
+hsa-miR-6764-5p	PNMA8B	PNMA family member 8B
+Details
+
+53	
+92
+
+hsa-miR-6764-5p	CALCR	calcitonin receptor
+Details
+
+54	
+92
+
+hsa-miR-6764-5p	NEURL1B	neuralized E3 ubiquitin protein ligase 1B
+Details
+
+55	
+91
+
+hsa-miR-6764-5p	RABEP2	rabaptin, RAB GTPase binding effector protein 2
+Details
+
+56	
+91
+
+hsa-miR-6764-5p	PRAG1	PEAK1 related, kinase-activating pseudokinase 1
+Details
+
+57	
+91
+
+hsa-miR-6764-5p	EXOC3L2	exocyst complex component 3 like 2
+Details
+
+58	
+91
+
+hsa-miR-6764-5p	ZC3H12A	zinc finger CCCH-type containing 12A
+Details
+
+59	
+91
+
+hsa-miR-6764-5p	SZT2	SZT2, KICSTOR complex subunit
+Details
+
+60	
+91
+
+hsa-miR-6764-5p	OR2H1	olfactory receptor family 2 subfamily H member 1
+Details
+
+61	
+91
+
+hsa-miR-6764-5p	MLEC	malectin
+Details
+
+62	
+91
+
+hsa-miR-6764-5p	ARHGAP32	Rho GTPase activating protein 32
+Details
+
+63	
+91
+
+hsa-miR-6764-5p	MAVS	mitochondrial antiviral signaling protein
+Details
+
+64	
+91
+
+hsa-miR-6764-5p	TSKU	tsukushi, small leucine rich proteoglycan
+Details
+
+65	
+91
+
+hsa-miR-6764-5p	ZNF474	zinc finger protein 474
+Details
+
+66	
+91
+
+hsa-miR-6764-5p	MXI1	MAX interactor 1, dimerization protein
+Details
+
+67	
+90
+
+hsa-miR-6764-5p	SPSB1	splA/ryanodine receptor domain and SOCS box containing 1
+Details
+
+68	
+90
+
+hsa-miR-6764-5p	IFITM10	interferon induced transmembrane protein 10
+Details
+
+69	
+90
+
+hsa-miR-6764-5p	PRR30	proline rich 30
+Details
+
+70	
+90
+
+hsa-miR-6764-5p	NEURL1	neuralized E3 ubiquitin protein ligase 1
+Details
+
+71	
+90
+
+hsa-miR-6764-5p	MGAT3	mannosyl (beta-1,4-)-glycoprotein beta-1,4-N-acetylglucosaminyltransferase
+Details
+
+72	
+90
+
+hsa-miR-6764-5p	SYT7	synaptotagmin 7
+Details
+
+73	
+90
+
+hsa-miR-6764-5p	XRCC3	X-ray repair cross complementing 3
+Details
+
+74	
+90
+
+hsa-miR-6764-5p	SPRYD3	SPRY domain containing 3
+Details
+
+75	
+90
+
+hsa-miR-6764-5p	TNFSF8	TNF superfamily member 8
+Details
+
+76	
+90
+
+hsa-miR-6764-5p	LSS	lanosterol synthase
+Details
+
+77	
+90
+
+hsa-miR-6764-5p	DAGLA	diacylglycerol lipase alpha

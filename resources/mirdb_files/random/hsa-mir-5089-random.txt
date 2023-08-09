@@ -1,0 +1,175 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+98
+
+hsa-miR-5089-5p	MRPL57	mitochondrial ribosomal protein L57
+Details
+
+2	
+98
+
+hsa-miR-5089-5p	CKAP2L	cytoskeleton associated protein 2 like
+Details
+
+3	
+97
+
+hsa-miR-5089-5p	CAMK1D	calcium/calmodulin dependent protein kinase ID
+Details
+
+4	
+96
+
+hsa-miR-5089-5p	ABHD18	abhydrolase domain containing 18
+Details
+
+5	
+96
+
+hsa-miR-5089-5p	ASTN1	astrotactin 1
+Details
+
+6	
+96
+
+hsa-miR-5089-5p	H2AFV	H2A histone family member V
+Details
+
+7	
+96
+
+hsa-miR-5089-5p	CLIP3	CAP-Gly domain containing linker protein 3
+Details
+
+8	
+94
+
+hsa-miR-5089-5p	INPP5F	inositol polyphosphate-5-phosphatase F
+Details
+
+9	
+94
+
+hsa-miR-5089-5p	RAET1E	retinoic acid early transcript 1E
+Details
+
+10	
+94
+
+hsa-miR-5089-5p	CBX2	chromobox 2
+Details
+
+11	
+94
+
+hsa-miR-5089-5p	ADTRP	androgen dependent TFPI regulating protein
+Details
+
+12	
+94
+
+hsa-miR-5089-5p	CYP20A1	cytochrome P450 family 20 subfamily A member 1
+Details
+
+13	
+94
+
+hsa-miR-5089-5p	LOC403312	putative uncharacterized protein MGC39545
+Details
+
+14	
+93
+
+hsa-miR-5089-5p	ZNF552	zinc finger protein 552
+Details
+
+15	
+93
+
+hsa-miR-5089-5p	CBLN2	cerebellin 2 precursor
+Details
+
+16	
+93
+
+hsa-miR-5089-5p	AAK1	AP2 associated kinase 1
+Details
+
+17	
+92
+
+hsa-miR-5089-5p	PRDM5	PR/SET domain 5
+Details
+
+18	
+92
+
+hsa-miR-5089-5p	FANCM	FA complementation group M
+Details
+
+19	
+91
+
+hsa-miR-5089-5p	ILDR2	immunoglobulin like domain containing receptor 2
+Details
+
+20	
+91
+
+hsa-miR-5089-5p	ENPP6	ectonucleotide pyrophosphatase/phosphodiesterase 6
+Details
+
+21	
+91
+
+hsa-miR-5089-5p	IKZF3	IKAROS family zinc finger 3
+Details
+
+22	
+91
+
+hsa-miR-5089-5p	PNMA2	PNMA family member 2
+Details
+
+23	
+91
+
+hsa-miR-5089-5p	IQUB	IQ motif and ubiquitin domain containing
+Details
+
+24	
+91
+
+hsa-miR-5089-5p	ATF7IP2	activating transcription factor 7 interacting protein 2
+Details
+
+25	
+91
+
+hsa-miR-5089-5p	COLEC12	collectin subfamily member 12
+Details
+
+26	
+90
+
+hsa-miR-5089-5p	KIAA0754	KIAA0754
+Details
+
+27	
+90
+
+hsa-miR-5089-5p	ASB7	ankyrin repeat and SOCS box containing 7
+Details
+
+28	
+90
+
+hsa-miR-5089-5p	ITGA2	integrin subunit alpha 2
+Details
+
+29	
+90
+
+hsa-miR-5089-5p	NRIP1	nuclear receptor interacting protein 1

@@ -1,0 +1,847 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-12124	FBXO11	F-box protein 11
+Details
+
+2	
+99
+
+hsa-miR-12124	RICTOR	RPTOR independent companion of MTOR complex 2
+Details
+
+3	
+99
+
+hsa-miR-12124	LRP2	LDL receptor related protein 2
+Details
+
+4	
+99
+
+hsa-miR-12124	INO80D	INO80 complex subunit D
+Details
+
+5	
+98
+
+hsa-miR-12124	RAB3GAP2	RAB3 GTPase activating non-catalytic protein subunit 2
+Details
+
+6	
+98
+
+hsa-miR-12124	CHAC2	ChaC cation transport regulator homolog 2
+Details
+
+7	
+98
+
+hsa-miR-12124	ADAMTS6	ADAM metallopeptidase with thrombospondin type 1 motif 6
+Details
+
+8	
+98
+
+hsa-miR-12124	FAM122A	family with sequence similarity 122A
+Details
+
+9	
+98
+
+hsa-miR-12124	A1CF	APOBEC1 complementation factor
+Details
+
+10	
+98
+
+hsa-miR-12124	ZBTB14	zinc finger and BTB domain containing 14
+Details
+
+11	
+98
+
+hsa-miR-12124	SEMA3A	semaphorin 3A
+Details
+
+12	
+98
+
+hsa-miR-12124	UBE2H	ubiquitin conjugating enzyme E2 H
+Details
+
+13	
+98
+
+hsa-miR-12124	ZNF148	zinc finger protein 148
+Details
+
+14	
+98
+
+hsa-miR-12124	AAK1	AP2 associated kinase 1
+Details
+
+15	
+98
+
+hsa-miR-12124	DLG4	discs large MAGUK scaffold protein 4
+Details
+
+16	
+98
+
+hsa-miR-12124	C3orf70	chromosome 3 open reading frame 70
+Details
+
+17	
+97
+
+hsa-miR-12124	STARD13	StAR related lipid transfer domain containing 13
+Details
+
+18	
+97
+
+hsa-miR-12124	UNC5C	unc-5 netrin receptor C
+Details
+
+19	
+97
+
+hsa-miR-12124	SAR1B	secretion associated Ras related GTPase 1B
+Details
+
+20	
+97
+
+hsa-miR-12124	SCAI	suppressor of cancer cell invasion
+Details
+
+21	
+97
+
+hsa-miR-12124	ZNF772	zinc finger protein 772
+Details
+
+22	
+97
+
+hsa-miR-12124	ATG5	autophagy related 5
+Details
+
+23	
+96
+
+hsa-miR-12124	KCNT2	potassium sodium-activated channel subfamily T member 2
+Details
+
+24	
+96
+
+hsa-miR-12124	PIKFYVE	phosphoinositide kinase, FYVE-type zinc finger containing
+Details
+
+25	
+96
+
+hsa-miR-12124	PPP3R1	protein phosphatase 3 regulatory subunit B, alpha
+Details
+
+26	
+96
+
+hsa-miR-12124	EML4	EMAP like 4
+Details
+
+27	
+96
+
+hsa-miR-12124	MINDY2	MINDY lysine 48 deubiquitinase 2
+Details
+
+28	
+96
+
+hsa-miR-12124	FGF2	fibroblast growth factor 2
+Details
+
+29	
+95
+
+hsa-miR-12124	HLCS	holocarboxylase synthetase
+Details
+
+30	
+95
+
+hsa-miR-12124	SUN1	Sad1 and UNC84 domain containing 1
+Details
+
+31	
+95
+
+hsa-miR-12124	ASH1L	ASH1 like histone lysine methyltransferase
+Details
+
+32	
+95
+
+hsa-miR-12124	UBTD2	ubiquitin domain containing 2
+Details
+
+33	
+95
+
+hsa-miR-12124	GTF2H1	general transcription factor IIH subunit 1
+Details
+
+34	
+95
+
+hsa-miR-12124	ZEB2	zinc finger E-box binding homeobox 2
+Details
+
+35	
+95
+
+hsa-miR-12124	PLPPR4	phospholipid phosphatase related 4
+Details
+
+36	
+95
+
+hsa-miR-12124	LARP4	La ribonucleoprotein domain family member 4
+Details
+
+37	
+94
+
+hsa-miR-12124	CSN2	casein beta
+Details
+
+38	
+94
+
+hsa-miR-12124	TAF7L	TATA-box binding protein associated factor 7 like
+Details
+
+39	
+94
+
+hsa-miR-12124	PRR27	proline rich 27
+Details
+
+40	
+94
+
+hsa-miR-12124	GRIN2A	glutamate ionotropic receptor NMDA type subunit 2A
+Details
+
+41	
+94
+
+hsa-miR-12124	GALNT18	polypeptide N-acetylgalactosaminyltransferase 18
+Details
+
+42	
+94
+
+hsa-miR-12124	TXNDC16	thioredoxin domain containing 16
+Details
+
+43	
+94
+
+hsa-miR-12124	GNAQ	G protein subunit alpha q
+Details
+
+44	
+94
+
+hsa-miR-12124	NUP43	nucleoporin 43
+Details
+
+45	
+94
+
+hsa-miR-12124	MXD1	MAX dimerization protein 1
+Details
+
+46	
+94
+
+hsa-miR-12124	FUT9	fucosyltransferase 9
+Details
+
+47	
+94
+
+hsa-miR-12124	MGAT4A	alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase A
+Details
+
+48	
+94
+
+hsa-miR-12124	NEK3	NIMA related kinase 3
+Details
+
+49	
+94
+
+hsa-miR-12124	SOS1	SOS Ras/Rac guanine nucleotide exchange factor 1
+Details
+
+50	
+94
+
+hsa-miR-12124	AIDA	axin interactor, dorsalization associated
+Details
+
+51	
+94
+
+hsa-miR-12124	SLC30A4	solute carrier family 30 member 4
+Details
+
+52	
+94
+
+hsa-miR-12124	CACNB4	calcium voltage-gated channel auxiliary subunit beta 4
+Details
+
+53	
+94
+
+hsa-miR-12124	PRLR	prolactin receptor
+Details
+
+54	
+94
+
+hsa-miR-12124	HDAC9	histone deacetylase 9
+Details
+
+55	
+94
+
+hsa-miR-12124	ZBTB20	zinc finger and BTB domain containing 20
+Details
+
+56	
+94
+
+hsa-miR-12124	DNM3	dynamin 3
+Details
+
+57	
+94
+
+hsa-miR-12124	SGMS1	sphingomyelin synthase 1
+Details
+
+58	
+94
+
+hsa-miR-12124	ADHFE1	alcohol dehydrogenase, iron containing 1
+Details
+
+59	
+93
+
+hsa-miR-12124	MRE11	MRE11 homolog, double strand break repair nuclease
+Details
+
+60	
+93
+
+hsa-miR-12124	KPNA3	karyopherin subunit alpha 3
+Details
+
+61	
+93
+
+hsa-miR-12124	CERKL	ceramide kinase like
+Details
+
+62	
+93
+
+hsa-miR-12124	RBM12	RNA binding motif protein 12
+Details
+
+63	
+93
+
+hsa-miR-12124	PRKACB	protein kinase cAMP-activated catalytic subunit beta
+Details
+
+64	
+93
+
+hsa-miR-12124	ERRFI1	ERBB receptor feedback inhibitor 1
+Details
+
+65	
+93
+
+hsa-miR-12124	ITGA8	integrin subunit alpha 8
+Details
+
+66	
+93
+
+hsa-miR-12124	UNC5B	unc-5 netrin receptor B
+Details
+
+67	
+93
+
+hsa-miR-12124	LMNB1	lamin B1
+Details
+
+68	
+93
+
+hsa-miR-12124	ACTR3B	ARP3 actin related protein 3 homolog B
+Details
+
+69	
+93
+
+hsa-miR-12124	ITGA4	integrin subunit alpha 4
+Details
+
+70	
+93
+
+hsa-miR-12124	DDX10	DEAD-box helicase 10
+Details
+
+71	
+93
+
+hsa-miR-12124	SRGAP2B	SLIT-ROBO Rho GTPase activating protein 2B
+Details
+
+72	
+93
+
+hsa-miR-12124	SGCZ	sarcoglycan zeta
+Details
+
+73	
+93
+
+hsa-miR-12124	HPCAL4	hippocalcin like 4
+Details
+
+74	
+93
+
+hsa-miR-12124	KLF12	Kruppel like factor 12
+Details
+
+75	
+93
+
+hsa-miR-12124	NETO1	neuropilin and tolloid like 1
+Details
+
+76	
+93
+
+hsa-miR-12124	TUB	tubby bipartite transcription factor
+Details
+
+77	
+93
+
+hsa-miR-12124	ECT2	epithelial cell transforming 2
+Details
+
+78	
+93
+
+hsa-miR-12124	SESTD1	SEC14 and spectrin domain containing 1
+Details
+
+79	
+93
+
+hsa-miR-12124	EXD1	exonuclease 3'-5' domain containing 1
+Details
+
+80	
+92
+
+hsa-miR-12124	CAB39L	calcium binding protein 39 like
+Details
+
+81	
+92
+
+hsa-miR-12124	HOOK3	hook microtubule tethering protein 3
+Details
+
+82	
+92
+
+hsa-miR-12124	AGL	amylo-alpha-1, 6-glucosidase, 4-alpha-glucanotransferase
+Details
+
+83	
+92
+
+hsa-miR-12124	PPP4R4	protein phosphatase 4 regulatory subunit 4
+Details
+
+84	
+92
+
+hsa-miR-12124	RFX3	regulatory factor X3
+Details
+
+85	
+92
+
+hsa-miR-12124	GRM3	glutamate metabotropic receptor 3
+Details
+
+86	
+92
+
+hsa-miR-12124	NECTIN2	nectin cell adhesion molecule 2
+Details
+
+87	
+92
+
+hsa-miR-12124	PDZRN4	PDZ domain containing ring finger 4
+Details
+
+88	
+92
+
+hsa-miR-12124	TP53INP1	tumor protein p53 inducible nuclear protein 1
+Details
+
+89	
+92
+
+hsa-miR-12124	PWWP3B	PWWP domain containing 3B
+Details
+
+90	
+92
+
+hsa-miR-12124	TMEM215	transmembrane protein 215
+Details
+
+91	
+92
+
+hsa-miR-12124	SEC63	SEC63 homolog, protein translocation regulator
+Details
+
+92	
+92
+
+hsa-miR-12124	DDX52	DExD-box helicase 52
+Details
+
+93	
+92
+
+hsa-miR-12124	ZNF706	zinc finger protein 706
+Details
+
+94	
+92
+
+hsa-miR-12124	ST6GALNAC3	ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 3
+Details
+
+95	
+92
+
+hsa-miR-12124	CCNE2	cyclin E2
+Details
+
+96	
+92
+
+hsa-miR-12124	WBP11	WW domain binding protein 11
+Details
+
+97	
+92
+
+hsa-miR-12124	HLA-DRA	major histocompatibility complex, class II, DR alpha
+Details
+
+98	
+92
+
+hsa-miR-12124	RANBP6	RAN binding protein 6
+Details
+
+99	
+91
+
+hsa-miR-12124	FBXL5	F-box and leucine rich repeat protein 5
+Details
+
+100	
+91
+
+hsa-miR-12124	SS18L1	SS18L1, nBAF chromatin remodeling complex subunit
+Details
+
+101	
+91
+
+hsa-miR-12124	MAX	MYC associated factor X
+Details
+
+102	
+91
+
+hsa-miR-12124	GABPB2	GA binding protein transcription factor subunit beta 2
+Details
+
+103	
+91
+
+hsa-miR-12124	MEIOC	meiosis specific with coiled-coil domain
+Details
+
+104	
+91
+
+hsa-miR-12124	TMEM30A	transmembrane protein 30A
+Details
+
+105	
+91
+
+hsa-miR-12124	ORC4	origin recognition complex subunit 4
+Details
+
+106	
+91
+
+hsa-miR-12124	USP46	ubiquitin specific peptidase 46
+Details
+
+107	
+91
+
+hsa-miR-12124	BBOX1	gamma-butyrobetaine hydroxylase 1
+Details
+
+108	
+91
+
+hsa-miR-12124	BRAF	B-Raf proto-oncogene, serine/threonine kinase
+Details
+
+109	
+91
+
+hsa-miR-12124	FRMD7	FERM domain containing 7
+Details
+
+110	
+91
+
+hsa-miR-12124	PLSCR4	phospholipid scramblase 4
+Details
+
+111	
+91
+
+hsa-miR-12124	FZD5	frizzled class receptor 5
+Details
+
+112	
+91
+
+hsa-miR-12124	FAAH2	fatty acid amide hydrolase 2
+Details
+
+113	
+91
+
+hsa-miR-12124	SOCS4	suppressor of cytokine signaling 4
+Details
+
+114	
+90
+
+hsa-miR-12124	LOC102724951	uncharacterized LOC102724951
+Details
+
+115	
+90
+
+hsa-miR-12124	RAD1	RAD1 checkpoint DNA exonuclease
+Details
+
+116	
+90
+
+hsa-miR-12124	RSPO4	R-spondin 4
+Details
+
+117	
+90
+
+hsa-miR-12124	PDLIM5	PDZ and LIM domain 5
+Details
+
+118	
+90
+
+hsa-miR-12124	CTBS	chitobiase
+Details
+
+119	
+90
+
+hsa-miR-12124	TRAF6	TNF receptor associated factor 6
+Details
+
+120	
+90
+
+hsa-miR-12124	BACH1	BTB domain and CNC homolog 1
+Details
+
+121	
+90
+
+hsa-miR-12124	SRP72	signal recognition particle 72
+Details
+
+122	
+90
+
+hsa-miR-12124	BTF3L4	basic transcription factor 3 like 4
+Details
+
+123	
+90
+
+hsa-miR-12124	FXYD6	FXYD domain containing ion transport regulator 6
+Details
+
+124	
+90
+
+hsa-miR-12124	CDK6	cyclin dependent kinase 6
+Details
+
+125	
+90
+
+hsa-miR-12124	KCTD12	potassium channel tetramerization domain containing 12
+Details
+
+126	
+90
+
+hsa-miR-12124	LINGO1	leucine rich repeat and Ig domain containing 1
+Details
+
+127	
+90
+
+hsa-miR-12124	LOC102723360	uncharacterized LOC102723360
+Details
+
+128	
+90
+
+hsa-miR-12124	LOC102724219	uncharacterized LOC102724219
+Details
+
+129	
+90
+
+hsa-miR-12124	NEBL	nebulette
+Details
+
+130	
+90
+
+hsa-miR-12124	SRGAP2C	SLIT-ROBO Rho GTPase activating protein 2C
+Details
+
+131	
+90
+
+hsa-miR-12124	NR3C1	nuclear receptor subfamily 3 group C member 1
+Details
+
+132	
+90
+
+hsa-miR-12124	LOC102724843	uncharacterized LOC102724843
+Details
+
+133	
+90
+
+hsa-miR-12124	SPDYA	speedy/RINGO cell cycle regulator family member A
+Details
+
+134	
+90
+
+hsa-miR-12124	USP24	ubiquitin specific peptidase 24
+Details
+
+135	
+90
+
+hsa-miR-12124	HS2ST1	heparan sulfate 2-O-sulfotransferase 1
+Details
+
+136	
+90
+
+hsa-miR-12124	SLITRK2	SLIT and NTRK like family member 2
+Details
+
+137	
+90
+
+hsa-miR-12124	ZBTB5	zinc finger and BTB domain containing 5
+Details
+
+138	
+90
+
+hsa-miR-12124	PEX1	peroxisomal biogenesis factor 1
+Details
+
+139	
+90
+
+hsa-miR-12124	CLVS2	clavesin 2
+Details
+
+140	
+90
+
+hsa-miR-12124	LACC1	laccase domain containing 1
+Details
+
+141	
+90
+
+hsa-miR-12124	KIF21A	kinesin family member 21A

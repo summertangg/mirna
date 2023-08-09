@@ -1,0 +1,601 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-3202	ANKRD45	ankyrin repeat domain 45
+Details
+
+2	
+99
+
+hsa-miR-3202	ZBTB7B	zinc finger and BTB domain containing 7B
+Details
+
+3	
+99
+
+hsa-miR-3202	SLC35E2B	solute carrier family 35 member E2B
+Details
+
+4	
+99
+
+hsa-miR-3202	FGF12	fibroblast growth factor 12
+Details
+
+5	
+98
+
+hsa-miR-3202	TAOK3	TAO kinase 3
+Details
+
+6	
+98
+
+hsa-miR-3202	PDE4A	phosphodiesterase 4A
+Details
+
+7	
+98
+
+hsa-miR-3202	GAS7	growth arrest specific 7
+Details
+
+8	
+98
+
+hsa-miR-3202	MECP2	methyl-CpG binding protein 2
+Details
+
+9	
+98
+
+hsa-miR-3202	POU3F4	POU class 3 homeobox 4
+Details
+
+10	
+97
+
+hsa-miR-3202	SPRY4	sprouty RTK signaling antagonist 4
+Details
+
+11	
+97
+
+hsa-miR-3202	CKAP4	cytoskeleton associated protein 4
+Details
+
+12	
+97
+
+hsa-miR-3202	FOXP4	forkhead box P4
+Details
+
+13	
+97
+
+hsa-miR-3202	ZNF703	zinc finger protein 703
+Details
+
+14	
+97
+
+hsa-miR-3202	ADCYAP1R1	ADCYAP receptor type I
+Details
+
+15	
+97
+
+hsa-miR-3202	TXN2	thioredoxin 2
+Details
+
+16	
+96
+
+hsa-miR-3202	PIANP	PILR alpha associated neural protein
+Details
+
+17	
+96
+
+hsa-miR-3202	GOLGA1	golgin A1
+Details
+
+18	
+96
+
+hsa-miR-3202	FKBP4	FKBP prolyl isomerase 4
+Details
+
+19	
+96
+
+hsa-miR-3202	LARP1	La ribonucleoprotein domain family member 1
+Details
+
+20	
+96
+
+hsa-miR-3202	LPP	LIM domain containing preferred translocation partner in lipoma
+Details
+
+21	
+96
+
+hsa-miR-3202	TAOK2	TAO kinase 2
+Details
+
+22	
+96
+
+hsa-miR-3202	MLEC	malectin
+Details
+
+23	
+96
+
+hsa-miR-3202	SHISA6	shisa family member 6
+Details
+
+24	
+96
+
+hsa-miR-3202	GTPBP3	GTP binding protein 3, mitochondrial
+Details
+
+25	
+96
+
+hsa-miR-3202	SSH2	slingshot protein phosphatase 2
+Details
+
+26	
+96
+
+hsa-miR-3202	BAZ2A	bromodomain adjacent to zinc finger domain 2A
+Details
+
+27	
+95
+
+hsa-miR-3202	H2AFX	H2A histone family member X
+Details
+
+28	
+95
+
+hsa-miR-3202	CECR2	CECR2, histone acetyl-lysine reader
+Details
+
+29	
+95
+
+hsa-miR-3202	SLC41A1	solute carrier family 41 member 1
+Details
+
+30	
+95
+
+hsa-miR-3202	DLK1	delta like non-canonical Notch ligand 1
+Details
+
+31	
+95
+
+hsa-miR-3202	COLGALT2	collagen beta(1-O)galactosyltransferase 2
+Details
+
+32	
+95
+
+hsa-miR-3202	CNDP1	carnosine dipeptidase 1
+Details
+
+33	
+95
+
+hsa-miR-3202	SUSD6	sushi domain containing 6
+Details
+
+34	
+95
+
+hsa-miR-3202	SRCIN1	SRC kinase signaling inhibitor 1
+Details
+
+35	
+95
+
+hsa-miR-3202	ZNF541	zinc finger protein 541
+Details
+
+36	
+94
+
+hsa-miR-3202	DHDDS	dehydrodolichyl diphosphate synthase subunit
+Details
+
+37	
+94
+
+hsa-miR-3202	IQSEC2	IQ motif and Sec7 domain 2
+Details
+
+38	
+94
+
+hsa-miR-3202	KIF21B	kinesin family member 21B
+Details
+
+39	
+94
+
+hsa-miR-3202	IKZF4	IKAROS family zinc finger 4
+Details
+
+40	
+94
+
+hsa-miR-3202	RPH3A	rabphilin 3A
+Details
+
+41	
+94
+
+hsa-miR-3202	LHX6	LIM homeobox 6
+Details
+
+42	
+94
+
+hsa-miR-3202	CEP85	centrosomal protein 85
+Details
+
+43	
+94
+
+hsa-miR-3202	WDR92	WD repeat domain 92
+Details
+
+44	
+94
+
+hsa-miR-3202	VEGFA	vascular endothelial growth factor A
+Details
+
+45	
+94
+
+hsa-miR-3202	NTRK3	neurotrophic receptor tyrosine kinase 3
+Details
+
+46	
+94
+
+hsa-miR-3202	EFNB1	ephrin B1
+Details
+
+47	
+93
+
+hsa-miR-3202	RAD50	RAD50 double strand break repair protein
+Details
+
+48	
+93
+
+hsa-miR-3202	NOVA1	NOVA alternative splicing regulator 1
+Details
+
+49	
+93
+
+hsa-miR-3202	SIRPA	signal regulatory protein alpha
+Details
+
+50	
+93
+
+hsa-miR-3202	DNMT3A	DNA methyltransferase 3 alpha
+Details
+
+51	
+93
+
+hsa-miR-3202	VAMP3	vesicle associated membrane protein 3
+Details
+
+52	
+93
+
+hsa-miR-3202	ZNF664	zinc finger protein 664
+Details
+
+53	
+93
+
+hsa-miR-3202	ELFN2	extracellular leucine rich repeat and fibronectin type III domain containing 2
+Details
+
+54	
+93
+
+hsa-miR-3202	PDPR	pyruvate dehydrogenase phosphatase regulatory subunit
+Details
+
+55	
+93
+
+hsa-miR-3202	HCN4	hyperpolarization activated cyclic nucleotide gated potassium channel 4
+Details
+
+56	
+93
+
+hsa-miR-3202	VPS35	VPS35, retromer complex component
+Details
+
+57	
+93
+
+hsa-miR-3202	CMTR1	cap methyltransferase 1
+Details
+
+58	
+93
+
+hsa-miR-3202	GLYCTK	glycerate kinase
+Details
+
+59	
+93
+
+hsa-miR-3202	SCAMP5	secretory carrier membrane protein 5
+Details
+
+60	
+92
+
+hsa-miR-3202	RARG	retinoic acid receptor gamma
+Details
+
+61	
+92
+
+hsa-miR-3202	AP3B1	adaptor related protein complex 3 subunit beta 1
+Details
+
+62	
+92
+
+hsa-miR-3202	AGAP2	ArfGAP with GTPase domain, ankyrin repeat and PH domain 2
+Details
+
+63	
+92
+
+hsa-miR-3202	WNT1	Wnt family member 1
+Details
+
+64	
+92
+
+hsa-miR-3202	THG1L	tRNA-histidine guanylyltransferase 1 like
+Details
+
+65	
+92
+
+hsa-miR-3202	PFDN1	prefoldin subunit 1
+Details
+
+66	
+92
+
+hsa-miR-3202	PSME3	proteasome activator subunit 3
+Details
+
+67	
+92
+
+hsa-miR-3202	PLEKHA2	pleckstrin homology domain containing A2
+Details
+
+68	
+92
+
+hsa-miR-3202	RIMS4	regulating synaptic membrane exocytosis 4
+Details
+
+69	
+92
+
+hsa-miR-3202	DRD2	dopamine receptor D2
+Details
+
+70	
+92
+
+hsa-miR-3202	UBE2R2	ubiquitin conjugating enzyme E2 R2
+Details
+
+71	
+91
+
+hsa-miR-3202	TFCP2L1	transcription factor CP2 like 1
+Details
+
+72	
+91
+
+hsa-miR-3202	SLITRK1	SLIT and NTRK like family member 1
+Details
+
+73	
+91
+
+hsa-miR-3202	CREBRF	CREB3 regulatory factor
+Details
+
+74	
+91
+
+hsa-miR-3202	NLK	nemo like kinase
+Details
+
+75	
+91
+
+hsa-miR-3202	RGS8	regulator of G protein signaling 8
+Details
+
+76	
+91
+
+hsa-miR-3202	ENTPD1	ectonucleoside triphosphate diphosphohydrolase 1
+Details
+
+77	
+91
+
+hsa-miR-3202	MED26	mediator complex subunit 26
+Details
+
+78	
+91
+
+hsa-miR-3202	PTPA	protein phosphatase 2 phosphatase activator
+Details
+
+79	
+91
+
+hsa-miR-3202	SGSM3	small G protein signaling modulator 3
+Details
+
+80	
+91
+
+hsa-miR-3202	DDX27	DEAD-box helicase 27
+Details
+
+81	
+91
+
+hsa-miR-3202	TUBA4A	tubulin alpha 4a
+Details
+
+82	
+91
+
+hsa-miR-3202	ANGEL1	angel homolog 1
+Details
+
+83	
+91
+
+hsa-miR-3202	ZNF436	zinc finger protein 436
+Details
+
+84	
+91
+
+hsa-miR-3202	AKAP6	A-kinase anchoring protein 6
+Details
+
+85	
+91
+
+hsa-miR-3202	SZRD1	SUZ RNA binding domain containing 1
+Details
+
+86	
+91
+
+hsa-miR-3202	SH3PXD2A	SH3 and PX domains 2A
+Details
+
+87	
+91
+
+hsa-miR-3202	LAMP3	lysosomal associated membrane protein 3
+Details
+
+88	
+91
+
+hsa-miR-3202	CCN1	cellular communication network factor 1
+Details
+
+89	
+91
+
+hsa-miR-3202	ZFP3	ZFP3 zinc finger protein
+Details
+
+90	
+90
+
+hsa-miR-3202	EFNA3	ephrin A3
+Details
+
+91	
+90
+
+hsa-miR-3202	DNMT3B	DNA methyltransferase 3 beta
+Details
+
+92	
+90
+
+hsa-miR-3202	SSR1	signal sequence receptor subunit 1
+Details
+
+93	
+90
+
+hsa-miR-3202	SNX2	sorting nexin 2
+Details
+
+94	
+90
+
+hsa-miR-3202	CYP21A2	cytochrome P450 family 21 subfamily A member 2
+Details
+
+95	
+90
+
+hsa-miR-3202	FBRS	fibrosin
+Details
+
+96	
+90
+
+hsa-miR-3202	TTLL6	tubulin tyrosine ligase like 6
+Details
+
+97	
+90
+
+hsa-miR-3202	NDUFA11	NADH:ubiquinone oxidoreductase subunit A11
+Details
+
+98	
+90
+
+hsa-miR-3202	PAX1	paired box 1
+Details
+
+99	
+90
+
+hsa-miR-3202	TACR2	tachykinin receptor 2
+Details
+
+100	
+90
+
+hsa-miR-3202	SLC25A11	solute carrier family 25 member 11

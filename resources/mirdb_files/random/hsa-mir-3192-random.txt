@@ -1,0 +1,127 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-3192-3p	AKR1B10	aldo-keto reductase family 1 member B10
+Details
+
+2	
+99
+
+hsa-miR-3192-3p	KCND2	potassium voltage-gated channel subfamily D member 2
+Details
+
+3	
+98
+
+hsa-miR-3192-3p	UHRF2	ubiquitin like with PHD and ring finger domains 2
+Details
+
+4	
+98
+
+hsa-miR-3192-3p	PLXNC1	plexin C1
+Details
+
+5	
+96
+
+hsa-miR-3192-3p	ARID2	AT-rich interaction domain 2
+Details
+
+6	
+96
+
+hsa-miR-3192-3p	CHUK	conserved helix-loop-helix ubiquitous kinase
+Details
+
+7	
+96
+
+hsa-miR-3192-3p	RBM25	RNA binding motif protein 25
+Details
+
+8	
+95
+
+hsa-miR-3192-3p	CELSR1	cadherin EGF LAG seven-pass G-type receptor 1
+Details
+
+9	
+94
+
+hsa-miR-3192-3p	RC3H1	ring finger and CCCH-type domains 1
+Details
+
+10	
+93
+
+hsa-miR-3192-3p	EIF4A2	eukaryotic translation initiation factor 4A2
+Details
+
+11	
+92
+
+hsa-miR-3192-3p	NR2F2	nuclear receptor subfamily 2 group F member 2
+Details
+
+12	
+92
+
+hsa-miR-3192-3p	PEX5	peroxisomal biogenesis factor 5
+Details
+
+13	
+92
+
+hsa-miR-3192-3p	DNAJC25	DnaJ heat shock protein family (Hsp40) member C25
+Details
+
+14	
+92
+
+hsa-miR-3192-3p	ZNF148	zinc finger protein 148
+Details
+
+15	
+92
+
+hsa-miR-3192-3p	MAP1B	microtubule associated protein 1B
+Details
+
+16	
+91
+
+hsa-miR-3192-3p	NDC1	NDC1 transmembrane nucleoporin
+Details
+
+17	
+91
+
+hsa-miR-3192-3p	UBL3	ubiquitin like 3
+Details
+
+18	
+91
+
+hsa-miR-3192-3p	TM9SF3	transmembrane 9 superfamily member 3
+Details
+
+19	
+91
+
+hsa-miR-3192-3p	LGR5	leucine rich repeat containing G protein-coupled receptor 5
+Details
+
+20	
+90
+
+hsa-miR-3192-3p	CLEC3A	C-type lectin domain family 3 member A
+Details
+
+21	
+90
+
+hsa-miR-3192-3p	KPNB1	karyopherin subunit beta 1

@@ -1,0 +1,325 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-5571-5p	PI15	peptidase inhibitor 15
+Details
+
+2	
+99
+
+hsa-miR-5571-5p	TIPRL	TOR signaling pathway regulator
+Details
+
+3	
+98
+
+hsa-miR-5571-5p	BMP2	bone morphogenetic protein 2
+Details
+
+4	
+97
+
+hsa-miR-5571-5p	MIPOL1	mirror-image polydactyly 1
+Details
+
+5	
+97
+
+hsa-miR-5571-5p	SH3YL1	SH3 and SYLF domain containing 1
+Details
+
+6	
+97
+
+hsa-miR-5571-5p	CD226	CD226 molecule
+Details
+
+7	
+97
+
+hsa-miR-5571-5p	GPR158	G protein-coupled receptor 158
+Details
+
+8	
+97
+
+hsa-miR-5571-5p	FZD3	frizzled class receptor 3
+Details
+
+9	
+96
+
+hsa-miR-5571-5p	DOCK8	dedicator of cytokinesis 8
+Details
+
+10	
+95
+
+hsa-miR-5571-5p	RAD51AP1	RAD51 associated protein 1
+Details
+
+11	
+95
+
+hsa-miR-5571-5p	SLC7A11	solute carrier family 7 member 11
+Details
+
+12	
+95
+
+hsa-miR-5571-5p	INTS2	integrator complex subunit 2
+Details
+
+13	
+95
+
+hsa-miR-5571-5p	STK32C	serine/threonine kinase 32C
+Details
+
+14	
+94
+
+hsa-miR-5571-5p	ATRN	attractin
+Details
+
+15	
+94
+
+hsa-miR-5571-5p	ZNF480	zinc finger protein 480
+Details
+
+16	
+94
+
+hsa-miR-5571-5p	ZNF506	zinc finger protein 506
+Details
+
+17	
+94
+
+hsa-miR-5571-5p	UBE2K	ubiquitin conjugating enzyme E2 K
+Details
+
+18	
+94
+
+hsa-miR-5571-5p	ARID4A	AT-rich interaction domain 4A
+Details
+
+19	
+93
+
+hsa-miR-5571-5p	CADM2	cell adhesion molecule 2
+Details
+
+20	
+93
+
+hsa-miR-5571-5p	SLC41A1	solute carrier family 41 member 1
+Details
+
+21	
+93
+
+hsa-miR-5571-5p	SP100	SP100 nuclear antigen
+Details
+
+22	
+92
+
+hsa-miR-5571-5p	PSD3	pleckstrin and Sec7 domain containing 3
+Details
+
+23	
+92
+
+hsa-miR-5571-5p	MIB1	mindbomb E3 ubiquitin protein ligase 1
+Details
+
+24	
+92
+
+hsa-miR-5571-5p	DYNLT3	dynein light chain Tctex-type 3
+Details
+
+25	
+92
+
+hsa-miR-5571-5p	RSPH3	radial spoke head 3 homolog
+Details
+
+26	
+92
+
+hsa-miR-5571-5p	PTPDC1	protein tyrosine phosphatase domain containing 1
+Details
+
+27	
+92
+
+hsa-miR-5571-5p	ID4	inhibitor of DNA binding 4, HLH protein
+Details
+
+28	
+92
+
+hsa-miR-5571-5p	NFAT5	nuclear factor of activated T cells 5
+Details
+
+29	
+92
+
+hsa-miR-5571-5p	CCDC191	coiled-coil domain containing 191
+Details
+
+30	
+92
+
+hsa-miR-5571-5p	FYCO1	FYVE and coiled-coil domain containing 1
+Details
+
+31	
+92
+
+hsa-miR-5571-5p	YTHDF2	YTH N6-methyladenosine RNA binding protein 2
+Details
+
+32	
+92
+
+hsa-miR-5571-5p	E2F6	E2F transcription factor 6
+Details
+
+33	
+92
+
+hsa-miR-5571-5p	MZT1	mitotic spindle organizing protein 1
+Details
+
+34	
+92
+
+hsa-miR-5571-5p	C9orf170	chromosome 9 open reading frame 170
+Details
+
+35	
+92
+
+hsa-miR-5571-5p	MEGF10	multiple EGF like domains 10
+Details
+
+36	
+92
+
+hsa-miR-5571-5p	KDM7A	lysine demethylase 7A
+Details
+
+37	
+91
+
+hsa-miR-5571-5p	HCN1	hyperpolarization activated cyclic nucleotide gated potassium channel 1
+Details
+
+38	
+91
+
+hsa-miR-5571-5p	SCN8A	sodium voltage-gated channel alpha subunit 8
+Details
+
+39	
+91
+
+hsa-miR-5571-5p	EIF4E	eukaryotic translation initiation factor 4E
+Details
+
+40	
+91
+
+hsa-miR-5571-5p	ANKRD12	ankyrin repeat domain 12
+Details
+
+41	
+91
+
+hsa-miR-5571-5p	BCDIN3D	BCDIN3 domain containing RNA methyltransferase
+Details
+
+42	
+91
+
+hsa-miR-5571-5p	SLC5A12	solute carrier family 5 member 12
+Details
+
+43	
+91
+
+hsa-miR-5571-5p	G3BP2	G3BP stress granule assembly factor 2
+Details
+
+44	
+91
+
+hsa-miR-5571-5p	APBB2	amyloid beta precursor protein binding family B member 2
+Details
+
+45	
+91
+
+hsa-miR-5571-5p	ALDOB	aldolase, fructose-bisphosphate B
+Details
+
+46	
+91
+
+hsa-miR-5571-5p	RPGRIP1L	RPGRIP1 like
+Details
+
+47	
+91
+
+hsa-miR-5571-5p	MAP7	microtubule associated protein 7
+Details
+
+48	
+90
+
+hsa-miR-5571-5p	MYSM1	Myb like, SWIRM and MPN domains 1
+Details
+
+49	
+90
+
+hsa-miR-5571-5p	SNAP23	synaptosome associated protein 23
+Details
+
+50	
+90
+
+hsa-miR-5571-5p	PDS5A	PDS5 cohesin associated factor A
+Details
+
+51	
+90
+
+hsa-miR-5571-5p	ERAP2	endoplasmic reticulum aminopeptidase 2
+Details
+
+52	
+90
+
+hsa-miR-5571-5p	KLRF1	killer cell lectin like receptor F1
+Details
+
+53	
+90
+
+hsa-miR-5571-5p	RNF138	ring finger protein 138
+Details
+
+54	
+90
+
+hsa-miR-5571-5p	VSTM2A	V-set and transmembrane domain containing 2A

@@ -1,0 +1,133 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+97
+
+hsa-miR-6822-3p	ADCY1	adenylate cyclase 1
+Details
+
+2	
+95
+
+hsa-miR-6822-3p	TWNK	twinkle mtDNA helicase
+Details
+
+3	
+95
+
+hsa-miR-6822-3p	E2F4	E2F transcription factor 4
+Details
+
+4	
+95
+
+hsa-miR-6822-3p	ITPR1	inositol 1,4,5-trisphosphate receptor type 1
+Details
+
+5	
+94
+
+hsa-miR-6822-3p	PDXK	pyridoxal kinase
+Details
+
+6	
+94
+
+hsa-miR-6822-3p	PDS5A	PDS5 cohesin associated factor A
+Details
+
+7	
+94
+
+hsa-miR-6822-3p	IRAK4	interleukin 1 receptor associated kinase 4
+Details
+
+8	
+94
+
+hsa-miR-6822-3p	SLC31A1	solute carrier family 31 member 1
+Details
+
+9	
+93
+
+hsa-miR-6822-3p	DIXDC1	DIX domain containing 1
+Details
+
+10	
+93
+
+hsa-miR-6822-3p	GPC6	glypican 6
+Details
+
+11	
+92
+
+hsa-miR-6822-3p	FBXW4	F-box and WD repeat domain containing 4
+Details
+
+12	
+92
+
+hsa-miR-6822-3p	CLASP1	cytoplasmic linker associated protein 1
+Details
+
+13	
+92
+
+hsa-miR-6822-3p	SDC2	syndecan 2
+Details
+
+14	
+92
+
+hsa-miR-6822-3p	G6PC2	glucose-6-phosphatase catalytic subunit 2
+Details
+
+15	
+92
+
+hsa-miR-6822-3p	KCTD7	potassium channel tetramerization domain containing 7
+Details
+
+16	
+91
+
+hsa-miR-6822-3p	DERL2	derlin 2
+Details
+
+17	
+91
+
+hsa-miR-6822-3p	CACNA1D	calcium voltage-gated channel subunit alpha1 D
+Details
+
+18	
+91
+
+hsa-miR-6822-3p	SRSF11	serine and arginine rich splicing factor 11
+Details
+
+19	
+91
+
+hsa-miR-6822-3p	RAD51D	RAD51 paralog D
+Details
+
+20	
+90
+
+hsa-miR-6822-3p	MTUS2	microtubule associated scaffold protein 2
+Details
+
+21	
+90
+
+hsa-miR-6822-3p	QTRT2	queuine tRNA-ribosyltransferase accessory subunit 2
+Details
+
+22	
+90
+
+hsa-miR-6822-3p	ANKRD29	ankyrin repeat domain 29

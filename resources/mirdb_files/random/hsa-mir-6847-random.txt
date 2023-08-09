@@ -1,0 +1,301 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+98
+
+hsa-miR-6847-5p	TRIM22	tripartite motif containing 22
+Details
+
+2	
+97
+
+hsa-miR-6847-5p	HNRNPK	heterogeneous nuclear ribonucleoprotein K
+Details
+
+3	
+97
+
+hsa-miR-6847-5p	ACTC1	actin, alpha, cardiac muscle 1
+Details
+
+4	
+97
+
+hsa-miR-6847-5p	MAN1C1	mannosidase alpha class 1C member 1
+Details
+
+5	
+96
+
+hsa-miR-6847-5p	SEC22C	SEC22 homolog C, vesicle trafficking protein
+Details
+
+6	
+96
+
+hsa-miR-6847-5p	CD34	CD34 molecule
+Details
+
+7	
+96
+
+hsa-miR-6847-5p	EHHADH	enoyl-CoA hydratase and 3-hydroxyacyl CoA dehydrogenase
+Details
+
+8	
+95
+
+hsa-miR-6847-5p	OSBPL9	oxysterol binding protein like 9
+Details
+
+9	
+95
+
+hsa-miR-6847-5p	RNF185	ring finger protein 185
+Details
+
+10	
+95
+
+hsa-miR-6847-5p	CASR	calcium sensing receptor
+Details
+
+11	
+95
+
+hsa-miR-6847-5p	YTHDF1	YTH N6-methyladenosine RNA binding protein 1
+Details
+
+12	
+95
+
+hsa-miR-6847-5p	MTMR10	myotubularin related protein 10
+Details
+
+13	
+95
+
+hsa-miR-6847-5p	ZNHIT3	zinc finger HIT-type containing 3
+Details
+
+14	
+94
+
+hsa-miR-6847-5p	SFTPA1	surfactant protein A1
+Details
+
+15	
+94
+
+hsa-miR-6847-5p	HSP90AA1	heat shock protein 90 alpha family class A member 1
+Details
+
+16	
+94
+
+hsa-miR-6847-5p	PIGR	polymeric immunoglobulin receptor
+Details
+
+17	
+94
+
+hsa-miR-6847-5p	CDK2	cyclin dependent kinase 2
+Details
+
+18	
+93
+
+hsa-miR-6847-5p	RUBCN	rubicon autophagy regulator
+Details
+
+19	
+93
+
+hsa-miR-6847-5p	CD93	CD93 molecule
+Details
+
+20	
+93
+
+hsa-miR-6847-5p	IFFO2	intermediate filament family orphan 2
+Details
+
+21	
+93
+
+hsa-miR-6847-5p	HIF3A	hypoxia inducible factor 3 subunit alpha
+Details
+
+22	
+93
+
+hsa-miR-6847-5p	FAM49B	family with sequence similarity 49 member B
+Details
+
+23	
+93
+
+hsa-miR-6847-5p	ARHGAP24	Rho GTPase activating protein 24
+Details
+
+24	
+93
+
+hsa-miR-6847-5p	SGPL1	sphingosine-1-phosphate lyase 1
+Details
+
+25	
+92
+
+hsa-miR-6847-5p	OPCML	opioid binding protein/cell adhesion molecule like
+Details
+
+26	
+92
+
+hsa-miR-6847-5p	GNG12	G protein subunit gamma 12
+Details
+
+27	
+92
+
+hsa-miR-6847-5p	ZNF609	zinc finger protein 609
+Details
+
+28	
+92
+
+hsa-miR-6847-5p	SKAP2	src kinase associated phosphoprotein 2
+Details
+
+29	
+92
+
+hsa-miR-6847-5p	MAPK1	mitogen-activated protein kinase 1
+Details
+
+30	
+92
+
+hsa-miR-6847-5p	IL10	interleukin 10
+Details
+
+31	
+92
+
+hsa-miR-6847-5p	LRR1	leucine rich repeat protein 1
+Details
+
+32	
+92
+
+hsa-miR-6847-5p	KCNJ13	potassium voltage-gated channel subfamily J member 13
+Details
+
+33	
+92
+
+hsa-miR-6847-5p	ARL3	ADP ribosylation factor like GTPase 3
+Details
+
+34	
+91
+
+hsa-miR-6847-5p	NFIX	nuclear factor I X
+Details
+
+35	
+91
+
+hsa-miR-6847-5p	TUSC3	tumor suppressor candidate 3
+Details
+
+36	
+91
+
+hsa-miR-6847-5p	SLC13A3	solute carrier family 13 member 3
+Details
+
+37	
+91
+
+hsa-miR-6847-5p	C9orf47	chromosome 9 open reading frame 47
+Details
+
+38	
+91
+
+hsa-miR-6847-5p	UBE4B	ubiquitination factor E4B
+Details
+
+39	
+90
+
+hsa-miR-6847-5p	ZMAT3	zinc finger matrin-type 3
+Details
+
+40	
+90
+
+hsa-miR-6847-5p	ZFHX4	zinc finger homeobox 4
+Details
+
+41	
+90
+
+hsa-miR-6847-5p	AFF4	AF4/FMR2 family member 4
+Details
+
+42	
+90
+
+hsa-miR-6847-5p	IGFBP5	insulin like growth factor binding protein 5
+Details
+
+43	
+90
+
+hsa-miR-6847-5p	TTLL7	tubulin tyrosine ligase like 7
+Details
+
+44	
+90
+
+hsa-miR-6847-5p	RAB3C	RAB3C, member RAS oncogene family
+Details
+
+45	
+90
+
+hsa-miR-6847-5p	ELOVL2	ELOVL fatty acid elongase 2
+Details
+
+46	
+90
+
+hsa-miR-6847-5p	GALNT4	polypeptide N-acetylgalactosaminyltransferase 4
+Details
+
+47	
+90
+
+hsa-miR-6847-5p	USP37	ubiquitin specific peptidase 37
+Details
+
+48	
+90
+
+hsa-miR-6847-5p	CARTPT	CART prepropeptide
+Details
+
+49	
+90
+
+hsa-miR-6847-5p	DPPA4	developmental pluripotency associated 4
+Details
+
+50	
+90
+
+hsa-miR-6847-5p	POC1B-GALNT4	POC1B-GALNT4 readthrough

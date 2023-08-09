@@ -1,0 +1,199 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+97
+
+hsa-miR-3976	NUDT11	nudix hydrolase 11
+Details
+
+2	
+97
+
+hsa-miR-3976	GPC6	glypican 6
+Details
+
+3	
+96
+
+hsa-miR-3976	CSRNP2	cysteine and serine rich nuclear protein 2
+Details
+
+4	
+95
+
+hsa-miR-3976	MOB1B	MOB kinase activator 1B
+Details
+
+5	
+95
+
+hsa-miR-3976	SCN2A	sodium voltage-gated channel alpha subunit 2
+Details
+
+6	
+95
+
+hsa-miR-3976	BTNL3	butyrophilin like 3
+Details
+
+7	
+94
+
+hsa-miR-3976	CELF4	CUGBP Elav-like family member 4
+Details
+
+8	
+94
+
+hsa-miR-3976	PRR14	proline rich 14
+Details
+
+9	
+93
+
+hsa-miR-3976	NOVA1	NOVA alternative splicing regulator 1
+Details
+
+10	
+93
+
+hsa-miR-3976	ISPD	isoprenoid synthase domain containing
+Details
+
+11	
+93
+
+hsa-miR-3976	AAK1	AP2 associated kinase 1
+Details
+
+12	
+93
+
+hsa-miR-3976	SMC4	structural maintenance of chromosomes 4
+Details
+
+13	
+92
+
+hsa-miR-3976	MTMR4	myotubularin related protein 4
+Details
+
+14	
+92
+
+hsa-miR-3976	WDR12	WD repeat domain 12
+Details
+
+15	
+92
+
+hsa-miR-3976	PRKACB	protein kinase cAMP-activated catalytic subunit beta
+Details
+
+16	
+92
+
+hsa-miR-3976	RNPEP	arginyl aminopeptidase
+Details
+
+17	
+92
+
+hsa-miR-3976	MPP5	membrane palmitoylated protein 5
+Details
+
+18	
+92
+
+hsa-miR-3976	IFIT2	interferon induced protein with tetratricopeptide repeats 2
+Details
+
+19	
+92
+
+hsa-miR-3976	CYP7A1	cytochrome P450 family 7 subfamily A member 1
+Details
+
+20	
+92
+
+hsa-miR-3976	MEX3C	mex-3 RNA binding family member C
+Details
+
+21	
+91
+
+hsa-miR-3976	DCT	dopachrome tautomerase
+Details
+
+22	
+91
+
+hsa-miR-3976	SLC6A1	solute carrier family 6 member 1
+Details
+
+23	
+91
+
+hsa-miR-3976	TRIM66	tripartite motif containing 66
+Details
+
+24	
+91
+
+hsa-miR-3976	ATXN1L	ataxin 1 like
+Details
+
+25	
+91
+
+hsa-miR-3976	DTD2	D-tyrosyl-tRNA deacylase 2 (putative)
+Details
+
+26	
+91
+
+hsa-miR-3976	ITGBL1	integrin subunit beta like 1
+Details
+
+27	
+91
+
+hsa-miR-3976	TET3	tet methylcytosine dioxygenase 3
+Details
+
+28	
+91
+
+hsa-miR-3976	MAP3K2	mitogen-activated protein kinase kinase kinase 2
+Details
+
+29	
+90
+
+hsa-miR-3976	RNASE4	ribonuclease A family member 4
+Details
+
+30	
+90
+
+hsa-miR-3976	IFT22	intraflagellar transport 22
+Details
+
+31	
+90
+
+hsa-miR-3976	SRSF10	serine and arginine rich splicing factor 10
+Details
+
+32	
+90
+
+hsa-miR-3976	RAB39B	RAB39B, member RAS oncogene family
+Details
+
+33	
+90
+
+hsa-miR-3976	FBXL3	F-box and leucine rich repeat protein 3

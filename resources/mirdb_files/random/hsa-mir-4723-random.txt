@@ -1,0 +1,427 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-4723-5p	MECP2	methyl-CpG binding protein 2
+Details
+
+2	
+100
+
+hsa-miR-4723-5p	PPP1R9B	protein phosphatase 1 regulatory subunit 9B
+Details
+
+3	
+99
+
+hsa-miR-4723-5p	WIZ	WIZ zinc finger
+Details
+
+4	
+99
+
+hsa-miR-4723-5p	SLC6A17	solute carrier family 6 member 17
+Details
+
+5	
+98
+
+hsa-miR-4723-5p	NFIX	nuclear factor I X
+Details
+
+6	
+98
+
+hsa-miR-4723-5p	CASTOR2	cytosolic arginine sensor for mTORC1 subunit 2
+Details
+
+7	
+98
+
+hsa-miR-4723-5p	NR1D1	nuclear receptor subfamily 1 group D member 1
+Details
+
+8	
+97
+
+hsa-miR-4723-5p	SHISAL1	shisa like 1
+Details
+
+9	
+96
+
+hsa-miR-4723-5p	ACTB	actin beta
+Details
+
+10	
+96
+
+hsa-miR-4723-5p	HEYL	hes related family bHLH transcription factor with YRPW motif-like
+Details
+
+11	
+96
+
+hsa-miR-4723-5p	NLGN2	neuroligin 2
+Details
+
+12	
+96
+
+hsa-miR-4723-5p	SRF	serum response factor
+Details
+
+13	
+95
+
+hsa-miR-4723-5p	ELK1	ELK1, ETS transcription factor
+Details
+
+14	
+95
+
+hsa-miR-4723-5p	EPB41L1	erythrocyte membrane protein band 4.1 like 1
+Details
+
+15	
+95
+
+hsa-miR-4723-5p	MAP1A	microtubule associated protein 1A
+Details
+
+16	
+95
+
+hsa-miR-4723-5p	LIX1L	limb and CNS expressed 1 like
+Details
+
+17	
+95
+
+hsa-miR-4723-5p	PVALB	parvalbumin
+Details
+
+18	
+95
+
+hsa-miR-4723-5p	NFASC	neurofascin
+Details
+
+19	
+95
+
+hsa-miR-4723-5p	PKNOX2	PBX/knotted 1 homeobox 2
+Details
+
+20	
+94
+
+hsa-miR-4723-5p	DIRAS1	DIRAS family GTPase 1
+Details
+
+21	
+94
+
+hsa-miR-4723-5p	CAMK1D	calcium/calmodulin dependent protein kinase ID
+Details
+
+22	
+94
+
+hsa-miR-4723-5p	MIEN1	migration and invasion enhancer 1
+Details
+
+23	
+94
+
+hsa-miR-4723-5p	TFAP2B	transcription factor AP-2 beta
+Details
+
+24	
+94
+
+hsa-miR-4723-5p	MPZ	myelin protein zero
+Details
+
+25	
+94
+
+hsa-miR-4723-5p	PPP2R2D	protein phosphatase 2 regulatory subunit Bdelta
+Details
+
+26	
+94
+
+hsa-miR-4723-5p	SLC7A8	solute carrier family 7 member 8
+Details
+
+27	
+94
+
+hsa-miR-4723-5p	JPH4	junctophilin 4
+Details
+
+28	
+94
+
+hsa-miR-4723-5p	PDE1B	phosphodiesterase 1B
+Details
+
+29	
+93
+
+hsa-miR-4723-5p	C6orf141	chromosome 6 open reading frame 141
+Details
+
+30	
+93
+
+hsa-miR-4723-5p	APLNR	apelin receptor
+Details
+
+31	
+93
+
+hsa-miR-4723-5p	DPYSL5	dihydropyrimidinase like 5
+Details
+
+32	
+93
+
+hsa-miR-4723-5p	PLXNA4	plexin A4
+Details
+
+33	
+93
+
+hsa-miR-4723-5p	STIM1	stromal interaction molecule 1
+Details
+
+34	
+93
+
+hsa-miR-4723-5p	ITGA3	integrin subunit alpha 3
+Details
+
+35	
+93
+
+hsa-miR-4723-5p	PCDHB11	protocadherin beta 11
+Details
+
+36	
+92
+
+hsa-miR-4723-5p	BIRC2	baculoviral IAP repeat containing 2
+Details
+
+37	
+92
+
+hsa-miR-4723-5p	LRRC59	leucine rich repeat containing 59
+Details
+
+38	
+92
+
+hsa-miR-4723-5p	RSU1	Ras suppressor protein 1
+Details
+
+39	
+92
+
+hsa-miR-4723-5p	CES4A	carboxylesterase 4A
+Details
+
+40	
+92
+
+hsa-miR-4723-5p	ZFC3H1	zinc finger C3H1-type containing
+Details
+
+41	
+92
+
+hsa-miR-4723-5p	CNTNAP1	contactin associated protein 1
+Details
+
+42	
+92
+
+hsa-miR-4723-5p	KALRN	kalirin RhoGEF kinase
+Details
+
+43	
+92
+
+hsa-miR-4723-5p	UBTF	upstream binding transcription factor
+Details
+
+44	
+92
+
+hsa-miR-4723-5p	CYP2B6	cytochrome P450 family 2 subfamily B member 6
+Details
+
+45	
+92
+
+hsa-miR-4723-5p	DEF8	differentially expressed in FDCP 8 homolog
+Details
+
+46	
+92
+
+hsa-miR-4723-5p	TMEM222	transmembrane protein 222
+Details
+
+47	
+91
+
+hsa-miR-4723-5p	ZNF691	zinc finger protein 691
+Details
+
+48	
+91
+
+hsa-miR-4723-5p	SNX29	sorting nexin 29
+Details
+
+49	
+91
+
+hsa-miR-4723-5p	BMP1	bone morphogenetic protein 1
+Details
+
+50	
+91
+
+hsa-miR-4723-5p	APBA1	amyloid beta precursor protein binding family A member 1
+Details
+
+51	
+91
+
+hsa-miR-4723-5p	METTL9	methyltransferase like 9
+Details
+
+52	
+91
+
+hsa-miR-4723-5p	ARRB2	arrestin beta 2
+Details
+
+53	
+91
+
+hsa-miR-4723-5p	AP2M1	adaptor related protein complex 2 subunit mu 1
+Details
+
+54	
+91
+
+hsa-miR-4723-5p	TNFSF12	TNF superfamily member 12
+Details
+
+55	
+91
+
+hsa-miR-4723-5p	SLC28A1	solute carrier family 28 member 1
+Details
+
+56	
+91
+
+hsa-miR-4723-5p	ADORA3	adenosine A3 receptor
+Details
+
+57	
+91
+
+hsa-miR-4723-5p	TMEM63B	transmembrane protein 63B
+Details
+
+58	
+91
+
+hsa-miR-4723-5p	PRKACA	protein kinase cAMP-activated catalytic subunit alpha
+Details
+
+59	
+91
+
+hsa-miR-4723-5p	UBAP2L	ubiquitin associated protein 2 like
+Details
+
+60	
+91
+
+hsa-miR-4723-5p	TCF7	transcription factor 7
+Details
+
+61	
+91
+
+hsa-miR-4723-5p	SYNGAP1	synaptic Ras GTPase activating protein 1
+Details
+
+62	
+91
+
+hsa-miR-4723-5p	LSAMP	limbic system associated membrane protein
+Details
+
+63	
+90
+
+hsa-miR-4723-5p	AFAP1	actin filament associated protein 1
+Details
+
+64	
+90
+
+hsa-miR-4723-5p	NAT16	N-acetyltransferase 16 (putative)
+Details
+
+65	
+90
+
+hsa-miR-4723-5p	FOXP4	forkhead box P4
+Details
+
+66	
+90
+
+hsa-miR-4723-5p	RBM23	RNA binding motif protein 23
+Details
+
+67	
+90
+
+hsa-miR-4723-5p	KMT2D	lysine methyltransferase 2D
+Details
+
+68	
+90
+
+hsa-miR-4723-5p	STAC2	SH3 and cysteine rich domain 2
+Details
+
+69	
+90
+
+hsa-miR-4723-5p	FGF1	fibroblast growth factor 1
+Details
+
+70	
+90
+
+hsa-miR-4723-5p	CTDSP1	CTD small phosphatase 1
+Details
+
+71	
+90
+
+hsa-miR-4723-5p	FAM174B	family with sequence similarity 174 member B

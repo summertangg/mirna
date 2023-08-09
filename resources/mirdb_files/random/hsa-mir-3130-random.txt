@@ -1,0 +1,127 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+98
+
+hsa-miR-3130-5p	MYCN	MYCN proto-oncogene, bHLH transcription factor
+Details
+
+2	
+97
+
+hsa-miR-3130-5p	VPS54	VPS54, GARP complex subunit
+Details
+
+3	
+96
+
+hsa-miR-3130-5p	LNPK	lunapark, ER junction formation factor
+Details
+
+4	
+96
+
+hsa-miR-3130-5p	RALA	RAS like proto-oncogene A
+Details
+
+5	
+95
+
+hsa-miR-3130-5p	UPF1	UPF1, RNA helicase and ATPase
+Details
+
+6	
+95
+
+hsa-miR-3130-5p	CCDC173	coiled-coil domain containing 173
+Details
+
+7	
+95
+
+hsa-miR-3130-5p	CLCN5	chloride voltage-gated channel 5
+Details
+
+8	
+95
+
+hsa-miR-3130-5p	ZRANB1	zinc finger RANBP2-type containing 1
+Details
+
+9	
+94
+
+hsa-miR-3130-5p	ASIC1	acid sensing ion channel subunit 1
+Details
+
+10	
+94
+
+hsa-miR-3130-5p	MRPL35	mitochondrial ribosomal protein L35
+Details
+
+11	
+94
+
+hsa-miR-3130-5p	ANKH	ANKH inorganic pyrophosphate transport regulator
+Details
+
+12	
+94
+
+hsa-miR-3130-5p	TCF7	transcription factor 7
+Details
+
+13	
+93
+
+hsa-miR-3130-5p	ALG10	ALG10, alpha-1,2-glucosyltransferase
+Details
+
+14	
+93
+
+hsa-miR-3130-5p	ZMYM2	zinc finger MYM-type containing 2
+Details
+
+15	
+93
+
+hsa-miR-3130-5p	MKRN1	makorin ring finger protein 1
+Details
+
+16	
+93
+
+hsa-miR-3130-5p	KRTAP3-2	keratin associated protein 3-2
+Details
+
+17	
+92
+
+hsa-miR-3130-5p	TAF7	TATA-box binding protein associated factor 7
+Details
+
+18	
+92
+
+hsa-miR-3130-5p	ANKRD34A	ankyrin repeat domain 34A
+Details
+
+19	
+92
+
+hsa-miR-3130-5p	YAP1	Yes associated protein 1
+Details
+
+20	
+91
+
+hsa-miR-3130-5p	SMARCE1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1
+Details
+
+21	
+90
+
+hsa-miR-3130-5p	ATL1	atlastin GTPase 1

@@ -1,0 +1,643 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-548o-3p	TRAPPC8	trafficking protein particle complex 8
+Details
+
+2	
+100
+
+hsa-miR-548o-3p	CASP8AP2	caspase 8 associated protein 2
+Details
+
+3	
+100
+
+hsa-miR-548o-3p	GPM6A	glycoprotein M6A
+Details
+
+4	
+99
+
+hsa-miR-548o-3p	STRN	striatin
+Details
+
+5	
+99
+
+hsa-miR-548o-3p	GLI3	GLI family zinc finger 3
+Details
+
+6	
+98
+
+hsa-miR-548o-3p	ZMAT1	zinc finger matrin-type 1
+Details
+
+7	
+98
+
+hsa-miR-548o-3p	ZBTB44	zinc finger and BTB domain containing 44
+Details
+
+8	
+97
+
+hsa-miR-548o-3p	CNTNAP4	contactin associated protein like 4
+Details
+
+9	
+97
+
+hsa-miR-548o-3p	PNRC1	proline rich nuclear receptor coactivator 1
+Details
+
+10	
+97
+
+hsa-miR-548o-3p	DENND4A	DENN domain containing 4A
+Details
+
+11	
+96
+
+hsa-miR-548o-3p	KHDRBS1	KH RNA binding domain containing, signal transduction associated 1
+Details
+
+12	
+96
+
+hsa-miR-548o-3p	MYO6	myosin VI
+Details
+
+13	
+96
+
+hsa-miR-548o-3p	SCAF11	SR-related CTD associated factor 11
+Details
+
+14	
+96
+
+hsa-miR-548o-3p	KDM7A	lysine demethylase 7A
+Details
+
+15	
+95
+
+hsa-miR-548o-3p	EEPD1	endonuclease/exonuclease/phosphatase family domain containing 1
+Details
+
+16	
+95
+
+hsa-miR-548o-3p	ZFHX4	zinc finger homeobox 4
+Details
+
+17	
+95
+
+hsa-miR-548o-3p	HHIP	hedgehog interacting protein
+Details
+
+18	
+95
+
+hsa-miR-548o-3p	PPTC7	PTC7 protein phosphatase homolog
+Details
+
+19	
+95
+
+hsa-miR-548o-3p	CDK17	cyclin dependent kinase 17
+Details
+
+20	
+95
+
+hsa-miR-548o-3p	ASIC5	acid sensing ion channel subunit family member 5
+Details
+
+21	
+95
+
+hsa-miR-548o-3p	ARL6IP1	ADP ribosylation factor like GTPase 6 interacting protein 1
+Details
+
+22	
+95
+
+hsa-miR-548o-3p	TMEM136	transmembrane protein 136
+Details
+
+23	
+95
+
+hsa-miR-548o-3p	ARPP19	cAMP regulated phosphoprotein 19
+Details
+
+24	
+95
+
+hsa-miR-548o-3p	TARDBP	TAR DNA binding protein
+Details
+
+25	
+95
+
+hsa-miR-548o-3p	TTC39C	tetratricopeptide repeat domain 39C
+Details
+
+26	
+95
+
+hsa-miR-548o-3p	DDX4	DEAD-box helicase 4
+Details
+
+27	
+95
+
+hsa-miR-548o-3p	COL25A1	collagen type XXV alpha 1 chain
+Details
+
+28	
+95
+
+hsa-miR-548o-3p	TMEM170A	transmembrane protein 170A
+Details
+
+29	
+94
+
+hsa-miR-548o-3p	PSIP1	PC4 and SFRS1 interacting protein 1
+Details
+
+30	
+94
+
+hsa-miR-548o-3p	KMT2C	lysine methyltransferase 2C
+Details
+
+31	
+94
+
+hsa-miR-548o-3p	USH2A	usherin
+Details
+
+32	
+94
+
+hsa-miR-548o-3p	NUP58	nucleoporin 58
+Details
+
+33	
+94
+
+hsa-miR-548o-3p	RFX2	regulatory factor X2
+Details
+
+34	
+94
+
+hsa-miR-548o-3p	BNC2	basonuclin 2
+Details
+
+35	
+94
+
+hsa-miR-548o-3p	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein eta
+Details
+
+36	
+94
+
+hsa-miR-548o-3p	C2orf49	chromosome 2 open reading frame 49
+Details
+
+37	
+94
+
+hsa-miR-548o-3p	DDX3X	DEAD-box helicase 3 X-linked
+Details
+
+38	
+94
+
+hsa-miR-548o-3p	ABCA8	ATP binding cassette subfamily A member 8
+Details
+
+39	
+94
+
+hsa-miR-548o-3p	SMC6	structural maintenance of chromosomes 6
+Details
+
+40	
+94
+
+hsa-miR-548o-3p	GOLGA7	golgin A7
+Details
+
+41	
+94
+
+hsa-miR-548o-3p	B4GALT6	beta-1,4-galactosyltransferase 6
+Details
+
+42	
+94
+
+hsa-miR-548o-3p	ZBTB20	zinc finger and BTB domain containing 20
+Details
+
+43	
+94
+
+hsa-miR-548o-3p	STT3A	STT3A, catalytic subunit of the oligosaccharyltransferase complex
+Details
+
+44	
+93
+
+hsa-miR-548o-3p	ZNF518A	zinc finger protein 518A
+Details
+
+45	
+93
+
+hsa-miR-548o-3p	SLC25A36	solute carrier family 25 member 36
+Details
+
+46	
+93
+
+hsa-miR-548o-3p	AZIN1	antizyme inhibitor 1
+Details
+
+47	
+93
+
+hsa-miR-548o-3p	PTPRD	protein tyrosine phosphatase, receptor type D
+Details
+
+48	
+93
+
+hsa-miR-548o-3p	IGF2BP3	insulin like growth factor 2 mRNA binding protein 3
+Details
+
+49	
+93
+
+hsa-miR-548o-3p	PHIP	pleckstrin homology domain interacting protein
+Details
+
+50	
+93
+
+hsa-miR-548o-3p	ATF7IP	activating transcription factor 7 interacting protein
+Details
+
+51	
+93
+
+hsa-miR-548o-3p	KLHL7	kelch like family member 7
+Details
+
+52	
+93
+
+hsa-miR-548o-3p	RCC1	regulator of chromosome condensation 1
+Details
+
+53	
+93
+
+hsa-miR-548o-3p	LPP	LIM domain containing preferred translocation partner in lipoma
+Details
+
+54	
+93
+
+hsa-miR-548o-3p	MTMR6	myotubularin related protein 6
+Details
+
+55	
+93
+
+hsa-miR-548o-3p	VASP	vasodilator stimulated phosphoprotein
+Details
+
+56	
+92
+
+hsa-miR-548o-3p	MCM9	minichromosome maintenance 9 homologous recombination repair factor
+Details
+
+57	
+92
+
+hsa-miR-548o-3p	MLLT10	MLLT10, histone lysine methyltransferase DOT1L cofactor
+Details
+
+58	
+92
+
+hsa-miR-548o-3p	TOPBP1	DNA topoisomerase II binding protein 1
+Details
+
+59	
+92
+
+hsa-miR-548o-3p	GPATCH2L	G-patch domain containing 2 like
+Details
+
+60	
+92
+
+hsa-miR-548o-3p	AKAP11	A-kinase anchoring protein 11
+Details
+
+61	
+92
+
+hsa-miR-548o-3p	ARHGEF7	Rho guanine nucleotide exchange factor 7
+Details
+
+62	
+92
+
+hsa-miR-548o-3p	ASIC2	acid sensing ion channel subunit 2
+Details
+
+63	
+92
+
+hsa-miR-548o-3p	SPTSSA	serine palmitoyltransferase small subunit A
+Details
+
+64	
+92
+
+hsa-miR-548o-3p	EPN2	epsin 2
+Details
+
+65	
+92
+
+hsa-miR-548o-3p	FAM118B	family with sequence similarity 118 member B
+Details
+
+66	
+92
+
+hsa-miR-548o-3p	TNFRSF19	TNF receptor superfamily member 19
+Details
+
+67	
+92
+
+hsa-miR-548o-3p	VSIG1	V-set and immunoglobulin domain containing 1
+Details
+
+68	
+92
+
+hsa-miR-548o-3p	CRY1	cryptochrome circadian regulator 1
+Details
+
+69	
+92
+
+hsa-miR-548o-3p	IKZF5	IKAROS family zinc finger 5
+Details
+
+70	
+92
+
+hsa-miR-548o-3p	SLAIN2	SLAIN motif family member 2
+Details
+
+71	
+92
+
+hsa-miR-548o-3p	AAK1	AP2 associated kinase 1
+Details
+
+72	
+92
+
+hsa-miR-548o-3p	GINS1	GINS complex subunit 1
+Details
+
+73	
+91
+
+hsa-miR-548o-3p	ZNF615	zinc finger protein 615
+Details
+
+74	
+91
+
+hsa-miR-548o-3p	KRCC1	lysine rich coiled-coil 1
+Details
+
+75	
+91
+
+hsa-miR-548o-3p	HMX2	H6 family homeobox 2
+Details
+
+76	
+91
+
+hsa-miR-548o-3p	ZNF286A	zinc finger protein 286A
+Details
+
+77	
+91
+
+hsa-miR-548o-3p	SRSF3	serine and arginine rich splicing factor 3
+Details
+
+78	
+91
+
+hsa-miR-548o-3p	ACKR3	atypical chemokine receptor 3
+Details
+
+79	
+91
+
+hsa-miR-548o-3p	SCAF4	SR-related CTD associated factor 4
+Details
+
+80	
+91
+
+hsa-miR-548o-3p	EEA1	early endosome antigen 1
+Details
+
+81	
+91
+
+hsa-miR-548o-3p	TTC33	tetratricopeptide repeat domain 33
+Details
+
+82	
+91
+
+hsa-miR-548o-3p	CMPK1	cytidine/uridine monophosphate kinase 1
+Details
+
+83	
+91
+
+hsa-miR-548o-3p	FAM168A	family with sequence similarity 168 member A
+Details
+
+84	
+91
+
+hsa-miR-548o-3p	PATJ	PATJ, crumbs cell polarity complex component
+Details
+
+85	
+91
+
+hsa-miR-548o-3p	FSD1L	fibronectin type III and SPRY domain containing 1 like
+Details
+
+86	
+91
+
+hsa-miR-548o-3p	CSE1L	chromosome segregation 1 like
+Details
+
+87	
+91
+
+hsa-miR-548o-3p	MIER3	MIER family member 3
+Details
+
+88	
+90
+
+hsa-miR-548o-3p	VGLL3	vestigial like family member 3
+Details
+
+89	
+90
+
+hsa-miR-548o-3p	SCN9A	sodium voltage-gated channel alpha subunit 9
+Details
+
+90	
+90
+
+hsa-miR-548o-3p	IKZF2	IKAROS family zinc finger 2
+Details
+
+91	
+90
+
+hsa-miR-548o-3p	SRI	sorcin
+Details
+
+92	
+90
+
+hsa-miR-548o-3p	CAND1	cullin associated and neddylation dissociated 1
+Details
+
+93	
+90
+
+hsa-miR-548o-3p	KPNA4	karyopherin subunit alpha 4
+Details
+
+94	
+90
+
+hsa-miR-548o-3p	FBXO28	F-box protein 28
+Details
+
+95	
+90
+
+hsa-miR-548o-3p	KIAA0408	KIAA0408
+Details
+
+96	
+90
+
+hsa-miR-548o-3p	ZNF286B	zinc finger protein 286B
+Details
+
+97	
+90
+
+hsa-miR-548o-3p	RPS27L	ribosomal protein S27 like
+Details
+
+98	
+90
+
+hsa-miR-548o-3p	PTPRQ	protein tyrosine phosphatase, receptor type Q
+Details
+
+99	
+90
+
+hsa-miR-548o-3p	C6orf106	chromosome 6 open reading frame 106
+Details
+
+100	
+90
+
+hsa-miR-548o-3p	IL6	interleukin 6
+Details
+
+101	
+90
+
+hsa-miR-548o-3p	DNAJA2	DnaJ heat shock protein family (Hsp40) member A2
+Details
+
+102	
+90
+
+hsa-miR-548o-3p	UBE2W	ubiquitin conjugating enzyme E2 W
+Details
+
+103	
+90
+
+hsa-miR-548o-3p	PRPF40A	pre-mRNA processing factor 40 homolog A
+Details
+
+104	
+90
+
+hsa-miR-548o-3p	MAN2A1	mannosidase alpha class 2A member 1
+Details
+
+105	
+90
+
+hsa-miR-548o-3p	PTPRG	protein tyrosine phosphatase, receptor type G
+Details
+
+106	
+90
+
+hsa-miR-548o-3p	TBCEL	tubulin folding cofactor E like
+Details
+
+107	
+90
+
+hsa-miR-548o-3p	GLCCI1	glucocorticoid induced 1

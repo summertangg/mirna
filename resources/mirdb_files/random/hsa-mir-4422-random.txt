@@ -1,0 +1,1129 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-4422	ZBTB41	zinc finger and BTB domain containing 41
+Details
+
+2	
+100
+
+hsa-miR-4422	MYT1L	myelin transcription factor 1 like
+Details
+
+3	
+99
+
+hsa-miR-4422	NT5DC1	5'-nucleotidase domain containing 1
+Details
+
+4	
+99
+
+hsa-miR-4422	BMPR2	bone morphogenetic protein receptor type 2
+Details
+
+5	
+99
+
+hsa-miR-4422	CACNA2D1	calcium voltage-gated channel auxiliary subunit alpha2delta 1
+Details
+
+6	
+99
+
+hsa-miR-4422	APP	amyloid beta precursor protein
+Details
+
+7	
+99
+
+hsa-miR-4422	CNTN1	contactin 1
+Details
+
+8	
+99
+
+hsa-miR-4422	RMND5A	required for meiotic nuclear division 5 homolog A
+Details
+
+9	
+99
+
+hsa-miR-4422	SPRED1	sprouty related EVH1 domain containing 1
+Details
+
+10	
+99
+
+hsa-miR-4422	ZBTB44	zinc finger and BTB domain containing 44
+Details
+
+11	
+99
+
+hsa-miR-4422	CREB1	cAMP responsive element binding protein 1
+Details
+
+12	
+99
+
+hsa-miR-4422	NEK7	NIMA related kinase 7
+Details
+
+13	
+99
+
+hsa-miR-4422	ATP1B1	ATPase Na+/K+ transporting subunit beta 1
+Details
+
+14	
+99
+
+hsa-miR-4422	ETNK1	ethanolamine kinase 1
+Details
+
+15	
+99
+
+hsa-miR-4422	TRIP11	thyroid hormone receptor interactor 11
+Details
+
+16	
+98
+
+hsa-miR-4422	SLAIN1	SLAIN motif family member 1
+Details
+
+17	
+98
+
+hsa-miR-4422	CNTNAP2	contactin associated protein like 2
+Details
+
+18	
+98
+
+hsa-miR-4422	SNRPF	small nuclear ribonucleoprotein polypeptide F
+Details
+
+19	
+98
+
+hsa-miR-4422	JAZF1	JAZF zinc finger 1
+Details
+
+20	
+98
+
+hsa-miR-4422	PPAT	phosphoribosyl pyrophosphate amidotransferase
+Details
+
+21	
+98
+
+hsa-miR-4422	UBE2D3	ubiquitin conjugating enzyme E2 D3
+Details
+
+22	
+98
+
+hsa-miR-4422	REST	RE1 silencing transcription factor
+Details
+
+23	
+98
+
+hsa-miR-4422	FGF7	fibroblast growth factor 7
+Details
+
+24	
+97
+
+hsa-miR-4422	SMAD2	SMAD family member 2
+Details
+
+25	
+97
+
+hsa-miR-4422	KAT2B	lysine acetyltransferase 2B
+Details
+
+26	
+97
+
+hsa-miR-4422	CADM2	cell adhesion molecule 2
+Details
+
+27	
+97
+
+hsa-miR-4422	GABRA1	gamma-aminobutyric acid type A receptor alpha1 subunit
+Details
+
+28	
+97
+
+hsa-miR-4422	ZDHHC1	zinc finger DHHC-type containing 1
+Details
+
+29	
+97
+
+hsa-miR-4422	F3	coagulation factor III, tissue factor
+Details
+
+30	
+97
+
+hsa-miR-4422	PCNX1	pecanex 1
+Details
+
+31	
+97
+
+hsa-miR-4422	ZNF704	zinc finger protein 704
+Details
+
+32	
+97
+
+hsa-miR-4422	QKI	QKI, KH domain containing RNA binding
+Details
+
+33	
+97
+
+hsa-miR-4422	UBN1	ubinuclein 1
+Details
+
+34	
+97
+
+hsa-miR-4422	ABCB11	ATP binding cassette subfamily B member 11
+Details
+
+35	
+97
+
+hsa-miR-4422	PCDH15	protocadherin related 15
+Details
+
+36	
+97
+
+hsa-miR-4422	PLXDC2	plexin domain containing 2
+Details
+
+37	
+97
+
+hsa-miR-4422	NECTIN3	nectin cell adhesion molecule 3
+Details
+
+38	
+96
+
+hsa-miR-4422	RAB3C	RAB3C, member RAS oncogene family
+Details
+
+39	
+96
+
+hsa-miR-4422	PPP1R12A	protein phosphatase 1 regulatory subunit 12A
+Details
+
+40	
+96
+
+hsa-miR-4422	LHFPL1	LHFPL tetraspan subfamily member 1
+Details
+
+41	
+96
+
+hsa-miR-4422	RSPO2	R-spondin 2
+Details
+
+42	
+96
+
+hsa-miR-4422	TMTC3	transmembrane and tetratricopeptide repeat containing 3
+Details
+
+43	
+96
+
+hsa-miR-4422	NFATC2	nuclear factor of activated T cells 2
+Details
+
+44	
+96
+
+hsa-miR-4422	CACNB4	calcium voltage-gated channel auxiliary subunit beta 4
+Details
+
+45	
+96
+
+hsa-miR-4422	ROCK1	Rho associated coiled-coil containing protein kinase 1
+Details
+
+46	
+96
+
+hsa-miR-4422	MPPED2	metallophosphoesterase domain containing 2
+Details
+
+47	
+96
+
+hsa-miR-4422	AAK1	AP2 associated kinase 1
+Details
+
+48	
+96
+
+hsa-miR-4422	PARPBP	PARP1 binding protein
+Details
+
+49	
+96
+
+hsa-miR-4422	PAIP1	poly(A) binding protein interacting protein 1
+Details
+
+50	
+95
+
+hsa-miR-4422	QSER1	glutamine and serine rich 1
+Details
+
+51	
+95
+
+hsa-miR-4422	SLK	STE20 like kinase
+Details
+
+52	
+95
+
+hsa-miR-4422	FSTL5	follistatin like 5
+Details
+
+53	
+95
+
+hsa-miR-4422	ZNF677	zinc finger protein 677
+Details
+
+54	
+95
+
+hsa-miR-4422	MTSS1	MTSS1, I-BAR domain containing
+Details
+
+55	
+95
+
+hsa-miR-4422	PRKAR1A	protein kinase cAMP-dependent type I regulatory subunit alpha
+Details
+
+56	
+95
+
+hsa-miR-4422	ZFHX3	zinc finger homeobox 3
+Details
+
+57	
+95
+
+hsa-miR-4422	BBX	BBX, HMG-box containing
+Details
+
+58	
+95
+
+hsa-miR-4422	PPP1R2	protein phosphatase 1 regulatory inhibitor subunit 2
+Details
+
+59	
+95
+
+hsa-miR-4422	CLUAP1	clusterin associated protein 1
+Details
+
+60	
+95
+
+hsa-miR-4422	TRIM2	tripartite motif containing 2
+Details
+
+61	
+95
+
+hsa-miR-4422	LYSMD3	LysM domain containing 3
+Details
+
+62	
+95
+
+hsa-miR-4422	DNAJC12	DnaJ heat shock protein family (Hsp40) member C12
+Details
+
+63	
+95
+
+hsa-miR-4422	SGPP2	sphingosine-1-phosphate phosphatase 2
+Details
+
+64	
+95
+
+hsa-miR-4422	OSER1	oxidative stress responsive serine rich 1
+Details
+
+65	
+95
+
+hsa-miR-4422	FOXJ2	forkhead box J2
+Details
+
+66	
+95
+
+hsa-miR-4422	GPR82	G protein-coupled receptor 82
+Details
+
+67	
+95
+
+hsa-miR-4422	CEP41	centrosomal protein 41
+Details
+
+68	
+95
+
+hsa-miR-4422	PCDH17	protocadherin 17
+Details
+
+69	
+94
+
+hsa-miR-4422	ZNF322	zinc finger protein 322
+Details
+
+70	
+94
+
+hsa-miR-4422	ZBTB11	zinc finger and BTB domain containing 11
+Details
+
+71	
+94
+
+hsa-miR-4422	TSPAN2	tetraspanin 2
+Details
+
+72	
+94
+
+hsa-miR-4422	MARVELD1	MARVEL domain containing 1
+Details
+
+73	
+94
+
+hsa-miR-4422	TET2	tet methylcytosine dioxygenase 2
+Details
+
+74	
+94
+
+hsa-miR-4422	CCDC186	coiled-coil domain containing 186
+Details
+
+75	
+94
+
+hsa-miR-4422	RUFY2	RUN and FYVE domain containing 2
+Details
+
+76	
+94
+
+hsa-miR-4422	SLC12A5	solute carrier family 12 member 5
+Details
+
+77	
+94
+
+hsa-miR-4422	SH3TC2	SH3 domain and tetratricopeptide repeats 2
+Details
+
+78	
+94
+
+hsa-miR-4422	WNK3	WNK lysine deficient protein kinase 3
+Details
+
+79	
+94
+
+hsa-miR-4422	APAF1	apoptotic peptidase activating factor 1
+Details
+
+80	
+94
+
+hsa-miR-4422	CNOT6	CCR4-NOT transcription complex subunit 6
+Details
+
+81	
+94
+
+hsa-miR-4422	MCTP1	multiple C2 and transmembrane domain containing 1
+Details
+
+82	
+94
+
+hsa-miR-4422	UGCG	UDP-glucose ceramide glucosyltransferase
+Details
+
+83	
+94
+
+hsa-miR-4422	ACTL6A	actin like 6A
+Details
+
+84	
+94
+
+hsa-miR-4422	ZFYVE21	zinc finger FYVE-type containing 21
+Details
+
+85	
+94
+
+hsa-miR-4422	C5orf24	chromosome 5 open reading frame 24
+Details
+
+86	
+94
+
+hsa-miR-4422	ATE1	arginyltransferase 1
+Details
+
+87	
+94
+
+hsa-miR-4422	IRF2BP2	interferon regulatory factor 2 binding protein 2
+Details
+
+88	
+94
+
+hsa-miR-4422	CTNND1	catenin delta 1
+Details
+
+89	
+94
+
+hsa-miR-4422	MEGF10	multiple EGF like domains 10
+Details
+
+90	
+94
+
+hsa-miR-4422	ZNF678	zinc finger protein 678
+Details
+
+91	
+94
+
+hsa-miR-4422	LYPLA1	lysophospholipase 1
+Details
+
+92	
+93
+
+hsa-miR-4422	CD200R1	CD200 receptor 1
+Details
+
+93	
+93
+
+hsa-miR-4422	SSPN	sarcospan
+Details
+
+94	
+93
+
+hsa-miR-4422	PRPF4B	pre-mRNA processing factor 4B
+Details
+
+95	
+93
+
+hsa-miR-4422	PHLDA1	pleckstrin homology like domain family A member 1
+Details
+
+96	
+93
+
+hsa-miR-4422	TOLLIP	toll interacting protein
+Details
+
+97	
+93
+
+hsa-miR-4422	TMEM101	transmembrane protein 101
+Details
+
+98	
+93
+
+hsa-miR-4422	ZCCHC4	zinc finger CCHC-type containing 4
+Details
+
+99	
+93
+
+hsa-miR-4422	GLS	glutaminase
+Details
+
+100	
+93
+
+hsa-miR-4422	SPRYD7	SPRY domain containing 7
+Details
+
+101	
+93
+
+hsa-miR-4422	MAPK1	mitogen-activated protein kinase 1
+Details
+
+102	
+93
+
+hsa-miR-4422	FAT4	FAT atypical cadherin 4
+Details
+
+103	
+93
+
+hsa-miR-4422	SRSF6	serine and arginine rich splicing factor 6
+Details
+
+104	
+93
+
+hsa-miR-4422	TARDBP	TAR DNA binding protein
+Details
+
+105	
+93
+
+hsa-miR-4422	ERAP1	endoplasmic reticulum aminopeptidase 1
+Details
+
+106	
+93
+
+hsa-miR-4422	TNRC6C	trinucleotide repeat containing 6C
+Details
+
+107	
+93
+
+hsa-miR-4422	DPY19L4	dpy-19 like 4
+Details
+
+108	
+93
+
+hsa-miR-4422	CORO2A	coronin 2A
+Details
+
+109	
+93
+
+hsa-miR-4422	FLII	FLII, actin remodeling protein
+Details
+
+110	
+93
+
+hsa-miR-4422	LDB2	LIM domain binding 2
+Details
+
+111	
+93
+
+hsa-miR-4422	MMS22L	MMS22 like, DNA repair protein
+Details
+
+112	
+92
+
+hsa-miR-4422	COG3	component of oligomeric golgi complex 3
+Details
+
+113	
+92
+
+hsa-miR-4422	RAPH1	Ras association (RalGDS/AF-6) and pleckstrin homology domains 1
+Details
+
+114	
+92
+
+hsa-miR-4422	AFAP1L1	actin filament associated protein 1 like 1
+Details
+
+115	
+92
+
+hsa-miR-4422	UQCRC2	ubiquinol-cytochrome c reductase core protein 2
+Details
+
+116	
+92
+
+hsa-miR-4422	ATXN1	ataxin 1
+Details
+
+117	
+92
+
+hsa-miR-4422	KIF20A	kinesin family member 20A
+Details
+
+118	
+92
+
+hsa-miR-4422	PLD5	phospholipase D family member 5
+Details
+
+119	
+92
+
+hsa-miR-4422	SYT14	synaptotagmin 14
+Details
+
+120	
+92
+
+hsa-miR-4422	IGF2BP3	insulin like growth factor 2 mRNA binding protein 3
+Details
+
+121	
+92
+
+hsa-miR-4422	CACNA1E	calcium voltage-gated channel subunit alpha1 E
+Details
+
+122	
+92
+
+hsa-miR-4422	SEMA6D	semaphorin 6D
+Details
+
+123	
+92
+
+hsa-miR-4422	TMEM170B	transmembrane protein 170B
+Details
+
+124	
+92
+
+hsa-miR-4422	AKTIP	AKT interacting protein
+Details
+
+125	
+92
+
+hsa-miR-4422	NAA20	N(alpha)-acetyltransferase 20, NatB catalytic subunit
+Details
+
+126	
+92
+
+hsa-miR-4422	RASSF8	Ras association domain family member 8
+Details
+
+127	
+92
+
+hsa-miR-4422	RYK	receptor-like tyrosine kinase
+Details
+
+128	
+92
+
+hsa-miR-4422	HECW2	HECT, C2 and WW domain containing E3 ubiquitin protein ligase 2
+Details
+
+129	
+92
+
+hsa-miR-4422	KLHL20	kelch like family member 20
+Details
+
+130	
+92
+
+hsa-miR-4422	DCP2	decapping mRNA 2
+Details
+
+131	
+92
+
+hsa-miR-4422	NRBF2	nuclear receptor binding factor 2
+Details
+
+132	
+92
+
+hsa-miR-4422	COL4A3BP	collagen type IV alpha 3 binding protein
+Details
+
+133	
+92
+
+hsa-miR-4422	ANLN	anillin actin binding protein
+Details
+
+134	
+92
+
+hsa-miR-4422	PPM1B	protein phosphatase, Mg2+/Mn2+ dependent 1B
+Details
+
+135	
+92
+
+hsa-miR-4422	GUCY1A2	guanylate cyclase 1 soluble subunit alpha 2
+Details
+
+136	
+92
+
+hsa-miR-4422	INHBB	inhibin subunit beta B
+Details
+
+137	
+92
+
+hsa-miR-4422	TFDP2	transcription factor Dp-2
+Details
+
+138	
+92
+
+hsa-miR-4422	RBMS1	RNA binding motif single stranded interacting protein 1
+Details
+
+139	
+92
+
+hsa-miR-4422	SUMF1	sulfatase modifying factor 1
+Details
+
+140	
+91
+
+hsa-miR-4422	SNX3	sorting nexin 3
+Details
+
+141	
+91
+
+hsa-miR-4422	ATXN3	ataxin 3
+Details
+
+142	
+91
+
+hsa-miR-4422	SLC2A13	solute carrier family 2 member 13
+Details
+
+143	
+91
+
+hsa-miR-4422	PEX7	peroxisomal biogenesis factor 7
+Details
+
+144	
+91
+
+hsa-miR-4422	CDR2L	cerebellar degeneration related protein 2 like
+Details
+
+145	
+91
+
+hsa-miR-4422	SLC6A1	solute carrier family 6 member 1
+Details
+
+146	
+91
+
+hsa-miR-4422	RBMXL3	RBMX like 3
+Details
+
+147	
+91
+
+hsa-miR-4422	ILF3	interleukin enhancer binding factor 3
+Details
+
+148	
+91
+
+hsa-miR-4422	BACE1	beta-secretase 1
+Details
+
+149	
+91
+
+hsa-miR-4422	PIK3R1	phosphoinositide-3-kinase regulatory subunit 1
+Details
+
+150	
+91
+
+hsa-miR-4422	RAB11FIP2	RAB11 family interacting protein 2
+Details
+
+151	
+91
+
+hsa-miR-4422	HOXD8	homeobox D8
+Details
+
+152	
+91
+
+hsa-miR-4422	CDKN2D	cyclin dependent kinase inhibitor 2D
+Details
+
+153	
+91
+
+hsa-miR-4422	CDC27	cell division cycle 27
+Details
+
+154	
+91
+
+hsa-miR-4422	UBE2W	ubiquitin conjugating enzyme E2 W
+Details
+
+155	
+91
+
+hsa-miR-4422	ARMC8	armadillo repeat containing 8
+Details
+
+156	
+91
+
+hsa-miR-4422	BAHD1	bromo adjacent homology domain containing 1
+Details
+
+157	
+91
+
+hsa-miR-4422	SLC25A32	solute carrier family 25 member 32
+Details
+
+158	
+91
+
+hsa-miR-4422	SLITRK4	SLIT and NTRK like family member 4
+Details
+
+159	
+91
+
+hsa-miR-4422	CBLB	Cbl proto-oncogene B
+Details
+
+160	
+91
+
+hsa-miR-4422	MEMO1	mediator of cell motility 1
+Details
+
+161	
+91
+
+hsa-miR-4422	ELAVL1	ELAV like RNA binding protein 1
+Details
+
+162	
+91
+
+hsa-miR-4422	CRABP2	cellular retinoic acid binding protein 2
+Details
+
+163	
+91
+
+hsa-miR-4422	CNTN4	contactin 4
+Details
+
+164	
+91
+
+hsa-miR-4422	SKA3	spindle and kinetochore associated complex subunit 3
+Details
+
+165	
+91
+
+hsa-miR-4422	STRIP2	striatin interacting protein 2
+Details
+
+166	
+91
+
+hsa-miR-4422	UTP23	UTP23, small subunit processome component
+Details
+
+167	
+90
+
+hsa-miR-4422	PDZK1	PDZ domain containing 1
+Details
+
+168	
+90
+
+hsa-miR-4422	TAF12	TATA-box binding protein associated factor 12
+Details
+
+169	
+90
+
+hsa-miR-4422	WWTR1	WW domain containing transcription regulator 1
+Details
+
+170	
+90
+
+hsa-miR-4422	PTPRR	protein tyrosine phosphatase, receptor type R
+Details
+
+171	
+90
+
+hsa-miR-4422	PCGF3	polycomb group ring finger 3
+Details
+
+172	
+90
+
+hsa-miR-4422	PRKCE	protein kinase C epsilon
+Details
+
+173	
+90
+
+hsa-miR-4422	CCDC121	coiled-coil domain containing 121
+Details
+
+174	
+90
+
+hsa-miR-4422	LRRC59	leucine rich repeat containing 59
+Details
+
+175	
+90
+
+hsa-miR-4422	SOSTDC1	sclerostin domain containing 1
+Details
+
+176	
+90
+
+hsa-miR-4422	FBXO11	F-box protein 11
+Details
+
+177	
+90
+
+hsa-miR-4422	API5	apoptosis inhibitor 5
+Details
+
+178	
+90
+
+hsa-miR-4422	DMD	dystrophin
+Details
+
+179	
+90
+
+hsa-miR-4422	CDK6	cyclin dependent kinase 6
+Details
+
+180	
+90
+
+hsa-miR-4422	CAMTA1	calmodulin binding transcription activator 1
+Details
+
+181	
+90
+
+hsa-miR-4422	CDKN2AIP	CDKN2A interacting protein
+Details
+
+182	
+90
+
+hsa-miR-4422	SHROOM3	shroom family member 3
+Details
+
+183	
+90
+
+hsa-miR-4422	ABLIM1	actin binding LIM protein 1
+Details
+
+184	
+90
+
+hsa-miR-4422	IRF2BPL	interferon regulatory factor 2 binding protein like
+Details
+
+185	
+90
+
+hsa-miR-4422	RSBN1	round spermatid basic protein 1
+Details
+
+186	
+90
+
+hsa-miR-4422	PITPNC1	phosphatidylinositol transfer protein cytoplasmic 1
+Details
+
+187	
+90
+
+hsa-miR-4422	BRD1	bromodomain containing 1
+Details
+
+188	
+90
+
+hsa-miR-4422	ZSWIM6	zinc finger SWIM-type containing 6

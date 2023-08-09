@@ -1,0 +1,253 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+98
+
+hsa-miR-8089	IQSEC3	IQ motif and Sec7 domain 3
+Details
+
+2	
+97
+
+hsa-miR-8089	ZNF831	zinc finger protein 831
+Details
+
+3	
+97
+
+hsa-miR-8089	PPP1R1B	protein phosphatase 1 regulatory inhibitor subunit 1B
+Details
+
+4	
+97
+
+hsa-miR-8089	DAGLA	diacylglycerol lipase alpha
+Details
+
+5	
+97
+
+hsa-miR-8089	CIC	capicua transcriptional repressor
+Details
+
+6	
+96
+
+hsa-miR-8089	POU3F3	POU class 3 homeobox 3
+Details
+
+7	
+96
+
+hsa-miR-8089	ARFIP1	ADP ribosylation factor interacting protein 1
+Details
+
+8	
+95
+
+hsa-miR-8089	PCDHGA12	protocadherin gamma subfamily A, 12
+Details
+
+9	
+95
+
+hsa-miR-8089	ANKIB1	ankyrin repeat and IBR domain containing 1
+Details
+
+10	
+95
+
+hsa-miR-8089	FUT11	fucosyltransferase 11
+Details
+
+11	
+94
+
+hsa-miR-8089	SOGA1	suppressor of glucose, autophagy associated 1
+Details
+
+12	
+94
+
+hsa-miR-8089	EGLN3	egl-9 family hypoxia inducible factor 3
+Details
+
+13	
+94
+
+hsa-miR-8089	AAK1	AP2 associated kinase 1
+Details
+
+14	
+93
+
+hsa-miR-8089	NAGA	alpha-N-acetylgalactosaminidase
+Details
+
+15	
+93
+
+hsa-miR-8089	OPRM1	opioid receptor mu 1
+Details
+
+16	
+93
+
+hsa-miR-8089	NAA40	N(alpha)-acetyltransferase 40, NatD catalytic subunit
+Details
+
+17	
+93
+
+hsa-miR-8089	SALL1	spalt like transcription factor 1
+Details
+
+18	
+93
+
+hsa-miR-8089	MAPK1	mitogen-activated protein kinase 1
+Details
+
+19	
+93
+
+hsa-miR-8089	S1PR2	sphingosine-1-phosphate receptor 2
+Details
+
+20	
+93
+
+hsa-miR-8089	PPP1R10	protein phosphatase 1 regulatory subunit 10
+Details
+
+21	
+93
+
+hsa-miR-8089	SLC38A7	solute carrier family 38 member 7
+Details
+
+22	
+93
+
+hsa-miR-8089	OSBPL7	oxysterol binding protein like 7
+Details
+
+23	
+93
+
+hsa-miR-8089	GALNT15	polypeptide N-acetylgalactosaminyltransferase 15
+Details
+
+24	
+93
+
+hsa-miR-8089	ARID3B	AT-rich interaction domain 3B
+Details
+
+25	
+92
+
+hsa-miR-8089	FOXN3	forkhead box N3
+Details
+
+26	
+92
+
+hsa-miR-8089	LYPD6	LY6/PLAUR domain containing 6
+Details
+
+27	
+92
+
+hsa-miR-8089	CALN1	calneuron 1
+Details
+
+28	
+92
+
+hsa-miR-8089	CAPN12	calpain 12
+Details
+
+29	
+92
+
+hsa-miR-8089	BCL2L1	BCL2 like 1
+Details
+
+30	
+91
+
+hsa-miR-8089	MBOAT7	membrane bound O-acyltransferase domain containing 7
+Details
+
+31	
+91
+
+hsa-miR-8089	SUSD2	sushi domain containing 2
+Details
+
+32	
+91
+
+hsa-miR-8089	ABCC10	ATP binding cassette subfamily C member 10
+Details
+
+33	
+91
+
+hsa-miR-8089	SNX12	sorting nexin 12
+Details
+
+34	
+91
+
+hsa-miR-8089	POPDC3	popeye domain containing 3
+Details
+
+35	
+91
+
+hsa-miR-8089	VSTM4	V-set and transmembrane domain containing 4
+Details
+
+36	
+91
+
+hsa-miR-8089	TSPAN11	tetraspanin 11
+Details
+
+37	
+90
+
+hsa-miR-8089	TEX36	testis expressed 36
+Details
+
+38	
+90
+
+hsa-miR-8089	RANBP1	RAN binding protein 1
+Details
+
+39	
+90
+
+hsa-miR-8089	C15orf56	chromosome 15 open reading frame 56
+Details
+
+40	
+90
+
+hsa-miR-8089	CPLX2	complexin 2
+Details
+
+41	
+90
+
+hsa-miR-8089	SPIB	Spi-B transcription factor
+Details
+
+42	
+90
+
+hsa-miR-8089	SOX6	SRY-box 6

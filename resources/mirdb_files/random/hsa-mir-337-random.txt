@@ -1,0 +1,229 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+98
+
+hsa-miR-337-3p	FAM76B	family with sequence similarity 76 member B
+Details
+
+2	
+98
+
+hsa-miR-337-3p	GRID2	glutamate ionotropic receptor delta type subunit 2
+Details
+
+3	
+97
+
+hsa-miR-337-3p	RBM41	RNA binding motif protein 41
+Details
+
+4	
+97
+
+hsa-miR-337-3p	C2CD6	C2 calcium dependent domain containing 6
+Details
+
+5	
+97
+
+hsa-miR-337-3p	SLITRK4	SLIT and NTRK like family member 4
+Details
+
+6	
+97
+
+hsa-miR-337-3p	ZNF624	zinc finger protein 624
+Details
+
+7	
+97
+
+hsa-miR-337-3p	FAM104A	family with sequence similarity 104 member A
+Details
+
+8	
+96
+
+hsa-miR-337-3p	SORCS1	sortilin related VPS10 domain containing receptor 1
+Details
+
+9	
+95
+
+hsa-miR-337-3p	UBN1	ubinuclein 1
+Details
+
+10	
+95
+
+hsa-miR-337-3p	CEP41	centrosomal protein 41
+Details
+
+11	
+95
+
+hsa-miR-337-3p	RPS6KA3	ribosomal protein S6 kinase A3
+Details
+
+12	
+94
+
+hsa-miR-337-3p	ARL6IP5	ADP ribosylation factor like GTPase 6 interacting protein 5
+Details
+
+13	
+94
+
+hsa-miR-337-3p	VWA8	von Willebrand factor A domain containing 8
+Details
+
+14	
+94
+
+hsa-miR-337-3p	KMT2A	lysine methyltransferase 2A
+Details
+
+15	
+93
+
+hsa-miR-337-3p	ABCD3	ATP binding cassette subfamily D member 3
+Details
+
+16	
+93
+
+hsa-miR-337-3p	JAK2	Janus kinase 2
+Details
+
+17	
+93
+
+hsa-miR-337-3p	NTS	neurotensin
+Details
+
+18	
+92
+
+hsa-miR-337-3p	TCF12	transcription factor 12
+Details
+
+19	
+92
+
+hsa-miR-337-3p	PPIP5K2	diphosphoinositol pentakisphosphate kinase 2
+Details
+
+20	
+92
+
+hsa-miR-337-3p	SEPHS1	selenophosphate synthetase 1
+Details
+
+21	
+92
+
+hsa-miR-337-3p	ELMOD2	ELMO domain containing 2
+Details
+
+22	
+92
+
+hsa-miR-337-3p	PTEN	phosphatase and tensin homolog
+Details
+
+23	
+92
+
+hsa-miR-337-3p	TANK	TRAF family member associated NFKB activator
+Details
+
+24	
+92
+
+hsa-miR-337-3p	CDC14A	cell division cycle 14A
+Details
+
+25	
+91
+
+hsa-miR-337-3p	SCOC	short coiled-coil protein
+Details
+
+26	
+91
+
+hsa-miR-337-3p	PML	promyelocytic leukemia
+Details
+
+27	
+91
+
+hsa-miR-337-3p	C9orf152	chromosome 9 open reading frame 152
+Details
+
+28	
+91
+
+hsa-miR-337-3p	TSEN2	tRNA splicing endonuclease subunit 2
+Details
+
+29	
+91
+
+hsa-miR-337-3p	FRAS1	Fraser extracellular matrix complex subunit 1
+Details
+
+30	
+91
+
+hsa-miR-337-3p	ANP32E	acidic nuclear phosphoprotein 32 family member E
+Details
+
+31	
+91
+
+hsa-miR-337-3p	IL13RA1	interleukin 13 receptor subunit alpha 1
+Details
+
+32	
+91
+
+hsa-miR-337-3p	RASSF9	Ras association domain family member 9
+Details
+
+33	
+91
+
+hsa-miR-337-3p	ZNF37A	zinc finger protein 37A
+Details
+
+34	
+91
+
+hsa-miR-337-3p	MSL1	MSL complex subunit 1
+Details
+
+35	
+91
+
+hsa-miR-337-3p	SERPINE1	serpin family E member 1
+Details
+
+36	
+91
+
+hsa-miR-337-3p	ARID4A	AT-rich interaction domain 4A
+Details
+
+37	
+90
+
+hsa-miR-337-3p	POU2F1	POU class 2 homeobox 1
+Details
+
+38	
+90
+
+hsa-miR-337-3p	RNF222	ring finger protein 222

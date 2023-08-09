@@ -1,0 +1,205 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-8082	GSG1L	GSG1 like
+Details
+
+2	
+99
+
+hsa-miR-8082	ZNF213	zinc finger protein 213
+Details
+
+3	
+99
+
+hsa-miR-8082	FAM169B	family with sequence similarity 169 member B
+Details
+
+4	
+98
+
+hsa-miR-8082	ERICH3	glutamate rich 3
+Details
+
+5	
+97
+
+hsa-miR-8082	OLA1	Obg like ATPase 1
+Details
+
+6	
+97
+
+hsa-miR-8082	FOXQ1	forkhead box Q1
+Details
+
+7	
+96
+
+hsa-miR-8082	MIEF1	mitochondrial elongation factor 1
+Details
+
+8	
+96
+
+hsa-miR-8082	MTCL1	microtubule crosslinking factor 1
+Details
+
+9	
+96
+
+hsa-miR-8082	CNOT9	CCR4-NOT transcription complex subunit 9
+Details
+
+10	
+95
+
+hsa-miR-8082	ESRRG	estrogen related receptor gamma
+Details
+
+11	
+95
+
+hsa-miR-8082	NUMBL	NUMB like, endocytic adaptor protein
+Details
+
+12	
+94
+
+hsa-miR-8082	FAM222B	family with sequence similarity 222 member B
+Details
+
+13	
+94
+
+hsa-miR-8082	CCDC121	coiled-coil domain containing 121
+Details
+
+14	
+94
+
+hsa-miR-8082	IGF2	insulin like growth factor 2
+Details
+
+15	
+94
+
+hsa-miR-8082	ATP12A	ATPase H+/K+ transporting non-gastric alpha2 subunit
+Details
+
+16	
+94
+
+hsa-miR-8082	ARHGAP12	Rho GTPase activating protein 12
+Details
+
+17	
+94
+
+hsa-miR-8082	PLCXD2	phosphatidylinositol specific phospholipase C X domain containing 2
+Details
+
+18	
+94
+
+hsa-miR-8082	TRPA1	transient receptor potential cation channel subfamily A member 1
+Details
+
+19	
+93
+
+hsa-miR-8082	ARHGAP28	Rho GTPase activating protein 28
+Details
+
+20	
+93
+
+hsa-miR-8082	SRPX	sushi repeat containing protein X-linked
+Details
+
+21	
+93
+
+hsa-miR-8082	VPS53	VPS53, GARP complex subunit
+Details
+
+22	
+93
+
+hsa-miR-8082	MS4A1	membrane spanning 4-domains A1
+Details
+
+23	
+93
+
+hsa-miR-8082	ALG12	ALG12, alpha-1,6-mannosyltransferase
+Details
+
+24	
+93
+
+hsa-miR-8082	IGLON5	IgLON family member 5
+Details
+
+25	
+92
+
+hsa-miR-8082	CACNG3	calcium voltage-gated channel auxiliary subunit gamma 3
+Details
+
+26	
+92
+
+hsa-miR-8082	CCDC40	coiled-coil domain containing 40
+Details
+
+27	
+92
+
+hsa-miR-8082	ZMYND11	zinc finger MYND-type containing 11
+Details
+
+28	
+92
+
+hsa-miR-8082	EIF4E	eukaryotic translation initiation factor 4E
+Details
+
+29	
+91
+
+hsa-miR-8082	NCAPH	non-SMC condensin I complex subunit H
+Details
+
+30	
+91
+
+hsa-miR-8082	ZNF142	zinc finger protein 142
+Details
+
+31	
+91
+
+hsa-miR-8082	XIRP1	xin actin binding repeat containing 1
+Details
+
+32	
+90
+
+hsa-miR-8082	CMTM7	CKLF like MARVEL transmembrane domain containing 7
+Details
+
+33	
+90
+
+hsa-miR-8082	DTNA	dystrobrevin alpha
+Details
+
+34	
+90
+
+hsa-miR-8082	FAM120C	family with sequence similarity 120C

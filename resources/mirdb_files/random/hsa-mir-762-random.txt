@@ -1,0 +1,397 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-762	NFIX	nuclear factor I X
+Details
+
+2	
+99
+
+hsa-miR-762	GIPC3	GIPC PDZ domain containing family member 3
+Details
+
+3	
+99
+
+hsa-miR-762	PACS1	phosphofurin acidic cluster sorting protein 1
+Details
+
+4	
+98
+
+hsa-miR-762	SOGA1	suppressor of glucose, autophagy associated 1
+Details
+
+5	
+98
+
+hsa-miR-762	ACVRL1	activin A receptor like type 1
+Details
+
+6	
+98
+
+hsa-miR-762	KCNIP3	potassium voltage-gated channel interacting protein 3
+Details
+
+7	
+97
+
+hsa-miR-762	KCNS1	potassium voltage-gated channel modifier subfamily S member 1
+Details
+
+8	
+97
+
+hsa-miR-762	YY1AP1	YY1 associated protein 1
+Details
+
+9	
+97
+
+hsa-miR-762	BCAM	basal cell adhesion molecule (Lutheran blood group)
+Details
+
+10	
+97
+
+hsa-miR-762	WDR48	WD repeat domain 48
+Details
+
+11	
+97
+
+hsa-miR-762	PHLDB1	pleckstrin homology like domain family B member 1
+Details
+
+12	
+96
+
+hsa-miR-762	JMJD8	jumonji domain containing 8
+Details
+
+13	
+96
+
+hsa-miR-762	GNAI2	G protein subunit alpha i2
+Details
+
+14	
+96
+
+hsa-miR-762	MDGA1	MAM domain containing glycosylphosphatidylinositol anchor 1
+Details
+
+15	
+95
+
+hsa-miR-762	EVC	EvC ciliary complex subunit 1
+Details
+
+16	
+95
+
+hsa-miR-762	NATD1	N-acetyltransferase domain containing 1
+Details
+
+17	
+95
+
+hsa-miR-762	ARHGAP1	Rho GTPase activating protein 1
+Details
+
+18	
+95
+
+hsa-miR-762	RAP1GAP2	RAP1 GTPase activating protein 2
+Details
+
+19	
+95
+
+hsa-miR-762	MYO1C	myosin IC
+Details
+
+20	
+95
+
+hsa-miR-762	PML	promyelocytic leukemia
+Details
+
+21	
+95
+
+hsa-miR-762	SLC6A17	solute carrier family 6 member 17
+Details
+
+22	
+95
+
+hsa-miR-762	PEX14	peroxisomal biogenesis factor 14
+Details
+
+23	
+95
+
+hsa-miR-762	ARL2BP	ADP ribosylation factor like GTPase 2 binding protein
+Details
+
+24	
+95
+
+hsa-miR-762	KIAA0930	KIAA0930
+Details
+
+25	
+95
+
+hsa-miR-762	SMPD3	sphingomyelin phosphodiesterase 3
+Details
+
+26	
+94
+
+hsa-miR-762	ZNF219	zinc finger protein 219
+Details
+
+27	
+94
+
+hsa-miR-762	RAB6B	RAB6B, member RAS oncogene family
+Details
+
+28	
+94
+
+hsa-miR-762	NECTIN1	nectin cell adhesion molecule 1
+Details
+
+29	
+94
+
+hsa-miR-762	IQSEC2	IQ motif and Sec7 domain 2
+Details
+
+30	
+94
+
+hsa-miR-762	TMCC3	transmembrane and coiled-coil domain family 3
+Details
+
+31	
+94
+
+hsa-miR-762	ZNF609	zinc finger protein 609
+Details
+
+32	
+94
+
+hsa-miR-762	CPLX2	complexin 2
+Details
+
+33	
+94
+
+hsa-miR-762	APLN	apelin
+Details
+
+34	
+94
+
+hsa-miR-762	SDK2	sidekick cell adhesion molecule 2
+Details
+
+35	
+93
+
+hsa-miR-762	ABCF2	ATP binding cassette subfamily F member 2
+Details
+
+36	
+93
+
+hsa-miR-762	OLFML2A	olfactomedin like 2A
+Details
+
+37	
+93
+
+hsa-miR-762	ZFR2	zinc finger RNA binding protein 2
+Details
+
+38	
+93
+
+hsa-miR-762	ARID3B	AT-rich interaction domain 3B
+Details
+
+39	
+93
+
+hsa-miR-762	KIAA0513	KIAA0513
+Details
+
+40	
+92
+
+hsa-miR-762	CNP	2',3'-cyclic nucleotide 3' phosphodiesterase
+Details
+
+41	
+92
+
+hsa-miR-762	ENG	endoglin
+Details
+
+42	
+92
+
+hsa-miR-762	CRTC1	CREB regulated transcription coactivator 1
+Details
+
+43	
+92
+
+hsa-miR-762	STK40	serine/threonine kinase 40
+Details
+
+44	
+92
+
+hsa-miR-762	LARP1	La ribonucleoprotein domain family member 1
+Details
+
+45	
+92
+
+hsa-miR-762	SDC3	syndecan 3
+Details
+
+46	
+92
+
+hsa-miR-762	ATP2B2	ATPase plasma membrane Ca2+ transporting 2
+Details
+
+47	
+92
+
+hsa-miR-762	PARVG	parvin gamma
+Details
+
+48	
+92
+
+hsa-miR-762	PPM1H	protein phosphatase, Mg2+/Mn2+ dependent 1H
+Details
+
+49	
+91
+
+hsa-miR-762	IGFBP5	insulin like growth factor binding protein 5
+Details
+
+50	
+91
+
+hsa-miR-762	SEMA7A	semaphorin 7A (John Milton Hagen blood group)
+Details
+
+51	
+91
+
+hsa-miR-762	ACE	angiotensin I converting enzyme
+Details
+
+52	
+91
+
+hsa-miR-762	FBXO41	F-box protein 41
+Details
+
+53	
+91
+
+hsa-miR-762	OSBP2	oxysterol binding protein 2
+Details
+
+54	
+91
+
+hsa-miR-762	TYSND1	trypsin domain containing 1
+Details
+
+55	
+91
+
+hsa-miR-762	PTPRF	protein tyrosine phosphatase, receptor type F
+Details
+
+56	
+90
+
+hsa-miR-762	RELT	RELT, TNF receptor
+Details
+
+57	
+90
+
+hsa-miR-762	LZTS1	leucine zipper tumor suppressor 1
+Details
+
+58	
+90
+
+hsa-miR-762	TRMT61A	tRNA methyltransferase 61A
+Details
+
+59	
+90
+
+hsa-miR-762	CLIP3	CAP-Gly domain containing linker protein 3
+Details
+
+60	
+90
+
+hsa-miR-762	ADGRL1	adhesion G protein-coupled receptor L1
+Details
+
+61	
+90
+
+hsa-miR-762	SLC2A8	solute carrier family 2 member 8
+Details
+
+62	
+90
+
+hsa-miR-762	RNF20	ring finger protein 20
+Details
+
+63	
+90
+
+hsa-miR-762	CNIH2	cornichon family AMPA receptor auxiliary protein 2
+Details
+
+64	
+90
+
+hsa-miR-762	PLXDC2	plexin domain containing 2
+Details
+
+65	
+90
+
+hsa-miR-762	TAGLN	transgelin
+Details
+
+66	
+90
+
+hsa-miR-762	CDYL2	chromodomain Y like 2

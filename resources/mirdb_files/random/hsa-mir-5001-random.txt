@@ -1,0 +1,385 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-5001-5p	NFIX	nuclear factor I X
+Details
+
+2	
+99
+
+hsa-miR-5001-5p	GIPC3	GIPC PDZ domain containing family member 3
+Details
+
+3	
+99
+
+hsa-miR-5001-5p	PACS1	phosphofurin acidic cluster sorting protein 1
+Details
+
+4	
+98
+
+hsa-miR-5001-5p	SOGA1	suppressor of glucose, autophagy associated 1
+Details
+
+5	
+98
+
+hsa-miR-5001-5p	KCNIP3	potassium voltage-gated channel interacting protein 3
+Details
+
+6	
+97
+
+hsa-miR-5001-5p	KCNS1	potassium voltage-gated channel modifier subfamily S member 1
+Details
+
+7	
+97
+
+hsa-miR-5001-5p	BCAM	basal cell adhesion molecule (Lutheran blood group)
+Details
+
+8	
+97
+
+hsa-miR-5001-5p	WDR48	WD repeat domain 48
+Details
+
+9	
+97
+
+hsa-miR-5001-5p	ACVRL1	activin A receptor like type 1
+Details
+
+10	
+97
+
+hsa-miR-5001-5p	PHLDB1	pleckstrin homology like domain family B member 1
+Details
+
+11	
+96
+
+hsa-miR-5001-5p	EVC	EvC ciliary complex subunit 1
+Details
+
+12	
+96
+
+hsa-miR-5001-5p	NECTIN1	nectin cell adhesion molecule 1
+Details
+
+13	
+96
+
+hsa-miR-5001-5p	ARHGAP1	Rho GTPase activating protein 1
+Details
+
+14	
+96
+
+hsa-miR-5001-5p	JMJD8	jumonji domain containing 8
+Details
+
+15	
+96
+
+hsa-miR-5001-5p	RAP1GAP2	RAP1 GTPase activating protein 2
+Details
+
+16	
+96
+
+hsa-miR-5001-5p	SLC6A17	solute carrier family 6 member 17
+Details
+
+17	
+96
+
+hsa-miR-5001-5p	MDGA1	MAM domain containing glycosylphosphatidylinositol anchor 1
+Details
+
+18	
+95
+
+hsa-miR-5001-5p	RAB6B	RAB6B, member RAS oncogene family
+Details
+
+19	
+95
+
+hsa-miR-5001-5p	IQSEC2	IQ motif and Sec7 domain 2
+Details
+
+20	
+95
+
+hsa-miR-5001-5p	YY1AP1	YY1 associated protein 1
+Details
+
+21	
+95
+
+hsa-miR-5001-5p	MYO1C	myosin IC
+Details
+
+22	
+95
+
+hsa-miR-5001-5p	GNAI2	G protein subunit alpha i2
+Details
+
+23	
+95
+
+hsa-miR-5001-5p	ARL2BP	ADP ribosylation factor like GTPase 2 binding protein
+Details
+
+24	
+95
+
+hsa-miR-5001-5p	SMPD3	sphingomyelin phosphodiesterase 3
+Details
+
+25	
+94
+
+hsa-miR-5001-5p	ZNF219	zinc finger protein 219
+Details
+
+26	
+94
+
+hsa-miR-5001-5p	NATD1	N-acetyltransferase domain containing 1
+Details
+
+27	
+94
+
+hsa-miR-5001-5p	TMCC3	transmembrane and coiled-coil domain family 3
+Details
+
+28	
+94
+
+hsa-miR-5001-5p	PML	promyelocytic leukemia
+Details
+
+29	
+94
+
+hsa-miR-5001-5p	OLFML2A	olfactomedin like 2A
+Details
+
+30	
+94
+
+hsa-miR-5001-5p	KIAA0930	KIAA0930
+Details
+
+31	
+93
+
+hsa-miR-5001-5p	STK40	serine/threonine kinase 40
+Details
+
+32	
+93
+
+hsa-miR-5001-5p	ABCF2	ATP binding cassette subfamily F member 2
+Details
+
+33	
+93
+
+hsa-miR-5001-5p	ZNF609	zinc finger protein 609
+Details
+
+34	
+93
+
+hsa-miR-5001-5p	CPLX2	complexin 2
+Details
+
+35	
+93
+
+hsa-miR-5001-5p	ZFR2	zinc finger RNA binding protein 2
+Details
+
+36	
+93
+
+hsa-miR-5001-5p	OSBP2	oxysterol binding protein 2
+Details
+
+37	
+93
+
+hsa-miR-5001-5p	APLN	apelin
+Details
+
+38	
+93
+
+hsa-miR-5001-5p	PEX14	peroxisomal biogenesis factor 14
+Details
+
+39	
+93
+
+hsa-miR-5001-5p	PARVG	parvin gamma
+Details
+
+40	
+93
+
+hsa-miR-5001-5p	KIAA0513	KIAA0513
+Details
+
+41	
+92
+
+hsa-miR-5001-5p	ENG	endoglin
+Details
+
+42	
+92
+
+hsa-miR-5001-5p	LARP1	La ribonucleoprotein domain family member 1
+Details
+
+43	
+92
+
+hsa-miR-5001-5p	SLC45A2	solute carrier family 45 member 2
+Details
+
+44	
+92
+
+hsa-miR-5001-5p	ATP2B2	ATPase plasma membrane Ca2+ transporting 2
+Details
+
+45	
+92
+
+hsa-miR-5001-5p	COPS7B	COP9 signalosome subunit 7B
+Details
+
+46	
+92
+
+hsa-miR-5001-5p	SDK2	sidekick cell adhesion molecule 2
+Details
+
+47	
+92
+
+hsa-miR-5001-5p	PPM1H	protein phosphatase, Mg2+/Mn2+ dependent 1H
+Details
+
+48	
+91
+
+hsa-miR-5001-5p	IGFBP5	insulin like growth factor binding protein 5
+Details
+
+49	
+91
+
+hsa-miR-5001-5p	ACE	angiotensin I converting enzyme
+Details
+
+50	
+91
+
+hsa-miR-5001-5p	TYSND1	trypsin domain containing 1
+Details
+
+51	
+91
+
+hsa-miR-5001-5p	PTPRF	protein tyrosine phosphatase, receptor type F
+Details
+
+52	
+90
+
+hsa-miR-5001-5p	JPH3	junctophilin 3
+Details
+
+53	
+90
+
+hsa-miR-5001-5p	RELT	RELT, TNF receptor
+Details
+
+54	
+90
+
+hsa-miR-5001-5p	LZTS1	leucine zipper tumor suppressor 1
+Details
+
+55	
+90
+
+hsa-miR-5001-5p	TRMT61A	tRNA methyltransferase 61A
+Details
+
+56	
+90
+
+hsa-miR-5001-5p	CLIP3	CAP-Gly domain containing linker protein 3
+Details
+
+57	
+90
+
+hsa-miR-5001-5p	SYNDIG1L	synapse differentiation inducing 1 like
+Details
+
+58	
+90
+
+hsa-miR-5001-5p	ERC1	ELKS/RAB6-interacting/CAST family member 1
+Details
+
+59	
+90
+
+hsa-miR-5001-5p	SDC3	syndecan 3
+Details
+
+60	
+90
+
+hsa-miR-5001-5p	FBXO41	F-box protein 41
+Details
+
+61	
+90
+
+hsa-miR-5001-5p	SLC2A8	solute carrier family 2 member 8
+Details
+
+62	
+90
+
+hsa-miR-5001-5p	RNF20	ring finger protein 20
+Details
+
+63	
+90
+
+hsa-miR-5001-5p	PLXDC2	plexin domain containing 2
+Details
+
+64	
+90
+
+hsa-miR-5001-5p	CDYL2	chromodomain Y like 2

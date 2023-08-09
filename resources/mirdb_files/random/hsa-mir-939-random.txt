@@ -1,0 +1,217 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+97
+
+hsa-miR-939-5p	ZNRF1	zinc and ring finger 1
+Details
+
+2	
+97
+
+hsa-miR-939-5p	CIB2	calcium and integrin binding family member 2
+Details
+
+3	
+96
+
+hsa-miR-939-5p	NACC1	nucleus accumbens associated 1
+Details
+
+4	
+96
+
+hsa-miR-939-5p	NFASC	neurofascin
+Details
+
+5	
+96
+
+hsa-miR-939-5p	SPINDOC	spindlin interactor and repressor of chromatin binding
+Details
+
+6	
+95
+
+hsa-miR-939-5p	CDR2L	cerebellar degeneration related protein 2 like
+Details
+
+7	
+95
+
+hsa-miR-939-5p	TRIM66	tripartite motif containing 66
+Details
+
+8	
+95
+
+hsa-miR-939-5p	SOGA1	suppressor of glucose, autophagy associated 1
+Details
+
+9	
+95
+
+hsa-miR-939-5p	IQSEC3	IQ motif and Sec7 domain 3
+Details
+
+10	
+94
+
+hsa-miR-939-5p	FOXP4	forkhead box P4
+Details
+
+11	
+94
+
+hsa-miR-939-5p	LOXL3	lysyl oxidase like 3
+Details
+
+12	
+94
+
+hsa-miR-939-5p	STIM1	stromal interaction molecule 1
+Details
+
+13	
+94
+
+hsa-miR-939-5p	SPATA31C2	SPATA31 subfamily C member 2
+Details
+
+14	
+94
+
+hsa-miR-939-5p	CSNK1A1	casein kinase 1 alpha 1
+Details
+
+15	
+93
+
+hsa-miR-939-5p	MECP2	methyl-CpG binding protein 2
+Details
+
+16	
+93
+
+hsa-miR-939-5p	SYNGAP1	synaptic Ras GTPase activating protein 1
+Details
+
+17	
+92
+
+hsa-miR-939-5p	KRT3	keratin 3
+Details
+
+18	
+92
+
+hsa-miR-939-5p	VAT1	vesicle amine transport 1
+Details
+
+19	
+92
+
+hsa-miR-939-5p	PRKACA	protein kinase cAMP-activated catalytic subunit alpha
+Details
+
+20	
+92
+
+hsa-miR-939-5p	ARID3B	AT-rich interaction domain 3B
+Details
+
+21	
+92
+
+hsa-miR-939-5p	FLJ44635	TPT1-like protein
+Details
+
+22	
+91
+
+hsa-miR-939-5p	PEAR1	platelet endothelial aggregation receptor 1
+Details
+
+23	
+91
+
+hsa-miR-939-5p	SLC9A3R2	SLC9A3 regulator 2
+Details
+
+24	
+91
+
+hsa-miR-939-5p	ALDH7A1	aldehyde dehydrogenase 7 family member A1
+Details
+
+25	
+91
+
+hsa-miR-939-5p	KIF1A	kinesin family member 1A
+Details
+
+26	
+91
+
+hsa-miR-939-5p	BTBD9	BTB domain containing 9
+Details
+
+27	
+91
+
+hsa-miR-939-5p	GRIK3	glutamate ionotropic receptor kainate type subunit 3
+Details
+
+28	
+90
+
+hsa-miR-939-5p	SCARA5	scavenger receptor class A member 5
+Details
+
+29	
+90
+
+hsa-miR-939-5p	PAX5	paired box 5
+Details
+
+30	
+90
+
+hsa-miR-939-5p	HECTD3	HECT domain E3 ubiquitin protein ligase 3
+Details
+
+31	
+90
+
+hsa-miR-939-5p	KRTAP10-5	keratin associated protein 10-5
+Details
+
+32	
+90
+
+hsa-miR-939-5p	SIAH3	siah E3 ubiquitin protein ligase family member 3
+Details
+
+33	
+90
+
+hsa-miR-939-5p	NCDN	neurochondrin
+Details
+
+34	
+90
+
+hsa-miR-939-5p	CSPG4	chondroitin sulfate proteoglycan 4
+Details
+
+35	
+90
+
+hsa-miR-939-5p	SHISA6	shisa family member 6
+Details
+
+36	
+90
+
+hsa-miR-939-5p	KLHL3	kelch like family member 3

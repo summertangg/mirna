@@ -1,0 +1,301 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-1915-3p	DEAF1	DEAF1 transcription factor
+Details
+
+2	
+99
+
+hsa-miR-1915-3p	TFE3	transcription factor binding to IGHM enhancer 3
+Details
+
+3	
+97
+
+hsa-miR-1915-3p	MAFF	MAF bZIP transcription factor F
+Details
+
+4	
+97
+
+hsa-miR-1915-3p	PPP2R5D	protein phosphatase 2 regulatory subunit B'delta
+Details
+
+5	
+97
+
+hsa-miR-1915-3p	MYRF	myelin regulatory factor
+Details
+
+6	
+96
+
+hsa-miR-1915-3p	C12orf49	chromosome 12 open reading frame 49
+Details
+
+7	
+96
+
+hsa-miR-1915-3p	ADCY6	adenylate cyclase 6
+Details
+
+8	
+96
+
+hsa-miR-1915-3p	CDIP1	cell death inducing p53 target 1
+Details
+
+9	
+96
+
+hsa-miR-1915-3p	WSCD1	WSC domain containing 1
+Details
+
+10	
+95
+
+hsa-miR-1915-3p	KIF13A	kinesin family member 13A
+Details
+
+11	
+95
+
+hsa-miR-1915-3p	SREBF2	sterol regulatory element binding transcription factor 2
+Details
+
+12	
+95
+
+hsa-miR-1915-3p	HEYL	hes related family bHLH transcription factor with YRPW motif-like
+Details
+
+13	
+95
+
+hsa-miR-1915-3p	TMEM217	transmembrane protein 217
+Details
+
+14	
+94
+
+hsa-miR-1915-3p	ALAD	aminolevulinate dehydratase
+Details
+
+15	
+94
+
+hsa-miR-1915-3p	HHIPL2	HHIP like 2
+Details
+
+16	
+93
+
+hsa-miR-1915-3p	PDGFRB	platelet derived growth factor receptor beta
+Details
+
+17	
+93
+
+hsa-miR-1915-3p	ELMSAN1	ELM2 and Myb/SANT domain containing 1
+Details
+
+18	
+93
+
+hsa-miR-1915-3p	LIN28A	lin-28 homolog A
+Details
+
+19	
+93
+
+hsa-miR-1915-3p	MIGA2	mitoguardin 2
+Details
+
+20	
+93
+
+hsa-miR-1915-3p	STC1	stanniocalcin 1
+Details
+
+21	
+92
+
+hsa-miR-1915-3p	YPEL4	yippee like 4
+Details
+
+22	
+92
+
+hsa-miR-1915-3p	EFR3B	EFR3 homolog B
+Details
+
+23	
+92
+
+hsa-miR-1915-3p	SLC18A1	solute carrier family 18 member A1
+Details
+
+24	
+92
+
+hsa-miR-1915-3p	CEP250	centrosomal protein 250
+Details
+
+25	
+92
+
+hsa-miR-1915-3p	PTGES2	prostaglandin E synthase 2
+Details
+
+26	
+92
+
+hsa-miR-1915-3p	OR2H1	olfactory receptor family 2 subfamily H member 1
+Details
+
+27	
+92
+
+hsa-miR-1915-3p	ANKRD52	ankyrin repeat domain 52
+Details
+
+28	
+92
+
+hsa-miR-1915-3p	RIMS4	regulating synaptic membrane exocytosis 4
+Details
+
+29	
+92
+
+hsa-miR-1915-3p	CACNG2	calcium voltage-gated channel auxiliary subunit gamma 2
+Details
+
+30	
+92
+
+hsa-miR-1915-3p	CHTF8	chromosome transmission fidelity factor 8
+Details
+
+31	
+92
+
+hsa-miR-1915-3p	SET	SET nuclear proto-oncogene
+Details
+
+32	
+91
+
+hsa-miR-1915-3p	NDOR1	NADPH dependent diflavin oxidoreductase 1
+Details
+
+33	
+91
+
+hsa-miR-1915-3p	SORCS2	sortilin related VPS10 domain containing receptor 2
+Details
+
+34	
+91
+
+hsa-miR-1915-3p	C1RL	complement C1r subcomponent like
+Details
+
+35	
+91
+
+hsa-miR-1915-3p	MMP24	matrix metallopeptidase 24
+Details
+
+36	
+91
+
+hsa-miR-1915-3p	TSKU	tsukushi, small leucine rich proteoglycan
+Details
+
+37	
+91
+
+hsa-miR-1915-3p	NPTX1	neuronal pentraxin 1
+Details
+
+38	
+91
+
+hsa-miR-1915-3p	ZNF426	zinc finger protein 426
+Details
+
+39	
+91
+
+hsa-miR-1915-3p	OVOL1	ovo like transcriptional repressor 1
+Details
+
+40	
+90
+
+hsa-miR-1915-3p	CPXM2	carboxypeptidase X, M14 family member 2
+Details
+
+41	
+90
+
+hsa-miR-1915-3p	RNF216	ring finger protein 216
+Details
+
+42	
+90
+
+hsa-miR-1915-3p	MLEC	malectin
+Details
+
+43	
+90
+
+hsa-miR-1915-3p	NDST1	N-deacetylase and N-sulfotransferase 1
+Details
+
+44	
+90
+
+hsa-miR-1915-3p	TPBGL	trophoblast glycoprotein like
+Details
+
+45	
+90
+
+hsa-miR-1915-3p	TMEM245	transmembrane protein 245
+Details
+
+46	
+90
+
+hsa-miR-1915-3p	CALCR	calcitonin receptor
+Details
+
+47	
+90
+
+hsa-miR-1915-3p	PCDHGA12	protocadherin gamma subfamily A, 12
+Details
+
+48	
+90
+
+hsa-miR-1915-3p	ZNF474	zinc finger protein 474
+Details
+
+49	
+90
+
+hsa-miR-1915-3p	MXI1	MAX interactor 1, dimerization protein
+Details
+
+50	
+90
+
+hsa-miR-1915-3p	PCDHGC3	protocadherin gamma subfamily C, 3

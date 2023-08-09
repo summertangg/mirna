@@ -1,0 +1,115 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+98
+
+hsa-miR-4309	FAM86B1	family with sequence similarity 86 member B1
+Details
+
+2	
+96
+
+hsa-miR-4309	GATA4	GATA binding protein 4
+Details
+
+3	
+95
+
+hsa-miR-4309	BHMT2	betaine--homocysteine S-methyltransferase 2
+Details
+
+4	
+95
+
+hsa-miR-4309	PFKP	phosphofructokinase, platelet
+Details
+
+5	
+95
+
+hsa-miR-4309	SMAP1	small ArfGAP 1
+Details
+
+6	
+95
+
+hsa-miR-4309	FAM86B2	family with sequence similarity 86 member B2
+Details
+
+7	
+94
+
+hsa-miR-4309	FAM86C1	family with sequence similarity 86 member C1
+Details
+
+8	
+93
+
+hsa-miR-4309	KCNE5	potassium voltage-gated channel subfamily E regulatory subunit 5
+Details
+
+9	
+93
+
+hsa-miR-4309	MED7	mediator complex subunit 7
+Details
+
+10	
+93
+
+hsa-miR-4309	EMC8	ER membrane protein complex subunit 8
+Details
+
+11	
+92
+
+hsa-miR-4309	AKIRIN1	akirin 1
+Details
+
+12	
+92
+
+hsa-miR-4309	EFNA5	ephrin A5
+Details
+
+13	
+92
+
+hsa-miR-4309	ADAR	adenosine deaminase, RNA specific
+Details
+
+14	
+92
+
+hsa-miR-4309	PRR15	proline rich 15
+Details
+
+15	
+91
+
+hsa-miR-4309	IGDCC3	immunoglobulin superfamily DCC subclass member 3
+Details
+
+16	
+91
+
+hsa-miR-4309	TMEM245	transmembrane protein 245
+Details
+
+17	
+90
+
+hsa-miR-4309	PATE1	prostate and testis expressed 1
+Details
+
+18	
+90
+
+hsa-miR-4309	SERPINB13	serpin family B member 13
+Details
+
+19	
+90
+
+hsa-miR-4309	DENND4A	DENN domain containing 4A

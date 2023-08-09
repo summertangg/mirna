@@ -1,0 +1,175 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+98
+
+hsa-miR-4329	CUL3	cullin 3
+Details
+
+2	
+97
+
+hsa-miR-4329	SEC14L1	SEC14 like lipid binding 1
+Details
+
+3	
+96
+
+hsa-miR-4329	CACNA1G	calcium voltage-gated channel subunit alpha1 G
+Details
+
+4	
+96
+
+hsa-miR-4329	C8G	complement C8 gamma chain
+Details
+
+5	
+96
+
+hsa-miR-4329	RASSF1	Ras association domain family member 1
+Details
+
+6	
+96
+
+hsa-miR-4329	TOP2B	DNA topoisomerase II beta
+Details
+
+7	
+95
+
+hsa-miR-4329	PSME4	proteasome activator subunit 4
+Details
+
+8	
+94
+
+hsa-miR-4329	STK39	serine/threonine kinase 39
+Details
+
+9	
+94
+
+hsa-miR-4329	XIAP	X-linked inhibitor of apoptosis
+Details
+
+10	
+93
+
+hsa-miR-4329	ING1	inhibitor of growth family member 1
+Details
+
+11	
+93
+
+hsa-miR-4329	YWHAE	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon
+Details
+
+12	
+93
+
+hsa-miR-4329	RNF166	ring finger protein 166
+Details
+
+13	
+93
+
+hsa-miR-4329	DOCK2	dedicator of cytokinesis 2
+Details
+
+14	
+92
+
+hsa-miR-4329	UNC5C	unc-5 netrin receptor C
+Details
+
+15	
+92
+
+hsa-miR-4329	LRP12	LDL receptor related protein 12
+Details
+
+16	
+92
+
+hsa-miR-4329	NEXMIF	neurite extension and migration factor
+Details
+
+17	
+92
+
+hsa-miR-4329	LEMD3	LEM domain containing 3
+Details
+
+18	
+92
+
+hsa-miR-4329	STARD3NL	STARD3 N-terminal like
+Details
+
+19	
+92
+
+hsa-miR-4329	TENM3	teneurin transmembrane protein 3
+Details
+
+20	
+91
+
+hsa-miR-4329	RASEF	RAS and EF-hand domain containing
+Details
+
+21	
+91
+
+hsa-miR-4329	EPSTI1	epithelial stromal interaction 1
+Details
+
+22	
+91
+
+hsa-miR-4329	NAA15	N(alpha)-acetyltransferase 15, NatA auxiliary subunit
+Details
+
+23	
+91
+
+hsa-miR-4329	IER3IP1	immediate early response 3 interacting protein 1
+Details
+
+24	
+91
+
+hsa-miR-4329	WNT16	Wnt family member 16
+Details
+
+25	
+91
+
+hsa-miR-4329	DACT1	dishevelled binding antagonist of beta catenin 1
+Details
+
+26	
+90
+
+hsa-miR-4329	TMEM47	transmembrane protein 47
+Details
+
+27	
+90
+
+hsa-miR-4329	ZC3HAV1	zinc finger CCCH-type containing, antiviral 1
+Details
+
+28	
+90
+
+hsa-miR-4329	CADM1	cell adhesion molecule 1
+Details
+
+29	
+90
+
+hsa-miR-4329	ZADH2	zinc binding alcohol dehydrogenase domain containing 2

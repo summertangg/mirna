@@ -1,0 +1,361 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-12132	EIF3J	eukaryotic translation initiation factor 3 subunit J
+Details
+
+2	
+99
+
+hsa-miR-12132	GLRB	glycine receptor beta
+Details
+
+3	
+99
+
+hsa-miR-12132	VPS13C	vacuolar protein sorting 13 homolog C
+Details
+
+4	
+99
+
+hsa-miR-12132	ASB4	ankyrin repeat and SOCS box containing 4
+Details
+
+5	
+99
+
+hsa-miR-12132	SP4	Sp4 transcription factor
+Details
+
+6	
+96
+
+hsa-miR-12132	WDR17	WD repeat domain 17
+Details
+
+7	
+96
+
+hsa-miR-12132	FAM120A	family with sequence similarity 120A
+Details
+
+8	
+96
+
+hsa-miR-12132	CLIC1	chloride intracellular channel 1
+Details
+
+9	
+96
+
+hsa-miR-12132	CNOT7	CCR4-NOT transcription complex subunit 7
+Details
+
+10	
+96
+
+hsa-miR-12132	TOMM20L	translocase of outer mitochondrial membrane 20 like
+Details
+
+11	
+95
+
+hsa-miR-12132	SPOPL	speckle type BTB/POZ protein like
+Details
+
+12	
+95
+
+hsa-miR-12132	MED14	mediator complex subunit 14
+Details
+
+13	
+95
+
+hsa-miR-12132	SMARCA4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4
+Details
+
+14	
+95
+
+hsa-miR-12132	CIB1	calcium and integrin binding 1
+Details
+
+15	
+95
+
+hsa-miR-12132	C1GALT1	core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase 1
+Details
+
+16	
+95
+
+hsa-miR-12132	DSG2	desmoglein 2
+Details
+
+17	
+94
+
+hsa-miR-12132	SALL3	spalt like transcription factor 3
+Details
+
+18	
+94
+
+hsa-miR-12132	SACM1L	SAC1 like phosphatidylinositide phosphatase
+Details
+
+19	
+94
+
+hsa-miR-12132	COL23A1	collagen type XXIII alpha 1 chain
+Details
+
+20	
+94
+
+hsa-miR-12132	TASP1	taspase 1
+Details
+
+21	
+94
+
+hsa-miR-12132	POU1F1	POU class 1 homeobox 1
+Details
+
+22	
+94
+
+hsa-miR-12132	SNX2	sorting nexin 2
+Details
+
+23	
+94
+
+hsa-miR-12132	CRH	corticotropin releasing hormone
+Details
+
+24	
+94
+
+hsa-miR-12132	SMAP1	small ArfGAP 1
+Details
+
+25	
+94
+
+hsa-miR-12132	CBFB	core-binding factor subunit beta
+Details
+
+26	
+94
+
+hsa-miR-12132	GSPT2	G1 to S phase transition 2
+Details
+
+27	
+93
+
+hsa-miR-12132	SYT1	synaptotagmin 1
+Details
+
+28	
+93
+
+hsa-miR-12132	CLOCK	clock circadian regulator
+Details
+
+29	
+93
+
+hsa-miR-12132	PRH2	proline rich protein HaeIII subfamily 2
+Details
+
+30	
+93
+
+hsa-miR-12132	XPA	XPA, DNA damage recognition and repair factor
+Details
+
+31	
+93
+
+hsa-miR-12132	C1GALT1C1L	C1GALT1 specific chaperone 1 like
+Details
+
+32	
+93
+
+hsa-miR-12132	CYP39A1	cytochrome P450 family 39 subfamily A member 1
+Details
+
+33	
+93
+
+hsa-miR-12132	ZFP2	ZFP2 zinc finger protein
+Details
+
+34	
+92
+
+hsa-miR-12132	PABPC5	poly(A) binding protein cytoplasmic 5
+Details
+
+35	
+92
+
+hsa-miR-12132	ZNF417	zinc finger protein 417
+Details
+
+36	
+92
+
+hsa-miR-12132	NAB1	NGFI-A binding protein 1
+Details
+
+37	
+92
+
+hsa-miR-12132	SEPHS1	selenophosphate synthetase 1
+Details
+
+38	
+92
+
+hsa-miR-12132	RHNO1	RAD9-HUS1-RAD1 interacting nuclear orphan 1
+Details
+
+39	
+92
+
+hsa-miR-12132	PTPN21	protein tyrosine phosphatase, non-receptor type 21
+Details
+
+40	
+92
+
+hsa-miR-12132	YIPF4	Yip1 domain family member 4
+Details
+
+41	
+92
+
+hsa-miR-12132	FBXW2	F-box and WD repeat domain containing 2
+Details
+
+42	
+91
+
+hsa-miR-12132	ZNF587	zinc finger protein 587
+Details
+
+43	
+91
+
+hsa-miR-12132	ERMP1	endoplasmic reticulum metallopeptidase 1
+Details
+
+44	
+91
+
+hsa-miR-12132	OTULIN	OTU deubiquitinase with linear linkage specificity
+Details
+
+45	
+91
+
+hsa-miR-12132	OLFM3	olfactomedin 3
+Details
+
+46	
+91
+
+hsa-miR-12132	RAB6A	RAB6A, member RAS oncogene family
+Details
+
+47	
+91
+
+hsa-miR-12132	BTF3L4	basic transcription factor 3 like 4
+Details
+
+48	
+91
+
+hsa-miR-12132	ANKRD13C	ankyrin repeat domain 13C
+Details
+
+49	
+91
+
+hsa-miR-12132	RPL39	ribosomal protein L39
+Details
+
+50	
+91
+
+hsa-miR-12132	KLHL15	kelch like family member 15
+Details
+
+51	
+91
+
+hsa-miR-12132	POC1B	POC1 centriolar protein B
+Details
+
+52	
+90
+
+hsa-miR-12132	MAB21L2	mab-21 like 2
+Details
+
+53	
+90
+
+hsa-miR-12132	PSIP1	PC4 and SFRS1 interacting protein 1
+Details
+
+54	
+90
+
+hsa-miR-12132	LONP2	lon peptidase 2, peroxisomal
+Details
+
+55	
+90
+
+hsa-miR-12132	SLC6A13	solute carrier family 6 member 13
+Details
+
+56	
+90
+
+hsa-miR-12132	SETMAR	SET domain and mariner transposase fusion gene
+Details
+
+57	
+90
+
+hsa-miR-12132	BASP1	brain abundant membrane attached signal protein 1
+Details
+
+58	
+90
+
+hsa-miR-12132	WWP1	WW domain containing E3 ubiquitin protein ligase 1
+Details
+
+59	
+90
+
+hsa-miR-12132	SYS1	SYS1, golgi trafficking protein
+Details
+
+60	
+90
+
+hsa-miR-12132	ARSB	arylsulfatase B

@@ -38,7 +38,7 @@ clean_set = [
 # Correctly Classified Instances          22               95.6522 %
 # Incorrectly Classified Instances         1                4.3478 %
 
-positive_mirnas = [
+natural_set = [
     "hsa-mir-200c",
     "hsa-mir-638",
     "hsa-mir-518a",
@@ -67,23 +67,5 @@ positive_mirnas = [
     "hsa-mir-150"
 ]
 
-random_mirnas = ["hsa-mir-1250",
-                 "hsa-mir-329",
-                 "hsa-mir-371b",
-                 "hsa-mir-378h",
-                 "hsa-mir-379",
-                 "hsa-mir-449c",
-                 "hsa-mir-4517",
-                 "hsa-mir-4695",
-                 "hsa-mir-4804",
-                 "hsa-mir-5002",
-                 "hsa-mir-5100",
-                 "hsa-mir-5584",
-                 "hsa-mir-6510",
-                 "hsa-mir-6782",
-                 "hsa-mir-6794",
-                 "hsa-mir-6827",
-                 "hsa-mir-7855"]
-
-all_mirnas = positive_mirnas + random_mirnas
-interaction_file = "mirdb_interactions_m26_testing.csv"
+clean_file = "mirdb_interactions_m26_testing_clean.csv"
+natural_file = "mirdb_interactions_m26_testing_natural.csv"

@@ -1,0 +1,115 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+97
+
+hsa-miR-1270	CNTN3	contactin 3
+Details
+
+2	
+97
+
+hsa-miR-1270	N4BP2L1	NEDD4 binding protein 2 like 1
+Details
+
+3	
+97
+
+hsa-miR-1270	C15orf40	chromosome 15 open reading frame 40
+Details
+
+4	
+97
+
+hsa-miR-1270	TESC	tescalcin
+Details
+
+5	
+96
+
+hsa-miR-1270	UBASH3B	ubiquitin associated and SH3 domain containing B
+Details
+
+6	
+95
+
+hsa-miR-1270	OLA1	Obg like ATPase 1
+Details
+
+7	
+94
+
+hsa-miR-1270	ZIC5	Zic family member 5
+Details
+
+8	
+93
+
+hsa-miR-1270	COPS4	COP9 signalosome subunit 4
+Details
+
+9	
+93
+
+hsa-miR-1270	EPPIN	epididymal peptidase inhibitor
+Details
+
+10	
+93
+
+hsa-miR-1270	LAMB4	laminin subunit beta 4
+Details
+
+11	
+93
+
+hsa-miR-1270	SLC25A37	solute carrier family 25 member 37
+Details
+
+12	
+93
+
+hsa-miR-1270	ANKRD44	ankyrin repeat domain 44
+Details
+
+13	
+92
+
+hsa-miR-1270	SENP5	SUMO specific peptidase 5
+Details
+
+14	
+92
+
+hsa-miR-1270	AFP	alpha fetoprotein
+Details
+
+15	
+92
+
+hsa-miR-1270	DGKE	diacylglycerol kinase epsilon
+Details
+
+16	
+91
+
+hsa-miR-1270	HEXA	hexosaminidase subunit alpha
+Details
+
+17	
+90
+
+hsa-miR-1270	NDUFAF5	NADH:ubiquinone oxidoreductase complex assembly factor 5
+Details
+
+18	
+90
+
+hsa-miR-1270	KLHDC3	kelch domain containing 3
+Details
+
+19	
+90
+
+hsa-miR-1270	GLI2	GLI family zinc finger 2

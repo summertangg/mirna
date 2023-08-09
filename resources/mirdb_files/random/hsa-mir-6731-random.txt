@@ -1,0 +1,577 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-6731-5p	HSPB6	heat shock protein family B (small) member 6
+Details
+
+2	
+99
+
+hsa-miR-6731-5p	HIP1	huntingtin interacting protein 1
+Details
+
+3	
+99
+
+hsa-miR-6731-5p	SEMA4G	semaphorin 4G
+Details
+
+4	
+98
+
+hsa-miR-6731-5p	CCDC97	coiled-coil domain containing 97
+Details
+
+5	
+98
+
+hsa-miR-6731-5p	SHANK1	SH3 and multiple ankyrin repeat domains 1
+Details
+
+6	
+98
+
+hsa-miR-6731-5p	MLLT11	MLLT11, transcription factor 7 cofactor
+Details
+
+7	
+98
+
+hsa-miR-6731-5p	ANK1	ankyrin 1
+Details
+
+8	
+97
+
+hsa-miR-6731-5p	RBM20	RNA binding motif protein 20
+Details
+
+9	
+97
+
+hsa-miR-6731-5p	WNT1	Wnt family member 1
+Details
+
+10	
+97
+
+hsa-miR-6731-5p	SNX19	sorting nexin 19
+Details
+
+11	
+97
+
+hsa-miR-6731-5p	IKZF1	IKAROS family zinc finger 1
+Details
+
+12	
+96
+
+hsa-miR-6731-5p	PCDHA8	protocadherin alpha 8
+Details
+
+13	
+96
+
+hsa-miR-6731-5p	PCDHAC1	protocadherin alpha subfamily C, 1
+Details
+
+14	
+96
+
+hsa-miR-6731-5p	PCDHAC2	protocadherin alpha subfamily C, 2
+Details
+
+15	
+96
+
+hsa-miR-6731-5p	PCDHA13	protocadherin alpha 13
+Details
+
+16	
+96
+
+hsa-miR-6731-5p	PCDHA10	protocadherin alpha 10
+Details
+
+17	
+96
+
+hsa-miR-6731-5p	PCDHA5	protocadherin alpha 5
+Details
+
+18	
+96
+
+hsa-miR-6731-5p	PCDHA6	protocadherin alpha 6
+Details
+
+19	
+96
+
+hsa-miR-6731-5p	PCDHA11	protocadherin alpha 11
+Details
+
+20	
+96
+
+hsa-miR-6731-5p	PCDHA3	protocadherin alpha 3
+Details
+
+21	
+96
+
+hsa-miR-6731-5p	PCDHA9	protocadherin alpha 9
+Details
+
+22	
+96
+
+hsa-miR-6731-5p	PCDHA4	protocadherin alpha 4
+Details
+
+23	
+96
+
+hsa-miR-6731-5p	HNF1B	HNF1 homeobox B
+Details
+
+24	
+96
+
+hsa-miR-6731-5p	PCDHA1	protocadherin alpha 1
+Details
+
+25	
+96
+
+hsa-miR-6731-5p	AHCYL1	adenosylhomocysteinase like 1
+Details
+
+26	
+96
+
+hsa-miR-6731-5p	PCDHA7	protocadherin alpha 7
+Details
+
+27	
+96
+
+hsa-miR-6731-5p	PCDHA2	protocadherin alpha 2
+Details
+
+28	
+96
+
+hsa-miR-6731-5p	PCDHA12	protocadherin alpha 12
+Details
+
+29	
+96
+
+hsa-miR-6731-5p	HLA-E	major histocompatibility complex, class I, E
+Details
+
+30	
+95
+
+hsa-miR-6731-5p	USP49	ubiquitin specific peptidase 49
+Details
+
+31	
+95
+
+hsa-miR-6731-5p	ALPK3	alpha kinase 3
+Details
+
+32	
+95
+
+hsa-miR-6731-5p	ATAT1	alpha tubulin acetyltransferase 1
+Details
+
+33	
+94
+
+hsa-miR-6731-5p	RAPGEFL1	Rap guanine nucleotide exchange factor like 1
+Details
+
+34	
+94
+
+hsa-miR-6731-5p	HOXC6	homeobox C6
+Details
+
+35	
+94
+
+hsa-miR-6731-5p	LLCFC1	LLLL and CFNLAS motif containing 1
+Details
+
+36	
+94
+
+hsa-miR-6731-5p	SHISAL1	shisa like 1
+Details
+
+37	
+94
+
+hsa-miR-6731-5p	CHRNA2	cholinergic receptor nicotinic alpha 2 subunit
+Details
+
+38	
+94
+
+hsa-miR-6731-5p	ARHGAP24	Rho GTPase activating protein 24
+Details
+
+39	
+94
+
+hsa-miR-6731-5p	C19orf47	chromosome 19 open reading frame 47
+Details
+
+40	
+94
+
+hsa-miR-6731-5p	LHX2	LIM homeobox 2
+Details
+
+41	
+94
+
+hsa-miR-6731-5p	TP53INP2	tumor protein p53 inducible nuclear protein 2
+Details
+
+42	
+93
+
+hsa-miR-6731-5p	SCN2B	sodium voltage-gated channel beta subunit 2
+Details
+
+43	
+93
+
+hsa-miR-6731-5p	CORO1C	coronin 1C
+Details
+
+44	
+93
+
+hsa-miR-6731-5p	WNT9B	Wnt family member 9B
+Details
+
+45	
+93
+
+hsa-miR-6731-5p	KDM2A	lysine demethylase 2A
+Details
+
+46	
+93
+
+hsa-miR-6731-5p	ANKRD45	ankyrin repeat domain 45
+Details
+
+47	
+93
+
+hsa-miR-6731-5p	ZNF703	zinc finger protein 703
+Details
+
+48	
+93
+
+hsa-miR-6731-5p	GSK3B	glycogen synthase kinase 3 beta
+Details
+
+49	
+93
+
+hsa-miR-6731-5p	EXD2	exonuclease 3'-5' domain containing 2
+Details
+
+50	
+93
+
+hsa-miR-6731-5p	HEY2	hes related family bHLH transcription factor with YRPW motif 2
+Details
+
+51	
+93
+
+hsa-miR-6731-5p	SREBF2	sterol regulatory element binding transcription factor 2
+Details
+
+52	
+93
+
+hsa-miR-6731-5p	LOC101927844	uncharacterized LOC101927844
+Details
+
+53	
+93
+
+hsa-miR-6731-5p	PELI1	pellino E3 ubiquitin protein ligase 1
+Details
+
+54	
+93
+
+hsa-miR-6731-5p	IER5	immediate early response 5
+Details
+
+55	
+92
+
+hsa-miR-6731-5p	EXTL3	exostosin like glycosyltransferase 3
+Details
+
+56	
+92
+
+hsa-miR-6731-5p	ADARB2	adenosine deaminase, RNA specific B2 (inactive)
+Details
+
+57	
+92
+
+hsa-miR-6731-5p	SMARCC2	SWI/SNF related, matrix associated, actin dependent regulator of chromatin subfamily c member 2
+Details
+
+58	
+92
+
+hsa-miR-6731-5p	PCOTH	Pro-X-Gly collagen triple helix like repeat containing
+Details
+
+59	
+92
+
+hsa-miR-6731-5p	MTSS1L	MTSS1L, I-BAR domain containing
+Details
+
+60	
+92
+
+hsa-miR-6731-5p	RAB5B	RAB5B, member RAS oncogene family
+Details
+
+61	
+92
+
+hsa-miR-6731-5p	NRM	nurim
+Details
+
+62	
+92
+
+hsa-miR-6731-5p	MAP6	microtubule associated protein 6
+Details
+
+63	
+91
+
+hsa-miR-6731-5p	PRELID2	PRELI domain containing 2
+Details
+
+64	
+91
+
+hsa-miR-6731-5p	SLC17A7	solute carrier family 17 member 7
+Details
+
+65	
+91
+
+hsa-miR-6731-5p	LDB1	LIM domain binding 1
+Details
+
+66	
+91
+
+hsa-miR-6731-5p	DYNLL2	dynein light chain LC8-type 2
+Details
+
+67	
+91
+
+hsa-miR-6731-5p	GCK	glucokinase
+Details
+
+68	
+91
+
+hsa-miR-6731-5p	CCDC102A	coiled-coil domain containing 102A
+Details
+
+69	
+91
+
+hsa-miR-6731-5p	FAM122C	family with sequence similarity 122C
+Details
+
+70	
+91
+
+hsa-miR-6731-5p	AMER1	APC membrane recruitment protein 1
+Details
+
+71	
+91
+
+hsa-miR-6731-5p	SERPINB8	serpin family B member 8
+Details
+
+72	
+91
+
+hsa-miR-6731-5p	CD209	CD209 molecule
+Details
+
+73	
+90
+
+hsa-miR-6731-5p	UBE3A	ubiquitin protein ligase E3A
+Details
+
+74	
+90
+
+hsa-miR-6731-5p	LRRC27	leucine rich repeat containing 27
+Details
+
+75	
+90
+
+hsa-miR-6731-5p	ZC4H2	zinc finger C4H2-type containing
+Details
+
+76	
+90
+
+hsa-miR-6731-5p	CAMK1D	calcium/calmodulin dependent protein kinase ID
+Details
+
+77	
+90
+
+hsa-miR-6731-5p	OPCML	opioid binding protein/cell adhesion molecule like
+Details
+
+78	
+90
+
+hsa-miR-6731-5p	CASP2	caspase 2
+Details
+
+79	
+90
+
+hsa-miR-6731-5p	CXCL17	C-X-C motif chemokine ligand 17
+Details
+
+80	
+90
+
+hsa-miR-6731-5p	GNAO1	G protein subunit alpha o1
+Details
+
+81	
+90
+
+hsa-miR-6731-5p	EIF1	eukaryotic translation initiation factor 1
+Details
+
+82	
+90
+
+hsa-miR-6731-5p	NEUROD2	neuronal differentiation 2
+Details
+
+83	
+90
+
+hsa-miR-6731-5p	RAPGEF1	Rap guanine nucleotide exchange factor 1
+Details
+
+84	
+90
+
+hsa-miR-6731-5p	STK40	serine/threonine kinase 40
+Details
+
+85	
+90
+
+hsa-miR-6731-5p	PRKCG	protein kinase C gamma
+Details
+
+86	
+90
+
+hsa-miR-6731-5p	RPH3A	rabphilin 3A
+Details
+
+87	
+90
+
+hsa-miR-6731-5p	EYA3	EYA transcriptional coactivator and phosphatase 3
+Details
+
+88	
+90
+
+hsa-miR-6731-5p	TSPYL2	TSPY like 2
+Details
+
+89	
+90
+
+hsa-miR-6731-5p	SLC6A6	solute carrier family 6 member 6
+Details
+
+90	
+90
+
+hsa-miR-6731-5p	INTS5	integrator complex subunit 5
+Details
+
+91	
+90
+
+hsa-miR-6731-5p	FIGNL2	fidgetin like 2
+Details
+
+92	
+90
+
+hsa-miR-6731-5p	HDAC3	histone deacetylase 3
+Details
+
+93	
+90
+
+hsa-miR-6731-5p	FNDC9	fibronectin type III domain containing 9
+Details
+
+94	
+90
+
+hsa-miR-6731-5p	FMNL3	formin like 3
+Details
+
+95	
+90
+
+hsa-miR-6731-5p	PM20D1	peptidase M20 domain containing 1
+Details
+
+96	
+90
+
+hsa-miR-6731-5p	CREB3L2	cAMP responsive element binding protein 3 like 2

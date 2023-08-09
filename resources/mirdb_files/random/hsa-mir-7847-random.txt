@@ -1,0 +1,103 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+97
+
+hsa-miR-7847-3p	RAB1A	RAB1A, member RAS oncogene family
+Details
+
+2	
+97
+
+hsa-miR-7847-3p	PSKH1	protein serine kinase H1
+Details
+
+3	
+97
+
+hsa-miR-7847-3p	SYP	synaptophysin
+Details
+
+4	
+96
+
+hsa-miR-7847-3p	ASB12	ankyrin repeat and SOCS box containing 12
+Details
+
+5	
+95
+
+hsa-miR-7847-3p	PDE6D	phosphodiesterase 6D
+Details
+
+6	
+94
+
+hsa-miR-7847-3p	NECAB2	N-terminal EF-hand calcium binding protein 2
+Details
+
+7	
+94
+
+hsa-miR-7847-3p	NLK	nemo like kinase
+Details
+
+8	
+94
+
+hsa-miR-7847-3p	CHMP1B	charged multivesicular body protein 1B
+Details
+
+9	
+93
+
+hsa-miR-7847-3p	GSPT1	G1 to S phase transition 1
+Details
+
+10	
+93
+
+hsa-miR-7847-3p	KIF1A	kinesin family member 1A
+Details
+
+11	
+92
+
+hsa-miR-7847-3p	CALN1	calneuron 1
+Details
+
+12	
+91
+
+hsa-miR-7847-3p	KPNA3	karyopherin subunit alpha 3
+Details
+
+13	
+91
+
+hsa-miR-7847-3p	ENPP6	ectonucleotide pyrophosphatase/phosphodiesterase 6
+Details
+
+14	
+91
+
+hsa-miR-7847-3p	LAMC1	laminin subunit gamma 1
+Details
+
+15	
+90
+
+hsa-miR-7847-3p	AXIN2	axin 2
+Details
+
+16	
+90
+
+hsa-miR-7847-3p	MYO16	myosin XVI
+Details
+
+17	
+90
+
+hsa-miR-7847-3p	ADAMTS9	ADAM metallopeptidase with thrombospondin type 1 motif 9
