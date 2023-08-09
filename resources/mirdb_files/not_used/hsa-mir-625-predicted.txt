@@ -1,0 +1,367 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-625-5p	HOXB5	homeobox B5
+Details
+
+2	
+97
+
+hsa-miR-625-5p	DDX17	DEAD-box helicase 17
+Details
+
+3	
+97
+
+hsa-miR-625-5p	SPIN1	spindlin 1
+Details
+
+4	
+96
+
+hsa-miR-625-5p	ATXN1	ataxin 1
+Details
+
+5	
+96
+
+hsa-miR-625-5p	ACTB	actin beta
+Details
+
+6	
+96
+
+hsa-miR-625-5p	SPICE1	spindle and centriole associated protein 1
+Details
+
+7	
+96
+
+hsa-miR-625-5p	MEX3A	mex-3 RNA binding family member A
+Details
+
+8	
+96
+
+hsa-miR-625-5p	MECP2	methyl-CpG binding protein 2
+Details
+
+9	
+96
+
+hsa-miR-625-5p	HNRNPAB	heterogeneous nuclear ribonucleoprotein A/B
+Details
+
+10	
+95
+
+hsa-miR-625-5p	SEPT6	septin 6
+Details
+
+11	
+95
+
+hsa-miR-625-5p	CASTOR2	cytosolic arginine sensor for mTORC1 subunit 2
+Details
+
+12	
+95
+
+hsa-miR-625-5p	SMUG1	single-strand-selective monofunctional uracil-DNA glycosylase 1
+Details
+
+13	
+95
+
+hsa-miR-625-5p	MPZL2	myelin protein zero like 2
+Details
+
+14	
+94
+
+hsa-miR-625-5p	NFIX	nuclear factor I X
+Details
+
+15	
+94
+
+hsa-miR-625-5p	POU3F2	POU class 3 homeobox 2
+Details
+
+16	
+94
+
+hsa-miR-625-5p	PTPRS	protein tyrosine phosphatase, receptor type S
+Details
+
+17	
+94
+
+hsa-miR-625-5p	C5orf15	chromosome 5 open reading frame 15
+Details
+
+18	
+94
+
+hsa-miR-625-5p	IL18BP	interleukin 18 binding protein
+Details
+
+19	
+94
+
+hsa-miR-625-5p	HECW2	HECT, C2 and WW domain containing E3 ubiquitin protein ligase 2
+Details
+
+20	
+94
+
+hsa-miR-625-5p	PPP2R1A	protein phosphatase 2 scaffold subunit Aalpha
+Details
+
+21	
+94
+
+hsa-miR-625-5p	CNN2	calponin 2
+Details
+
+22	
+93
+
+hsa-miR-625-5p	SPRY4	sprouty RTK signaling antagonist 4
+Details
+
+23	
+93
+
+hsa-miR-625-5p	UBE2N	ubiquitin conjugating enzyme E2 N
+Details
+
+24	
+93
+
+hsa-miR-625-5p	WASF1	WAS protein family member 1
+Details
+
+25	
+93
+
+hsa-miR-625-5p	ZNRF2	zinc and ring finger 2
+Details
+
+26	
+93
+
+hsa-miR-625-5p	TTC39C	tetratricopeptide repeat domain 39C
+Details
+
+27	
+92
+
+hsa-miR-625-5p	MGST2	microsomal glutathione S-transferase 2
+Details
+
+28	
+92
+
+hsa-miR-625-5p	TXK	TXK tyrosine kinase
+Details
+
+29	
+92
+
+hsa-miR-625-5p	GIMAP1	GTPase, IMAP family member 1
+Details
+
+30	
+92
+
+hsa-miR-625-5p	MAJIN	membrane anchored junction protein
+Details
+
+31	
+92
+
+hsa-miR-625-5p	STC1	stanniocalcin 1
+Details
+
+32	
+92
+
+hsa-miR-625-5p	PKM	pyruvate kinase M1/2
+Details
+
+33	
+92
+
+hsa-miR-625-5p	JAZF1	JAZF zinc finger 1
+Details
+
+34	
+92
+
+hsa-miR-625-5p	UBAP2L	ubiquitin associated protein 2 like
+Details
+
+35	
+91
+
+hsa-miR-625-5p	GATAD2B	GATA zinc finger domain containing 2B
+Details
+
+36	
+91
+
+hsa-miR-625-5p	POLR1D	RNA polymerase I and III subunit D
+Details
+
+37	
+91
+
+hsa-miR-625-5p	NBN	nibrin
+Details
+
+38	
+91
+
+hsa-miR-625-5p	PPP2R2D	protein phosphatase 2 regulatory subunit Bdelta
+Details
+
+39	
+91
+
+hsa-miR-625-5p	MFN2	mitofusin 2
+Details
+
+40	
+91
+
+hsa-miR-625-5p	OVOL2	ovo like zinc finger 2
+Details
+
+41	
+91
+
+hsa-miR-625-5p	PABPC4	poly(A) binding protein cytoplasmic 4
+Details
+
+42	
+91
+
+hsa-miR-625-5p	SLC6A17	solute carrier family 6 member 17
+Details
+
+43	
+91
+
+hsa-miR-625-5p	MBD2	methyl-CpG binding domain protein 2
+Details
+
+44	
+91
+
+hsa-miR-625-5p	KLHL13	kelch like family member 13
+Details
+
+45	
+91
+
+hsa-miR-625-5p	NEDD9	neural precursor cell expressed, developmentally down-regulated 9
+Details
+
+46	
+91
+
+hsa-miR-625-5p	INO80D	INO80 complex subunit D
+Details
+
+47	
+90
+
+hsa-miR-625-5p	ASAH1	N-acylsphingosine amidohydrolase 1
+Details
+
+48	
+90
+
+hsa-miR-625-5p	SPOCK1	SPARC (osteonectin), cwcv and kazal like domains proteoglycan 1
+Details
+
+49	
+90
+
+hsa-miR-625-5p	TSHZ2	teashirt zinc finger homeobox 2
+Details
+
+50	
+90
+
+hsa-miR-625-5p	RIMKLA	ribosomal modification protein rimK like family member A
+Details
+
+51	
+90
+
+hsa-miR-625-5p	PRPF38B	pre-mRNA processing factor 38B
+Details
+
+52	
+90
+
+hsa-miR-625-5p	PEX5	peroxisomal biogenesis factor 5
+Details
+
+53	
+90
+
+hsa-miR-625-5p	ANGEL1	angel homolog 1
+Details
+
+54	
+90
+
+hsa-miR-625-5p	DUSP8	dual specificity phosphatase 8
+Details
+
+55	
+90
+
+hsa-miR-625-5p	RAB33B	RAB33B, member RAS oncogene family
+Details
+
+56	
+90
+
+hsa-miR-625-5p	GYS2	glycogen synthase 2
+Details
+
+57	
+90
+
+hsa-miR-625-5p	SUMO4	small ubiquitin-like modifier 4
+Details
+
+58	
+90
+
+hsa-miR-625-5p	CHD6	chromodomain helicase DNA binding protein 6
+Details
+
+59	
+90
+
+hsa-miR-625-5p	RAD51D	RAD51 paralog D
+Details
+
+60	
+90
+
+hsa-miR-625-5p	DCLK1	doublecortin like kinase 1
+Details
+
+61	
+90
+
+hsa-miR-625-5p	CLDN11	claudin 11

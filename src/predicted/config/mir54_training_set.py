@@ -113,5 +113,60 @@ random_mirnas = [
     "hsa-mir-8089"
 ]
 
+random_mirnas_2 = [
+    "hsa-mir-8089",
+    "hsa-mir-2467",
+    "hsa-mir-5571",
+    "hsa-mir-7847",
+    "hsa-mir-762",
+    "hsa-mir-1915",
+    "hsa-mir-3192",
+    "hsa-mir-5089",
+    "hsa-mir-12132",
+    "hsa-mir-12124",
+    "hsa-mir-543",
+    "hsa-mir-576",
+    "hsa-mir-3202",
+    "hsa-mir-4329",
+    "hsa-mir-4422",
+    "hsa-mir-5001",
+    "hsa-mir-3976",
+
+]
+
+random_mirnas_3 = [
+    "hsa-mir-548o",
+    "hsa-mir-337",
+    "hsa-mir-3130",
+    "hsa-mir-1270",
+    "hsa-mir-3622a",
+    "hsa-mir-3912",
+    "hsa-mir-4418",
+    "hsa-mir-5001",
+
+]
+
+
 all_mirnas = positive_mirnas + random_mirnas
+all_mirnas_2 = positive_mirnas + random_mirnas_2
+
 interaction_file = "mirdb_interactions_m54_training.csv"
+clean_file = "mirdb_interactions_m54_testing_clean.csv"
+natural_file = "mirdb_interactions_m54_testing_natural.csv"
+
+clean_set_1 = ['hsa-mir-106b', 'hsa-mir-21', 'hsa-mir-24', 'hsa-mir-16-1', 'hsa-mir-199a', 'hsa-mir-9', 'hsa-mir-182', 'hsa-mir-29c', 'hsa-mir-139', 'hsa-mir-485',]
+
+clean_set_2 = ['hsa-mir-363', 'hsa-mir-361', 'hsa-mir-125b', 'hsa-mir-18a', 'hsa-mir-93', 'hsa-mir-106a', 'hsa-mir-365a', 'hsa-mir-26a', 'hsa-mir-20b', 'hsa-mir-320a']
+working = ['hsa-mir-363', 'hsa-mir-93', 'hsa-mir-106a', 'hsa-mir-20b', 'hsa-mir-106b', 'hsa-mir-27a']
+
+
+clean_set_3 = ['hsa-mir-26b', 'hsa-mir-223', 'hsa-mir-27a', 'hsa-let-7e', 'hsa-mir-29b', 'hsa-mir-221', 'hsa-mir-23a', 'hsa-let-7g', 'hsa-mir-23b', 'hsa-mir-217',]
+
+clean_set_4 = ['hsa-mir-150', 'hsa-let-7d', 'hsa-mir-30b', 'hsa-let-7f', 'hsa-mir-301a', 'hsa-mir-34b', 'hsa-mir-18b', 'hsa-mir-328']
+
+
+# Correct testing mirna:
+# 'hsa-mir-363', 'hsa-mir-93', 'hsa-mir-106a', 'hsa-mir-20b'
+
+#, 'hsa-let-7e', 'hsa-mir-29b'
+

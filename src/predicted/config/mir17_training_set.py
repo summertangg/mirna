@@ -35,3 +35,4 @@ random_mirnas = ["hsa-mir-1250",
                  "hsa-mir-7855"]
 
 all_mirnas = positive_mirnas + random_mirnas
+interaction_file = "mirdb_interactions_m17_training.csv"

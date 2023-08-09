@@ -1,0 +1,49 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+96
+
+hsa-miR-99a-5p	TRIB2	tribbles pseudokinase 2
+Details
+
+2	
+94
+
+hsa-miR-99a-5p	SMARCA5	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5
+Details
+
+3	
+94
+
+hsa-miR-99a-5p	KBTBD8	kelch repeat and BTB domain containing 8
+Details
+
+4	
+93
+
+hsa-miR-99a-5p	MTOR	mechanistic target of rapamycin kinase
+Details
+
+5	
+91
+
+hsa-miR-99a-5p	RAVER2	ribonucleoprotein, PTB binding 2
+Details
+
+6	
+91
+
+hsa-miR-99a-5p	HS3ST2	heparan sulfate-glucosamine 3-sulfotransferase 2
+Details
+
+7	
+90
+
+hsa-miR-99a-5p	ZZEF1	zinc finger ZZ-type and EF-hand domain containing 1
+Details
+
+8	
+90
+
+hsa-miR-99a-5p	BAZ2A	bromodomain adjacent to zinc finger domain 2A

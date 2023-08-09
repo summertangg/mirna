@@ -1,0 +1,229 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-584-3p	CCER1	coiled-coil glutamate rich protein 1
+Details
+
+2	
+99
+
+hsa-miR-584-3p	ELK3	ELK3, ETS transcription factor
+Details
+
+3	
+98
+
+hsa-miR-584-3p	CNOT2	CCR4-NOT transcription complex subunit 2
+Details
+
+4	
+98
+
+hsa-miR-584-3p	CDK19	cyclin dependent kinase 19
+Details
+
+5	
+97
+
+hsa-miR-584-3p	UBL3	ubiquitin like 3
+Details
+
+6	
+97
+
+hsa-miR-584-3p	FOXO1	forkhead box O1
+Details
+
+7	
+96
+
+hsa-miR-584-3p	ZC4H2	zinc finger C4H2-type containing
+Details
+
+8	
+96
+
+hsa-miR-584-3p	EEF1E1	eukaryotic translation elongation factor 1 epsilon 1
+Details
+
+9	
+96
+
+hsa-miR-584-3p	BHLHE40	basic helix-loop-helix family member e40
+Details
+
+10	
+96
+
+hsa-miR-584-3p	NUPL2	nucleoporin like 2
+Details
+
+11	
+96
+
+hsa-miR-584-3p	CDH8	cadherin 8
+Details
+
+12	
+96
+
+hsa-miR-584-3p	HOXD10	homeobox D10
+Details
+
+13	
+95
+
+hsa-miR-584-3p	OLFM4	olfactomedin 4
+Details
+
+14	
+95
+
+hsa-miR-584-3p	KIAA1549L	KIAA1549 like
+Details
+
+15	
+95
+
+hsa-miR-584-3p	SRGAP2	SLIT-ROBO Rho GTPase activating protein 2
+Details
+
+16	
+94
+
+hsa-miR-584-3p	XPO4	exportin 4
+Details
+
+17	
+94
+
+hsa-miR-584-3p	RANBP1	RAN binding protein 1
+Details
+
+18	
+94
+
+hsa-miR-584-3p	PEX5	peroxisomal biogenesis factor 5
+Details
+
+19	
+94
+
+hsa-miR-584-3p	LIN54	lin-54 DREAM MuvB core complex component
+Details
+
+20	
+93
+
+hsa-miR-584-3p	MYT1L	myelin transcription factor 1 like
+Details
+
+21	
+93
+
+hsa-miR-584-3p	DAG1	dystroglycan 1
+Details
+
+22	
+92
+
+hsa-miR-584-3p	FUCA1	alpha-L-fucosidase 1
+Details
+
+23	
+92
+
+hsa-miR-584-3p	CBLL2	Cbl proto-oncogene like 2
+Details
+
+24	
+92
+
+hsa-miR-584-3p	UST	uronyl 2-sulfotransferase
+Details
+
+25	
+92
+
+hsa-miR-584-3p	NUS1	NUS1, dehydrodolichyl diphosphate synthase subunit
+Details
+
+26	
+92
+
+hsa-miR-584-3p	PSMB1	proteasome subunit beta 1
+Details
+
+27	
+92
+
+hsa-miR-584-3p	CPS1	carbamoyl-phosphate synthase 1
+Details
+
+28	
+92
+
+hsa-miR-584-3p	BCL2L11	BCL2 like 11
+Details
+
+29	
+92
+
+hsa-miR-584-3p	CDH18	cadherin 18
+Details
+
+30	
+92
+
+hsa-miR-584-3p	STKLD1	serine/threonine kinase like domain containing 1
+Details
+
+31	
+91
+
+hsa-miR-584-3p	MICU3	mitochondrial calcium uptake family member 3
+Details
+
+32	
+91
+
+hsa-miR-584-3p	SSRP1	structure specific recognition protein 1
+Details
+
+33	
+91
+
+hsa-miR-584-3p	GTF2A1	general transcription factor IIA subunit 1
+Details
+
+34	
+91
+
+hsa-miR-584-3p	GLE1	GLE1, RNA export mediator
+Details
+
+35	
+91
+
+hsa-miR-584-3p	RNPC3	RNA binding region (RNP1, RRM) containing 3
+Details
+
+36	
+90
+
+hsa-miR-584-3p	HNRNPU	heterogeneous nuclear ribonucleoprotein U
+Details
+
+37	
+90
+
+hsa-miR-584-3p	HVCN1	hydrogen voltage gated channel 1
+Details
+
+38	
+90
+
+hsa-miR-584-3p	PURB	purine rich element binding protein B

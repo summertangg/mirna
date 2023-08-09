@@ -30,6 +30,10 @@ clean_set = [
     "hsa-mir-634",
 ]
 
+clean_set_for_m17 = [
+'hsa-mir-199a', 'hsa-mir-362', 'hsa-mir-27a', 'hsa-mir-26b', 'hsa-mir-518a', 'hsa-mir-217', 'hsa-mir-636', 'hsa-mir-99a', 'hsa-mir-93', 'hsa-mir-106a', 'hsa-mir-150', 'hsa-mir-638', 'hsa-mir-100', 'hsa-mir-18b', 'hsa-mir-634', 'hsa-mir-24', 'hsa-mir-206', 'hsa-mir-200c', 'hsa-mir-22', 'hsa-mir-199b'
+]
+
 # Natural set results: Total 15 57.69% overlapping with m54 training set
 # J48 M2 
 # Correctly Classified Instances          23              100      %

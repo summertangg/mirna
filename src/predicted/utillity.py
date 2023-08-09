@@ -1,6 +1,9 @@
 import random
 from config import mir26_testing_set as m26
 from config import mir54_training_set as m54
+from config import mir17_training_set as m17
+from config import mir_lawrie_testing_set as mlawrie
+
 
 
 def generate_random_numbers(scope, number):
@@ -21,7 +24,7 @@ def intersect(list_1, list_2):
     common_elements = set1.intersection(set2)
     percentage = len(common_elements) * 100 / len(set2)
 
-    print("Total {} {:.2f}%: {}".format(len(common_elements), percentage, common_elements))
+    print("Common {} {:.2f}%: {}".format(len(common_elements), percentage, common_elements))
 
 
 def diff(list_1, list_2):
@@ -29,13 +32,18 @@ def diff(list_1, list_2):
     set2 = set(list_2)
 
     only_in_set1 = set1.difference(set2)
+    only_in_set2 = set2.difference(set1)
 
-    print("Total {}: {}".format(len(only_in_set1), only_in_set1))
+
+    print("Diff only in A {}: {}".format(len(only_in_set1), only_in_set1))
+    print("Diff only in B {}: {}".format(len(only_in_set2), only_in_set2))
 
 
-# intersect(m54.all_mirnas, m26.positive_mirnas)
+#intersect(m54.positive_mirnas, mlawrie.table_1)
+diff(m54.positive_mirnas, mlawrie.table_1)
+diff(m54.positive_mirnas, mlawrie.table_2)
 # intersect(m54.positive_mirnas, m54.random_mirnas_2)
 
 # generate_random_numbers(2552, 1)
 
-diff(m54.positive_mirnas, m54.positive_mirnas_2)
+# diff(m54.positive_mirnas, m54.positive_mirnas_2)
