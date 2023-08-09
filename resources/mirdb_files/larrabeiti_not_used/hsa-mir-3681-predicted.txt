@@ -1,0 +1,97 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-3681-5p	SHISA7	shisa family member 7
+Details
+
+2	
+98
+
+hsa-miR-3681-5p	CSDE1	cold shock domain containing E1
+Details
+
+3	
+95
+
+hsa-miR-3681-5p	AXIN2	axin 2
+Details
+
+4	
+95
+
+hsa-miR-3681-5p	CDH6	cadherin 6
+Details
+
+5	
+93
+
+hsa-miR-3681-5p	CCDC68	coiled-coil domain containing 68
+Details
+
+6	
+92
+
+hsa-miR-3681-5p	CCR1	C-C motif chemokine receptor 1
+Details
+
+7	
+92
+
+hsa-miR-3681-5p	TIMM23B	translocase of inner mitochondrial membrane 23 homolog B
+Details
+
+8	
+91
+
+hsa-miR-3681-5p	KIAA1211L	KIAA1211 like
+Details
+
+9	
+91
+
+hsa-miR-3681-5p	LRRN4CL	LRRN4 C-terminal like
+Details
+
+10	
+91
+
+hsa-miR-3681-5p	NOMO3	NODAL modulator 3
+Details
+
+11	
+91
+
+hsa-miR-3681-5p	NOMO2	NODAL modulator 2
+Details
+
+12	
+90
+
+hsa-miR-3681-5p	NOMO1	NODAL modulator 1
+Details
+
+13	
+90
+
+hsa-miR-3681-5p	TTC29	tetratricopeptide repeat domain 29
+Details
+
+14	
+90
+
+hsa-miR-3681-5p	NDP	NDP, norrin cystine knot growth factor
+Details
+
+15	
+90
+
+hsa-miR-3681-5p	PLPP3	phospholipid phosphatase 3
+Details
+
+16	
+90
+
+hsa-miR-3681-5p	ZNF124	zinc finger protein 124

@@ -3,7 +3,7 @@ from config import mir26_testing_set as m26
 from config import mir54_training_set as m54
 from config import mir17_training_set as m17
 from config import mir_lawrie_testing_set as mlawrie
-
+from config import mir_larrabeiti_testing_set as mlar
 
 
 def generate_random_numbers(scope, number):
@@ -39,9 +39,9 @@ def diff(list_1, list_2):
     print("Diff only in B {}: {}".format(len(only_in_set2), only_in_set2))
 
 
-#intersect(m54.positive_mirnas, mlawrie.table_1)
-diff(m54.positive_mirnas, mlawrie.table_1)
-diff(m54.positive_mirnas, mlawrie.table_2)
+intersect(m54.positive_mirnas, mlar.table_1)
+# diff(m54.positive_mirnas, mlawrie.table_1)
+diff(m54.positive_mirnas, mlar.table_1)
 # intersect(m54.positive_mirnas, m54.random_mirnas_2)
 
 # generate_random_numbers(2552, 1)

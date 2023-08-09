@@ -1,0 +1,391 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-194-5p	HBEGF	heparin binding EGF like growth factor
+Details
+
+2	
+99
+
+hsa-miR-194-5p	NWD2	NACHT and WD repeat domain containing 2
+Details
+
+3	
+99
+
+hsa-miR-194-5p	EPC2	enhancer of polycomb homolog 2
+Details
+
+4	
+98
+
+hsa-miR-194-5p	HOOK3	hook microtubule tethering protein 3
+Details
+
+5	
+98
+
+hsa-miR-194-5p	SGCE	sarcoglycan epsilon
+Details
+
+6	
+98
+
+hsa-miR-194-5p	CHORDC1	cysteine and histidine rich domain containing 1
+Details
+
+7	
+98
+
+hsa-miR-194-5p	SLC12A6	solute carrier family 12 member 6
+Details
+
+8	
+97
+
+hsa-miR-194-5p	BNIP2	BCL2 interacting protein 2
+Details
+
+9	
+97
+
+hsa-miR-194-5p	SLC10A7	solute carrier family 10 member 7
+Details
+
+10	
+97
+
+hsa-miR-194-5p	DISC1	DISC1 scaffold protein
+Details
+
+11	
+96
+
+hsa-miR-194-5p	LUC7L3	LUC7 like 3 pre-mRNA splicing factor
+Details
+
+12	
+96
+
+hsa-miR-194-5p	WAPL	WAPL cohesin release factor
+Details
+
+13	
+96
+
+hsa-miR-194-5p	CADM1	cell adhesion molecule 1
+Details
+
+14	
+96
+
+hsa-miR-194-5p	FZD6	frizzled class receptor 6
+Details
+
+15	
+95
+
+hsa-miR-194-5p	KHDRBS2	KH RNA binding domain containing, signal transduction associated 2
+Details
+
+16	
+95
+
+hsa-miR-194-5p	PAIP2	poly(A) binding protein interacting protein 2
+Details
+
+17	
+95
+
+hsa-miR-194-5p	LURAP1L	leucine rich adaptor protein 1 like
+Details
+
+18	
+95
+
+hsa-miR-194-5p	OSBPL8	oxysterol binding protein like 8
+Details
+
+19	
+94
+
+hsa-miR-194-5p	ARHGAP21	Rho GTPase activating protein 21
+Details
+
+20	
+94
+
+hsa-miR-194-5p	FGA	fibrinogen alpha chain
+Details
+
+21	
+94
+
+hsa-miR-194-5p	DACH1	dachshund family transcription factor 1
+Details
+
+22	
+94
+
+hsa-miR-194-5p	RSBN1L	round spermatid basic protein 1 like
+Details
+
+23	
+94
+
+hsa-miR-194-5p	KLF12	Kruppel like factor 12
+Details
+
+24	
+94
+
+hsa-miR-194-5p	ANGPTL1	angiopoietin like 1
+Details
+
+25	
+94
+
+hsa-miR-194-5p	KMT5A	lysine methyltransferase 5A
+Details
+
+26	
+93
+
+hsa-miR-194-5p	SLK	STE20 like kinase
+Details
+
+27	
+93
+
+hsa-miR-194-5p	CHD1	chromodomain helicase DNA binding protein 1
+Details
+
+28	
+93
+
+hsa-miR-194-5p	TSPAN7	tetraspanin 7
+Details
+
+29	
+93
+
+hsa-miR-194-5p	PTPN20	protein tyrosine phosphatase, non-receptor type 20
+Details
+
+30	
+93
+
+hsa-miR-194-5p	SLC28A1	solute carrier family 28 member 1
+Details
+
+31	
+93
+
+hsa-miR-194-5p	PITPNM2	phosphatidylinositol transfer protein membrane associated 2
+Details
+
+32	
+92
+
+hsa-miR-194-5p	SETD5	SET domain containing 5
+Details
+
+33	
+92
+
+hsa-miR-194-5p	LINGO2	leucine rich repeat and Ig domain containing 2
+Details
+
+34	
+92
+
+hsa-miR-194-5p	GPATCH2L	G-patch domain containing 2 like
+Details
+
+35	
+92
+
+hsa-miR-194-5p	PRICKLE2	prickle planar cell polarity protein 2
+Details
+
+36	
+92
+
+hsa-miR-194-5p	SEPHS1	selenophosphate synthetase 1
+Details
+
+37	
+92
+
+hsa-miR-194-5p	HSPA4L	heat shock protein family A (Hsp70) member 4 like
+Details
+
+38	
+92
+
+hsa-miR-194-5p	ZFHX3	zinc finger homeobox 3
+Details
+
+39	
+92
+
+hsa-miR-194-5p	STAU2	staufen double-stranded RNA binding protein 2
+Details
+
+40	
+92
+
+hsa-miR-194-5p	PARVA	parvin alpha
+Details
+
+41	
+92
+
+hsa-miR-194-5p	HECTD2	HECT domain E3 ubiquitin protein ligase 2
+Details
+
+42	
+92
+
+hsa-miR-194-5p	ATP6V1H	ATPase H+ transporting V1 subunit H
+Details
+
+43	
+92
+
+hsa-miR-194-5p	PTPN2	protein tyrosine phosphatase, non-receptor type 2
+Details
+
+44	
+91
+
+hsa-miR-194-5p	KIAA1210	KIAA1210
+Details
+
+45	
+91
+
+hsa-miR-194-5p	CLEC2A	C-type lectin domain family 2 member A
+Details
+
+46	
+91
+
+hsa-miR-194-5p	LIN52	lin-52 DREAM MuvB core complex component
+Details
+
+47	
+91
+
+hsa-miR-194-5p	KMT2C	lysine methyltransferase 2C
+Details
+
+48	
+91
+
+hsa-miR-194-5p	FLI1	Fli-1 proto-oncogene, ETS transcription factor
+Details
+
+49	
+91
+
+hsa-miR-194-5p	ACVR2B	activin A receptor type 2B
+Details
+
+50	
+91
+
+hsa-miR-194-5p	SNAP91	synaptosome associated protein 91
+Details
+
+51	
+91
+
+hsa-miR-194-5p	LAMP2	lysosomal associated membrane protein 2
+Details
+
+52	
+91
+
+hsa-miR-194-5p	RNGTT	RNA guanylyltransferase and 5'-phosphatase
+Details
+
+53	
+91
+
+hsa-miR-194-5p	SLC30A1	solute carrier family 30 member 1
+Details
+
+54	
+90
+
+hsa-miR-194-5p	MID1IP1	MID1 interacting protein 1
+Details
+
+55	
+90
+
+hsa-miR-194-5p	TAF4	TATA-box binding protein associated factor 4
+Details
+
+56	
+90
+
+hsa-miR-194-5p	ZNF615	zinc finger protein 615
+Details
+
+57	
+90
+
+hsa-miR-194-5p	BRMS1L	BRMS1 like transcriptional repressor
+Details
+
+58	
+90
+
+hsa-miR-194-5p	RAI1	retinoic acid induced 1
+Details
+
+59	
+90
+
+hsa-miR-194-5p	ITPKB	inositol-trisphosphate 3-kinase B
+Details
+
+60	
+90
+
+hsa-miR-194-5p	NFAT5	nuclear factor of activated T cells 5
+Details
+
+61	
+90
+
+hsa-miR-194-5p	ATP2C1	ATPase secretory pathway Ca2+ transporting 1
+Details
+
+62	
+90
+
+hsa-miR-194-5p	HNF1B	HNF1 homeobox B
+Details
+
+63	
+90
+
+hsa-miR-194-5p	DYRK1A	dual specificity tyrosine phosphorylation regulated kinase 1A
+Details
+
+64	
+90
+
+hsa-miR-194-5p	NUDC	nuclear distribution C, dynein complex regulator
+Details
+
+65	
+90
+
+hsa-miR-194-5p	CUL4B	cullin 4B

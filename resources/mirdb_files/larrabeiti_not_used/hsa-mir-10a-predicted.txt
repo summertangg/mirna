@@ -1,0 +1,175 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-10a-5p	CADM2	cell adhesion molecule 2
+Details
+
+2	
+98
+
+hsa-miR-10a-5p	TFAP2C	transcription factor AP-2 gamma
+Details
+
+3	
+98
+
+hsa-miR-10a-5p	CNOT6	CCR4-NOT transcription complex subunit 6
+Details
+
+4	
+97
+
+hsa-miR-10a-5p	GALNT1	polypeptide N-acetylgalactosaminyltransferase 1
+Details
+
+5	
+97
+
+hsa-miR-10a-5p	E2F7	E2F transcription factor 7
+Details
+
+6	
+97
+
+hsa-miR-10a-5p	RORA	RAR related orphan receptor A
+Details
+
+7	
+96
+
+hsa-miR-10a-5p	SOBP	sine oculis binding protein homolog
+Details
+
+8	
+96
+
+hsa-miR-10a-5p	KCNA6	potassium voltage-gated channel subfamily A member 6
+Details
+
+9	
+96
+
+hsa-miR-10a-5p	CRLF3	cytokine receptor like factor 3
+Details
+
+10	
+95
+
+hsa-miR-10a-5p	ELOVL2	ELOVL fatty acid elongase 2
+Details
+
+11	
+94
+
+hsa-miR-10a-5p	NR6A1	nuclear receptor subfamily 6 group A member 1
+Details
+
+12	
+94
+
+hsa-miR-10a-5p	EBF2	EBF transcription factor 2
+Details
+
+13	
+94
+
+hsa-miR-10a-5p	CDK6	cyclin dependent kinase 6
+Details
+
+14	
+94
+
+hsa-miR-10a-5p	SIX4	SIX homeobox 4
+Details
+
+15	
+93
+
+hsa-miR-10a-5p	LCA5	LCA5, lebercilin
+Details
+
+16	
+92
+
+hsa-miR-10a-5p	FIGN	fidgetin, microtubule severing factor
+Details
+
+17	
+92
+
+hsa-miR-10a-5p	BBX	BBX, HMG-box containing
+Details
+
+18	
+92
+
+hsa-miR-10a-5p	ZNF367	zinc finger protein 367
+Details
+
+19	
+92
+
+hsa-miR-10a-5p	KLHL29	kelch like family member 29
+Details
+
+20	
+92
+
+hsa-miR-10a-5p	CREB1	cAMP responsive element binding protein 1
+Details
+
+21	
+92
+
+hsa-miR-10a-5p	MAP3K7	mitogen-activated protein kinase kinase kinase 7
+Details
+
+22	
+91
+
+hsa-miR-10a-5p	SMAP1	small ArfGAP 1
+Details
+
+23	
+91
+
+hsa-miR-10a-5p	TIAM1	T cell lymphoma invasion and metastasis 1
+Details
+
+24	
+91
+
+hsa-miR-10a-5p	MDGA2	MAM domain containing glycosylphosphatidylinositol anchor 2
+Details
+
+25	
+91
+
+hsa-miR-10a-5p	CEP350	centrosomal protein 350
+Details
+
+26	
+91
+
+hsa-miR-10a-5p	CRK	CRK proto-oncogene, adaptor protein
+Details
+
+27	
+90
+
+hsa-miR-10a-5p	RB1CC1	RB1 inducible coiled-coil 1
+Details
+
+28	
+90
+
+hsa-miR-10a-5p	TRIM2	tripartite motif containing 2
+Details
+
+29	
+90
+
+hsa-miR-10a-5p	IGDCC4	immunoglobulin superfamily DCC subclass member 4

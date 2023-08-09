@@ -1,0 +1,199 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-452-3p	PPP2R2D	protein phosphatase 2 regulatory subunit Bdelta
+Details
+
+2	
+98
+
+hsa-miR-452-3p	NAALADL2	N-acetylated alpha-linked acidic dipeptidase like 2
+Details
+
+3	
+96
+
+hsa-miR-452-3p	CHMP4B	charged multivesicular body protein 4B
+Details
+
+4	
+96
+
+hsa-miR-452-3p	FAM160A2	family with sequence similarity 160 member A2
+Details
+
+5	
+95
+
+hsa-miR-452-3p	SUGCT	succinyl-CoA:glutarate-CoA transferase
+Details
+
+6	
+95
+
+hsa-miR-452-3p	MYDGF	myeloid derived growth factor
+Details
+
+7	
+95
+
+hsa-miR-452-3p	PPFIA1	PTPRF interacting protein alpha 1
+Details
+
+8	
+94
+
+hsa-miR-452-3p	BTLA	B and T lymphocyte associated
+Details
+
+9	
+94
+
+hsa-miR-452-3p	OSBPL9	oxysterol binding protein like 9
+Details
+
+10	
+94
+
+hsa-miR-452-3p	CLMN	calmin
+Details
+
+11	
+94
+
+hsa-miR-452-3p	FZD3	frizzled class receptor 3
+Details
+
+12	
+93
+
+hsa-miR-452-3p	RGS21	regulator of G protein signaling 21
+Details
+
+13	
+93
+
+hsa-miR-452-3p	SLC1A3	solute carrier family 1 member 3
+Details
+
+14	
+93
+
+hsa-miR-452-3p	ERLIN2	ER lipid raft associated 2
+Details
+
+15	
+92
+
+hsa-miR-452-3p	GPR34	G protein-coupled receptor 34
+Details
+
+16	
+92
+
+hsa-miR-452-3p	SETD9	SET domain containing 9
+Details
+
+17	
+92
+
+hsa-miR-452-3p	ELOA	elongin A
+Details
+
+18	
+92
+
+hsa-miR-452-3p	SELENOK	selenoprotein K
+Details
+
+19	
+92
+
+hsa-miR-452-3p	AMER1	APC membrane recruitment protein 1
+Details
+
+20	
+92
+
+hsa-miR-452-3p	ANKDD1B	ankyrin repeat and death domain containing 1B
+Details
+
+21	
+92
+
+hsa-miR-452-3p	SLC38A2	solute carrier family 38 member 2
+Details
+
+22	
+91
+
+hsa-miR-452-3p	ATP6V1G3	ATPase H+ transporting V1 subunit G3
+Details
+
+23	
+91
+
+hsa-miR-452-3p	LRP2	LDL receptor related protein 2
+Details
+
+24	
+91
+
+hsa-miR-452-3p	GVQW3	GVQW motif containing 3
+Details
+
+25	
+91
+
+hsa-miR-452-3p	LRP1B	LDL receptor related protein 1B
+Details
+
+26	
+90
+
+hsa-miR-452-3p	PFN2	profilin 2
+Details
+
+27	
+90
+
+hsa-miR-452-3p	KIF13A	kinesin family member 13A
+Details
+
+28	
+90
+
+hsa-miR-452-3p	ZMIZ1	zinc finger MIZ-type containing 1
+Details
+
+29	
+90
+
+hsa-miR-452-3p	PRRC2C	proline rich coiled-coil 2C
+Details
+
+30	
+90
+
+hsa-miR-452-3p	CBLL1	Cbl proto-oncogene like 1
+Details
+
+31	
+90
+
+hsa-miR-452-3p	CNEP1R1	CTD nuclear envelope phosphatase 1 regulatory subunit 1
+Details
+
+32	
+90
+
+hsa-miR-452-3p	ZNF704	zinc finger protein 704
+Details
+
+33	
+90
+
+hsa-miR-452-3p	NLGN1	neuroligin 1

@@ -1,0 +1,205 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+96
+
+hsa-miR-1291	MECP2	methyl-CpG binding protein 2
+Details
+
+2	
+96
+
+hsa-miR-1291	NF2	neurofibromin 2
+Details
+
+3	
+96
+
+hsa-miR-1291	REEP2	receptor accessory protein 2
+Details
+
+4	
+96
+
+hsa-miR-1291	PGM5	phosphoglucomutase 5
+Details
+
+5	
+95
+
+hsa-miR-1291	CYP2C18	cytochrome P450 family 2 subfamily C member 18
+Details
+
+6	
+95
+
+hsa-miR-1291	VASH1	vasohibin 1
+Details
+
+7	
+95
+
+hsa-miR-1291	GLYCTK	glycerate kinase
+Details
+
+8	
+95
+
+hsa-miR-1291	ST6GALNAC6	ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 6
+Details
+
+9	
+94
+
+hsa-miR-1291	XKR7	XK related 7
+Details
+
+10	
+94
+
+hsa-miR-1291	ESYT1	extended synaptotagmin 1
+Details
+
+11	
+94
+
+hsa-miR-1291	IQSEC2	IQ motif and Sec7 domain 2
+Details
+
+12	
+94
+
+hsa-miR-1291	CDC42EP1	CDC42 effector protein 1
+Details
+
+13	
+93
+
+hsa-miR-1291	VWA5A	von Willebrand factor A domain containing 5A
+Details
+
+14	
+93
+
+hsa-miR-1291	KLHDC10	kelch domain containing 10
+Details
+
+15	
+93
+
+hsa-miR-1291	OAZ2	ornithine decarboxylase antizyme 2
+Details
+
+16	
+93
+
+hsa-miR-1291	RBFOX1	RNA binding fox-1 homolog 1
+Details
+
+17	
+92
+
+hsa-miR-1291	FAM160A2	family with sequence similarity 160 member A2
+Details
+
+18	
+92
+
+hsa-miR-1291	MAGEA11	MAGE family member A11
+Details
+
+19	
+92
+
+hsa-miR-1291	KIAA1549	KIAA1549
+Details
+
+20	
+92
+
+hsa-miR-1291	MUC22	mucin 22
+Details
+
+21	
+92
+
+hsa-miR-1291	TGM4	transglutaminase 4
+Details
+
+22	
+91
+
+hsa-miR-1291	SHKBP1	SH3KBP1 binding protein 1
+Details
+
+23	
+91
+
+hsa-miR-1291	MBNL3	muscleblind like splicing regulator 3
+Details
+
+24	
+91
+
+hsa-miR-1291	FOXP4	forkhead box P4
+Details
+
+25	
+91
+
+hsa-miR-1291	IMPA2	inositol monophosphatase 2
+Details
+
+26	
+91
+
+hsa-miR-1291	EDC3	enhancer of mRNA decapping 3
+Details
+
+27	
+90
+
+hsa-miR-1291	LMOD1	leiomodin 1
+Details
+
+28	
+90
+
+hsa-miR-1291	SLC6A3	solute carrier family 6 member 3
+Details
+
+29	
+90
+
+hsa-miR-1291	ERMP1	endoplasmic reticulum metallopeptidase 1
+Details
+
+30	
+90
+
+hsa-miR-1291	WNT11	Wnt family member 11
+Details
+
+31	
+90
+
+hsa-miR-1291	UNC13B	unc-13 homolog B
+Details
+
+32	
+90
+
+hsa-miR-1291	ARID3B	AT-rich interaction domain 3B
+Details
+
+33	
+90
+
+hsa-miR-1291	PAK2	p21 (RAC1) activated kinase 2
+Details
+
+34	
+90
+
+hsa-miR-1291	USP37	ubiquitin specific peptidase 37

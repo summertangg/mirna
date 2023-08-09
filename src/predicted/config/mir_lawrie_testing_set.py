@@ -43,16 +43,17 @@ table_2 = [
     "hsa-mir-19b",
     "hsa-mir-99a",
     "hsa-mir-18b",
-    "hsa-mir-100",
-    "hsa-mir-26b",
-    "hsa-mir-217",
-    "hsa-mir-634",
-    "hsa-mir-150"
+    "hsa-mir-100"
 ]
+
+# hsa-miR-26b	1.88E-02	FCL	1.42
+# hsa-miR-217	2.84E-02	FCL	2.44
+# hsa-miR-634	9.50E-04	FCL	2.54
+# hsa-miR-150	4.55E-02	FCL	3.46
 
 working = ['hsa-mir-363', 'hsa-mir-93', 'hsa-mir-106a', 'hsa-mir-20b', 'hsa-mir-106b', 'hsa-mir-27a']
 
 clean_file = "mirdb_interactions_lawrie_testing_clean.csv"
 natural_file = "mirdb_interactions_lawrie_testing_natural.csv"
-table_1_file = "mirdb_interactions_lawrie_testing_table_1.csv"
-table_2_file = "mirdb_interactions_lawrie_testing_table_2.csv"
+table_1_file = "mirdb_interactions_lawrie_testing_table_1_a.csv"
+table_2_file = "mirdb_interactions_lawrie_testing_table_2_a.csv"

@@ -1,0 +1,187 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-7974	EVC	EvC ciliary complex subunit 1
+Details
+
+2	
+98
+
+hsa-miR-7974	ZSWIM6	zinc finger SWIM-type containing 6
+Details
+
+3	
+98
+
+hsa-miR-7974	AKAP10	A-kinase anchoring protein 10
+Details
+
+4	
+97
+
+hsa-miR-7974	KCNIP3	potassium voltage-gated channel interacting protein 3
+Details
+
+5	
+96
+
+hsa-miR-7974	DDAH1	dimethylarginine dimethylaminohydrolase 1
+Details
+
+6	
+96
+
+hsa-miR-7974	CREB3L3	cAMP responsive element binding protein 3 like 3
+Details
+
+7	
+96
+
+hsa-miR-7974	KCTD18	potassium channel tetramerization domain containing 18
+Details
+
+8	
+94
+
+hsa-miR-7974	TMEM260	transmembrane protein 260
+Details
+
+9	
+94
+
+hsa-miR-7974	TRARG1	trafficking regulator of GLUT4 (SLC2A4) 1
+Details
+
+10	
+94
+
+hsa-miR-7974	SLC6A15	solute carrier family 6 member 15
+Details
+
+11	
+94
+
+hsa-miR-7974	EFCAB11	EF-hand calcium binding domain 11
+Details
+
+12	
+93
+
+hsa-miR-7974	EHMT1	euchromatic histone lysine methyltransferase 1
+Details
+
+13	
+93
+
+hsa-miR-7974	SLC35C2	solute carrier family 35 member C2
+Details
+
+14	
+93
+
+hsa-miR-7974	GRIN2B	glutamate ionotropic receptor NMDA type subunit 2B
+Details
+
+15	
+93
+
+hsa-miR-7974	UBE4B	ubiquitination factor E4B
+Details
+
+16	
+92
+
+hsa-miR-7974	USP31	ubiquitin specific peptidase 31
+Details
+
+17	
+92
+
+hsa-miR-7974	USP54	ubiquitin specific peptidase 54
+Details
+
+18	
+92
+
+hsa-miR-7974	P2RX2	purinergic receptor P2X 2
+Details
+
+19	
+92
+
+hsa-miR-7974	SLC35E2B	solute carrier family 35 member E2B
+Details
+
+20	
+92
+
+hsa-miR-7974	YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein beta
+Details
+
+21	
+91
+
+hsa-miR-7974	CNTN2	contactin 2
+Details
+
+22	
+91
+
+hsa-miR-7974	TFAM	transcription factor A, mitochondrial
+Details
+
+23	
+91
+
+hsa-miR-7974	RABL3	RAB, member of RAS oncogene family like 3
+Details
+
+24	
+91
+
+hsa-miR-7974	DTNA	dystrobrevin alpha
+Details
+
+25	
+91
+
+hsa-miR-7974	NPTX1	neuronal pentraxin 1
+Details
+
+26	
+90
+
+hsa-miR-7974	OGT	O-linked N-acetylglucosamine (GlcNAc) transferase
+Details
+
+27	
+90
+
+hsa-miR-7974	TTC28	tetratricopeptide repeat domain 28
+Details
+
+28	
+90
+
+hsa-miR-7974	ZZZ3	zinc finger ZZ-type containing 3
+Details
+
+29	
+90
+
+hsa-miR-7974	SLC22A23	solute carrier family 22 member 23
+Details
+
+30	
+90
+
+hsa-miR-7974	YWHAG	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein gamma
+Details
+
+31	
+90
+
+hsa-miR-7974	PACRGL	parkin coregulated like

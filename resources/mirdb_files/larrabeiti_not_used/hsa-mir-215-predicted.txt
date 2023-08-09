@@ -1,0 +1,55 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+95
+
+hsa-miR-215-5p	NIPAL1	NIPA like domain containing 1
+Details
+
+2	
+94
+
+hsa-miR-215-5p	BHLHE22	basic helix-loop-helix family member e22
+Details
+
+3	
+92
+
+hsa-miR-215-5p	PRKD3	protein kinase D3
+Details
+
+4	
+92
+
+hsa-miR-215-5p	RPAP2	RNA polymerase II associated protein 2
+Details
+
+5	
+91
+
+hsa-miR-215-5p	LPAR4	lysophosphatidic acid receptor 4
+Details
+
+6	
+91
+
+hsa-miR-215-5p	CXCL2	C-X-C motif chemokine ligand 2
+Details
+
+7	
+91
+
+hsa-miR-215-5p	ZEB2	zinc finger E-box binding homeobox 2
+Details
+
+8	
+90
+
+hsa-miR-215-5p	EREG	epiregulin
+Details
+
+9	
+90
+
+hsa-miR-215-5p	IFI44L	interferon induced protein 44 like

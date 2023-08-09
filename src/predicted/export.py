@@ -7,7 +7,7 @@ from config import mir10_testing_set as m10
 from config import mir26_testing_set as m26
 from config import mir54_training_set as m54
 from config import mir_lawrie_testing_set as mlawrie
-
+from config import mir_larrabeiti_testing_set as mlar
 
 
 
@@ -55,7 +55,9 @@ def export_interactions(db_conn, root_path, out_file, config=None):
 root_path = "~/code/mirna/resources/results"
 conn = psycopg2.connect(database="postgres", user="postgres", password="1qaz2wsX", host="127.0.0.1", port="5432")
 try:
+    export_interactions(conn, root_path, m54.interaction_file, m54.all_mirnas)
     export_interactions(conn, root_path, mlawrie.table_1_file, mlawrie.table_1)
+    export_interactions(conn, root_path, mlawrie.table_2_file, mlawrie.table_2)
 except(Exception, psycopg2.DatabaseError) as error:
     raise error
 finally:

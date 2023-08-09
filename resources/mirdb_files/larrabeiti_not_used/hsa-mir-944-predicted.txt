@@ -1,0 +1,1051 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-944	SULT6B1	sulfotransferase family 6B member 1
+Details
+
+2	
+100
+
+hsa-miR-944	SLC41A2	solute carrier family 41 member 2
+Details
+
+3	
+100
+
+hsa-miR-944	ZBTB1	zinc finger and BTB domain containing 1
+Details
+
+4	
+100
+
+hsa-miR-944	MMP16	matrix metallopeptidase 16
+Details
+
+5	
+100
+
+hsa-miR-944	EPC2	enhancer of polycomb homolog 2
+Details
+
+6	
+99
+
+hsa-miR-944	IKZF2	IKAROS family zinc finger 2
+Details
+
+7	
+99
+
+hsa-miR-944	KCNH2	potassium voltage-gated channel subfamily H member 2
+Details
+
+8	
+99
+
+hsa-miR-944	UHRF1BP1L	UHRF1 binding protein 1 like
+Details
+
+9	
+99
+
+hsa-miR-944	KCNT2	potassium sodium-activated channel subfamily T member 2
+Details
+
+10	
+99
+
+hsa-miR-944	PLPPR5	phospholipid phosphatase related 5
+Details
+
+11	
+99
+
+hsa-miR-944	CCDC58	coiled-coil domain containing 58
+Details
+
+12	
+99
+
+hsa-miR-944	CACNB4	calcium voltage-gated channel auxiliary subunit beta 4
+Details
+
+13	
+99
+
+hsa-miR-944	MACC1	MET transcriptional regulator MACC1
+Details
+
+14	
+99
+
+hsa-miR-944	FZD3	frizzled class receptor 3
+Details
+
+15	
+98
+
+hsa-miR-944	KAT2B	lysine acetyltransferase 2B
+Details
+
+16	
+98
+
+hsa-miR-944	AHCTF1	AT-hook containing transcription factor 1
+Details
+
+17	
+98
+
+hsa-miR-944	ZBTB41	zinc finger and BTB domain containing 41
+Details
+
+18	
+98
+
+hsa-miR-944	FAM135A	family with sequence similarity 135 member A
+Details
+
+19	
+98
+
+hsa-miR-944	TFEC	transcription factor EC
+Details
+
+20	
+98
+
+hsa-miR-944	CREB5	cAMP responsive element binding protein 5
+Details
+
+21	
+98
+
+hsa-miR-944	CA1	carbonic anhydrase 1
+Details
+
+22	
+98
+
+hsa-miR-944	AVPR1A	arginine vasopressin receptor 1A
+Details
+
+23	
+98
+
+hsa-miR-944	LATS1	large tumor suppressor kinase 1
+Details
+
+24	
+98
+
+hsa-miR-944	TMEM106B	transmembrane protein 106B
+Details
+
+25	
+97
+
+hsa-miR-944	SLC2A13	solute carrier family 2 member 13
+Details
+
+26	
+97
+
+hsa-miR-944	CADM2	cell adhesion molecule 2
+Details
+
+27	
+97
+
+hsa-miR-944	NUP153	nucleoporin 153
+Details
+
+28	
+97
+
+hsa-miR-944	DICER1	dicer 1, ribonuclease III
+Details
+
+29	
+97
+
+hsa-miR-944	SGPP1	sphingosine-1-phosphate phosphatase 1
+Details
+
+30	
+97
+
+hsa-miR-944	MANEA	mannosidase endo-alpha
+Details
+
+31	
+97
+
+hsa-miR-944	APPL1	adaptor protein, phosphotyrosine interacting with PH domain and leucine zipper 1
+Details
+
+32	
+97
+
+hsa-miR-944	TRPS1	transcriptional repressor GATA binding 1
+Details
+
+33	
+97
+
+hsa-miR-944	STEAP2	STEAP2 metalloreductase
+Details
+
+34	
+97
+
+hsa-miR-944	GRM7	glutamate metabotropic receptor 7
+Details
+
+35	
+97
+
+hsa-miR-944	RALGPS2	Ral GEF with PH domain and SH3 binding motif 2
+Details
+
+36	
+97
+
+hsa-miR-944	C8orf37	chromosome 8 open reading frame 37
+Details
+
+37	
+97
+
+hsa-miR-944	FSD1L	fibronectin type III and SPRY domain containing 1 like
+Details
+
+38	
+97
+
+hsa-miR-944	DGKH	diacylglycerol kinase eta
+Details
+
+39	
+96
+
+hsa-miR-944	SLC4A7	solute carrier family 4 member 7
+Details
+
+40	
+96
+
+hsa-miR-944	FAM76B	family with sequence similarity 76 member B
+Details
+
+41	
+96
+
+hsa-miR-944	IMPAD1	inositol monophosphatase domain containing 1
+Details
+
+42	
+96
+
+hsa-miR-944	PRKACB	protein kinase cAMP-activated catalytic subunit beta
+Details
+
+43	
+96
+
+hsa-miR-944	CCDC15	coiled-coil domain containing 15
+Details
+
+44	
+96
+
+hsa-miR-944	FUT9	fucosyltransferase 9
+Details
+
+45	
+96
+
+hsa-miR-944	PHC3	polyhomeotic homolog 3
+Details
+
+46	
+96
+
+hsa-miR-944	BRAF	B-Raf proto-oncogene, serine/threonine kinase
+Details
+
+47	
+96
+
+hsa-miR-944	PDCL	phosducin like
+Details
+
+48	
+96
+
+hsa-miR-944	ARID1B	AT-rich interaction domain 1B
+Details
+
+49	
+96
+
+hsa-miR-944	IGFBP3	insulin like growth factor binding protein 3
+Details
+
+50	
+95
+
+hsa-miR-944	HOOK3	hook microtubule tethering protein 3
+Details
+
+51	
+95
+
+hsa-miR-944	ZPLD1	zona pellucida like domain containing 1
+Details
+
+52	
+95
+
+hsa-miR-944	SSPN	sarcospan
+Details
+
+53	
+95
+
+hsa-miR-944	ONECUT2	one cut homeobox 2
+Details
+
+54	
+95
+
+hsa-miR-944	LOX	lysyl oxidase
+Details
+
+55	
+95
+
+hsa-miR-944	FAM174A	family with sequence similarity 174 member A
+Details
+
+56	
+95
+
+hsa-miR-944	TMPRSS11E	transmembrane serine protease 11E
+Details
+
+57	
+95
+
+hsa-miR-944	EIF3J	eukaryotic translation initiation factor 3 subunit J
+Details
+
+58	
+95
+
+hsa-miR-944	SLC35A3	solute carrier family 35 member A3
+Details
+
+59	
+95
+
+hsa-miR-944	TCFL5	transcription factor like 5
+Details
+
+60	
+95
+
+hsa-miR-944	CLINT1	clathrin interactor 1
+Details
+
+61	
+95
+
+hsa-miR-944	SGIP1	SH3 domain GRB2 like endophilin interacting protein 1
+Details
+
+62	
+95
+
+hsa-miR-944	SREK1IP1	SREK1 interacting protein 1
+Details
+
+63	
+95
+
+hsa-miR-944	ZMYM6	zinc finger MYM-type containing 6
+Details
+
+64	
+95
+
+hsa-miR-944	FGL2	fibrinogen like 2
+Details
+
+65	
+95
+
+hsa-miR-944	WASHC4	WASH complex subunit 4
+Details
+
+66	
+95
+
+hsa-miR-944	TBCEL	tubulin folding cofactor E like
+Details
+
+67	
+95
+
+hsa-miR-944	GPC6	glypican 6
+Details
+
+68	
+95
+
+hsa-miR-944	HS3ST3B1	heparan sulfate-glucosamine 3-sulfotransferase 3B1
+Details
+
+69	
+95
+
+hsa-miR-944	PRDM1	PR/SET domain 1
+Details
+
+70	
+94
+
+hsa-miR-944	TMX3	thioredoxin related transmembrane protein 3
+Details
+
+71	
+94
+
+hsa-miR-944	NDUFAF3	NADH:ubiquinone oxidoreductase complex assembly factor 3
+Details
+
+72	
+94
+
+hsa-miR-944	RGS14	regulator of G protein signaling 14
+Details
+
+73	
+94
+
+hsa-miR-944	COL19A1	collagen type XIX alpha 1 chain
+Details
+
+74	
+94
+
+hsa-miR-944	TSC22D2	TSC22 domain family member 2
+Details
+
+75	
+94
+
+hsa-miR-944	SMS	spermine synthase
+Details
+
+76	
+94
+
+hsa-miR-944	ERBIN	erbb2 interacting protein
+Details
+
+77	
+94
+
+hsa-miR-944	MPP7	membrane palmitoylated protein 7
+Details
+
+78	
+94
+
+hsa-miR-944	GXYLT1	glucoside xylosyltransferase 1
+Details
+
+79	
+94
+
+hsa-miR-944	IRS2	insulin receptor substrate 2
+Details
+
+80	
+94
+
+hsa-miR-944	PMS1	PMS1 homolog 1, mismatch repair system component
+Details
+
+81	
+94
+
+hsa-miR-944	RFX4	regulatory factor X4
+Details
+
+82	
+94
+
+hsa-miR-944	ARSK	arylsulfatase family member K
+Details
+
+83	
+94
+
+hsa-miR-944	ZNF684	zinc finger protein 684
+Details
+
+84	
+94
+
+hsa-miR-944	NR2F1	nuclear receptor subfamily 2 group F member 1
+Details
+
+85	
+94
+
+hsa-miR-944	MS4A1	membrane spanning 4-domains A1
+Details
+
+86	
+94
+
+hsa-miR-944	DENND1B	DENN domain containing 1B
+Details
+
+87	
+94
+
+hsa-miR-944	H3F3A	H3 histone family member 3A
+Details
+
+88	
+94
+
+hsa-miR-944	SP5	Sp5 transcription factor
+Details
+
+89	
+94
+
+hsa-miR-944	SORBS2	sorbin and SH3 domain containing 2
+Details
+
+90	
+94
+
+hsa-miR-944	TSC22D4	TSC22 domain family member 4
+Details
+
+91	
+94
+
+hsa-miR-944	THEMIS	thymocyte selection associated
+Details
+
+92	
+93
+
+hsa-miR-944	ZNF737	zinc finger protein 737
+Details
+
+93	
+93
+
+hsa-miR-944	MYSM1	Myb like, SWIRM and MPN domains 1
+Details
+
+94	
+93
+
+hsa-miR-944	PAM	peptidylglycine alpha-amidating monooxygenase
+Details
+
+95	
+93
+
+hsa-miR-944	ADAM10	ADAM metallopeptidase domain 10
+Details
+
+96	
+93
+
+hsa-miR-944	TSNAX	translin associated factor X
+Details
+
+97	
+93
+
+hsa-miR-944	ABCA6	ATP binding cassette subfamily A member 6
+Details
+
+98	
+93
+
+hsa-miR-944	VAMP4	vesicle associated membrane protein 4
+Details
+
+99	
+93
+
+hsa-miR-944	HTR1F	5-hydroxytryptamine receptor 1F
+Details
+
+100	
+93
+
+hsa-miR-944	TMEM59	transmembrane protein 59
+Details
+
+101	
+93
+
+hsa-miR-944	KIAA1109	KIAA1109
+Details
+
+102	
+93
+
+hsa-miR-944	INO80D	INO80 complex subunit D
+Details
+
+103	
+93
+
+hsa-miR-944	PCGF5	polycomb group ring finger 5
+Details
+
+104	
+93
+
+hsa-miR-944	TEP1	telomerase associated protein 1
+Details
+
+105	
+93
+
+hsa-miR-944	GLRA2	glycine receptor alpha 2
+Details
+
+106	
+93
+
+hsa-miR-944	GNRHR	gonadotropin releasing hormone receptor
+Details
+
+107	
+93
+
+hsa-miR-944	ERG	ETS transcription factor ERG
+Details
+
+108	
+93
+
+hsa-miR-944	MGA	MGA, MAX dimerization protein
+Details
+
+109	
+92
+
+hsa-miR-944	TTC26	tetratricopeptide repeat domain 26
+Details
+
+110	
+92
+
+hsa-miR-944	AP1S3	adaptor related protein complex 1 subunit sigma 3
+Details
+
+111	
+92
+
+hsa-miR-944	SYT14	synaptotagmin 14
+Details
+
+112	
+92
+
+hsa-miR-944	HRH4	histamine receptor H4
+Details
+
+113	
+92
+
+hsa-miR-944	TMEM64	transmembrane protein 64
+Details
+
+114	
+92
+
+hsa-miR-944	RASD1	ras related dexamethasone induced 1
+Details
+
+115	
+92
+
+hsa-miR-944	LRCH2	leucine rich repeats and calponin homology domain containing 2
+Details
+
+116	
+92
+
+hsa-miR-944	NEUROD1	neuronal differentiation 1
+Details
+
+117	
+92
+
+hsa-miR-944	POU1F1	POU class 1 homeobox 1
+Details
+
+118	
+92
+
+hsa-miR-944	MEX3A	mex-3 RNA binding family member A
+Details
+
+119	
+92
+
+hsa-miR-944	ARL13B	ADP ribosylation factor like GTPase 13B
+Details
+
+120	
+92
+
+hsa-miR-944	TSPAN13	tetraspanin 13
+Details
+
+121	
+92
+
+hsa-miR-944	CASK	calcium/calmodulin dependent serine protein kinase
+Details
+
+122	
+92
+
+hsa-miR-944	NPAS3	neuronal PAS domain protein 3
+Details
+
+123	
+92
+
+hsa-miR-944	PLA2G12A	phospholipase A2 group XIIA
+Details
+
+124	
+92
+
+hsa-miR-944	LARP4	La ribonucleoprotein domain family member 4
+Details
+
+125	
+91
+
+hsa-miR-944	ZCWPW2	zinc finger CW-type and PWWP domain containing 2
+Details
+
+126	
+91
+
+hsa-miR-944	NPEPPS	aminopeptidase puromycin sensitive
+Details
+
+127	
+91
+
+hsa-miR-944	TRIM5	tripartite motif containing 5
+Details
+
+128	
+91
+
+hsa-miR-944	TAF4B	TATA-box binding protein associated factor 4b
+Details
+
+129	
+91
+
+hsa-miR-944	CYBRD1	cytochrome b reductase 1
+Details
+
+130	
+91
+
+hsa-miR-944	CFAP97	cilia and flagella associated protein 97
+Details
+
+131	
+91
+
+hsa-miR-944	ACTR1B	ARP1 actin related protein 1 homolog B
+Details
+
+132	
+91
+
+hsa-miR-944	LPIN2	lipin 2
+Details
+
+133	
+91
+
+hsa-miR-944	AASS	aminoadipate-semialdehyde synthase
+Details
+
+134	
+91
+
+hsa-miR-944	GTF2A1	general transcription factor IIA subunit 1
+Details
+
+135	
+91
+
+hsa-miR-944	SBSPON	somatomedin B and thrombospondin type 1 domain containing
+Details
+
+136	
+91
+
+hsa-miR-944	CREB1	cAMP responsive element binding protein 1
+Details
+
+137	
+91
+
+hsa-miR-944	ZNF107	zinc finger protein 107
+Details
+
+138	
+91
+
+hsa-miR-944	TMEM167A	transmembrane protein 167A
+Details
+
+139	
+91
+
+hsa-miR-944	NEDD1	neural precursor cell expressed, developmentally down-regulated 1
+Details
+
+140	
+91
+
+hsa-miR-944	ZNF655	zinc finger protein 655
+Details
+
+141	
+91
+
+hsa-miR-944	PRKCH	protein kinase C eta
+Details
+
+142	
+91
+
+hsa-miR-944	HNMT	histamine N-methyltransferase
+Details
+
+143	
+91
+
+hsa-miR-944	HOXB5	homeobox B5
+Details
+
+144	
+91
+
+hsa-miR-944	PTPN4	protein tyrosine phosphatase, non-receptor type 4
+Details
+
+145	
+91
+
+hsa-miR-944	FAM199X	family with sequence similarity 199, X-linked
+Details
+
+146	
+91
+
+hsa-miR-944	EXT1	exostosin glycosyltransferase 1
+Details
+
+147	
+91
+
+hsa-miR-944	SOCS4	suppressor of cytokine signaling 4
+Details
+
+148	
+91
+
+hsa-miR-944	ZNF83	zinc finger protein 83
+Details
+
+149	
+90
+
+hsa-miR-944	TINF2	TERF1 interacting nuclear factor 2
+Details
+
+150	
+90
+
+hsa-miR-944	COLCA2	colorectal cancer associated 2
+Details
+
+151	
+90
+
+hsa-miR-944	PPARGC1A	PPARG coactivator 1 alpha
+Details
+
+152	
+90
+
+hsa-miR-944	OGN	osteoglycin
+Details
+
+153	
+90
+
+hsa-miR-944	TSHZ1	teashirt zinc finger homeobox 1
+Details
+
+154	
+90
+
+hsa-miR-944	SEC24D	SEC24 homolog D, COPII coat complex component
+Details
+
+155	
+90
+
+hsa-miR-944	TOMM70	translocase of outer mitochondrial membrane 70
+Details
+
+156	
+90
+
+hsa-miR-944	PHTF2	putative homeodomain transcription factor 2
+Details
+
+157	
+90
+
+hsa-miR-944	BRCA1	BRCA1, DNA repair associated
+Details
+
+158	
+90
+
+hsa-miR-944	SPAST	spastin
+Details
+
+159	
+90
+
+hsa-miR-944	ZC3H12B	zinc finger CCCH-type containing 12B
+Details
+
+160	
+90
+
+hsa-miR-944	SLC4A5	solute carrier family 4 member 5
+Details
+
+161	
+90
+
+hsa-miR-944	DPP8	dipeptidyl peptidase 8
+Details
+
+162	
+90
+
+hsa-miR-944	RBMS3	RNA binding motif single stranded interacting protein 3
+Details
+
+163	
+90
+
+hsa-miR-944	CERS6	ceramide synthase 6
+Details
+
+164	
+90
+
+hsa-miR-944	PCBD2	pterin-4 alpha-carbinolamine dehydratase 2
+Details
+
+165	
+90
+
+hsa-miR-944	PGAP1	post-GPI attachment to proteins 1
+Details
+
+166	
+90
+
+hsa-miR-944	ESR2	estrogen receptor 2
+Details
+
+167	
+90
+
+hsa-miR-944	BCL11B	BCL11B, BAF complex component
+Details
+
+168	
+90
+
+hsa-miR-944	PPP1R1C	protein phosphatase 1 regulatory inhibitor subunit 1C
+Details
+
+169	
+90
+
+hsa-miR-944	ABHD16A	abhydrolase domain containing 16A
+Details
+
+170	
+90
+
+hsa-miR-944	KLF12	Kruppel like factor 12
+Details
+
+171	
+90
+
+hsa-miR-944	GPR155	G protein-coupled receptor 155
+Details
+
+172	
+90
+
+hsa-miR-944	GBP3	guanylate binding protein 3
+Details
+
+173	
+90
+
+hsa-miR-944	FGF2	fibroblast growth factor 2
+Details
+
+174	
+90
+
+hsa-miR-944	MAP3K2	mitogen-activated protein kinase kinase kinase 2
+Details
+
+175	
+90
+
+hsa-miR-944	ECHDC1	ethylmalonyl-CoA decarboxylase 1

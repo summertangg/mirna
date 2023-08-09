@@ -1,0 +1,391 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+98
+
+hsa-miR-224-5p	CDK8	cyclin dependent kinase 8
+Details
+
+2	
+97
+
+hsa-miR-224-5p	ABCD3	ATP binding cassette subfamily D member 3
+Details
+
+3	
+97
+
+hsa-miR-224-5p	FGF18	fibroblast growth factor 18
+Details
+
+4	
+97
+
+hsa-miR-224-5p	PYROXD1	pyridine nucleotide-disulphide oxidoreductase domain 1
+Details
+
+5	
+97
+
+hsa-miR-224-5p	STIM2	stromal interaction molecule 2
+Details
+
+6	
+97
+
+hsa-miR-224-5p	ARMCX2	armadillo repeat containing X-linked 2
+Details
+
+7	
+97
+
+hsa-miR-224-5p	TMEM248	transmembrane protein 248
+Details
+
+8	
+96
+
+hsa-miR-224-5p	MED23	mediator complex subunit 23
+Details
+
+9	
+96
+
+hsa-miR-224-5p	SFRP2	secreted frizzled related protein 2
+Details
+
+10	
+96
+
+hsa-miR-224-5p	CHSY1	chondroitin sulfate synthase 1
+Details
+
+11	
+95
+
+hsa-miR-224-5p	MOXD1	monooxygenase DBH like 1
+Details
+
+12	
+95
+
+hsa-miR-224-5p	ZFAND6	zinc finger AN1-type containing 6
+Details
+
+13	
+95
+
+hsa-miR-224-5p	LSM12	LSM12 homolog
+Details
+
+14	
+95
+
+hsa-miR-224-5p	SCAI	suppressor of cancer cell invasion
+Details
+
+15	
+95
+
+hsa-miR-224-5p	EDEM3	ER degradation enhancing alpha-mannosidase like protein 3
+Details
+
+16	
+95
+
+hsa-miR-224-5p	FRK	fyn related Src family tyrosine kinase
+Details
+
+17	
+94
+
+hsa-miR-224-5p	HOXD13	homeobox D13
+Details
+
+18	
+94
+
+hsa-miR-224-5p	IMMP1L	inner mitochondrial membrane peptidase subunit 1
+Details
+
+19	
+94
+
+hsa-miR-224-5p	MEX3B	mex-3 RNA binding family member B
+Details
+
+20	
+94
+
+hsa-miR-224-5p	FAN1	FANCD2 and FANCI associated nuclease 1
+Details
+
+21	
+94
+
+hsa-miR-224-5p	C18orf25	chromosome 18 open reading frame 25
+Details
+
+22	
+94
+
+hsa-miR-224-5p	CTNNBIP1	catenin beta interacting protein 1
+Details
+
+23	
+94
+
+hsa-miR-224-5p	SGCB	sarcoglycan beta
+Details
+
+24	
+94
+
+hsa-miR-224-5p	RLF	rearranged L-myc fusion
+Details
+
+25	
+94
+
+hsa-miR-224-5p	CGN	cingulin
+Details
+
+26	
+93
+
+hsa-miR-224-5p	ELAVL2	ELAV like RNA binding protein 2
+Details
+
+27	
+93
+
+hsa-miR-224-5p	API5	apoptosis inhibitor 5
+Details
+
+28	
+93
+
+hsa-miR-224-5p	CHD2	chromodomain helicase DNA binding protein 2
+Details
+
+29	
+93
+
+hsa-miR-224-5p	RPIA	ribose 5-phosphate isomerase A
+Details
+
+30	
+93
+
+hsa-miR-224-5p	PPP2R5A	protein phosphatase 2 regulatory subunit B'alpha
+Details
+
+31	
+93
+
+hsa-miR-224-5p	KDM6A	lysine demethylase 6A
+Details
+
+32	
+93
+
+hsa-miR-224-5p	BCL6	BCL6, transcription repressor
+Details
+
+33	
+93
+
+hsa-miR-224-5p	PLEKHG4	pleckstrin homology and RhoGEF domain containing G4
+Details
+
+34	
+93
+
+hsa-miR-224-5p	CELSR2	cadherin EGF LAG seven-pass G-type receptor 2
+Details
+
+35	
+93
+
+hsa-miR-224-5p	GABRA4	gamma-aminobutyric acid type A receptor alpha4 subunit
+Details
+
+36	
+93
+
+hsa-miR-224-5p	INHBC	inhibin subunit beta C
+Details
+
+37	
+93
+
+hsa-miR-224-5p	MYPOP	Myb related transcription factor, partner of profilin
+Details
+
+38	
+93
+
+hsa-miR-224-5p	DPYSL2	dihydropyrimidinase like 2
+Details
+
+39	
+92
+
+hsa-miR-224-5p	ARHGAP21	Rho GTPase activating protein 21
+Details
+
+40	
+92
+
+hsa-miR-224-5p	PGBD2	piggyBac transposable element derived 2
+Details
+
+41	
+92
+
+hsa-miR-224-5p	CNTN2	contactin 2
+Details
+
+42	
+92
+
+hsa-miR-224-5p	ABHD18	abhydrolase domain containing 18
+Details
+
+43	
+92
+
+hsa-miR-224-5p	FAM204A	family with sequence similarity 204 member A
+Details
+
+44	
+92
+
+hsa-miR-224-5p	PLGRKT	plasminogen receptor with a C-terminal lysine
+Details
+
+45	
+92
+
+hsa-miR-224-5p	SUDS3	SDS3 homolog, SIN3A corepressor complex component
+Details
+
+46	
+92
+
+hsa-miR-224-5p	UCHL5	ubiquitin C-terminal hydrolase L5
+Details
+
+47	
+91
+
+hsa-miR-224-5p	C17orf58	chromosome 17 open reading frame 58
+Details
+
+48	
+91
+
+hsa-miR-224-5p	MT1M	metallothionein 1M
+Details
+
+49	
+91
+
+hsa-miR-224-5p	EHF	ETS homologous factor
+Details
+
+50	
+91
+
+hsa-miR-224-5p	ATXN7	ataxin 7
+Details
+
+51	
+91
+
+hsa-miR-224-5p	COL4A1	collagen type IV alpha 1 chain
+Details
+
+52	
+91
+
+hsa-miR-224-5p	LASP1	LIM and SH3 protein 1
+Details
+
+53	
+91
+
+hsa-miR-224-5p	ATP2C1	ATPase secretory pathway Ca2+ transporting 1
+Details
+
+54	
+91
+
+hsa-miR-224-5p	OSBPL11	oxysterol binding protein like 11
+Details
+
+55	
+91
+
+hsa-miR-224-5p	ZMYM4	zinc finger MYM-type containing 4
+Details
+
+56	
+91
+
+hsa-miR-224-5p	DSG2	desmoglein 2
+Details
+
+57	
+91
+
+hsa-miR-224-5p	ZNF860	zinc finger protein 860
+Details
+
+58	
+90
+
+hsa-miR-224-5p	ABHD5	abhydrolase domain containing 5
+Details
+
+59	
+90
+
+hsa-miR-224-5p	ZFP28	ZFP28 zinc finger protein
+Details
+
+60	
+90
+
+hsa-miR-224-5p	MED13	mediator complex subunit 13
+Details
+
+61	
+90
+
+hsa-miR-224-5p	LRRC40	leucine rich repeat containing 40
+Details
+
+62	
+90
+
+hsa-miR-224-5p	ATAD2B	ATPase family, AAA domain containing 2B
+Details
+
+63	
+90
+
+hsa-miR-224-5p	CHMP5	charged multivesicular body protein 5
+Details
+
+64	
+90
+
+hsa-miR-224-5p	CPEB2	cytoplasmic polyadenylation element binding protein 2
+Details
+
+65	
+90
+
+hsa-miR-224-5p	NRIP1	nuclear receptor interacting protein 1

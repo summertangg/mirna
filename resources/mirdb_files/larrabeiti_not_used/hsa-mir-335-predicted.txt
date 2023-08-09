@@ -1,0 +1,175 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+97
+
+hsa-miR-335-5p	SEPHS1	selenophosphate synthetase 1
+Details
+
+2	
+97
+
+hsa-miR-335-5p	CASP7	caspase 7
+Details
+
+3	
+96
+
+hsa-miR-335-5p	SRSF4	serine and arginine rich splicing factor 4
+Details
+
+4	
+96
+
+hsa-miR-335-5p	NRXN1	neurexin 1
+Details
+
+5	
+96
+
+hsa-miR-335-5p	ZRANB1	zinc finger RANBP2-type containing 1
+Details
+
+6	
+95
+
+hsa-miR-335-5p	FLT1	fms related tyrosine kinase 1
+Details
+
+7	
+94
+
+hsa-miR-335-5p	POU2F3	POU class 2 homeobox 3
+Details
+
+8	
+94
+
+hsa-miR-335-5p	KRT81	keratin 81
+Details
+
+9	
+94
+
+hsa-miR-335-5p	STAG1	stromal antigen 1
+Details
+
+10	
+93
+
+hsa-miR-335-5p	DAAM1	dishevelled associated activator of morphogenesis 1
+Details
+
+11	
+93
+
+hsa-miR-335-5p	TTK	TTK protein kinase
+Details
+
+12	
+93
+
+hsa-miR-335-5p	HOXD8	homeobox D8
+Details
+
+13	
+93
+
+hsa-miR-335-5p	GATA2	GATA binding protein 2
+Details
+
+14	
+93
+
+hsa-miR-335-5p	CHFR	checkpoint with forkhead and ring finger domains
+Details
+
+15	
+92
+
+hsa-miR-335-5p	ARGLU1	arginine and glutamate rich 1
+Details
+
+16	
+92
+
+hsa-miR-335-5p	USP24	ubiquitin specific peptidase 24
+Details
+
+17	
+92
+
+hsa-miR-335-5p	NXPH2	neurexophilin 2
+Details
+
+18	
+92
+
+hsa-miR-335-5p	VAPA	VAMP associated protein A
+Details
+
+19	
+91
+
+hsa-miR-335-5p	PSD3	pleckstrin and Sec7 domain containing 3
+Details
+
+20	
+91
+
+hsa-miR-335-5p	TNFSF11	TNF superfamily member 11
+Details
+
+21	
+91
+
+hsa-miR-335-5p	UBE2G1	ubiquitin conjugating enzyme E2 G1
+Details
+
+22	
+91
+
+hsa-miR-335-5p	PTGES3L	prostaglandin E synthase 3 like
+Details
+
+23	
+91
+
+hsa-miR-335-5p	TMEM59	transmembrane protein 59
+Details
+
+24	
+91
+
+hsa-miR-335-5p	HAND1	heart and neural crest derivatives expressed 1
+Details
+
+25	
+90
+
+hsa-miR-335-5p	TPST1	tyrosylprotein sulfotransferase 1
+Details
+
+26	
+90
+
+hsa-miR-335-5p	RPRM	reprimo, TP53 dependent G2 arrest mediator homolog
+Details
+
+27	
+90
+
+hsa-miR-335-5p	ATE1	arginyltransferase 1
+Details
+
+28	
+90
+
+hsa-miR-335-5p	SOX6	SRY-box 6
+Details
+
+29	
+90
+
+hsa-miR-335-5p	ALPG	alkaline phosphatase, germ cell
