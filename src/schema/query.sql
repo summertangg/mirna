@@ -84,10 +84,31 @@ order by gene
 SELECT mirna_id, disease FROM mirnas
 ORDER BY mirna_id
 
-SELECT mirna, gene, target_score FROM mirdb_mirna_gene 
-WHERE target_score >= 97
-and mirna ilike 'hsa-mir-342'
+SELECT mirna, gene, target_score 
+FROM mirdb_mirna_gene 
+WHERE mirna IN ('hsa-mir-944', 'hsa-mir-12136', 'hsa-mir-3681', 'hsa-mir-378i', 'hsa-mir-4454', 'hsa-mir-1291', 
+				'hsa-mir-7974', 'hsa-mir-215', 'hsa-mir-224', 'hsa-mir-194', 'hsa-mir-452', 'hsa-mir-335', 
+				'hsa-mir-497', 'hsa-mir-10a')
 ORDER BY target_score desc
+
+DELETE FROM genes
+WHERE gene_id NOT IN (
+	SELECT gene
+	FROM mirdb_mirna_gene
+	GROUP BY gene
+	union
+	SELECT gene
+	FROM pathway_gene
+	GROUP BY gene
+	union
+	select gene
+	from mirna_gene_pathway
+	group by gene
+)
+
+select count(gene_id)
+from genes
+
 
 -- delete FROM mirdb_mirna_gene
 -- where mirna = 'hsa-mir-551b'
@@ -106,7 +127,7 @@ FROM mirdb_mirna_gene AS i
 INNER JOIN mirnas AS m on m.mirna_id = i.mirna and m.disease is  NULL
 order by mirna
 
-select g.gene_id
+select count(g.gene_id)
 from genes as g
 
 -- GET interactions of specif mirnas
@@ -121,7 +142,7 @@ ORDER BY ge.gene_id
 select mirna
 from mirdb_mirna_gene
 where target_score >=97
-AND mirna IN ('hsa-let-7d', 'hsa-let-7e', 'hsa-let-7g', 'hsa-mir-106a', 'hsa-mir-106b', 'hsa-mir-143', 'hsa-mir-146a', 'hsa-mir-146b', 'hsa-mir-150', 'hsa-mir-155', 'hsa-mir-15a', 'hsa-mir-16-1', 'hsa-mir-17', 'hsa-mir-182', 'hsa-mir-18a', 'hsa-mir-18b', 'hsa-mir-199a', 'hsa-mir-19a', 'hsa-mir-19b', 'hsa-mir-20a', 'hsa-mir-21', 'hsa-mir-210', 'hsa-mir-221', 'hsa-mir-24', 'hsa-mir-30b', 'hsa-mir-320a', 'hsa-mir-328', 'hsa-mir-342', 'hsa-mir-34a', 'hsa-mir-34b', 'hsa-mir-365a', 'hsa-mir-451b', 'hsa-mir-485', 'hsa-mir-9', 'hsa-mir-92a', 'hsa-mir-93', 'hsa-mir-181a', 'hsa-mir-217', 'hsa-mir-361', 'hsa-mir-363', 'hsa-let-7f', 'hsa-mir-20b', 'hsa-mir-26a', 'hsa-mir-26b', 'hsa-mir-29b', 'hsa-mir-29c', 'hsa-mir-125b', 'hsa-mir-145', 'hsa-mir-223', 'hsa-mir-301a', 'hsa-mir-23a', 'hsa-mir-23b', 'hsa-mir-27a', 'hsa-mir-27b') 
+AND mirna IN ('hsa-let-7d', 'hsa-let-7e', 'hsa-let-7g', 'hsa-mir-106a', 'hsa-mir-106b', 'hsa-mir-143', 'hsa-mir-146a', 'hsa-mir-146b', 'hsa-mir-150', 'hsa-mir-155', 'hsa-mir-15a', 'hsa-mir-16-1', 'hsa-mir-17', 'hsa-mir-182', 'hsa-mir-18a', 'hsa-mir-18b', 'hsa-mir-199a', 'hsa-mir-19a', 'hsa-mir-19b', 'hsa-mir-20a', 'hsa-mir-21', 'hsa-mir-210', 'hsa-mir-221', 'hsa-mir-24', 'hsa-mir-30b', 'hsa-mir-320a', 'hsa-mir-328', 'hsa-mir-139', 'hsa-mir-34a', 'hsa-mir-34b', 'hsa-mir-365a', 'hsa-mir-451b', 'hsa-mir-485', 'hsa-mir-9', 'hsa-mir-92a', 'hsa-mir-93', 'hsa-mir-181a', 'hsa-mir-217', 'hsa-mir-361', 'hsa-mir-363', 'hsa-let-7f', 'hsa-mir-20b', 'hsa-mir-26a', 'hsa-mir-26b', 'hsa-mir-29b', 'hsa-mir-29c', 'hsa-mir-125b', 'hsa-mir-145', 'hsa-mir-223', 'hsa-mir-301a', 'hsa-mir-23a', 'hsa-mir-23b', 'hsa-mir-27a', 'hsa-mir-27b')
 group by mirna
 order by mirna
 
@@ -132,13 +153,21 @@ FROM pathway_gene
 group by pathway_id
 
 -- get pathway genes targeted by miRNAs 
-SELECT g.kegg_id, mg.gene, STRING_AGG(DISTINCT mirna, ',') AS grouped_mirna --,count(mg.mirna)
+SELECT g.kegg_id, mg.gene, STRING_AGG(DISTINCT mirna, ',') AS grouped_mirna, count(mg.mirna) as num_mirna --,
+-- 	CASE
+-- 	  WHEN count(mg.mirna) >= 10 THEN '#DC143C,black'
+-- 	  WHEN count(mg.mirna) >= 6 AND count(mg.mirna) < 10 THEN '#CD5C5C,black'
+-- 	  WHEN count(mg.mirna) >= 4 AND count(mg.mirna) < 6 THEN '#FA8072,black'
+-- 	  WHEN count(mg.mirna) >= 2 AND count(mg.mirna) < 4 THEN '#FFB6C1,black'
+-- 	  ELSE '#FFE4E1,black'
+-- 	END AS color
 FROM pathway_gene AS pg
 INNER JOIN genes AS g ON g.gene_id = pg.gene
 INNER JOIN mirdb_mirna_gene AS mg ON mg.gene = pg.gene
+  AND mirna IN ('hsa-let-7d', 'hsa-let-7e', 'hsa-let-7g', 'hsa-mir-106a', 'hsa-mir-106b', 'hsa-mir-143', 'hsa-mir-146a', 'hsa-mir-146b', 'hsa-mir-150', 'hsa-mir-155', 'hsa-mir-15a', 'hsa-mir-16-1', 'hsa-mir-17', 'hsa-mir-182', 'hsa-mir-18a', 'hsa-mir-18b', 'hsa-mir-199a', 'hsa-mir-19a', 'hsa-mir-19b', 'hsa-mir-20a', 'hsa-mir-21', 'hsa-mir-210', 'hsa-mir-221', 'hsa-mir-24', 'hsa-mir-30b', 'hsa-mir-320a', 'hsa-mir-328', 'hsa-mir-139', 'hsa-mir-34a', 'hsa-mir-34b', 'hsa-mir-365a', 'hsa-mir-451b', 'hsa-mir-485', 'hsa-mir-9', 'hsa-mir-92a', 'hsa-mir-93', 'hsa-mir-181a', 'hsa-mir-217', 'hsa-mir-361', 'hsa-mir-363', 'hsa-let-7f', 'hsa-mir-20b', 'hsa-mir-26a', 'hsa-mir-26b', 'hsa-mir-29b', 'hsa-mir-29c', 'hsa-mir-125b', 'hsa-mir-145', 'hsa-mir-223', 'hsa-mir-301a', 'hsa-mir-23a', 'hsa-mir-23b', 'hsa-mir-27a', 'hsa-mir-27b')
 INNER JOIN mirnas AS m on m.mirna_id = mg.mirna and m.disease is not NULL
 WHERE mg.target_score >= 97
-  AND pg.pathway_id = 6
+  AND pg.pathway_id = 7
 group by mg.gene, pg.gene, g.kegg_id
 ORDER BY count(mg.mirna) desc, mg.gene
 
@@ -151,9 +180,9 @@ INNER JOIN (
 	INNER JOIN mirdb_mirna_gene AS mg ON mg.gene = pg.gene
 	INNER JOIN mirnas AS m on m.mirna_id = mg.mirna and m.disease is not NULL
 	WHERE mg.target_score >= 97
-	  AND pg.pathway_id = 6
+	  AND pg.pathway_id = 7
 	group by mg.gene, pg.gene, g.kegg_id
-	ORDER BY mg.gene
+	ORDER BY num_mirna DESC
 	) AS t ON c.num_interactions = t.num_mirna
 order by t.num_mirna desc, t.gene
 
@@ -164,6 +193,7 @@ SELECT mg.mirna, count(mg.gene) AS num_genes, count(pg.pathway_id) AS num_pathwa
 FROM pathway_gene AS pg
 INNER JOIN genes AS g ON g.gene_id = pg.gene
 INNER JOIN mirdb_mirna_gene AS mg ON mg.gene = pg.gene
+--  AND mirna IN ('hsa-let-7d', 'hsa-let-7e', 'hsa-let-7g', 'hsa-mir-106a', 'hsa-mir-106b', 'hsa-mir-143', 'hsa-mir-146a', 'hsa-mir-146b', 'hsa-mir-150', 'hsa-mir-155', 'hsa-mir-15a', 'hsa-mir-16-1', 'hsa-mir-17', 'hsa-mir-182', 'hsa-mir-18a', 'hsa-mir-18b', 'hsa-mir-199a', 'hsa-mir-19a', 'hsa-mir-19b', 'hsa-mir-20a', 'hsa-mir-21', 'hsa-mir-210', 'hsa-mir-221', 'hsa-mir-24', 'hsa-mir-30b', 'hsa-mir-320a', 'hsa-mir-328', 'hsa-mir-139', 'hsa-mir-34a', 'hsa-mir-34b', 'hsa-mir-365a', 'hsa-mir-451b', 'hsa-mir-485', 'hsa-mir-9', 'hsa-mir-92a', 'hsa-mir-93', 'hsa-mir-181a', 'hsa-mir-217', 'hsa-mir-361', 'hsa-mir-363', 'hsa-let-7f', 'hsa-mir-20b', 'hsa-mir-26a', 'hsa-mir-26b', 'hsa-mir-29b', 'hsa-mir-29c', 'hsa-mir-125b', 'hsa-mir-145', 'hsa-mir-223', 'hsa-mir-301a', 'hsa-mir-23a', 'hsa-mir-23b', 'hsa-mir-27a', 'hsa-mir-27b')
 INNER JOIN mirnas AS m on m.mirna_id = mg.mirna and m.disease is not NULL
 WHERE mg.target_score >= 97
 GROUP BY mg.mirna

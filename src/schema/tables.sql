@@ -65,5 +65,7 @@ INSERT INTO interaction_colors (num_interactions, color) VALUES (3, '#FA8072,bla
 INSERT INTO interaction_colors (num_interactions, color) VALUES (4, '#CD5C5C,black');
 INSERT INTO interaction_colors (num_interactions, color) VALUES (5, '#DC143C,black');
 
+INSERT INTO pathways (pathway_id, name) VALUES (7, 'Pathways in cancer')
+
 
 

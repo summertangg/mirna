@@ -38,7 +38,8 @@ pathway_files = [('hsa04662_B-CELL-RECEPTOR_genes.txt', 1),
                  ('hsa04064_NF-KAPPA-B_genes.txt', 3),
                  ('hsa04115_P53_genes.txt', 4),
                  ('hsa04141_PI3K-AKT_genes.txt', 5),
-                 ('hsa05235_PD-L1_genes.txt', 6)]
+                 ('hsa05235_PD-L1_genes.txt', 6),
+                 ('hsa05200_CANCER_genes.txt', 7)]
 
 conn = psycopg2.connect(database="postgres", user="postgres", password="1qaz2wsX", host="127.0.0.1", port="5432")
 try:
