@@ -55,5 +55,5 @@ working = ['hsa-mir-363', 'hsa-mir-93', 'hsa-mir-106a', 'hsa-mir-20b', 'hsa-mir-
 
 clean_file = "mirdb_interactions_lawrie_testing_clean.csv"
 natural_file = "mirdb_interactions_lawrie_testing_natural.csv"
-table_1_file = "mirdb_interactions_lawrie_testing_table_1_a.csv"
-table_2_file = "mirdb_interactions_lawrie_testing_table_2_a.csv"
+table_1_file = "mirdb_interactions_lawrie_testing_table_1_b.csv"
+table_2_file = "mirdb_interactions_lawrie_testing_table_2_b.csv"
