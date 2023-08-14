@@ -86,9 +86,7 @@ ORDER BY mirna_id
 
 SELECT mirna, gene, target_score 
 FROM mirdb_mirna_gene 
-WHERE mirna IN ('hsa-mir-944', 'hsa-mir-12136', 'hsa-mir-3681', 'hsa-mir-378i', 'hsa-mir-4454', 'hsa-mir-1291', 
-				'hsa-mir-7974', 'hsa-mir-215', 'hsa-mir-224', 'hsa-mir-194', 'hsa-mir-452', 'hsa-mir-335', 
-				'hsa-mir-497', 'hsa-mir-10a')
+WHERE mirna IN ('hsa-mir-215')
 ORDER BY target_score desc
 
 DELETE FROM genes

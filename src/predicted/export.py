@@ -59,7 +59,7 @@ try:
     export_interactions(conn, root_path, mlawrie.table_1_file, mlawrie.table_1)
     export_interactions(conn, root_path, mlawrie.table_2_file, mlawrie.table_2)
 
-    # export_interactions(conn, root_path, m54.clean_file, m54.positive_mirnas)
+    # export_interactions(conn, root_path, mlar.table_1_file, mlar.table_1)
 except(Exception, psycopg2.DatabaseError) as error:
     raise error
 finally:

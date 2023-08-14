@@ -69,7 +69,7 @@ def import_targets_predicted(conn, root_path, target_file, disease=None):
     cur.close()
 
 
-root_path = "~/code/mirna/resources/mirdb_files/not_used"
+root_path = "~/code/mirna/resources/mirdb_files/larrabeiti_not_used"
 target_file = "hsa-mir-139-predicted.txt"
 
 db_conn = psycopg2.connect(database="postgres", user="postgres", password="1qaz2wsX", host="127.0.0.1", port="5432")
