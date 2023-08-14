@@ -1,0 +1,90 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.meta.AttributeSelectedClassifier -E "weka.attributeSelection.CfsSubsetEval -P 1 -E 1" -S "weka.attributeSelection.BestFirst -D 1 -N 5" -W weka.classifiers.trees.RandomForest -- -P 100 -I 100 -num-slots 1 -K 0 -M 1.0 -V 0.001 -S 1
+Relation:     mirdb_interactions_m54_training_2
+Instances:    108
+Attributes:   8786
+              [list of attributes omitted]
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+AttributeSelectedClassifier:
+
+
+
+=== Attribute Selection on all input data ===
+
+Search Method:
+	Best first.
+	Start set: no attributes
+	Search direction: forward
+	Stale search after 5 node expansions
+	Total number of subsets evaluated: 114134
+	Merit of best subset found:    0.298
+
+Attribute Subset Evaluator (supervised, Class (nominal): 8786 DIAGNOSTIC_POSITIVE):
+	CFS Subset Evaluator
+	Including locally predictive attributes
+
+Selected attributes: 1,1666,2574,6349,6403,7896,8428,8650 : 8
+                     mirna
+                     CREBRF
+                     FBXW7
+                     RORA
+                     RPS6KA5
+                     TRIM71
+                     ZBTB34
+                     ZNF512B
+
+
+Header of reduced data:
+@relation 'mirdb_interactions_m54_training_2-weka.filters.unsupervised.attribute.Remove-V-R1,1666,2574,6349,6403,7896,8428,8650,8786'
+
+@attribute mirna {hsa-let-7d,hsa-let-7e,hsa-let-7f,hsa-let-7g,hsa-mir-106a,hsa-mir-106b,hsa-mir-12124,hsa-mir-12132,hsa-mir-1250,hsa-mir-125b,hsa-mir-1270,hsa-mir-139,hsa-mir-143,hsa-mir-145,hsa-mir-146a,hsa-mir-146b,hsa-mir-150,hsa-mir-155,hsa-mir-15a,hsa-mir-16-1,hsa-mir-17,hsa-mir-181a,hsa-mir-182,hsa-mir-18a,hsa-mir-18b,hsa-mir-1915,hsa-mir-199a,hsa-mir-19a,hsa-mir-19b,hsa-mir-20a,hsa-mir-20b,hsa-mir-21,hsa-mir-210,hsa-mir-217,hsa-mir-221,hsa-mir-223,hsa-mir-23a,hsa-mir-23b,hsa-mir-24,hsa-mir-2467,hsa-mir-26a,hsa-mir-26b,hsa-mir-27a,hsa-mir-27b,hsa-mir-29b,hsa-mir-29c,hsa-mir-301a,hsa-mir-30b,hsa-mir-3130,hsa-mir-3192,hsa-mir-3202,hsa-mir-320a,hsa-mir-328,hsa-mir-329,hsa-mir-337,hsa-mir-34a,hsa-mir-34b,hsa-mir-361,hsa-mir-3622a,hsa-mir-363,hsa-mir-365a,hsa-mir-371b,hsa-mir-378h,hsa-mir-379,hsa-mir-3912,hsa-mir-3976,hsa-mir-4309,hsa-mir-4329,hsa-mir-4418,hsa-mir-4422,hsa-mir-449c,hsa-mir-4517,hsa-mir-451b,hsa-mir-4695,hsa-mir-4723,hsa-mir-4804,hsa-mir-485,hsa-mir-5001,hsa-mir-5002,hsa-mir-5004,hsa-mir-5089,hsa-mir-5100,hsa-mir-543,hsa-mir-548o,hsa-mir-5571,hsa-mir-5584,hsa-mir-5696,hsa-mir-576,hsa-mir-6510,hsa-mir-6731,hsa-mir-6764,hsa-mir-6782,hsa-mir-6794,hsa-mir-6807,hsa-mir-6822,hsa-mir-6827,hsa-mir-6847,hsa-mir-6881,hsa-mir-762,hsa-mir-7847,hsa-mir-7855,hsa-mir-8082,hsa-mir-8089,hsa-mir-887,hsa-mir-9,hsa-mir-92a,hsa-mir-93,hsa-mir-939}
+@attribute CREBRF {No,Yes}
+@attribute FBXW7 {No,Yes}
+@attribute RORA {No,Yes}
+@attribute RPS6KA5 {No,Yes}
+@attribute TRIM71 {Yes,No}
+@attribute ZBTB34 {No,Yes}
+@attribute ZNF512B {Yes,No}
+@attribute DIAGNOSTIC_POSITIVE {Yes,No}
+
+@data
+
+
+Classifier Model
+RandomForest
+
+Bagging with 100 iterations and base learner
+
+weka.classifiers.trees.RandomTree -K 0 -M 1.0 -V 0.001 -S 1 -do-not-check-capabilities
+
+Time taken to build model: 7.05 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances          82               75.9259 %
+Incorrectly Classified Instances        26               24.0741 %
+Kappa statistic                          0.5185
+Mean absolute error                      0.4438
+Root mean squared error                  0.4544
+Relative absolute error                 88.6923 %
+Root relative squared error             90.8089 %
+Total Number of Instances              108     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.537    0.019    0.967      0.537    0.690      0.579    0.790     0.840     Yes
+                 0.981    0.463    0.679      0.981    0.803      0.579    0.790     0.716     No
+Weighted Avg.    0.759    0.241    0.823      0.759    0.747      0.579    0.790     0.778     
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 29 25 |  a = Yes
+  1 53 |  b = No
+

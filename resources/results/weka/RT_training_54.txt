@@ -1,0 +1,357 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.meta.AttributeSelectedClassifier -E "weka.attributeSelection.CfsSubsetEval -P 1 -E 1" -S "weka.attributeSelection.BestFirst -D 1 -N 5" -W weka.classifiers.trees.RandomTree -- -K 0 -M 1.0 -V 0.001 -S 1
+Relation:     mirdb_interactions_m54_training_2-weka.filters.unsupervised.attribute.Remove-R1
+Instances:    108
+Attributes:   8785
+              [list of attributes omitted]
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+AttributeSelectedClassifier:
+
+
+
+=== Attribute Selection on all input data ===
+
+Search Method:
+	Best first.
+	Start set: no attributes
+	Search direction: forward
+	Stale search after 5 node expansions
+	Total number of subsets evaluated: 394299
+	Merit of best subset found:    0.279
+
+Attribute Subset Evaluator (supervised, Class (nominal): 8785 DIAGNOSTIC_POSITIVE):
+	CFS Subset Evaluator
+	Including locally predictive attributes
+
+Selected attributes: 1,44,80,92,130,162,216,228,238,287,298,343,382,388,393,428,633,675,750,808,844,884,885,955,994,1007,1054,1435,1436,1459,1466,1656,1663,1665,1758,1843,1904,2035,2350,2513,2573,2577,2723,3028,3206,3697,3784,3829,3865,4115,4196,4292,4581,4701,4924,4926,5026,5602,5696,5742,5888,5913,6269,6348,6402,6460,6564,6638,6944,7078,7895,8055,8157,8242,8386,8427,8649 : 77
+                     A1CF
+                     ABL2
+                     ACTC1
+                     ACVR1
+                     ADCY1
+                     ADIPOR2
+                     AHR
+                     AKAP1
+                     AKR1B10
+                     AMOTL2
+                     ANK1
+                     ANO5
+                     APOBEC4
+                     APPBP2
+                     AR
+                     ARHGAP6
+                     AZIN1
+                     BBX
+                     BMP2
+                     BTG2
+                     C15ORF40
+                     C21ORF91
+                     C2CD2
+                     CABP5
+                     CALD1
+                     CAMK1D
+                     CASP8AP2
+                     CIB2
+                     CIC
+                     CLCN3
+                     CLDN22
+                     CREB1
+                     CREBBP
+                     CREBRF
+                     CUL3
+                     DBT
+                     DEAF1
+                     DOCK7
+                     ERICH3
+                     FAM86B1
+                     FBXW7
+                     FCGR1B
+                     FRMD4B
+                     GPC6
+                     HECTD2
+                     ITGB8
+                     KCNJ2
+                     KDM5B
+                     KIAA1522
+                     LIN28B
+                     LRIG3
+                     MAFB
+                     MMGT1
+                     MTMR2
+                     NFIC
+                     NFIX
+                     NPTX1
+                     PLEKHS1
+                     POU3F4
+                     PPP1R11
+                     PSKH1
+                     PTEN
+                     RIMS4
+                     RORA
+                     RPS6KA5
+                     RUNDC3A
+                     SEC23IP
+                     SESN3
+                     SLITRK4
+                     SP4
+                     TRIM71
+                     UBE2H
+                     USP3
+                     VPS54
+                     YOD1
+                     ZBTB34
+                     ZNF512B
+
+
+Header of reduced data:
+@relation 'mirdb_interactions_m54_training_2-weka.filters.unsupervised.attribute.Remove-R1-weka.filters.unsupervised.attribute.Remove-V-R1,44,80,92,130,162,216,228,238,287,298,343,382,388,393,428,633,675,750,808,844,884-885,955,994,1007,1054,1435-1436,1459,1466,1656,1663,1665,1758,1843,1904,2035,2350,2513,2573,2577,2723,3028,3206,3697,3784,3829,3865,4115,4196,4292,4581,4701,4924,4926,5026,5602,5696,5742,5888,5913,6269,6348,6402,6460,6564,6638,6944,7078,7895,8055,8157,8242,8386,8427,8649,8785'
+
+@attribute A1CF {No,Yes}
+@attribute ABL2 {No,Yes}
+@attribute ACTC1 {No,Yes}
+@attribute ACVR1 {No,Yes}
+@attribute ADCY1 {No,Yes}
+@attribute ADIPOR2 {No,Yes}
+@attribute AHR {No,Yes}
+@attribute AKAP1 {No,Yes}
+@attribute AKR1B10 {No,Yes}
+@attribute AMOTL2 {No,Yes}
+@attribute ANK1 {No,Yes}
+@attribute ANO5 {No,Yes}
+@attribute APOBEC4 {No,Yes}
+@attribute APPBP2 {No,Yes}
+@attribute AR {No,Yes}
+@attribute ARHGAP6 {No,Yes}
+@attribute AZIN1 {No,Yes}
+@attribute BBX {No,Yes}
+@attribute BMP2 {No,Yes}
+@attribute BTG2 {No,Yes}
+@attribute C15ORF40 {No,Yes}
+@attribute C21ORF91 {No,Yes}
+@attribute C2CD2 {No,Yes}
+@attribute CABP5 {No,Yes}
+@attribute CALD1 {No,Yes}
+@attribute CAMK1D {No,Yes}
+@attribute CASP8AP2 {No,Yes}
+@attribute CIB2 {No,Yes}
+@attribute CIC {No,Yes}
+@attribute CLCN3 {No,Yes}
+@attribute CLDN22 {No,Yes}
+@attribute CREB1 {No,Yes}
+@attribute CREBBP {No,Yes}
+@attribute CREBRF {No,Yes}
+@attribute CUL3 {No,Yes}
+@attribute DBT {No,Yes}
+@attribute DEAF1 {No,Yes}
+@attribute DOCK7 {No,Yes}
+@attribute ERICH3 {No,Yes}
+@attribute FAM86B1 {No,Yes}
+@attribute FBXW7 {No,Yes}
+@attribute FCGR1B {No,Yes}
+@attribute FRMD4B {Yes,No}
+@attribute GPC6 {No,Yes}
+@attribute HECTD2 {No,Yes}
+@attribute ITGB8 {No,Yes}
+@attribute KCNJ2 {No,Yes}
+@attribute KDM5B {No,Yes}
+@attribute KIAA1522 {No,Yes}
+@attribute LIN28B {Yes,No}
+@attribute LRIG3 {Yes,No}
+@attribute MAFB {No,Yes}
+@attribute MMGT1 {No,Yes}
+@attribute MTMR2 {No,Yes}
+@attribute NFIC {No,Yes}
+@attribute NFIX {No,Yes}
+@attribute NPTX1 {No,Yes}
+@attribute PLEKHS1 {No,Yes}
+@attribute POU3F4 {No,Yes}
+@attribute PPP1R11 {No,Yes}
+@attribute PSKH1 {No,Yes}
+@attribute PTEN {No,Yes}
+@attribute RIMS4 {No,Yes}
+@attribute RORA {No,Yes}
+@attribute RPS6KA5 {No,Yes}
+@attribute RUNDC3A {No,Yes}
+@attribute SEC23IP {No,Yes}
+@attribute SESN3 {No,Yes}
+@attribute SLITRK4 {No,Yes}
+@attribute SP4 {No,Yes}
+@attribute TRIM71 {Yes,No}
+@attribute UBE2H {No,Yes}
+@attribute USP3 {No,Yes}
+@attribute VPS54 {No,Yes}
+@attribute YOD1 {No,Yes}
+@attribute ZBTB34 {No,Yes}
+@attribute ZNF512B {Yes,No}
+@attribute DIAGNOSTIC_POSITIVE {Yes,No}
+
+@data
+
+
+Classifier Model
+
+RandomTree
+==========
+
+PTEN = No
+|   FBXW7 = No
+|   |   RORA = No
+|   |   |   TRIM71 = Yes : Yes (6/0)
+|   |   |   TRIM71 = No
+|   |   |   |   CLCN3 = No
+|   |   |   |   |   MMGT1 = No
+|   |   |   |   |   |   SEC23IP = No
+|   |   |   |   |   |   |   ARHGAP6 = No
+|   |   |   |   |   |   |   |   ADIPOR2 = No
+|   |   |   |   |   |   |   |   |   HECTD2 = No
+|   |   |   |   |   |   |   |   |   |   CREB1 = No
+|   |   |   |   |   |   |   |   |   |   |   ITGB8 = No
+|   |   |   |   |   |   |   |   |   |   |   |   CUL3 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   AKAP1 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   AMOTL2 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   POU3F4 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ACVR1 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ABL2 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   YOD1 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ANO5 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   NFIC = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   APPBP2 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ZBTB34 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   PPP1R11 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   UBE2H = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   CAMK1D = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   VPS54 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ADCY1 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   CREBBP = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   CABP5 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ANK1 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   BTG2 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   AHR = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   APOBEC4 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   DBT = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ERICH3 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   PLEKHS1 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   BMP2 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   NFIX = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ACTC1 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   AZIN1 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   CIC = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   SLITRK4 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   RIMS4 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   CASP8AP2 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   FCGR1B = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   MAFB = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   C15ORF40 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   CALD1 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   GPC6 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   CLDN22 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   KIAA1522 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   KDM5B = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   DOCK7 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   AR = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   MTMR2 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   CIB2 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   NPTX1 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   DEAF1 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   RUNDC3A = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   FAM86B1 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   AKR1B10 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   SP4 = No
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   PSKH1 = No : No (5/1)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   PSKH1 = Yes : No (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   SP4 = Yes : No (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   AKR1B10 = Yes : No (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   FAM86B1 = Yes : No (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   RUNDC3A = Yes : No (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   DEAF1 = Yes : No (2/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   NPTX1 = Yes : Yes (2/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   CIB2 = Yes : No (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   MTMR2 = Yes : No (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   AR = Yes : No (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   DOCK7 = Yes : No (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   KDM5B = Yes : Yes (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   KIAA1522 = Yes : No (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   CLDN22 = Yes : Yes (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   GPC6 = Yes : No (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   CALD1 = Yes : No (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   C15ORF40 = Yes : No (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   MAFB = Yes : No (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   FCGR1B = Yes : No (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   CASP8AP2 = Yes : No (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   RIMS4 = Yes : No (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   SLITRK4 = Yes : No (2/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   CIC = Yes : No (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   AZIN1 = Yes : No (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ACTC1 = Yes : No (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   NFIX = Yes : No (3/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   BMP2 = Yes : No (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   PLEKHS1 = Yes : No (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ERICH3 = Yes : No (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   DBT = Yes : No (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   APOBEC4 = Yes : No (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   AHR = Yes : No (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   BTG2 = Yes : Yes (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ANK1 = Yes : No (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   CABP5 = Yes : No (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   CREBBP = Yes : No (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ADCY1 = Yes : No (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   VPS54 = Yes : No (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   CAMK1D = Yes : No (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   UBE2H = Yes : No (2/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   PPP1R11 = Yes : Yes (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ZBTB34 = Yes : Yes (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   APPBP2 = Yes : Yes (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   NFIC = Yes : Yes (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ANO5 = Yes : No (2/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   YOD1 = Yes : Yes (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ABL2 = Yes : Yes (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   ACVR1 = Yes : Yes (2/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   |   POU3F4 = Yes : No (2/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   |   AMOTL2 = Yes : Yes (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   AKAP1 = Yes : Yes (1/0)
+|   |   |   |   |   |   |   |   |   |   |   |   CUL3 = Yes : No (2/0)
+|   |   |   |   |   |   |   |   |   |   |   ITGB8 = Yes : Yes (6/0)
+|   |   |   |   |   |   |   |   |   |   CREB1 = Yes : No (2/0)
+|   |   |   |   |   |   |   |   |   HECTD2 = Yes : Yes (2/0)
+|   |   |   |   |   |   |   |   ADIPOR2 = Yes : Yes (1/0)
+|   |   |   |   |   |   |   ARHGAP6 = Yes : No (1/0)
+|   |   |   |   |   |   SEC23IP = Yes : Yes (2/0)
+|   |   |   |   |   MMGT1 = Yes : Yes (1/0)
+|   |   |   |   CLCN3 = Yes : Yes (2/0)
+|   |   RORA = Yes : Yes (6/0)
+|   FBXW7 = Yes : Yes (6/0)
+PTEN = Yes : Yes (6/0)
+
+Size of the tree : 129
+
+Time taken to build model: 57.5 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances          81               75      %
+Incorrectly Classified Instances        27               25      %
+Kappa statistic                          0.5   
+Mean absolute error                      0.3023
+Root mean squared error                  0.4636
+Relative absolute error                 60.4178 %
+Root relative squared error             92.647  %
+Total Number of Instances              108     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.593    0.093    0.865      0.593    0.703      0.527    0.738     0.747     Yes
+                 0.907    0.407    0.690      0.907    0.784      0.527    0.738     0.656     No
+Weighted Avg.    0.750    0.250    0.778      0.750    0.744      0.527    0.738     0.701     
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 32 22 |  a = Yes
+  5 49 |  b = No
+

@@ -1,0 +1,281 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.meta.AttributeSelectedClassifier -E "weka.attributeSelection.CfsSubsetEval -P 1 -E 1" -S "weka.attributeSelection.BestFirst -D 1 -N 5" -W weka.classifiers.trees.LMT -- -I -1 -M 15 -W 0.0
+Relation:     mirdb_interactions_m54_training_2-weka.filters.unsupervised.attribute.Remove-R1
+Instances:    108
+Attributes:   8785
+              [list of attributes omitted]
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+AttributeSelectedClassifier:
+
+
+
+=== Attribute Selection on all input data ===
+
+Search Method:
+	Best first.
+	Start set: no attributes
+	Search direction: forward
+	Stale search after 5 node expansions
+	Total number of subsets evaluated: 394299
+	Merit of best subset found:    0.279
+
+Attribute Subset Evaluator (supervised, Class (nominal): 8785 DIAGNOSTIC_POSITIVE):
+	CFS Subset Evaluator
+	Including locally predictive attributes
+
+Selected attributes: 1,44,80,92,130,162,216,228,238,287,298,343,382,388,393,428,633,675,750,808,844,884,885,955,994,1007,1054,1435,1436,1459,1466,1656,1663,1665,1758,1843,1904,2035,2350,2513,2573,2577,2723,3028,3206,3697,3784,3829,3865,4115,4196,4292,4581,4701,4924,4926,5026,5602,5696,5742,5888,5913,6269,6348,6402,6460,6564,6638,6944,7078,7895,8055,8157,8242,8386,8427,8649 : 77
+                     A1CF
+                     ABL2
+                     ACTC1
+                     ACVR1
+                     ADCY1
+                     ADIPOR2
+                     AHR
+                     AKAP1
+                     AKR1B10
+                     AMOTL2
+                     ANK1
+                     ANO5
+                     APOBEC4
+                     APPBP2
+                     AR
+                     ARHGAP6
+                     AZIN1
+                     BBX
+                     BMP2
+                     BTG2
+                     C15ORF40
+                     C21ORF91
+                     C2CD2
+                     CABP5
+                     CALD1
+                     CAMK1D
+                     CASP8AP2
+                     CIB2
+                     CIC
+                     CLCN3
+                     CLDN22
+                     CREB1
+                     CREBBP
+                     CREBRF
+                     CUL3
+                     DBT
+                     DEAF1
+                     DOCK7
+                     ERICH3
+                     FAM86B1
+                     FBXW7
+                     FCGR1B
+                     FRMD4B
+                     GPC6
+                     HECTD2
+                     ITGB8
+                     KCNJ2
+                     KDM5B
+                     KIAA1522
+                     LIN28B
+                     LRIG3
+                     MAFB
+                     MMGT1
+                     MTMR2
+                     NFIC
+                     NFIX
+                     NPTX1
+                     PLEKHS1
+                     POU3F4
+                     PPP1R11
+                     PSKH1
+                     PTEN
+                     RIMS4
+                     RORA
+                     RPS6KA5
+                     RUNDC3A
+                     SEC23IP
+                     SESN3
+                     SLITRK4
+                     SP4
+                     TRIM71
+                     UBE2H
+                     USP3
+                     VPS54
+                     YOD1
+                     ZBTB34
+                     ZNF512B
+
+
+Header of reduced data:
+@relation 'mirdb_interactions_m54_training_2-weka.filters.unsupervised.attribute.Remove-R1-weka.filters.unsupervised.attribute.Remove-V-R1,44,80,92,130,162,216,228,238,287,298,343,382,388,393,428,633,675,750,808,844,884-885,955,994,1007,1054,1435-1436,1459,1466,1656,1663,1665,1758,1843,1904,2035,2350,2513,2573,2577,2723,3028,3206,3697,3784,3829,3865,4115,4196,4292,4581,4701,4924,4926,5026,5602,5696,5742,5888,5913,6269,6348,6402,6460,6564,6638,6944,7078,7895,8055,8157,8242,8386,8427,8649,8785'
+
+@attribute A1CF {No,Yes}
+@attribute ABL2 {No,Yes}
+@attribute ACTC1 {No,Yes}
+@attribute ACVR1 {No,Yes}
+@attribute ADCY1 {No,Yes}
+@attribute ADIPOR2 {No,Yes}
+@attribute AHR {No,Yes}
+@attribute AKAP1 {No,Yes}
+@attribute AKR1B10 {No,Yes}
+@attribute AMOTL2 {No,Yes}
+@attribute ANK1 {No,Yes}
+@attribute ANO5 {No,Yes}
+@attribute APOBEC4 {No,Yes}
+@attribute APPBP2 {No,Yes}
+@attribute AR {No,Yes}
+@attribute ARHGAP6 {No,Yes}
+@attribute AZIN1 {No,Yes}
+@attribute BBX {No,Yes}
+@attribute BMP2 {No,Yes}
+@attribute BTG2 {No,Yes}
+@attribute C15ORF40 {No,Yes}
+@attribute C21ORF91 {No,Yes}
+@attribute C2CD2 {No,Yes}
+@attribute CABP5 {No,Yes}
+@attribute CALD1 {No,Yes}
+@attribute CAMK1D {No,Yes}
+@attribute CASP8AP2 {No,Yes}
+@attribute CIB2 {No,Yes}
+@attribute CIC {No,Yes}
+@attribute CLCN3 {No,Yes}
+@attribute CLDN22 {No,Yes}
+@attribute CREB1 {No,Yes}
+@attribute CREBBP {No,Yes}
+@attribute CREBRF {No,Yes}
+@attribute CUL3 {No,Yes}
+@attribute DBT {No,Yes}
+@attribute DEAF1 {No,Yes}
+@attribute DOCK7 {No,Yes}
+@attribute ERICH3 {No,Yes}
+@attribute FAM86B1 {No,Yes}
+@attribute FBXW7 {No,Yes}
+@attribute FCGR1B {No,Yes}
+@attribute FRMD4B {Yes,No}
+@attribute GPC6 {No,Yes}
+@attribute HECTD2 {No,Yes}
+@attribute ITGB8 {No,Yes}
+@attribute KCNJ2 {No,Yes}
+@attribute KDM5B {No,Yes}
+@attribute KIAA1522 {No,Yes}
+@attribute LIN28B {Yes,No}
+@attribute LRIG3 {Yes,No}
+@attribute MAFB {No,Yes}
+@attribute MMGT1 {No,Yes}
+@attribute MTMR2 {No,Yes}
+@attribute NFIC {No,Yes}
+@attribute NFIX {No,Yes}
+@attribute NPTX1 {No,Yes}
+@attribute PLEKHS1 {No,Yes}
+@attribute POU3F4 {No,Yes}
+@attribute PPP1R11 {No,Yes}
+@attribute PSKH1 {No,Yes}
+@attribute PTEN {No,Yes}
+@attribute RIMS4 {No,Yes}
+@attribute RORA {No,Yes}
+@attribute RPS6KA5 {No,Yes}
+@attribute RUNDC3A {No,Yes}
+@attribute SEC23IP {No,Yes}
+@attribute SESN3 {No,Yes}
+@attribute SLITRK4 {No,Yes}
+@attribute SP4 {No,Yes}
+@attribute TRIM71 {Yes,No}
+@attribute UBE2H {No,Yes}
+@attribute USP3 {No,Yes}
+@attribute VPS54 {No,Yes}
+@attribute YOD1 {No,Yes}
+@attribute ZBTB34 {No,Yes}
+@attribute ZNF512B {Yes,No}
+@attribute DIAGNOSTIC_POSITIVE {Yes,No}
+
+@data
+
+
+Classifier Model
+Logistic model tree 
+------------------
+: LM_1:24/24 (108)
+
+Number of Leaves  : 	1
+
+Size of the Tree : 	1
+LM_1:
+Class Yes :
+2.01 + 
+[ABL2=Yes] * 1.17 +
+[ACVR1=Yes] * 1.16 +
+[ADIPOR2=Yes] * 1.52 +
+[AMOTL2=Yes] * 1.52 +
+[APPBP2=Yes] * 1.52 +
+[BTG2=Yes] * 1.01 +
+[CLCN3=Yes] * 1.17 +
+[CREBRF=Yes] * 1.81 +
+[FBXW7=Yes] * 1.12 +
+[FRMD4B=No] * -1.17 +
+[HECTD2=Yes] * 1.53 +
+[ITGB8=Yes] * 0.64 +
+[KDM5B=Yes] * 1.09 +
+[MMGT1=Yes] * 1.52 +
+[NFIC=Yes] * 1.52 +
+[NPTX1=Yes] * 1.52 +
+[PPP1R11=Yes] * 1.44 +
+[RORA=Yes] * 1.92 +
+[RPS6KA5=Yes] * 1.11 +
+[TRIM71=No] * -1 +
+[ZBTB34=Yes] * 1.03 +
+[ZNF512B=No] * -0.68
+
+Class No :
+-0.84 + 
+[ABL2=Yes] * -1.17 +
+[ACVR1=Yes] * -1.16 +
+[ADIPOR2=Yes] * -1.52 +
+[APPBP2=Yes] * -1.52 +
+[BTG2=Yes] * -1.01 +
+[CLCN3=Yes] * -1.17 +
+[CLDN22=Yes] * -1.52 +
+[CREBRF=Yes] * -1.81 +
+[FBXW7=Yes] * -1.12 +
+[HECTD2=Yes] * -1.53 +
+[ITGB8=Yes] * -0.64 +
+[KDM5B=Yes] * -1.09 +
+[MMGT1=Yes] * -1.52 +
+[NFIC=Yes] * -1.52 +
+[NPTX1=Yes] * -1.52 +
+[PPP1R11=Yes] * -1.44 +
+[PTEN=Yes] * -1.17 +
+[RORA=Yes] * -1.92 +
+[RPS6KA5=Yes] * -1.11 +
+[TRIM71=No] * 1    +
+[ZBTB34=Yes] * -1.03 +
+[ZNF512B=No] * 0.68
+
+
+Time taken to build model: 56.82 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances          81               75      %
+Incorrectly Classified Instances        27               25      %
+Kappa statistic                          0.5   
+Mean absolute error                      0.2999
+Root mean squared error                  0.4244
+Relative absolute error                 59.94   %
+Root relative squared error             84.8104 %
+Total Number of Instances              108     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.574    0.074    0.886      0.574    0.697      0.534    0.820     0.857     Yes
+                 0.926    0.426    0.685      0.926    0.787      0.534    0.820     0.770     No
+Weighted Avg.    0.750    0.250    0.785      0.750    0.742      0.534    0.820     0.814     
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 31 23 |  a = Yes
+  4 50 |  b = No
+
