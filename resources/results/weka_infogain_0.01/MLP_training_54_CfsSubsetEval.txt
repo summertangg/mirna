@@ -3405,7 +3405,7 @@ Class No
     Node 1
 
 
-Time taken to build model: 58.38 seconds
+Time taken to build model: 58.66 seconds
 
 === Stratified cross-validation ===
 === Summary ===

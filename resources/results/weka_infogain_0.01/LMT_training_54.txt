@@ -1,0 +1,1206 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.meta.AttributeSelectedClassifier -E "weka.attributeSelection.InfoGainAttributeEval " -S "weka.attributeSelection.Ranker -T 0.01 -N -1" -W weka.classifiers.trees.LMT -- -I -1 -M 15 -W 0.0
+Relation:     mirdb_interactions_m54_training_2-weka.filters.unsupervised.attribute.Remove-R1
+Instances:    108
+Attributes:   8785
+              [list of attributes omitted]
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+AttributeSelectedClassifier:
+
+
+
+=== Attribute Selection on all input data ===
+
+Search Method:
+	Attribute ranking.
+	Threshold for discarding attributes:   0.01  
+
+Attribute Evaluator (supervised, Class (nominal): 8785 DIAGNOSTIC_POSITIVE):
+	Information Gain Ranking Filter
+
+Ranked attributes:
+ 0.1102       6402 RPS6KA5
+ 0.0994       8649 ZNF512B
+ 0.0888       3697 ITGB8
+ 0.0784       8168 USP46
+ 0.0784        885 C2CD2
+ 0.0784       1490 CLOCK
+ 0.0784       8157 USP3
+ 0.0681        545 ATG16L1
+ 0.0681       3791 KCNK10
+ 0.0681       8427 ZBTB34
+ 0.0681       5945 PTPN4
+ 0.0681       2500 FAM45A
+ 0.0681       8431 ZBTB4
+ 0.0681       2242 ELK4
+ 0.0681       4194 LRIG1
+ 0.0681       4913 NFAT5
+ 0.0681       8603 ZNF367
+ 0.0681       8514 ZFYVE9
+ 0.0681       1665 CREBRF
+ 0.0681       3928 KLHL28
+ 0.0579       2765 FYCO1
+ 0.0579       6887 SLC40A1
+ 0.0579       5540 PKD2
+ 0.0579       6457 RUFY2
+ 0.0579       7421 TBC1D9
+ 0.0579       4562 MKRN1
+ 0.0579       2573 FBXW7
+ 0.0579        305 ANKIB1
+ 0.0579       2315 EPHA5
+ 0.0579       4791 NABP1
+ 0.0579       6485 SACS
+ 0.0579       6348 RORA
+ 0.0579       2579 FCHO2
+ 0.0579       3370 HSPA8
+ 0.0579       5354 PDCD1LG2
+ 0.0579       7413 TBC1D20
+ 0.0579       6491 SAMD12
+ 0.0579       7895 TRIM71
+ 0.0579       1376 CFL2
+ 0.0579       5913 PTEN
+ 0.0579       3056 GPR6
+ 0.0579       2401 EZH1
+ 0.0579        333 ANKRD52
+ 0.0579       2122 E2F1
+ 0.0579       6415 RRAGD
+ 0.0579       5045 NR6A1
+ 0.0579       3044 GPR137C
+ 0.0579       2725 FRMD6
+ 0.0579       2723 FRMD4B
+ 0.0579       5013 NPAT
+ 0.0579       5011 NPAS2
+ 0.0579        790 BRMS1L
+ 0.0579       2736 FSD1L
+ 0.0579       8511 ZFYVE26
+ 0.0579       1018 CAMTA1
+ 0.0579       1173 CCND1
+ 0.0579       4838 NCOA3
+ 0.0579       2314 EPHA4
+ 0.0579       6295 RNF128
+ 0.0579       4334 MAP3K2
+ 0.0579       3784 KCNJ2
+ 0.0579       6114 RASGRF2
+ 0.0579       8737 ZNF800
+ 0.0579       8758 ZNFX1
+ 0.0579       8019 TXNIP
+ 0.0579       8745 ZNF827
+ 0.0579       3767 KCNB1
+ 0.0579       4196 LRIG3
+ 0.0579       6219 RGL1
+ 0.0579       4454 MED12L
+ 0.0579       4115 LIN28B
+ 0.0579       8187 VANGL1
+ 0.0579        615 ATXN1L
+ 0.0579       3851 KIAA0513
+ 0.0579       3944 KMT2B
+ 0.0579       6013 RAB22A
+ 0.0579       2550 FBXL5
+ 0.0579        415 ARHGAP12
+ 0.0579        246 AKTIP
+ 0.0579       7248 STK17B
+ 0.0579       8224 VLDLR
+ 0.0579        447 ARID4B
+ 0.0579       3711 ITPRIPL2
+ 0.0579       2290 ENPP5
+ 0.0479        808 BTG2
+ 0.0479        445 ARID3B
+ 0.0479       7789 TNRC6B
+ 0.0479       1174 CCND2
+ 0.0479       2638 FIGN
+ 0.0381       7368 TAB3
+ 0.0381       6657 SFMBT1
+ 0.0381       6966 SMARCAD1
+ 0.0381       6564 SEC23IP
+ 0.0381       3275 HMGA2
+ 0.0381       6489 SALL4
+ 0.0381       7268 STOX2
+ 0.0381       1185 CCNT2
+ 0.0381        112 ADAMTS15
+ 0.0381       8080 UBN2
+ 0.0381       5904 PTAFR
+ 0.0381       4528 MIB1
+ 0.0381       3467 IGF2BP1
+ 0.0381       1319 CDS1
+ 0.0381       2848 GATM
+ 0.0381       3934 KLHL42
+ 0.0381        984 CACUL1
+ 0.0381       1350 CEP350
+ 0.0381       3462 IGDCC3
+ 0.0381       5249 PAPPA
+ 0.0381        841 C14ORF28
+ 0.0381       5016 NPHP3
+ 0.0381       1459 CLCN3
+ 0.0381       4804 NAP1L1
+ 0.0381       2639 FIGNL2
+ 0.0381       3180 HBP1
+ 0.0381       4980 NME6
+ 0.0381       7499 TET2
+ 0.0381       6638 SESN3
+ 0.0381       6774 SLC10A7
+ 0.0381       3234 HIC2
+ 0.0381       7498 TET1
+ 0.0381        765 BNIP2
+ 0.0381       4805 NAP1L5
+ 0.0381       7500 TET3
+ 0.0381       6938 SLF2
+ 0.0381       5794 PRDM1
+ 0.0381       3132 GTF2A1
+ 0.0381       5449 PGRMC1
+ 0.0381       6923 SLC7A11
+ 0.0362       2111 DYNC1LI2
+ 0.0362       6186 REEP3
+ 0.0356       5878 PRTG
+ 0.0284        123 ADAMTS9
+ 0.0284       2729 FRS2
+ 0.0284       7259 STK39
+ 0.0284       1260 CDC34
+ 0.0284       7589 TLK1
+ 0.0284       5552 PKP4
+ 0.0284       5742 PPP1R11
+ 0.0284        163 ADM
+ 0.0284        396 ARAP2
+ 0.0284       8386 YOD1
+ 0.0284       7270 STRADB
+ 0.0284       5372 PDE7A
+ 0.0284       6199 REPS2
+ 0.0284       7354 SYT1
+ 0.0284       6676 SGK1
+ 0.0284       1538 CNR1
+ 0.0284       2931 GLIS3
+ 0.0284       2128 E2F7
+ 0.0284        685 BCL11B
+ 0.0284       3760 KBTBD8
+ 0.0284       4660 MRTFB
+ 0.0284       3763 KCNA4
+ 0.0284       6480 S1PR1
+ 0.0284       6764 SKIDA1
+ 0.0284       7926 TSC1
+ 0.0284       3464 IGF1
+ 0.0284       6575 SECISBP2L
+ 0.0284       2275 EMSY
+ 0.0284       4417 MBTD1
+ 0.0284       1418 CHST1
+ 0.0284        641 B3GNT5
+ 0.0284        544 ATG14
+ 0.0284       6537 SCN8A
+ 0.0284         35 ABHD17C
+ 0.0284       6803 SLC24A3
+ 0.0284       6462 RUNX1
+ 0.0284       4815 NAV1
+ 0.0284       5918 PTGER4
+ 0.0284       3057 GPR63
+ 0.0284       8418 ZBTB18
+ 0.0284       4817 NAV3
+ 0.0284        884 C21ORF91
+ 0.0284       5100 NUFIP2
+ 0.0284       5111 NUP50
+ 0.0284        889 C2ORF42
+ 0.0284       2362 ESR1
+ 0.0284        245 AKT3
+ 0.0284         75 ACSL4
+ 0.0284       7788 TNRC6A
+ 0.0284       7804 TOP1
+ 0.0284       1891 DDX3X
+ 0.0284       3186 HCFC2
+ 0.0284        795 BRWD1
+ 0.0284       3875 KIF13A
+ 0.0284       3829 KDM5B
+ 0.0284       4926 NFIX
+ 0.0284       6565 SEC24A
+ 0.0281       7223 STARD13
+ 0.0281       4806 NAPEPLD
+ 0.0281       5586 PLEKHA3
+ 0.0281       6499 SAR1B
+ 0.0281       7783 TNPO1
+ 0.0281       6201 REST
+ 0.0281       3149 GXYLT1
+ 0.0213          3 AAK1
+ 0.0205       2539 FBN1
+ 0.0205        560 ATP11C
+ 0.0205       4443 MDM4
+ 0.0188       1408 CHORDC1
+ 0.0188       7037 SNX5
+ 0.0188       1440 CIPC
+ 0.0188       1577 COL3A1
+ 0.0188       6994 SMS
+ 0.0188       1593 COL7A1
+ 0.0188       6820 SLC25A36
+ 0.0188       1587 COL5A3
+ 0.0188       6802 SLC24A2
+ 0.0188       1586 COL5A2
+ 0.0188       6807 SLC25A16
+ 0.0188       6794 SLC1A1
+ 0.0188       1456 CLASP2
+ 0.0188       1656 CREB1
+ 0.0188       1679 CRLF3
+ 0.0188       1632 CPEB2
+ 0.0188       6789 SLC17A6
+ 0.0188       6778 SLC12A5
+ 0.0188       1585 COL5A1
+ 0.0188       6834 SLC2A13
+ 0.0188       1578 COL4A1
+ 0.0188       1485 CLIP4
+ 0.0188       6944 SLITRK4
+ 0.0188       6952 SMAD1
+ 0.0188       1576 COL2A1
+ 0.0188       1482 CLIP1
+ 0.0188       6914 SLC6A14
+ 0.0188       6885 SLC39A9
+ 0.0188       1541 CNTFR
+ 0.0188       6859 SLC35F1
+ 0.0188       1568 COL1A1
+ 0.0188       1563 COL11A1
+ 0.0188       1562 COL10A1
+ 0.0188       7048 SOCS6
+ 0.0188          1 A1CF
+ 0.0188       7051 SOGA1
+ 0.0188        715 BEND4
+ 0.0188        719 BEX3
+ 0.0188       7720 TMPO
+ 0.0188        714 BEND3
+ 0.0188       7900 TRIP10
+ 0.0188       7901 TRIP11
+ 0.0188       7922 TRPV3
+ 0.0188       7939 TSHZ3
+ 0.0188       7874 TRIM2
+ 0.0188       7869 TRIL
+ 0.0188       7868 TRIB2
+ 0.0188       7817 TP53INP1
+ 0.0188       7739 TNFAIP3
+ 0.0188        830 C11ORF96
+ 0.0188        772 BORA
+ 0.0188        741 BLOC1S2
+ 0.0188        752 BMP3
+ 0.0188       7849 TRAF6
+ 0.0188        676 BCAM
+ 0.0188        675 BBX
+ 0.0188        654 BAG4
+ 0.0188       8216 VGLL3
+ 0.0188       8165 USP42
+ 0.0188       8176 USP9X
+ 0.0188        436 ARHGEF26
+ 0.0188       8136 UPP2
+ 0.0188        417 ARHGAP20
+ 0.0188        407 ARFGEF1
+ 0.0188       8156 USP28
+ 0.0188       8120 ULK2
+ 0.0188        638 B3GALT2
+ 0.0188        620 ATXN7L1
+ 0.0188        623 AUH
+ 0.0188       7999 TUSC2
+ 0.0188        613 ATXN1
+ 0.0188       8111 UGP2
+ 0.0188       8055 UBE2H
+ 0.0188        531 ATAD2B
+ 0.0188        850 C16ORF72
+ 0.0188       7716 TMF1
+ 0.0188       7060 SOS1
+ 0.0188       1262 CDC40
+ 0.0188       7231 STAT5B
+ 0.0188        876 C1QTNF6
+ 0.0188       1240 CD69
+ 0.0188       7271 STRBP
+ 0.0188       7279 STX12
+ 0.0188       7302 SULF1
+ 0.0188       1183 CCNL1
+ 0.0188       1295 CDK16
+ 0.0188       1297 CDK19
+ 0.0188       1305 CDK8
+ 0.0188       7083 SPARC
+ 0.0188       7071 SOX6
+ 0.0188       7078 SP4
+ 0.0188       1380 CGGBP1
+ 0.0188       7174 SRSF2
+ 0.0188       7088 SPATA2
+ 0.0188       7120 SPOPL
+ 0.0188       7338 SYN2
+ 0.0188       7355 SYT10
+ 0.0188       7394 TAOK1
+ 0.0188       7646 TMEM169
+ 0.0188       7611 TMCC1
+ 0.0188       7615 TMED5
+ 0.0188        901 C3ORF52
+ 0.0188       7609 TMBIM6
+ 0.0188        892 C2ORF69
+ 0.0188       7693 TMEM33
+ 0.0188       7610 TMC7
+ 0.0188        960 CACNA1C
+ 0.0188       7427 TBL1XR1
+ 0.0188       7515 TFE3
+ 0.0188       1060 CASZ1
+ 0.0188       7506 TFAP2B
+ 0.0188       6688 SH2B3
+ 0.0188        962 CACNA1E
+ 0.0188       1016 CAMSAP1
+ 0.0188       7562 THSD7A
+ 0.0188       1017 CAMSAP2
+ 0.0188       6224 RGPD4
+ 0.0188       1704 CSMD1
+ 0.0188       3091 GRIN2D
+ 0.0188       3106 GRSF1
+ 0.0188       5006 NOVA1
+ 0.0188       3082 GRIA4
+ 0.0188       5009 NOX4
+ 0.0188       4922 NFIA
+ 0.0188       5065 NSD1
+ 0.0188       5055 NRK
+ 0.0188       5026 NPTX1
+ 0.0188       4942 NHS
+ 0.0188       3172 HAS3
+ 0.0188       5477 PHLDB1
+ 0.0188       3237 HIF3A
+ 0.0188       4809 NASP
+ 0.0188       3223 HEXIM1
+ 0.0188       4816 NAV2
+ 0.0188       4837 NCOA2
+ 0.0188       4889 NEK6
+ 0.0188       4883 NEDD9
+ 0.0188       4877 NECTIN1
+ 0.0188       3206 HECTD2
+ 0.0188       5066 NSD2
+ 0.0188       3020 GPAM
+ 0.0188       5086 NUAK2
+ 0.0188       5396 PDS5B
+ 0.0188       5384 PDIA6
+ 0.0188       2701 FOXJ3
+ 0.0188       5421 PEX13
+ 0.0188       5458 PHC3
+ 0.0188       2953 GNA13
+ 0.0188       2686 FNIP2
+ 0.0188       5470 PHF3
+ 0.0188       2693 FOXA3
+ 0.0188       5367 PDE4B
+ 0.0188       2780 G3BP2
+ 0.0188       2786 GAB1
+ 0.0188       2934 GLRA1
+ 0.0188       5171 OSBPL11
+ 0.0188       2846 GATC
+ 0.0188       5187 OTUD4
+ 0.0188       2909 GIPC3
+ 0.0188       5262 PARPBP
+ 0.0188       5267 PATL1
+ 0.0188       2854 GCC2
+ 0.0188       3245 HIPK3
+ 0.0188       4794 NACC2
+ 0.0188       4790 NAB1
+ 0.0188       3792 KCNK2
+ 0.0188       3796 KCNMA1
+ 0.0188       4165 LONRF1
+ 0.0188       3781 KCNIP3
+ 0.0188       4244 LSM12
+ 0.0188       3650 IRAK1
+ 0.0188       4284 MAB21L1
+ 0.0188       3683 ITGA4
+ 0.0188       3689 ITGAV
+ 0.0188       3802 KCNS1
+ 0.0188       3833 KDM7A
+ 0.0188       4086 LHFPL2
+ 0.0188       3923 KLHL14
+ 0.0188       3950 KMT5C
+ 0.0188       4077 LGALSL
+ 0.0188       3910 KLF4
+ 0.0188       3909 KLF3
+ 0.0188       4039 LARP1
+ 0.0188       3857 KIAA1109
+ 0.0188       4065 LEF1
+ 0.0188       4293 MAFF
+ 0.0188       4313 MAN2A1
+ 0.0188       4786 NAA40
+ 0.0188       4579 MMD
+ 0.0188       4535 MICU3
+ 0.0188       4635 MRC1
+ 0.0188       4605 MORC3
+ 0.0188       4699 MTM1
+ 0.0188       4324 MAP2K4
+ 0.0188       4757 MYO1B
+ 0.0188       4732 MYB
+ 0.0188       3317 HOXA5
+ 0.0188       4519 MGAT4A
+ 0.0188       4514 MFSD8
+ 0.0188       3482 IGSF8
+ 0.0188       3628 INTU
+ 0.0188       4328 MAP3K1
+ 0.0188       4423 MCFD2
+ 0.0188       4348 MAP4K4
+ 0.0188       3587 IMPDH1
+ 0.0188       3586 IMPAD1
+ 0.0188       4398 MAST4
+ 0.0188       4413 MBNL2
+ 0.0188       2685 FNIP1
+ 0.0188       5480 PHLPP2
+ 0.0188       6675 SGIP1
+ 0.0188       6290 RNF11
+ 0.0188       2017 DNAJC6
+ 0.0188       6297 RNF139
+ 0.0188       2014 DNAJC27
+ 0.0188       2005 DNAJB9
+ 0.0188       2026 DNMT3A
+ 0.0188       1966 DLG5
+ 0.0188       6342 ROBO2
+ 0.0188       1998 DNAJA2
+ 0.0188       2019 DNAL1
+ 0.0188       2037 DOCK9
+ 0.0188       5508 PIK3CA
+ 0.0188       2074 DSEL
+ 0.0188       2083 DTNA
+ 0.0188       6225 RGPD5
+ 0.0188       6216 RFX7
+ 0.0188       6226 RGPD6
+ 0.0188       6259 RIC1
+ 0.0188       6253 RHOQ
+ 0.0188       2043 DOT1L
+ 0.0188       6227 RGPD8
+ 0.0188       3956 KPNA4
+ 0.0188       1945 DIO2
+ 0.0188       1944 DICER1
+ 0.0188       6595 SEMA6A
+ 0.0188       6591 SEMA4C
+ 0.0188       1758 CUL3
+ 0.0188       6597 SEMA6D
+ 0.0188       6639 SESTD1
+ 0.0188       6385 RPRD1B
+ 0.0188       1711 CSNK1G3
+ 0.0188       6667 SFT2D1
+ 0.0188       1728 CTCF
+ 0.0188       6562 SEC23A
+ 0.0188       6526 SCG5
+ 0.0188       1826 DAAM2
+ 0.0188       6403 RPS6KA6
+ 0.0188       6386 RPRD2
+ 0.0188       6514 SCAI
+ 0.0188       1904 DEAF1
+ 0.0188       1872 DCUN1D4
+ 0.0188       1851 DCAF6
+ 0.0188       1843 DBT
+ 0.0188       6508 SBF2
+ 0.0188       2129 E2F8
+ 0.0188       2169 EFCAB14
+ 0.0188       2180 EFR3A
+ 0.0188       5690 POU2F1
+ 0.0188       2520 FAM98A
+ 0.0188       5696 POU3F4
+ 0.0188       2507 FAM76B
+ 0.0188       2499 FAM43A
+ 0.0188       5739 PPP1CB
+ 0.0188       5720 PPIF
+ 0.0188       2493 FAM234B
+ 0.0188       5703 PPARGC1A
+ 0.0188       5677 POLR3G
+ 0.0188       2546 FBXL19
+ 0.0188       2557 FBXO28
+ 0.0188       5530 PITPNC1
+ 0.0188       5519 PIKFYVE
+ 0.0188       5632 PMEPA1
+ 0.0188       2598 FGD4
+ 0.0188       5598 PLEKHJ1
+ 0.0188       5606 PLK2
+ 0.0188       5609 PLOD2
+ 0.0188       5627 PLXNA4
+ 0.0188       5735 PPM1K
+ 0.0188       5743 PPP1R12A
+ 0.0188       2193 EHF
+ 0.0188       5951 PTPRD
+ 0.0188       2311 EPC2
+ 0.0188       5984 PYGO2
+ 0.0188       5970 PURG
+ 0.0188       2249 ELMOD2
+ 0.0188       2456 FAM160B1
+ 0.0188       2230 EIF5A2
+ 0.0188       2237 ELF4
+ 0.0188       6014 RAB23
+ 0.0188       2341 ERCC6
+ 0.0188       2352 ERLIN1
+ 0.0188       5864 PRR3
+ 0.0188       5773 PPP2R5D
+ 0.0188       2447 FAM136A
+ 0.0188       2397 EYA1
+ 0.0188       5774 PPP2R5E
+ 0.0188       2442 FAM129A
+ 0.0188       2440 FAM126B
+ 0.0188       5784 PPP4R4
+ 0.0188       2399 EYA4
+ 0.0188       8268 WBP2
+ 0.0188       3958 KPNA6
+ 0.0188       8520 ZIC3
+ 0.0188        125 ADAMTSL3
+ 0.0188       8757 ZNF99
+ 0.0188        113 ADAMTS17
+ 0.0188        188 AFF4
+ 0.0188        186 AFF1
+ 0.0188       8521 ZIC4
+ 0.0188        193 AGAP1
+ 0.0188        213 AHCYL2
+ 0.0188        343 ANO5
+ 0.0188       8778 ZXDA
+ 0.0188       8535 ZMYND11
+ 0.0188          8 ABCA1
+ 0.0188       8718 ZNF716
+ 0.0188         94 ACVR1C
+ 0.0188       8774 ZSWIM6
+ 0.0188         44 ABL2
+ 0.0188       8478 ZDHHC7
+ 0.0188        352 AP1G1
+ 0.0188        228 AKAP1
+ 0.0188       8488 ZFC3H1
+ 0.0188       8288 WDR48
+ 0.0188         97 ACVRL1
+ 0.0188        284 AMMECR1L
+ 0.0188        176 ADRB1
+ 0.0188       8438 ZBTB5
+ 0.0188         92 ACVR1
+ 0.0188       8355 XKR6
+ 0.0188       8680 ZNF608
+ 0.0188       8343 WWC2
+ 0.0188       8541 ZNF117
+ 0.0188         56 ACBD5
+ 0.0188        236 AKIRIN1
+ 0.0188       8547 ZNF138
+ 0.0135       4909 NEXMIF
+ 0.0135       6041 RAB8B
+ 0.0135       1086 CBX5
+
+Selected attributes: 6402,8649,3697,8168,885,1490,8157,545,3791,8427,5945,2500,8431,2242,4194,4913,8603,8514,1665,3928,2765,6887,5540,6457,7421,4562,2573,305,2315,4791,6485,6348,2579,3370,5354,7413,6491,7895,1376,5913,3056,2401,333,2122,6415,5045,3044,2725,2723,5013,5011,790,2736,8511,1018,1173,4838,2314,6295,4334,3784,6114,8737,8758,8019,8745,3767,4196,6219,4454,4115,8187,615,3851,3944,6013,2550,415,246,7248,8224,447,3711,2290,808,445,7789,1174,2638,7368,6657,6966,6564,3275,6489,7268,1185,112,8080,5904,4528,3467,1319,2848,3934,984,1350,3462,5249,841,5016,1459,4804,2639,3180,4980,7499,6638,6774,3234,7498,765,4805,7500,6938,5794,3132,5449,6923,2111,6186,5878,123,2729,7259,1260,7589,5552,5742,163,396,8386,7270,5372,6199,7354,6676,1538,2931,2128,685,3760,4660,3763,6480,6764,7926,3464,6575,2275,4417,1418,641,544,6537,35,6803,6462,4815,5918,3057,8418,4817,884,5100,5111,889,2362,245,75,7788,7804,1891,3186,795,3875,3829,4926,6565,7223,4806,5586,6499,7783,6201,3149,3,2539,560,4443,1408,7037,1440,1577,6994,1593,6820,1587,6802,1586,6807,6794,1456,1656,1679,1632,6789,6778,1585,6834,1578,1485,6944,6952,1576,1482,6914,6885,1541,6859,1568,1563,1562,7048,1,7051,715,719,7720,714,7900,7901,7922,7939,7874,7869,7868,7817,7739,830,772,741,752,7849,676,675,654,8216,8165,8176,436,8136,417,407,8156,8120,638,620,623,7999,613,8111,8055,531,850,7716,7060,1262,7231,876,1240,7271,7279,7302,1183,1295,1297,1305,7083,7071,7078,1380,7174,7088,7120,7338,7355,7394,7646,7611,7615,901,7609,892,7693,7610,960,7427,7515,1060,7506,6688,962,1016,7562,1017,6224,1704,3091,3106,5006,3082,5009,4922,5065,5055,5026,4942,3172,5477,3237,4809,3223,4816,4837,4889,4883,4877,3206,5066,3020,5086,5396,5384,2701,5421,5458,2953,2686,5470,2693,5367,2780,2786,2934,5171,2846,5187,2909,5262,5267,2854,3245,4794,4790,3792,3796,4165,3781,4244,3650,4284,3683,3689,3802,3833,4086,3923,3950,4077,3910,3909,4039,3857,4065,4293,4313,4786,4579,4535,4635,4605,4699,4324,4757,4732,3317,4519,4514,3482,3628,4328,4423,4348,3587,3586,4398,4413,2685,5480,6675,6290,2017,6297,2014,2005,2026,1966,6342,1998,2019,2037,5508,2074,2083,6225,6216,6226,6259,6253,2043,6227,3956,1945,1944,6595,6591,1758,6597,6639,6385,1711,6667,1728,6562,6526,1826,6403,6386,6514,1904,1872,1851,1843,6508,2129,2169,2180,5690,2520,5696,2507,2499,5739,5720,2493,5703,5677,2546,2557,5530,5519,5632,2598,5598,5606,5609,5627,5735,5743,2193,5951,2311,5984,5970,2249,2456,2230,2237,6014,2341,2352,5864,5773,2447,2397,5774,2442,2440,5784,2399,8268,3958,8520,125,8757,113,188,186,8521,193,213,343,8778,8535,8,8718,94,8774,44,8478,352,228,8488,8288,97,284,176,8438,92,8355,8680,8343,8541,56,236,8547,4909,6041,1086 : 540
+
+
+Header of reduced data:
+@relation 'mirdb_interactions_m54_training_2-weka.filters.unsupervised.attribute.Remove-R1-weka.filters.unsupervised.attribute.Remove-V-R6402,8649,3697,8168,885,1490,8157,545,3791,8427,5945,2500,8431,2242,4194,4913,8603,8514,1665,3928,2765,6887,5540,6457,7421,4562,2573,305,2315,4791,6485,6348,2579,3370,5354,7413,6491,7895,1376,5913,3056,2401,333,2122,6415,5045,3044,2725,2723,5013,5011,790,2736,8511,1018,1173,4838,2314,6295,4334,3784,6114,8737,8758,8019,8745,3767,4196,6219,4454,4115,8187,615,3851,3944,6013,2550,415,246,7248,8224,447,3711,2290,808,445,7789,1174,2638,7368,6657,6966,6564,3275,6489,7268,1185,112,8080,5904,4528,3467,1319,2848,3934,984,1350,3462,5249,841,5016,1459,4804,2639,3180,4980,7499,6638,6774,3234,7498,765,4805,7500,6938,5794,3132,5449,6923,2111,6186,5878,123,2729,7259,1260,7589,5552,5742,163,396,8386,7270,5372,6199,7354,6676,1538,2931,2128,685,3760,4660,3763,6480,6764,7926,3464,6575,2275,4417,1418,641,544,6537,35,6803,6462,4815,5918,3057,8418,4817,884,5100,5111,889,2362,245,75,7788,7804,1891,3186,795,3875,3829,4926,6565,7223,4806,5586,6499,7783,6201,3149,3,2539,560,4443,1408,7037,1440,1577,6994,1593,6820,1587,6802,1586,6807,6794,1456,1656,1679,1632,6789,6778,1585,6834,1578,1485,6944,6952,1576,1482,6914,6885,1541,6859,1568,1563,1562,7048,1,7051,715,719,7720,714,7900-7901,7922,7939,7874,7869,7868,7817,7739,830,772,741,752,7849,676,675,654,8216,8165,8176,436,8136,417,407,8156,8120,638,620,623,7999,613,8111,8055,531,850,7716,7060,1262,7231,876,1240,7271,7279,7302,1183,1295,1297,1305,7083,7071,7078,1380,7174,7088,7120,7338,7355,7394,7646,7611,7615,901,7609,892,7693,7610,960,7427,7515,1060,7506,6688,962,1016,7562,1017,6224,1704,3091,3106,5006,3082,5009,4922,5065,5055,5026,4942,3172,5477,3237,4809,3223,4816,4837,4889,4883,4877,3206,5066,3020,5086,5396,5384,2701,5421,5458,2953,2686,5470,2693,5367,2780,2786,2934,5171,2846,5187,2909,5262,5267,2854,3245,4794,4790,3792,3796,4165,3781,4244,3650,4284,3683,3689,3802,3833,4086,3923,3950,4077,3910,3909,4039,3857,4065,4293,4313,4786,4579,4535,4635,4605,4699,4324,4757,4732,3317,4519,4514,3482,3628,4328,4423,4348,3587,3586,4398,4413,2685,5480,6675,6290,2017,6297,2014,2005,2026,1966,6342,1998,2019,2037,5508,2074,2083,6225,6216,6226,6259,6253,2043,6227,3956,1945,1944,6595,6591,1758,6597,6639,6385,1711,6667,1728,6562,6526,1826,6403,6386,6514,1904,1872,1851,1843,6508,2129,2169,2180,5690,2520,5696,2507,2499,5739,5720,2493,5703,5677,2546,2557,5530,5519,5632,2598,5598,5606,5609,5627,5735,5743,2193,5951,2311,5984,5970,2249,2456,2230,2237,6014,2341,2352,5864,5773,2447,2397,5774,2442,2440,5784,2399,8268,3958,8520,125,8757,113,188,186,8521,193,213,343,8778,8535,8,8718,94,8774,44,8478,352,228,8488,8288,97,284,176,8438,92,8355,8680,8343,8541,56,236,8547,4909,6041,1086,8785'
+
+@attribute RPS6KA5 {No,Yes}
+@attribute ZNF512B {Yes,No}
+@attribute ITGB8 {No,Yes}
+@attribute USP46 {No,Yes}
+@attribute C2CD2 {No,Yes}
+@attribute CLOCK {No,Yes}
+@attribute USP3 {No,Yes}
+@attribute ATG16L1 {No,Yes}
+@attribute KCNK10 {No,Yes}
+@attribute ZBTB34 {No,Yes}
+@attribute PTPN4 {No,Yes}
+@attribute FAM45A {No,Yes}
+@attribute ZBTB4 {No,Yes}
+@attribute ELK4 {No,Yes}
+@attribute LRIG1 {No,Yes}
+@attribute NFAT5 {No,Yes}
+@attribute ZNF367 {No,Yes}
+@attribute ZFYVE9 {No,Yes}
+@attribute CREBRF {No,Yes}
+@attribute KLHL28 {No,Yes}
+@attribute FYCO1 {No,Yes}
+@attribute SLC40A1 {No,Yes}
+@attribute PKD2 {No,Yes}
+@attribute RUFY2 {No,Yes}
+@attribute TBC1D9 {No,Yes}
+@attribute MKRN1 {No,Yes}
+@attribute FBXW7 {No,Yes}
+@attribute ANKIB1 {No,Yes}
+@attribute EPHA5 {No,Yes}
+@attribute NABP1 {No,Yes}
+@attribute SACS {No,Yes}
+@attribute RORA {No,Yes}
+@attribute FCHO2 {No,Yes}
+@attribute HSPA8 {No,Yes}
+@attribute PDCD1LG2 {No,Yes}
+@attribute TBC1D20 {No,Yes}
+@attribute SAMD12 {No,Yes}
+@attribute TRIM71 {Yes,No}
+@attribute CFL2 {No,Yes}
+@attribute PTEN {No,Yes}
+@attribute GPR6 {No,Yes}
+@attribute EZH1 {No,Yes}
+@attribute ANKRD52 {No,Yes}
+@attribute E2F1 {No,Yes}
+@attribute RRAGD {No,Yes}
+@attribute NR6A1 {Yes,No}
+@attribute GPR137C {No,Yes}
+@attribute FRMD6 {No,Yes}
+@attribute FRMD4B {Yes,No}
+@attribute NPAT {No,Yes}
+@attribute NPAS2 {No,Yes}
+@attribute BRMS1L {No,Yes}
+@attribute FSD1L {No,Yes}
+@attribute ZFYVE26 {No,Yes}
+@attribute CAMTA1 {No,Yes}
+@attribute CCND1 {No,Yes}
+@attribute NCOA3 {No,Yes}
+@attribute EPHA4 {No,Yes}
+@attribute RNF128 {No,Yes}
+@attribute MAP3K2 {No,Yes}
+@attribute KCNJ2 {No,Yes}
+@attribute RASGRF2 {No,Yes}
+@attribute ZNF800 {No,Yes}
+@attribute ZNFX1 {No,Yes}
+@attribute TXNIP {No,Yes}
+@attribute ZNF827 {No,Yes}
+@attribute KCNB1 {No,Yes}
+@attribute LRIG3 {Yes,No}
+@attribute RGL1 {No,Yes}
+@attribute MED12L {No,Yes}
+@attribute LIN28B {Yes,No}
+@attribute VANGL1 {No,Yes}
+@attribute ATXN1L {No,Yes}
+@attribute KIAA0513 {No,Yes}
+@attribute KMT2B {No,Yes}
+@attribute RAB22A {No,Yes}
+@attribute FBXL5 {No,Yes}
+@attribute ARHGAP12 {No,Yes}
+@attribute AKTIP {No,Yes}
+@attribute STK17B {No,Yes}
+@attribute VLDLR {No,Yes}
+@attribute ARID4B {No,Yes}
+@attribute ITPRIPL2 {No,Yes}
+@attribute ENPP5 {No,Yes}
+@attribute BTG2 {No,Yes}
+@attribute ARID3B {Yes,No}
+@attribute TNRC6B {No,Yes}
+@attribute CCND2 {Yes,No}
+@attribute FIGN {Yes,No}
+@attribute TAB3 {No,Yes}
+@attribute SFMBT1 {Yes,No}
+@attribute SMARCAD1 {Yes,No}
+@attribute SEC23IP {No,Yes}
+@attribute HMGA2 {Yes,No}
+@attribute SALL4 {Yes,No}
+@attribute STOX2 {No,Yes}
+@attribute CCNT2 {No,Yes}
+@attribute ADAMTS15 {Yes,No}
+@attribute UBN2 {No,Yes}
+@attribute PTAFR {Yes,No}
+@attribute MIB1 {Yes,No}
+@attribute IGF2BP1 {Yes,No}
+@attribute CDS1 {No,Yes}
+@attribute GATM {Yes,No}
+@attribute KLHL42 {No,Yes}
+@attribute CACUL1 {No,Yes}
+@attribute CEP350 {No,Yes}
+@attribute IGDCC3 {Yes,No}
+@attribute PAPPA {No,Yes}
+@attribute C14ORF28 {Yes,No}
+@attribute NPHP3 {Yes,No}
+@attribute CLCN3 {No,Yes}
+@attribute NAP1L1 {Yes,No}
+@attribute FIGNL2 {Yes,No}
+@attribute HBP1 {No,Yes}
+@attribute NME6 {Yes,No}
+@attribute TET2 {No,Yes}
+@attribute SESN3 {No,Yes}
+@attribute SLC10A7 {Yes,No}
+@attribute HIC2 {Yes,No}
+@attribute TET1 {No,Yes}
+@attribute BNIP2 {No,Yes}
+@attribute NAP1L5 {No,Yes}
+@attribute TET3 {No,Yes}
+@attribute SLF2 {Yes,No}
+@attribute PRDM1 {No,Yes}
+@attribute GTF2A1 {No,Yes}
+@attribute PGRMC1 {Yes,No}
+@attribute SLC7A11 {No,Yes}
+@attribute DYNC1LI2 {No,Yes}
+@attribute REEP3 {No,Yes}
+@attribute PRTG {Yes,No}
+@attribute ADAMTS9 {No,Yes}
+@attribute FRS2 {No,Yes}
+@attribute STK39 {No,Yes}
+@attribute CDC34 {No,Yes}
+@attribute TLK1 {No,Yes}
+@attribute PKP4 {No,Yes}
+@attribute PPP1R11 {No,Yes}
+@attribute ADM {No,Yes}
+@attribute ARAP2 {No,Yes}
+@attribute YOD1 {No,Yes}
+@attribute STRADB {No,Yes}
+@attribute PDE7A {No,Yes}
+@attribute REPS2 {No,Yes}
+@attribute SYT1 {No,Yes}
+@attribute SGK1 {No,Yes}
+@attribute CNR1 {No,Yes}
+@attribute GLIS3 {No,Yes}
+@attribute E2F7 {No,Yes}
+@attribute BCL11B {No,Yes}
+@attribute KBTBD8 {No,Yes}
+@attribute MRTFB {No,Yes}
+@attribute KCNA4 {No,Yes}
+@attribute S1PR1 {No,Yes}
+@attribute SKIDA1 {No,Yes}
+@attribute TSC1 {No,Yes}
+@attribute IGF1 {No,Yes}
+@attribute SECISBP2L {No,Yes}
+@attribute EMSY {No,Yes}
+@attribute MBTD1 {No,Yes}
+@attribute CHST1 {No,Yes}
+@attribute B3GNT5 {No,Yes}
+@attribute ATG14 {No,Yes}
+@attribute SCN8A {No,Yes}
+@attribute ABHD17C {No,Yes}
+@attribute SLC24A3 {No,Yes}
+@attribute RUNX1 {No,Yes}
+@attribute NAV1 {No,Yes}
+@attribute PTGER4 {No,Yes}
+@attribute GPR63 {No,Yes}
+@attribute ZBTB18 {No,Yes}
+@attribute NAV3 {No,Yes}
+@attribute C21ORF91 {No,Yes}
+@attribute NUFIP2 {No,Yes}
+@attribute NUP50 {No,Yes}
+@attribute C2ORF42 {No,Yes}
+@attribute ESR1 {No,Yes}
+@attribute AKT3 {No,Yes}
+@attribute ACSL4 {No,Yes}
+@attribute TNRC6A {No,Yes}
+@attribute TOP1 {No,Yes}
+@attribute DDX3X {No,Yes}
+@attribute HCFC2 {No,Yes}
+@attribute BRWD1 {No,Yes}
+@attribute KIF13A {No,Yes}
+@attribute KDM5B {No,Yes}
+@attribute NFIX {No,Yes}
+@attribute SEC24A {No,Yes}
+@attribute STARD13 {Yes,No}
+@attribute NAPEPLD {No,Yes}
+@attribute PLEKHA3 {No,Yes}
+@attribute SAR1B {No,Yes}
+@attribute TNPO1 {No,Yes}
+@attribute REST {No,Yes}
+@attribute GXYLT1 {No,Yes}
+@attribute AAK1 {No,Yes}
+@attribute FBN1 {No,Yes}
+@attribute ATP11C {No,Yes}
+@attribute MDM4 {No,Yes}
+@attribute CHORDC1 {No,Yes}
+@attribute SNX5 {No,Yes}
+@attribute CIPC {No,Yes}
+@attribute COL3A1 {No,Yes}
+@attribute SMS {No,Yes}
+@attribute COL7A1 {No,Yes}
+@attribute SLC25A36 {No,Yes}
+@attribute COL5A3 {No,Yes}
+@attribute SLC24A2 {No,Yes}
+@attribute COL5A2 {No,Yes}
+@attribute SLC25A16 {No,Yes}
+@attribute SLC1A1 {No,Yes}
+@attribute CLASP2 {No,Yes}
+@attribute CREB1 {No,Yes}
+@attribute CRLF3 {No,Yes}
+@attribute CPEB2 {No,Yes}
+@attribute SLC17A6 {No,Yes}
+@attribute SLC12A5 {No,Yes}
+@attribute COL5A1 {No,Yes}
+@attribute SLC2A13 {No,Yes}
+@attribute COL4A1 {No,Yes}
+@attribute CLIP4 {No,Yes}
+@attribute SLITRK4 {No,Yes}
+@attribute SMAD1 {No,Yes}
+@attribute COL2A1 {No,Yes}
+@attribute CLIP1 {No,Yes}
+@attribute SLC6A14 {No,Yes}
+@attribute SLC39A9 {No,Yes}
+@attribute CNTFR {No,Yes}
+@attribute SLC35F1 {No,Yes}
+@attribute COL1A1 {No,Yes}
+@attribute COL11A1 {No,Yes}
+@attribute COL10A1 {No,Yes}
+@attribute SOCS6 {No,Yes}
+@attribute A1CF {No,Yes}
+@attribute SOGA1 {No,Yes}
+@attribute BEND4 {No,Yes}
+@attribute BEX3 {No,Yes}
+@attribute TMPO {No,Yes}
+@attribute BEND3 {No,Yes}
+@attribute TRIP10 {No,Yes}
+@attribute TRIP11 {No,Yes}
+@attribute TRPV3 {No,Yes}
+@attribute TSHZ3 {No,Yes}
+@attribute TRIM2 {No,Yes}
+@attribute TRIL {No,Yes}
+@attribute TRIB2 {No,Yes}
+@attribute TP53INP1 {No,Yes}
+@attribute TNFAIP3 {No,Yes}
+@attribute C11ORF96 {No,Yes}
+@attribute BORA {No,Yes}
+@attribute BLOC1S2 {No,Yes}
+@attribute BMP3 {No,Yes}
+@attribute TRAF6 {No,Yes}
+@attribute BCAM {No,Yes}
+@attribute BBX {No,Yes}
+@attribute BAG4 {No,Yes}
+@attribute VGLL3 {No,Yes}
+@attribute USP42 {No,Yes}
+@attribute USP9X {No,Yes}
+@attribute ARHGEF26 {No,Yes}
+@attribute UPP2 {No,Yes}
+@attribute ARHGAP20 {No,Yes}
+@attribute ARFGEF1 {No,Yes}
+@attribute USP28 {No,Yes}
+@attribute ULK2 {No,Yes}
+@attribute B3GALT2 {No,Yes}
+@attribute ATXN7L1 {No,Yes}
+@attribute AUH {No,Yes}
+@attribute TUSC2 {No,Yes}
+@attribute ATXN1 {No,Yes}
+@attribute UGP2 {No,Yes}
+@attribute UBE2H {No,Yes}
+@attribute ATAD2B {No,Yes}
+@attribute C16ORF72 {No,Yes}
+@attribute TMF1 {No,Yes}
+@attribute SOS1 {No,Yes}
+@attribute CDC40 {No,Yes}
+@attribute STAT5B {No,Yes}
+@attribute C1QTNF6 {No,Yes}
+@attribute CD69 {No,Yes}
+@attribute STRBP {No,Yes}
+@attribute STX12 {No,Yes}
+@attribute SULF1 {No,Yes}
+@attribute CCNL1 {No,Yes}
+@attribute CDK16 {No,Yes}
+@attribute CDK19 {No,Yes}
+@attribute CDK8 {No,Yes}
+@attribute SPARC {No,Yes}
+@attribute SOX6 {No,Yes}
+@attribute SP4 {No,Yes}
+@attribute CGGBP1 {No,Yes}
+@attribute SRSF2 {No,Yes}
+@attribute SPATA2 {No,Yes}
+@attribute SPOPL {No,Yes}
+@attribute SYN2 {No,Yes}
+@attribute SYT10 {No,Yes}
+@attribute TAOK1 {No,Yes}
+@attribute TMEM169 {No,Yes}
+@attribute TMCC1 {No,Yes}
+@attribute TMED5 {No,Yes}
+@attribute C3ORF52 {No,Yes}
+@attribute TMBIM6 {No,Yes}
+@attribute C2ORF69 {No,Yes}
+@attribute TMEM33 {No,Yes}
+@attribute TMC7 {No,Yes}
+@attribute CACNA1C {No,Yes}
+@attribute TBL1XR1 {No,Yes}
+@attribute TFE3 {No,Yes}
+@attribute CASZ1 {No,Yes}
+@attribute TFAP2B {No,Yes}
+@attribute SH2B3 {No,Yes}
+@attribute CACNA1E {No,Yes}
+@attribute CAMSAP1 {No,Yes}
+@attribute THSD7A {No,Yes}
+@attribute CAMSAP2 {No,Yes}
+@attribute RGPD4 {No,Yes}
+@attribute CSMD1 {No,Yes}
+@attribute GRIN2D {No,Yes}
+@attribute GRSF1 {No,Yes}
+@attribute NOVA1 {No,Yes}
+@attribute GRIA4 {No,Yes}
+@attribute NOX4 {No,Yes}
+@attribute NFIA {No,Yes}
+@attribute NSD1 {No,Yes}
+@attribute NRK {No,Yes}
+@attribute NPTX1 {No,Yes}
+@attribute NHS {No,Yes}
+@attribute HAS3 {No,Yes}
+@attribute PHLDB1 {No,Yes}
+@attribute HIF3A {No,Yes}
+@attribute NASP {No,Yes}
+@attribute HEXIM1 {No,Yes}
+@attribute NAV2 {No,Yes}
+@attribute NCOA2 {No,Yes}
+@attribute NEK6 {No,Yes}
+@attribute NEDD9 {No,Yes}
+@attribute NECTIN1 {No,Yes}
+@attribute HECTD2 {No,Yes}
+@attribute NSD2 {No,Yes}
+@attribute GPAM {No,Yes}
+@attribute NUAK2 {No,Yes}
+@attribute PDS5B {No,Yes}
+@attribute PDIA6 {No,Yes}
+@attribute FOXJ3 {No,Yes}
+@attribute PEX13 {No,Yes}
+@attribute PHC3 {No,Yes}
+@attribute GNA13 {No,Yes}
+@attribute FNIP2 {No,Yes}
+@attribute PHF3 {No,Yes}
+@attribute FOXA3 {No,Yes}
+@attribute PDE4B {No,Yes}
+@attribute G3BP2 {No,Yes}
+@attribute GAB1 {No,Yes}
+@attribute GLRA1 {No,Yes}
+@attribute OSBPL11 {No,Yes}
+@attribute GATC {No,Yes}
+@attribute OTUD4 {No,Yes}
+@attribute GIPC3 {No,Yes}
+@attribute PARPBP {No,Yes}
+@attribute PATL1 {No,Yes}
+@attribute GCC2 {No,Yes}
+@attribute HIPK3 {No,Yes}
+@attribute NACC2 {No,Yes}
+@attribute NAB1 {No,Yes}
+@attribute KCNK2 {No,Yes}
+@attribute KCNMA1 {No,Yes}
+@attribute LONRF1 {No,Yes}
+@attribute KCNIP3 {No,Yes}
+@attribute LSM12 {No,Yes}
+@attribute IRAK1 {No,Yes}
+@attribute MAB21L1 {No,Yes}
+@attribute ITGA4 {No,Yes}
+@attribute ITGAV {No,Yes}
+@attribute KCNS1 {No,Yes}
+@attribute KDM7A {No,Yes}
+@attribute LHFPL2 {No,Yes}
+@attribute KLHL14 {No,Yes}
+@attribute KMT5C {No,Yes}
+@attribute LGALSL {No,Yes}
+@attribute KLF4 {No,Yes}
+@attribute KLF3 {No,Yes}
+@attribute LARP1 {No,Yes}
+@attribute KIAA1109 {No,Yes}
+@attribute LEF1 {No,Yes}
+@attribute MAFF {No,Yes}
+@attribute MAN2A1 {No,Yes}
+@attribute NAA40 {No,Yes}
+@attribute MMD {No,Yes}
+@attribute MICU3 {No,Yes}
+@attribute MRC1 {No,Yes}
+@attribute MORC3 {No,Yes}
+@attribute MTM1 {No,Yes}
+@attribute MAP2K4 {No,Yes}
+@attribute MYO1B {No,Yes}
+@attribute MYB {No,Yes}
+@attribute HOXA5 {No,Yes}
+@attribute MGAT4A {No,Yes}
+@attribute MFSD8 {No,Yes}
+@attribute IGSF8 {No,Yes}
+@attribute INTU {No,Yes}
+@attribute MAP3K1 {No,Yes}
+@attribute MCFD2 {No,Yes}
+@attribute MAP4K4 {No,Yes}
+@attribute IMPDH1 {No,Yes}
+@attribute IMPAD1 {No,Yes}
+@attribute MAST4 {No,Yes}
+@attribute MBNL2 {No,Yes}
+@attribute FNIP1 {No,Yes}
+@attribute PHLPP2 {No,Yes}
+@attribute SGIP1 {No,Yes}
+@attribute RNF11 {No,Yes}
+@attribute DNAJC6 {No,Yes}
+@attribute RNF139 {No,Yes}
+@attribute DNAJC27 {No,Yes}
+@attribute DNAJB9 {No,Yes}
+@attribute DNMT3A {No,Yes}
+@attribute DLG5 {No,Yes}
+@attribute ROBO2 {No,Yes}
+@attribute DNAJA2 {No,Yes}
+@attribute DNAL1 {No,Yes}
+@attribute DOCK9 {No,Yes}
+@attribute PIK3CA {No,Yes}
+@attribute DSEL {No,Yes}
+@attribute DTNA {No,Yes}
+@attribute RGPD5 {No,Yes}
+@attribute RFX7 {No,Yes}
+@attribute RGPD6 {No,Yes}
+@attribute RIC1 {No,Yes}
+@attribute RHOQ {No,Yes}
+@attribute DOT1L {No,Yes}
+@attribute RGPD8 {No,Yes}
+@attribute KPNA4 {No,Yes}
+@attribute DIO2 {No,Yes}
+@attribute DICER1 {No,Yes}
+@attribute SEMA6A {No,Yes}
+@attribute SEMA4C {No,Yes}
+@attribute CUL3 {No,Yes}
+@attribute SEMA6D {No,Yes}
+@attribute SESTD1 {No,Yes}
+@attribute RPRD1B {No,Yes}
+@attribute CSNK1G3 {No,Yes}
+@attribute SFT2D1 {No,Yes}
+@attribute CTCF {No,Yes}
+@attribute SEC23A {No,Yes}
+@attribute SCG5 {No,Yes}
+@attribute DAAM2 {No,Yes}
+@attribute RPS6KA6 {No,Yes}
+@attribute RPRD2 {No,Yes}
+@attribute SCAI {No,Yes}
+@attribute DEAF1 {No,Yes}
+@attribute DCUN1D4 {No,Yes}
+@attribute DCAF6 {No,Yes}
+@attribute DBT {No,Yes}
+@attribute SBF2 {No,Yes}
+@attribute E2F8 {No,Yes}
+@attribute EFCAB14 {No,Yes}
+@attribute EFR3A {No,Yes}
+@attribute POU2F1 {No,Yes}
+@attribute FAM98A {No,Yes}
+@attribute POU3F4 {No,Yes}
+@attribute FAM76B {No,Yes}
+@attribute FAM43A {No,Yes}
+@attribute PPP1CB {No,Yes}
+@attribute PPIF {No,Yes}
+@attribute FAM234B {No,Yes}
+@attribute PPARGC1A {No,Yes}
+@attribute POLR3G {No,Yes}
+@attribute FBXL19 {No,Yes}
+@attribute FBXO28 {No,Yes}
+@attribute PITPNC1 {No,Yes}
+@attribute PIKFYVE {No,Yes}
+@attribute PMEPA1 {No,Yes}
+@attribute FGD4 {No,Yes}
+@attribute PLEKHJ1 {No,Yes}
+@attribute PLK2 {No,Yes}
+@attribute PLOD2 {No,Yes}
+@attribute PLXNA4 {No,Yes}
+@attribute PPM1K {No,Yes}
+@attribute PPP1R12A {No,Yes}
+@attribute EHF {No,Yes}
+@attribute PTPRD {No,Yes}
+@attribute EPC2 {No,Yes}
+@attribute PYGO2 {No,Yes}
+@attribute PURG {No,Yes}
+@attribute ELMOD2 {No,Yes}
+@attribute FAM160B1 {No,Yes}
+@attribute EIF5A2 {No,Yes}
+@attribute ELF4 {No,Yes}
+@attribute RAB23 {No,Yes}
+@attribute ERCC6 {No,Yes}
+@attribute ERLIN1 {No,Yes}
+@attribute PRR3 {No,Yes}
+@attribute PPP2R5D {No,Yes}
+@attribute FAM136A {No,Yes}
+@attribute EYA1 {No,Yes}
+@attribute PPP2R5E {No,Yes}
+@attribute FAM129A {No,Yes}
+@attribute FAM126B {No,Yes}
+@attribute PPP4R4 {No,Yes}
+@attribute EYA4 {No,Yes}
+@attribute WBP2 {No,Yes}
+@attribute KPNA6 {No,Yes}
+@attribute ZIC3 {No,Yes}
+@attribute ADAMTSL3 {No,Yes}
+@attribute ZNF99 {No,Yes}
+@attribute ADAMTS17 {No,Yes}
+@attribute AFF4 {No,Yes}
+@attribute AFF1 {No,Yes}
+@attribute ZIC4 {No,Yes}
+@attribute AGAP1 {No,Yes}
+@attribute AHCYL2 {No,Yes}
+@attribute ANO5 {No,Yes}
+@attribute ZXDA {No,Yes}
+@attribute ZMYND11 {No,Yes}
+@attribute ABCA1 {No,Yes}
+@attribute ZNF716 {No,Yes}
+@attribute ACVR1C {No,Yes}
+@attribute ZSWIM6 {No,Yes}
+@attribute ABL2 {No,Yes}
+@attribute ZDHHC7 {No,Yes}
+@attribute AP1G1 {No,Yes}
+@attribute AKAP1 {No,Yes}
+@attribute ZFC3H1 {No,Yes}
+@attribute WDR48 {No,Yes}
+@attribute ACVRL1 {No,Yes}
+@attribute AMMECR1L {No,Yes}
+@attribute ADRB1 {No,Yes}
+@attribute ZBTB5 {No,Yes}
+@attribute ACVR1 {No,Yes}
+@attribute XKR6 {No,Yes}
+@attribute ZNF608 {No,Yes}
+@attribute WWC2 {No,Yes}
+@attribute ZNF117 {No,Yes}
+@attribute ACBD5 {No,Yes}
+@attribute AKIRIN1 {No,Yes}
+@attribute ZNF138 {No,Yes}
+@attribute NEXMIF {No,Yes}
+@attribute RAB8B {No,Yes}
+@attribute CBX5 {Yes,No}
+@attribute DIAGNOSTIC_POSITIVE {Yes,No}
+
+@data
+
+
+Classifier Model
+Logistic model tree 
+------------------
+: LM_1:40/40 (108)
+
+Number of Leaves  : 	1
+
+Size of the Tree : 	1
+LM_1:
+Class Yes :
+2.32 + 
+[RPS6KA5=Yes] * 1.11 +
+[ZBTB34=Yes] * 1.72 +
+[FAM45A=Yes] * 2.17 +
+[CREBRF=Yes] * 2.46 +
+[FBXW7=Yes] * 1.9  +
+[RORA=Yes] * 2.5  +
+[TRIM71=No] * -1.63 +
+[NR6A1=No] * -1.17 +
+[LIN28B=No] * -0.59 +
+[BTG2=Yes] * 1.78 +
+[CLCN3=Yes] * 0.65 +
+[PPP1R11=Yes] * 2.11 +
+[ADM=Yes] * 0.74 +
+[KDM5B=Yes] * 1.91 +
+[SPOPL=Yes] * 2.04 +
+[TFAP2B=Yes] * 2.23 +
+[NPTX1=Yes] * 2.21 +
+[HECTD2=Yes] * 0.79 +
+[NAA40=Yes] * 1.53 +
+[MYB=Yes] * 2    +
+[RFX7=Yes] * 1.17 +
+[ABL2=Yes] * 2.15 +
+[ACVR1=Yes] * 1.17
+
+Class No :
+-1.15 + 
+[RPS6KA5=Yes] * -1.11 +
+[ZBTB34=Yes] * -1.72 +
+[FAM45A=Yes] * -2.17 +
+[CREBRF=Yes] * -2.46 +
+[FBXW7=Yes] * -1.9 +
+[RORA=Yes] * -2.5 +
+[TRIM71=No] * 1.63 +
+[PTEN=Yes] * -1.17 +
+[LIN28B=No] * 0.59 +
+[BTG2=Yes] * -1.78 +
+[CLCN3=Yes] * -0.65 +
+[PPP1R11=Yes] * -2.11 +
+[ADM=Yes] * -0.74 +
+[KDM5B=Yes] * -1.91 +
+[SPOPL=Yes] * -2.04 +
+[TFAP2B=Yes] * -2.23 +
+[NPTX1=Yes] * -2.21 +
+[HECTD2=Yes] * -0.79 +
+[NAA40=Yes] * -1.53 +
+[MYB=Yes] * -2 +
+[RFX7=Yes] * -1.17 +
+[ABL2=Yes] * -2.15 +
+[ACVR1=Yes] * -1.17
+
+
+Time taken to build model: 0.43 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances          81               75      %
+Incorrectly Classified Instances        27               25      %
+Kappa statistic                          0.5   
+Mean absolute error                      0.3142
+Root mean squared error                  0.4241
+Relative absolute error                 62.7958 %
+Root relative squared error             84.7513 %
+Total Number of Instances              108     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.574    0.074    0.886      0.574    0.697      0.534    0.793     0.829     Yes
+                 0.926    0.426    0.685      0.926    0.787      0.534    0.793     0.741     No
+Weighted Avg.    0.750    0.250    0.785      0.750    0.742      0.534    0.793     0.785     
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 31 23 |  a = Yes
+  4 50 |  b = No
+

@@ -1,9 +1,9 @@
 === Run information ===
 
-Scheme:       weka.classifiers.misc.InputMappedClassifier -I -trim -W weka.classifiers.meta.AttributeSelectedClassifier -- -E "weka.attributeSelection.CfsSubsetEval -P 1 -E 1" -S "weka.attributeSelection.BestFirst -D 1 -N 5" -W weka.classifiers.trees.RandomForest -- -P 100 -I 100 -num-slots 1 -K 0 -M 1.0 -V 0.001 -S 1
-Relation:     mirdb_interactions_m54_training_2
+Scheme:       weka.classifiers.misc.InputMappedClassifier -I -trim -W weka.classifiers.meta.AttributeSelectedClassifier -- -E "weka.attributeSelection.CfsSubsetEval -P 1 -E 1" -S "weka.attributeSelection.BestFirst -D 1 -N 5" -W weka.classifiers.functions.MultilayerPerceptron -- -L 0.3 -M 0.2 -N 500 -V 0 -S 0 -E 20 -H a
+Relation:     mirdb_interactions_m54_training_2-weka.filters.unsupervised.attribute.Remove-R1
 Instances:    108
-Attributes:   8786
+Attributes:   8785
               [list of attributes omitted]
 Test mode:    user supplied test set:  size unknown (reading incrementally)
 
@@ -22,33 +22,171 @@ Search Method:
 	Start set: no attributes
 	Search direction: forward
 	Stale search after 5 node expansions
-	Total number of subsets evaluated: 114134
-	Merit of best subset found:    0.298
+	Total number of subsets evaluated: 394299
+	Merit of best subset found:    0.279
 
-Attribute Subset Evaluator (supervised, Class (nominal): 8786 DIAGNOSTIC_POSITIVE):
+Attribute Subset Evaluator (supervised, Class (nominal): 8785 DIAGNOSTIC_POSITIVE):
 	CFS Subset Evaluator
 	Including locally predictive attributes
 
-Selected attributes: 1,1666,2574,6349,6403,7896,8428,8650 : 8
-                     mirna
+Selected attributes: 1,44,80,92,130,162,216,228,238,287,298,343,382,388,393,428,633,675,750,808,844,884,885,955,994,1007,1054,1435,1436,1459,1466,1656,1663,1665,1758,1843,1904,2035,2350,2513,2573,2577,2723,3028,3206,3697,3784,3829,3865,4115,4196,4292,4581,4701,4924,4926,5026,5602,5696,5742,5888,5913,6269,6348,6402,6460,6564,6638,6944,7078,7895,8055,8157,8242,8386,8427,8649 : 77
+                     A1CF
+                     ABL2
+                     ACTC1
+                     ACVR1
+                     ADCY1
+                     ADIPOR2
+                     AHR
+                     AKAP1
+                     AKR1B10
+                     AMOTL2
+                     ANK1
+                     ANO5
+                     APOBEC4
+                     APPBP2
+                     AR
+                     ARHGAP6
+                     AZIN1
+                     BBX
+                     BMP2
+                     BTG2
+                     C15ORF40
+                     C21ORF91
+                     C2CD2
+                     CABP5
+                     CALD1
+                     CAMK1D
+                     CASP8AP2
+                     CIB2
+                     CIC
+                     CLCN3
+                     CLDN22
+                     CREB1
+                     CREBBP
                      CREBRF
+                     CUL3
+                     DBT
+                     DEAF1
+                     DOCK7
+                     ERICH3
+                     FAM86B1
                      FBXW7
+                     FCGR1B
+                     FRMD4B
+                     GPC6
+                     HECTD2
+                     ITGB8
+                     KCNJ2
+                     KDM5B
+                     KIAA1522
+                     LIN28B
+                     LRIG3
+                     MAFB
+                     MMGT1
+                     MTMR2
+                     NFIC
+                     NFIX
+                     NPTX1
+                     PLEKHS1
+                     POU3F4
+                     PPP1R11
+                     PSKH1
+                     PTEN
+                     RIMS4
                      RORA
                      RPS6KA5
+                     RUNDC3A
+                     SEC23IP
+                     SESN3
+                     SLITRK4
+                     SP4
                      TRIM71
+                     UBE2H
+                     USP3
+                     VPS54
+                     YOD1
                      ZBTB34
                      ZNF512B
 
 
 Header of reduced data:
-@relation 'mirdb_interactions_m54_training_2-weka.filters.unsupervised.attribute.Remove-V-R1,1666,2574,6349,6403,7896,8428,8650,8786'
+@relation 'mirdb_interactions_m54_training_2-weka.filters.unsupervised.attribute.Remove-R1-weka.filters.unsupervised.attribute.Remove-V-R1,44,80,92,130,162,216,228,238,287,298,343,382,388,393,428,633,675,750,808,844,884-885,955,994,1007,1054,1435-1436,1459,1466,1656,1663,1665,1758,1843,1904,2035,2350,2513,2573,2577,2723,3028,3206,3697,3784,3829,3865,4115,4196,4292,4581,4701,4924,4926,5026,5602,5696,5742,5888,5913,6269,6348,6402,6460,6564,6638,6944,7078,7895,8055,8157,8242,8386,8427,8649,8785'
 
-@attribute mirna {hsa-let-7d,hsa-let-7e,hsa-let-7f,hsa-let-7g,hsa-mir-106a,hsa-mir-106b,hsa-mir-12124,hsa-mir-12132,hsa-mir-1250,hsa-mir-125b,hsa-mir-1270,hsa-mir-139,hsa-mir-143,hsa-mir-145,hsa-mir-146a,hsa-mir-146b,hsa-mir-150,hsa-mir-155,hsa-mir-15a,hsa-mir-16-1,hsa-mir-17,hsa-mir-181a,hsa-mir-182,hsa-mir-18a,hsa-mir-18b,hsa-mir-1915,hsa-mir-199a,hsa-mir-19a,hsa-mir-19b,hsa-mir-20a,hsa-mir-20b,hsa-mir-21,hsa-mir-210,hsa-mir-217,hsa-mir-221,hsa-mir-223,hsa-mir-23a,hsa-mir-23b,hsa-mir-24,hsa-mir-2467,hsa-mir-26a,hsa-mir-26b,hsa-mir-27a,hsa-mir-27b,hsa-mir-29b,hsa-mir-29c,hsa-mir-301a,hsa-mir-30b,hsa-mir-3130,hsa-mir-3192,hsa-mir-3202,hsa-mir-320a,hsa-mir-328,hsa-mir-329,hsa-mir-337,hsa-mir-34a,hsa-mir-34b,hsa-mir-361,hsa-mir-3622a,hsa-mir-363,hsa-mir-365a,hsa-mir-371b,hsa-mir-378h,hsa-mir-379,hsa-mir-3912,hsa-mir-3976,hsa-mir-4309,hsa-mir-4329,hsa-mir-4418,hsa-mir-4422,hsa-mir-449c,hsa-mir-4517,hsa-mir-451b,hsa-mir-4695,hsa-mir-4723,hsa-mir-4804,hsa-mir-485,hsa-mir-5001,hsa-mir-5002,hsa-mir-5004,hsa-mir-5089,hsa-mir-5100,hsa-mir-543,hsa-mir-548o,hsa-mir-5571,hsa-mir-5584,hsa-mir-5696,hsa-mir-576,hsa-mir-6510,hsa-mir-6731,hsa-mir-6764,hsa-mir-6782,hsa-mir-6794,hsa-mir-6807,hsa-mir-6822,hsa-mir-6827,hsa-mir-6847,hsa-mir-6881,hsa-mir-762,hsa-mir-7847,hsa-mir-7855,hsa-mir-8082,hsa-mir-8089,hsa-mir-887,hsa-mir-9,hsa-mir-92a,hsa-mir-93,hsa-mir-939}
+@attribute A1CF {No,Yes}
+@attribute ABL2 {No,Yes}
+@attribute ACTC1 {No,Yes}
+@attribute ACVR1 {No,Yes}
+@attribute ADCY1 {No,Yes}
+@attribute ADIPOR2 {No,Yes}
+@attribute AHR {No,Yes}
+@attribute AKAP1 {No,Yes}
+@attribute AKR1B10 {No,Yes}
+@attribute AMOTL2 {No,Yes}
+@attribute ANK1 {No,Yes}
+@attribute ANO5 {No,Yes}
+@attribute APOBEC4 {No,Yes}
+@attribute APPBP2 {No,Yes}
+@attribute AR {No,Yes}
+@attribute ARHGAP6 {No,Yes}
+@attribute AZIN1 {No,Yes}
+@attribute BBX {No,Yes}
+@attribute BMP2 {No,Yes}
+@attribute BTG2 {No,Yes}
+@attribute C15ORF40 {No,Yes}
+@attribute C21ORF91 {No,Yes}
+@attribute C2CD2 {No,Yes}
+@attribute CABP5 {No,Yes}
+@attribute CALD1 {No,Yes}
+@attribute CAMK1D {No,Yes}
+@attribute CASP8AP2 {No,Yes}
+@attribute CIB2 {No,Yes}
+@attribute CIC {No,Yes}
+@attribute CLCN3 {No,Yes}
+@attribute CLDN22 {No,Yes}
+@attribute CREB1 {No,Yes}
+@attribute CREBBP {No,Yes}
 @attribute CREBRF {No,Yes}
+@attribute CUL3 {No,Yes}
+@attribute DBT {No,Yes}
+@attribute DEAF1 {No,Yes}
+@attribute DOCK7 {No,Yes}
+@attribute ERICH3 {No,Yes}
+@attribute FAM86B1 {No,Yes}
 @attribute FBXW7 {No,Yes}
+@attribute FCGR1B {No,Yes}
+@attribute FRMD4B {Yes,No}
+@attribute GPC6 {No,Yes}
+@attribute HECTD2 {No,Yes}
+@attribute ITGB8 {No,Yes}
+@attribute KCNJ2 {No,Yes}
+@attribute KDM5B {No,Yes}
+@attribute KIAA1522 {No,Yes}
+@attribute LIN28B {Yes,No}
+@attribute LRIG3 {Yes,No}
+@attribute MAFB {No,Yes}
+@attribute MMGT1 {No,Yes}
+@attribute MTMR2 {No,Yes}
+@attribute NFIC {No,Yes}
+@attribute NFIX {No,Yes}
+@attribute NPTX1 {No,Yes}
+@attribute PLEKHS1 {No,Yes}
+@attribute POU3F4 {No,Yes}
+@attribute PPP1R11 {No,Yes}
+@attribute PSKH1 {No,Yes}
+@attribute PTEN {No,Yes}
+@attribute RIMS4 {No,Yes}
 @attribute RORA {No,Yes}
 @attribute RPS6KA5 {No,Yes}
+@attribute RUNDC3A {No,Yes}
+@attribute SEC23IP {No,Yes}
+@attribute SESN3 {No,Yes}
+@attribute SLITRK4 {No,Yes}
+@attribute SP4 {No,Yes}
 @attribute TRIM71 {Yes,No}
+@attribute UBE2H {No,Yes}
+@attribute USP3 {No,Yes}
+@attribute VPS54 {No,Yes}
+@attribute YOD1 {No,Yes}
 @attribute ZBTB34 {No,Yes}
 @attribute ZNF512B {Yes,No}
 @attribute DIAGNOSTIC_POSITIVE {Yes,No}
@@ -57,16 +195,3221 @@ Header of reduced data:
 
 
 Classifier Model
-RandomForest
+Sigmoid Node 0
+    Inputs    Weights
+    Threshold    -0.43714069968865604
+    Node 2    0.16270078873604088
+    Node 3    0.48652510592847065
+    Node 4    -1.5250829690788397
+    Node 5    1.1509237431181467
+    Node 6    0.1749795778129789
+    Node 7    2.459949245803304
+    Node 8    0.1068020659732383
+    Node 9    -1.2475617542286133
+    Node 10    0.3757275471576501
+    Node 11    0.4283359013031408
+    Node 12    0.16408913363620106
+    Node 13    0.06230502653931819
+    Node 14    0.6973423486557974
+    Node 15    0.011743845640316487
+    Node 16    -0.859852876622782
+    Node 17    0.23584014473458087
+    Node 18    0.38898518497169443
+    Node 19    1.1572970011785493
+    Node 20    1.58458496731177
+    Node 21    -0.9086389108643491
+    Node 22    -0.07719771697342925
+    Node 23    0.4461066070450724
+    Node 24    0.3425944311477426
+    Node 25    1.7691961484363705
+    Node 26    1.8433114201428162
+    Node 27    -0.3282820520090174
+    Node 28    -0.9436123738179935
+    Node 29    0.3023641063942483
+    Node 30    0.17596965549722957
+    Node 31    -0.3956570924619088
+    Node 32    0.36708722762805357
+    Node 33    0.07184256451915091
+    Node 34    0.9519385978317327
+    Node 35    -1.329440862622343
+    Node 36    0.4883505585227853
+    Node 37    -0.7985423757945503
+    Node 38    1.6590065080974974
+    Node 39    0.02276380923212194
+    Node 40    1.3422953346820354
+Sigmoid Node 1
+    Inputs    Weights
+    Threshold    0.44621741309366514
+    Node 2    -0.19467214102578184
+    Node 3    -0.4194908464934838
+    Node 4    1.5614387654011306
+    Node 5    -1.1983729777279863
+    Node 6    -0.18278292196747972
+    Node 7    -2.4465717473547963
+    Node 8    -0.08350413250064657
+    Node 9    1.2020632770363355
+    Node 10    -0.378059402046424
+    Node 11    -0.36272969111391695
+    Node 12    -0.1403830976549812
+    Node 13    -0.03586683004832536
+    Node 14    -0.6756732975594408
+    Node 15    -0.030581369897465988
+    Node 16    0.8358756385627119
+    Node 17    -0.28823885710370334
+    Node 18    -0.33667351863437395
+    Node 19    -1.155577245365704
+    Node 20    -1.5660667505932016
+    Node 21    0.9088233302384421
+    Node 22    0.10904609068546957
+    Node 23    -0.43898213316013057
+    Node 24    -0.386430827020683
+    Node 25    -1.7684471124587104
+    Node 26    -1.8050359152976685
+    Node 27    0.2796268577975434
+    Node 28    0.9648194994217205
+    Node 29    -0.34367306443324264
+    Node 30    -0.25060916139284806
+    Node 31    0.43454019926495996
+    Node 32    -0.3489766391578213
+    Node 33    -0.03790509423828807
+    Node 34    -1.0065412497028128
+    Node 35    1.3166943234506012
+    Node 36    -0.5260096430715303
+    Node 37    0.8151323768410804
+    Node 38    -1.703632540171894
+    Node 39    -0.04897377051845962
+    Node 40    -1.3335289163108381
+Sigmoid Node 2
+    Inputs    Weights
+    Threshold    -0.06260497017772643
+    Attrib A1CF=Yes    -0.030478320313654293
+    Attrib ABL2=Yes    0.042512025627101886
+    Attrib ACTC1=Yes    -0.027576618091774228
+    Attrib ACVR1=Yes    0.01001078292535529
+    Attrib ADCY1=Yes    0.031856679410776405
+    Attrib ADIPOR2=Yes    0.007598200182572545
+    Attrib AHR=Yes    -0.0025865758933547992
+    Attrib AKAP1=Yes    0.00627054400791236
+    Attrib AKR1B10=Yes    -0.013363310149640343
+    Attrib AMOTL2=Yes    0.023661418564124168
+    Attrib ANK1=Yes    -0.010784170932440813
+    Attrib ANO5=Yes    0.006450917626988405
+    Attrib APOBEC4=Yes    -0.014978614486858614
+    Attrib APPBP2=Yes    0.08225311119559126
+    Attrib AR=Yes    0.001921227054049718
+    Attrib ARHGAP6=Yes    -0.011598978974959925
+    Attrib AZIN1=Yes    0.012326222239721015
+    Attrib BBX=Yes    0.06541221049789711
+    Attrib BMP2=Yes    -0.00343766249859989
+    Attrib BTG2=Yes    0.09930042543527993
+    Attrib C15ORF40=Yes    0.009188246619230806
+    Attrib C21ORF91=Yes    0.05390616176807657
+    Attrib C2CD2=Yes    0.01346696428135542
+    Attrib CABP5=Yes    0.036419472661526425
+    Attrib CALD1=Yes    -0.034817147237208135
+    Attrib CAMK1D=Yes    -0.02396054289452403
+    Attrib CASP8AP2=Yes    0.026834855859909936
+    Attrib CIB2=Yes    0.002745216978898268
+    Attrib CIC=Yes    0.013481097705940616
+    Attrib CLCN3=Yes    0.08342284278905157
+    Attrib CLDN22=Yes    0.06387120605138752
+    Attrib CREB1=Yes    -0.003019290696148125
+    Attrib CREBBP=Yes    0.005163308461923379
+    Attrib CREBRF=Yes    0.10554556357531862
+    Attrib CUL3=Yes    -0.012799168803370625
+    Attrib DBT=Yes    0.03601213008084979
+    Attrib DEAF1=Yes    0.00952388125729601
+    Attrib DOCK7=Yes    -0.04042979817515388
+    Attrib ERICH3=Yes    -0.009383072897292155
+    Attrib FAM86B1=Yes    -0.004363295864976821
+    Attrib FBXW7=Yes    0.10695162214559446
+    Attrib FCGR1B=Yes    0.014277450016142945
+    Attrib FRMD4B=No    0.0033989488512628594
+    Attrib GPC6=Yes    0.03109540663673593
+    Attrib HECTD2=Yes    0.09449154194913234
+    Attrib ITGB8=Yes    0.038741294036468095
+    Attrib KCNJ2=Yes    -0.0011248065759444927
+    Attrib KDM5B=Yes    0.10053280455662783
+    Attrib KIAA1522=Yes    0.03503890279860372
+    Attrib LIN28B=No    -0.01114604638235377
+    Attrib LRIG3=No    -0.07871181738851558
+    Attrib MAFB=Yes    0.022366423334753825
+    Attrib MMGT1=Yes    0.0627364353968479
+    Attrib MTMR2=Yes    0.03632687082954401
+    Attrib NFIC=Yes    0.031138589911536813
+    Attrib NFIX=Yes    0.023351082842143794
+    Attrib NPTX1=Yes    0.08184180368105895
+    Attrib PLEKHS1=Yes    -0.015407976856723187
+    Attrib POU3F4=Yes    -0.038340785357889415
+    Attrib PPP1R11=Yes    0.09393310021449401
+    Attrib PSKH1=Yes    -0.0024987647678268786
+    Attrib PTEN=Yes    0.07725826849074198
+    Attrib RIMS4=Yes    0.0030088509792628375
+    Attrib RORA=Yes    0.08589440424337248
+    Attrib RPS6KA5=Yes    -0.004100247218821049
+    Attrib RUNDC3A=Yes    -0.02855237069600042
+    Attrib SEC23IP=Yes    0.07048657750750258
+    Attrib SESN3=Yes    0.05740102473530815
+    Attrib SLITRK4=Yes    0.03661154886232581
+    Attrib SP4=Yes    0.03344208770510904
+    Attrib TRIM71=No    -0.07740543698413611
+    Attrib UBE2H=Yes    0.007253709627711295
+    Attrib USP3=Yes    0.006591461454960194
+    Attrib VPS54=Yes    -0.019910850622287316
+    Attrib YOD1=Yes    0.07038687602632789
+    Attrib ZBTB34=Yes    0.0250780054785064
+    Attrib ZNF512B=No    0.015751665118562554
+Sigmoid Node 3
+    Inputs    Weights
+    Threshold    0.08557191611126763
+    Attrib A1CF=Yes    -0.03858571731842863
+    Attrib ABL2=Yes    0.28745615535365915
+    Attrib ACTC1=Yes    -0.14645981795647917
+    Attrib ACVR1=Yes    0.29199188330563064
+    Attrib ADCY1=Yes    -0.0935018530141004
+    Attrib ADIPOR2=Yes    0.306408894832751
+    Attrib AHR=Yes    -0.06046038519765809
+    Attrib AKAP1=Yes    0.09492497125510423
+    Attrib AKR1B10=Yes    -0.11731527998228329
+    Attrib AMOTL2=Yes    0.26476179959343676
+    Attrib ANK1=Yes    -0.13842063565480056
+    Attrib ANO5=Yes    -0.14550878040078366
+    Attrib APOBEC4=Yes    -0.13923677594140102
+    Attrib APPBP2=Yes    0.25838669646241097
+    Attrib AR=Yes    -0.0775150401300482
+    Attrib ARHGAP6=Yes    -0.13285793114807717
+    Attrib AZIN1=Yes    -0.056450530693822804
+    Attrib BBX=Yes    0.09012197416743568
+    Attrib BMP2=Yes    -0.13424787012530728
+    Attrib BTG2=Yes    0.35507071932343187
+    Attrib C15ORF40=Yes    -0.11714595388550943
+    Attrib C21ORF91=Yes    0.07157933250054893
+    Attrib C2CD2=Yes    0.013981332318182988
+    Attrib CABP5=Yes    -0.058161881304679475
+    Attrib CALD1=Yes    -0.08678998579107966
+    Attrib CAMK1D=Yes    -0.23018545706849158
+    Attrib CASP8AP2=Yes    -0.1962398023469475
+    Attrib CIB2=Yes    -0.12759954648307784
+    Attrib CIC=Yes    -0.045662838941618336
+    Attrib CLCN3=Yes    0.16107501029631208
+    Attrib CLDN22=Yes    0.19376911230738034
+    Attrib CREB1=Yes    -0.10205228711503442
+    Attrib CREBBP=Yes    -0.25210345556080854
+    Attrib CREBRF=Yes    0.16599564675437445
+    Attrib CUL3=Yes    -0.0738150824760087
+    Attrib DBT=Yes    -0.11566987972024954
+    Attrib DEAF1=Yes    -0.13526205736469815
+    Attrib DOCK7=Yes    -0.16897212231227524
+    Attrib ERICH3=Yes    -0.12027566063297207
+    Attrib FAM86B1=Yes    -0.10927668249325527
+    Attrib FBXW7=Yes    0.30555661177243726
+    Attrib FCGR1B=Yes    -0.07344779946959398
+    Attrib FRMD4B=No    -0.01985881235605408
+    Attrib GPC6=Yes    -0.14237083415047236
+    Attrib HECTD2=Yes    0.2783821511866259
+    Attrib ITGB8=Yes    0.21877652801256317
+    Attrib KCNJ2=Yes    0.07766306322546712
+    Attrib KDM5B=Yes    0.29349713741532263
+    Attrib KIAA1522=Yes    -0.1074061929275996
+    Attrib LIN28B=No    -0.1467759839536098
+    Attrib LRIG3=No    -0.05058702571958856
+    Attrib MAFB=Yes    -0.22110728772942825
+    Attrib MMGT1=Yes    0.1860466992170397
+    Attrib MTMR2=Yes    -0.09437016742091961
+    Attrib NFIC=Yes    0.3088456776957146
+    Attrib NFIX=Yes    -0.22683869763193087
+    Attrib NPTX1=Yes    0.31585349497240645
+    Attrib PLEKHS1=Yes    -0.13658249200697684
+    Attrib POU3F4=Yes    -0.06576954767596059
+    Attrib PPP1R11=Yes    0.3038055667442462
+    Attrib PSKH1=Yes    -0.09294710502341154
+    Attrib PTEN=Yes    0.03688833685756656
+    Attrib RIMS4=Yes    -0.09886186461828646
+    Attrib RORA=Yes    0.38613502030508445
+    Attrib RPS6KA5=Yes    0.0499432678710484
+    Attrib RUNDC3A=Yes    -0.021280847604736645
+    Attrib SEC23IP=Yes    0.03751123772797129
+    Attrib SESN3=Yes    0.05506955161619546
+    Attrib SLITRK4=Yes    -0.16458400808398002
+    Attrib SP4=Yes    -0.07096888130317514
+    Attrib TRIM71=No    -0.18443750687190927
+    Attrib UBE2H=Yes    -0.1872560302547431
+    Attrib USP3=Yes    0.025941699736426148
+    Attrib VPS54=Yes    -0.22789296236252202
+    Attrib YOD1=Yes    0.08162405147780007
+    Attrib ZBTB34=Yes    0.23026280467453264
+    Attrib ZNF512B=No    -0.12819654172813727
+Sigmoid Node 4
+    Inputs    Weights
+    Threshold    -0.26280734269802236
+    Attrib A1CF=Yes    0.4129579490339405
+    Attrib ABL2=Yes    -1.3981645320438638
+    Attrib ACTC1=Yes    0.7223829861730209
+    Attrib ACVR1=Yes    -1.2162269261625656
+    Attrib ADCY1=Yes    0.532341662212849
+    Attrib ADIPOR2=Yes    -1.1935938778407778
+    Attrib AHR=Yes    0.4900218918922599
+    Attrib AKAP1=Yes    -0.546726067828139
+    Attrib AKR1B10=Yes    0.46643986721765535
+    Attrib AMOTL2=Yes    -0.9399625891276658
+    Attrib ANK1=Yes    0.590055291098497
+    Attrib ANO5=Yes    0.5426002040134839
+    Attrib APOBEC4=Yes    0.7417207773989364
+    Attrib APPBP2=Yes    -1.3253421748872496
+    Attrib AR=Yes    0.45753344588288763
+    Attrib ARHGAP6=Yes    0.6189201599413579
+    Attrib AZIN1=Yes    0.39034992668997087
+    Attrib BBX=Yes    -0.34451039624044705
+    Attrib BMP2=Yes    0.6710913230809983
+    Attrib BTG2=Yes    -1.8080590278473674
+    Attrib C15ORF40=Yes    0.3172419662884775
+    Attrib C21ORF91=Yes    0.028775423114424867
+    Attrib C2CD2=Yes    -0.10322179036583401
+    Attrib CABP5=Yes    0.3664644780162284
+    Attrib CALD1=Yes    0.34991246200676157
+    Attrib CAMK1D=Yes    0.9742790242188494
+    Attrib CASP8AP2=Yes    0.7479838119848485
+    Attrib CIB2=Yes    0.312482964545706
+    Attrib CIC=Yes    0.32222768329550633
+    Attrib CLCN3=Yes    -0.5356424597520897
+    Attrib CLDN22=Yes    -0.9430986720061177
+    Attrib CREB1=Yes    0.5883822503152923
+    Attrib CREBBP=Yes    1.0526857554493807
+    Attrib CREBRF=Yes    -0.997784146360776
+    Attrib CUL3=Yes    0.5222662181416707
+    Attrib DBT=Yes    0.4294100999951663
+    Attrib DEAF1=Yes    0.825788107890922
+    Attrib DOCK7=Yes    0.6857096301084269
+    Attrib ERICH3=Yes    0.3748177282580394
+    Attrib FAM86B1=Yes    0.30084959002717937
+    Attrib FBXW7=Yes    -1.0308675700705228
+    Attrib FCGR1B=Yes    0.6074727756517179
+    Attrib FRMD4B=No    0.06409001061471654
+    Attrib GPC6=Yes    0.7151494190341253
+    Attrib HECTD2=Yes    -0.9136659518248801
+    Attrib ITGB8=Yes    -0.8021067314334979
+    Attrib KCNJ2=Yes    -0.18771785717971892
+    Attrib KDM5B=Yes    -1.2635693488944229
+    Attrib KIAA1522=Yes    0.394248437707817
+    Attrib LIN28B=No    0.17268733207992365
+    Attrib LRIG3=No    0.0758706405255756
+    Attrib MAFB=Yes    0.8398922137405226
+    Attrib MMGT1=Yes    -1.0076112615725055
+    Attrib MTMR2=Yes    0.33584573754784786
+    Attrib NFIC=Yes    -1.7348466825218247
+    Attrib NFIX=Yes    0.8992906215040694
+    Attrib NPTX1=Yes    -1.6493122623638081
+    Attrib PLEKHS1=Yes    0.6472942884879542
+    Attrib POU3F4=Yes    0.3838286364928387
+    Attrib PPP1R11=Yes    -1.5543693783382249
+    Attrib PSKH1=Yes    0.3844693916754707
+    Attrib PTEN=Yes    -0.09471394773579177
+    Attrib RIMS4=Yes    0.3657286771168891
+    Attrib RORA=Yes    -1.6603285841061954
+    Attrib RPS6KA5=Yes    -0.16492712419604771
+    Attrib RUNDC3A=Yes    0.3505249579928108
+    Attrib SEC23IP=Yes    -0.06081651881297365
+    Attrib SESN3=Yes    -0.2518064978848334
+    Attrib SLITRK4=Yes    0.7842752536971256
+    Attrib SP4=Yes    0.5845520959558169
+    Attrib TRIM71=No    0.5591268812042817
+    Attrib UBE2H=Yes    0.7448683847743652
+    Attrib USP3=Yes    -0.117744354574684
+    Attrib VPS54=Yes    1.1419540749023103
+    Attrib YOD1=Yes    -0.09902270157180544
+    Attrib ZBTB34=Yes    -0.9890445563530226
+    Attrib ZNF512B=No    0.34316963370889747
+Sigmoid Node 5
+    Inputs    Weights
+    Threshold    0.1480090651425764
+    Attrib A1CF=Yes    -0.274087565869239
+    Attrib ABL2=Yes    0.7607426405804059
+    Attrib ACTC1=Yes    -0.45299804600258
+    Attrib ACVR1=Yes    0.7159028883514574
+    Attrib ADCY1=Yes    -0.3338636305593208
+    Attrib ADIPOR2=Yes    0.8190313568991208
+    Attrib AHR=Yes    -0.2763574423993676
+    Attrib AKAP1=Yes    0.34720522250662367
+    Attrib AKR1B10=Yes    -0.24732327464112203
+    Attrib AMOTL2=Yes    0.598351378860475
+    Attrib ANK1=Yes    -0.41349785185934484
+    Attrib ANO5=Yes    -0.29849908097277106
+    Attrib APOBEC4=Yes    -0.4222224872728489
+    Attrib APPBP2=Yes    0.7718309330700796
+    Attrib AR=Yes    -0.3270618726155527
+    Attrib ARHGAP6=Yes    -0.3757386831512784
+    Attrib AZIN1=Yes    -0.21450404273511112
+    Attrib BBX=Yes    0.1853285453159796
+    Attrib BMP2=Yes    -0.38927896314597177
+    Attrib BTG2=Yes    1.017937211013877
+    Attrib C15ORF40=Yes    -0.20173321393507732
+    Attrib C21ORF91=Yes    0.061909436296125525
+    Attrib C2CD2=Yes    0.15291182491978986
+    Attrib CABP5=Yes    -0.19851843669235292
+    Attrib CALD1=Yes    -0.18538487843595428
+    Attrib CAMK1D=Yes    -0.5867460109045243
+    Attrib CASP8AP2=Yes    -0.4630884209578436
+    Attrib CIB2=Yes    -0.1776876309470472
+    Attrib CIC=Yes    -0.246333924036612
+    Attrib CLCN3=Yes    0.41633771196945674
+    Attrib CLDN22=Yes    0.5557442723611402
+    Attrib CREB1=Yes    -0.3799076100763662
+    Attrib CREBBP=Yes    -0.6667745512509643
+    Attrib CREBRF=Yes    0.542836429081744
+    Attrib CUL3=Yes    -0.29115191835875814
+    Attrib DBT=Yes    -0.21897156023569073
+    Attrib DEAF1=Yes    -0.48857736831911686
+    Attrib DOCK7=Yes    -0.465564665777765
+    Attrib ERICH3=Yes    -0.26847883883714546
+    Attrib FAM86B1=Yes    -0.19765022589466644
+    Attrib FBXW7=Yes    0.7121900652154624
+    Attrib FCGR1B=Yes    -0.344506147347394
+    Attrib FRMD4B=No    -0.1356017381514703
+    Attrib GPC6=Yes    -0.4477140560200924
+    Attrib HECTD2=Yes    0.659484076342692
+    Attrib ITGB8=Yes    0.49458122184693454
+    Attrib KCNJ2=Yes    0.1146970927487866
+    Attrib KDM5B=Yes    0.8315914445177252
+    Attrib KIAA1522=Yes    -0.23954688364690088
+    Attrib LIN28B=No    -0.15739075733868985
+    Attrib LRIG3=No    -0.05637994015564177
+    Attrib MAFB=Yes    -0.5260720250616572
+    Attrib MMGT1=Yes    0.6623177498534053
+    Attrib MTMR2=Yes    -0.15233665396439855
+    Attrib NFIC=Yes    0.9629646059055457
+    Attrib NFIX=Yes    -0.5699930005224243
+    Attrib NPTX1=Yes    0.9236605604527506
+    Attrib PLEKHS1=Yes    -0.4098481379250942
+    Attrib POU3F4=Yes    -0.272555207605541
+    Attrib PPP1R11=Yes    0.944425476339861
+    Attrib PSKH1=Yes    -0.21738000534053942
+    Attrib PTEN=Yes    0.13689881728239597
+    Attrib RIMS4=Yes    -0.16639945021692512
+    Attrib RORA=Yes    0.9557538039109834
+    Attrib RPS6KA5=Yes    0.2218728262752873
+    Attrib RUNDC3A=Yes    -0.2049994992423141
+    Attrib SEC23IP=Yes    0.13927616486528097
+    Attrib SESN3=Yes    0.1914314758249231
+    Attrib SLITRK4=Yes    -0.5303701064482969
+    Attrib SP4=Yes    -0.3612650803723636
+    Attrib TRIM71=No    -0.3398344582993481
+    Attrib UBE2H=Yes    -0.48285482629040427
+    Attrib USP3=Yes    0.17868358114572577
+    Attrib VPS54=Yes    -0.8166561476704964
+    Attrib YOD1=Yes    0.14816642448879253
+    Attrib ZBTB34=Yes    0.7347527807761896
+    Attrib ZNF512B=No    -0.25867046645185354
+Sigmoid Node 6
+    Inputs    Weights
+    Threshold    -0.054667993380979545
+    Attrib A1CF=Yes    0.007306861959999175
+    Attrib ABL2=Yes    0.056742660368456856
+    Attrib ACTC1=Yes    -0.011722721654258422
+    Attrib ACVR1=Yes    0.05555037413494291
+    Attrib ADCY1=Yes    0.0073517940696677725
+    Attrib ADIPOR2=Yes    0.03321137994082102
+    Attrib AHR=Yes    0.00470634004610583
+    Attrib AKAP1=Yes    0.010162886640932246
+    Attrib AKR1B10=Yes    -0.03105254768015094
+    Attrib AMOTL2=Yes    0.07873855000623513
+    Attrib ANK1=Yes    -0.03540930234573448
+    Attrib ANO5=Yes    -0.031200301010427603
+    Attrib APOBEC4=Yes    0.04400547398103234
+    Attrib APPBP2=Yes    0.08156988990192723
+    Attrib AR=Yes    -0.00588212924097445
+    Attrib ARHGAP6=Yes    -0.016740706949887274
+    Attrib AZIN1=Yes    0.0384692735900248
+    Attrib BBX=Yes    0.007985610057205675
+    Attrib BMP2=Yes    0.011527399877235368
+    Attrib BTG2=Yes    0.04098158413980771
+    Attrib C15ORF40=Yes    0.018882742572377115
+    Attrib C21ORF91=Yes    -0.007227911821363267
+    Attrib C2CD2=Yes    0.01145396171104399
+    Attrib CABP5=Yes    0.05558926728042819
+    Attrib CALD1=Yes    0.05558932721656299
+    Attrib CAMK1D=Yes    -0.018065848123779833
+    Attrib CASP8AP2=Yes    -0.024573932866754133
+    Attrib CIB2=Yes    0.0433212227737484
+    Attrib CIC=Yes    0.03964342380774375
+    Attrib CLCN3=Yes    0.058449023854322754
+    Attrib CLDN22=Yes    0.06904877130058863
+    Attrib CREB1=Yes    -0.0029875178088889947
+    Attrib CREBBP=Yes    -0.03773163024602682
+    Attrib CREBRF=Yes    0.0850378867880245
+    Attrib CUL3=Yes    4.4859136891079387E-4
+    Attrib DBT=Yes    0.013239549552185896
+    Attrib DEAF1=Yes    0.03378873562402987
+    Attrib DOCK7=Yes    -0.04544076327942417
+    Attrib ERICH3=Yes    0.051973662206762826
+    Attrib FAM86B1=Yes    -0.028445761671215968
+    Attrib FBXW7=Yes    0.0574868555284441
+    Attrib FCGR1B=Yes    -0.005302149427435036
+    Attrib FRMD4B=No    -0.03421770404452221
+    Attrib GPC6=Yes    0.00824437109524416
+    Attrib HECTD2=Yes    0.04288654785137892
+    Attrib ITGB8=Yes    0.08330656861959362
+    Attrib KCNJ2=Yes    0.020814306867079597
+    Attrib KDM5B=Yes    0.07649214331638188
+    Attrib KIAA1522=Yes    -0.017229589297125876
+    Attrib LIN28B=No    -0.10058194709437894
+    Attrib LRIG3=No    -0.05853943893095397
+    Attrib MAFB=Yes    0.0380205233318364
+    Attrib MMGT1=Yes    0.04415661354481448
+    Attrib MTMR2=Yes    -0.01206847747363884
+    Attrib NFIC=Yes    0.015876982510251977
+    Attrib NFIX=Yes    -3.052349232389566E-4
+    Attrib NPTX1=Yes    0.015770151757211366
+    Attrib PLEKHS1=Yes    -0.012528708331246847
+    Attrib POU3F4=Yes    -0.008214896625273341
+    Attrib PPP1R11=Yes    0.07852082804942596
+    Attrib PSKH1=Yes    0.011803766353853466
+    Attrib PTEN=Yes    0.043768422268587515
+    Attrib RIMS4=Yes    0.008486603074531689
+    Attrib RORA=Yes    0.07257269480239216
+    Attrib RPS6KA5=Yes    0.010724330154457716
+    Attrib RUNDC3A=Yes    0.053924159736585126
+    Attrib SEC23IP=Yes    0.06157121573576635
+    Attrib SESN3=Yes    0.03754824726525751
+    Attrib SLITRK4=Yes    0.00392138779866649
+    Attrib SP4=Yes    0.01421606228041109
+    Attrib TRIM71=No    -0.03660090314111868
+    Attrib UBE2H=Yes    -0.026758613855983663
+    Attrib USP3=Yes    0.07229919952256
+    Attrib VPS54=Yes    -0.03722901760257764
+    Attrib YOD1=Yes    0.015966722882976687
+    Attrib ZBTB34=Yes    0.13545633534446352
+    Attrib ZNF512B=No    -0.059374638462583576
+Sigmoid Node 7
+    Inputs    Weights
+    Threshold    0.3018771657552423
+    Attrib A1CF=Yes    -0.5271327620430051
+    Attrib ABL2=Yes    1.7490269600269748
+    Attrib ACTC1=Yes    -0.9572758641203473
+    Attrib ACVR1=Yes    1.4697906312045623
+    Attrib ADCY1=Yes    -0.6863454789596973
+    Attrib ADIPOR2=Yes    1.4670409660855084
+    Attrib AHR=Yes    -0.5696178888311719
+    Attrib AKAP1=Yes    0.5640032685404555
+    Attrib AKR1B10=Yes    -0.5512602087486613
+    Attrib AMOTL2=Yes    1.2698256718396241
+    Attrib ANK1=Yes    -0.8669235684990031
+    Attrib ANO5=Yes    -0.6690167839316252
+    Attrib APOBEC4=Yes    -0.9829306320608655
+    Attrib APPBP2=Yes    1.6548124300259184
+    Attrib AR=Yes    -0.6174587466749493
+    Attrib ARHGAP6=Yes    -0.6749994549465809
+    Attrib AZIN1=Yes    -0.49705758388055754
+    Attrib BBX=Yes    0.4168425288928056
+    Attrib BMP2=Yes    -0.8362157014417395
+    Attrib BTG2=Yes    2.0289516841073008
+    Attrib C15ORF40=Yes    -0.3956934521360533
+    Attrib C21ORF91=Yes    -0.0410778923301079
+    Attrib C2CD2=Yes    0.17864832247087337
+    Attrib CABP5=Yes    -0.44950429526262964
+    Attrib CALD1=Yes    -0.45553705665784966
+    Attrib CAMK1D=Yes    -1.1769199923241729
+    Attrib CASP8AP2=Yes    -0.9031087504018508
+    Attrib CIB2=Yes    -0.3798960729315685
+    Attrib CIC=Yes    -0.4092211706055075
+    Attrib CLCN3=Yes    0.7774886997997417
+    Attrib CLDN22=Yes    1.0850470981544247
+    Attrib CREB1=Yes    -0.8368781055840717
+    Attrib CREBBP=Yes    -1.360352321048409
+    Attrib CREBRF=Yes    1.1067093560138779
+    Attrib CUL3=Yes    -0.6275074336346752
+    Attrib DBT=Yes    -0.5238103404089525
+    Attrib DEAF1=Yes    -0.9412943438912622
+    Attrib DOCK7=Yes    -0.9543638441983922
+    Attrib ERICH3=Yes    -0.4779137699109978
+    Attrib FAM86B1=Yes    -0.4455068701781182
+    Attrib FBXW7=Yes    1.3743132907536384
+    Attrib FCGR1B=Yes    -0.731262023371998
+    Attrib FRMD4B=No    -0.14272171189752084
+    Attrib GPC6=Yes    -0.8211504711804435
+    Attrib HECTD2=Yes    1.2905245042222913
+    Attrib ITGB8=Yes    0.9367769201023081
+    Attrib KCNJ2=Yes    0.282484490477042
+    Attrib KDM5B=Yes    1.6231096582493942
+    Attrib KIAA1522=Yes    -0.4356950490965647
+    Attrib LIN28B=No    -0.3813459004737789
+    Attrib LRIG3=No    -0.10347780756546422
+    Attrib MAFB=Yes    -1.0275878594127061
+    Attrib MMGT1=Yes    1.3283608705590608
+    Attrib MTMR2=Yes    -0.40003162905968864
+    Attrib NFIC=Yes    1.9865264058934082
+    Attrib NFIX=Yes    -1.142217382345866
+    Attrib NPTX1=Yes    1.8654132740501868
+    Attrib PLEKHS1=Yes    -0.7832288029922226
+    Attrib POU3F4=Yes    -0.4359962965063105
+    Attrib PPP1R11=Yes    1.7785163710939211
+    Attrib PSKH1=Yes    -0.4724212513924509
+    Attrib PTEN=Yes    0.17654366558848314
+    Attrib RIMS4=Yes    -0.38728935651467117
+    Attrib RORA=Yes    2.0485258438915883
+    Attrib RPS6KA5=Yes    0.24635335845116088
+    Attrib RUNDC3A=Yes    -0.3501315960834636
+    Attrib SEC23IP=Yes    0.1577845442370079
+    Attrib SESN3=Yes    0.3391094598086773
+    Attrib SLITRK4=Yes    -1.0752001825016786
+    Attrib SP4=Yes    -0.7019559238743892
+    Attrib TRIM71=No    -0.6965463582241913
+    Attrib UBE2H=Yes    -1.0606952336732713
+    Attrib USP3=Yes    0.1806001275647882
+    Attrib VPS54=Yes    -1.5506711453655881
+    Attrib YOD1=Yes    0.24078691230635746
+    Attrib ZBTB34=Yes    1.38999129366488
+    Attrib ZNF512B=No    -0.5076651682751585
+Sigmoid Node 8
+    Inputs    Weights
+    Threshold    0.005759430910666244
+    Attrib A1CF=Yes    0.019412116588932517
+    Attrib ABL2=Yes    0.01959819200574432
+    Attrib ACTC1=Yes    0.04294149000387524
+    Attrib ACVR1=Yes    0.05764930702322319
+    Attrib ADCY1=Yes    -0.007167001847864856
+    Attrib ADIPOR2=Yes    0.08948437010696324
+    Attrib AHR=Yes    0.04917440064407133
+    Attrib AKAP1=Yes    0.008440537014472073
+    Attrib AKR1B10=Yes    0.06762253000007268
+    Attrib AMOTL2=Yes    0.0944335066087623
+    Attrib ANK1=Yes    0.061702685409236874
+    Attrib ANO5=Yes    0.0371791637580413
+    Attrib APOBEC4=Yes    0.0068900054246704865
+    Attrib APPBP2=Yes    0.05233060019276396
+    Attrib AR=Yes    0.07192173126334865
+    Attrib ARHGAP6=Yes    0.07187748604425122
+    Attrib AZIN1=Yes    0.06029553908122285
+    Attrib BBX=Yes    0.0540779824745525
+    Attrib BMP2=Yes    0.004137382636982857
+    Attrib BTG2=Yes    0.03239343373694322
+    Attrib C15ORF40=Yes    0.06432785032289155
+    Attrib C21ORF91=Yes    0.07265317760804478
+    Attrib C2CD2=Yes    -0.02522390066488784
+    Attrib CABP5=Yes    0.07978704280484626
+    Attrib CALD1=Yes    0.04534068271428383
+    Attrib CAMK1D=Yes    -0.013127495236249596
+    Attrib CASP8AP2=Yes    -0.0024072703290859867
+    Attrib CIB2=Yes    0.028647550073384705
+    Attrib CIC=Yes    0.054172956132520204
+    Attrib CLCN3=Yes    0.02765973000842834
+    Attrib CLDN22=Yes    0.07756127392421124
+    Attrib CREB1=Yes    -0.010987466607855751
+    Attrib CREBBP=Yes    -0.019145366348545693
+    Attrib CREBRF=Yes    -0.012650728351984499
+    Attrib CUL3=Yes    0.03925437169175547
+    Attrib DBT=Yes    -0.013143622072985028
+    Attrib DEAF1=Yes    0.016325480033572943
+    Attrib DOCK7=Yes    0.01885283504524197
+    Attrib ERICH3=Yes    0.08001621710392363
+    Attrib FAM86B1=Yes    0.01751691809409215
+    Attrib FBXW7=Yes    0.013972866073245804
+    Attrib FCGR1B=Yes    9.770606874108145E-4
+    Attrib FRMD4B=No    -0.07281124043154101
+    Attrib GPC6=Yes    0.05145954216709992
+    Attrib HECTD2=Yes    0.015537835467198911
+    Attrib ITGB8=Yes    -0.003384240663587507
+    Attrib KCNJ2=Yes    0.0767749308327733
+    Attrib KDM5B=Yes    0.02874877752911039
+    Attrib KIAA1522=Yes    -0.0045136440615551115
+    Attrib LIN28B=No    -0.08509967294876083
+    Attrib LRIG3=No    -0.07839170701954681
+    Attrib MAFB=Yes    0.004766637821803614
+    Attrib MMGT1=Yes    6.332803606253542E-4
+    Attrib MTMR2=Yes    0.0359395377343141
+    Attrib NFIC=Yes    0.06495379795525696
+    Attrib NFIX=Yes    0.001094329656234308
+    Attrib NPTX1=Yes    0.04635683799912837
+    Attrib PLEKHS1=Yes    0.06858251870278058
+    Attrib POU3F4=Yes    -0.009049511323564368
+    Attrib PPP1R11=Yes    0.02322596329042831
+    Attrib PSKH1=Yes    0.02892191631054295
+    Attrib PTEN=Yes    -0.003034520981405448
+    Attrib RIMS4=Yes    0.06873860825894443
+    Attrib RORA=Yes    0.09818626371111067
+    Attrib RPS6KA5=Yes    0.02959447396646859
+    Attrib RUNDC3A=Yes    0.002513365115917975
+    Attrib SEC23IP=Yes    0.054838755022234925
+    Attrib SESN3=Yes    0.06374196382067729
+    Attrib SLITRK4=Yes    0.03680644443241217
+    Attrib SP4=Yes    0.025768033285927305
+    Attrib TRIM71=No    -0.02715252992369528
+    Attrib UBE2H=Yes    -0.012484961664178241
+    Attrib USP3=Yes    0.016295260882296624
+    Attrib VPS54=Yes    0.025981919905191386
+    Attrib YOD1=Yes    0.0452483966817848
+    Attrib ZBTB34=Yes    0.0588764736522647
+    Attrib ZNF512B=No    0.014327052594465933
+Sigmoid Node 9
+    Inputs    Weights
+    Threshold    -0.22443496604217897
+    Attrib A1CF=Yes    0.369735684134705
+    Attrib ABL2=Yes    -1.2022494131307446
+    Attrib ACTC1=Yes    0.6406008357936329
+    Attrib ACVR1=Yes    -0.9824867791183357
+    Attrib ADCY1=Yes    0.4068973713650385
+    Attrib ADIPOR2=Yes    -1.0448016348487834
+    Attrib AHR=Yes    0.3734473527883219
+    Attrib AKAP1=Yes    -0.47139834403830794
+    Attrib AKR1B10=Yes    0.36085429312239165
+    Attrib AMOTL2=Yes    -0.778397266849613
+    Attrib ANK1=Yes    0.5079795388602774
+    Attrib ANO5=Yes    0.4505470847329761
+    Attrib APOBEC4=Yes    0.6055171031514228
+    Attrib APPBP2=Yes    -1.1608023100667604
+    Attrib AR=Yes    0.38409968917030285
+    Attrib ARHGAP6=Yes    0.5072748702650085
+    Attrib AZIN1=Yes    0.3514996066582485
+    Attrib BBX=Yes    -0.33416044945132534
+    Attrib BMP2=Yes    0.547127382217573
+    Attrib BTG2=Yes    -1.5321795433691592
+    Attrib C15ORF40=Yes    0.29846680739109716
+    Attrib C21ORF91=Yes    0.08665371142319955
+    Attrib C2CD2=Yes    -0.1240738974770826
+    Attrib CABP5=Yes    0.3078237636050767
+    Attrib CALD1=Yes    0.33162852208588456
+    Attrib CAMK1D=Yes    0.8013416150059903
+    Attrib CASP8AP2=Yes    0.6444429857329012
+    Attrib CIB2=Yes    0.33456802535257946
+    Attrib CIC=Yes    0.3281401108788907
+    Attrib CLCN3=Yes    -0.4383651752361864
+    Attrib CLDN22=Yes    -0.812999577169116
+    Attrib CREB1=Yes    0.5287981316843582
+    Attrib CREBBP=Yes    0.9066846258183706
+    Attrib CREBRF=Yes    -0.8457268076977917
+    Attrib CUL3=Yes    0.436740758592934
+    Attrib DBT=Yes    0.35779950229445356
+    Attrib DEAF1=Yes    0.7140942283949155
+    Attrib DOCK7=Yes    0.5749509668521995
+    Attrib ERICH3=Yes    0.3148209669830358
+    Attrib FAM86B1=Yes    0.2486184534489174
+    Attrib FBXW7=Yes    -0.9133905675403232
+    Attrib FCGR1B=Yes    0.5255776440473795
+    Attrib FRMD4B=No    0.06304312133089965
+    Attrib GPC6=Yes    0.6066611940765305
+    Attrib HECTD2=Yes    -0.7834353671871115
+    Attrib ITGB8=Yes    -0.6589230105477013
+    Attrib KCNJ2=Yes    -0.11189104761374426
+    Attrib KDM5B=Yes    -1.0984932542493135
+    Attrib KIAA1522=Yes    0.3427312189749553
+    Attrib LIN28B=No    0.1958843354338295
+    Attrib LRIG3=No    0.056524519725968385
+    Attrib MAFB=Yes    0.7311060150172854
+    Attrib MMGT1=Yes    -0.8218662685958479
+    Attrib MTMR2=Yes    0.24951563574475855
+    Attrib NFIC=Yes    -1.5056007113080931
+    Attrib NFIX=Yes    0.7884250137895403
+    Attrib NPTX1=Yes    -1.418234937227526
+    Attrib PLEKHS1=Yes    0.5176018671039282
+    Attrib POU3F4=Yes    0.3380432501948403
+    Attrib PPP1R11=Yes    -1.2884616363200192
+    Attrib PSKH1=Yes    0.2964469945059239
+    Attrib PTEN=Yes    -0.09868393849513585
+    Attrib RIMS4=Yes    0.3137972424952135
+    Attrib RORA=Yes    -1.4168501168666123
+    Attrib RPS6KA5=Yes    -0.178385216996612
+    Attrib RUNDC3A=Yes    0.26060580818174506
+    Attrib SEC23IP=Yes    -0.017886169415648332
+    Attrib SESN3=Yes    -0.18155492818590238
+    Attrib SLITRK4=Yes    0.6350382015992335
+    Attrib SP4=Yes    0.5110006429696444
+    Attrib TRIM71=No    0.500717195854982
+    Attrib UBE2H=Yes    0.6947822403676044
+    Attrib USP3=Yes    -0.1248594101589831
+    Attrib VPS54=Yes    0.9520924846378095
+    Attrib YOD1=Yes    -0.09005683118300983
+    Attrib ZBTB34=Yes    -0.8186525232464986
+    Attrib ZNF512B=No    0.26544146366760724
+Sigmoid Node 10
+    Inputs    Weights
+    Threshold    0.03725893512526744
+    Attrib A1CF=Yes    -0.08181983658679319
+    Attrib ABL2=Yes    0.23451592294463633
+    Attrib ACTC1=Yes    -0.053712345408310345
+    Attrib ACVR1=Yes    0.1441709813501894
+    Attrib ADCY1=Yes    -0.11103704913807497
+    Attrib ADIPOR2=Yes    0.23745652402792514
+    Attrib AHR=Yes    -0.0181423997109604
+    Attrib AKAP1=Yes    0.07344872030034125
+    Attrib AKR1B10=Yes    -0.030687195604758185
+    Attrib AMOTL2=Yes    0.2307516844321175
+    Attrib ANK1=Yes    -0.13421968007029933
+    Attrib ANO5=Yes    -0.11859613000726346
+    Attrib APOBEC4=Yes    -0.11327756287387582
+    Attrib APPBP2=Yes    0.14398647853251229
+    Attrib AR=Yes    -0.10890888278809036
+    Attrib ARHGAP6=Yes    -0.06632723484504453
+    Attrib AZIN1=Yes    -0.06653884862996902
+    Attrib BBX=Yes    0.12081839089245307
+    Attrib BMP2=Yes    -0.09974817097867679
+    Attrib BTG2=Yes    0.20636466340424542
+    Attrib C15ORF40=Yes    -0.07385576320387124
+    Attrib C21ORF91=Yes    0.023835740768689617
+    Attrib C2CD2=Yes    0.009205121560195935
+    Attrib CABP5=Yes    -0.07016785170126083
+    Attrib CALD1=Yes    -0.016344568693188163
+    Attrib CAMK1D=Yes    -0.1501694305000159
+    Attrib CASP8AP2=Yes    -0.12446395305595684
+    Attrib CIB2=Yes    -0.03682522339161156
+    Attrib CIC=Yes    -0.03370605488427916
+    Attrib CLCN3=Yes    0.08584956638087841
+    Attrib CLDN22=Yes    0.08418725255402397
+    Attrib CREB1=Yes    -0.07552456329128858
+    Attrib CREBBP=Yes    -0.1334525356664716
+    Attrib CREBRF=Yes    0.1269818277081563
+    Attrib CUL3=Yes    -0.04082016583750399
+    Attrib DBT=Yes    -0.03395719561934768
+    Attrib DEAF1=Yes    -0.14757003278022585
+    Attrib DOCK7=Yes    -0.09398117051286188
+    Attrib ERICH3=Yes    -0.09259625459746712
+    Attrib FAM86B1=Yes    -0.0033213828666778414
+    Attrib FBXW7=Yes    0.2542890545079287
+    Attrib FCGR1B=Yes    -0.1146717145736899
+    Attrib FRMD4B=No    -0.016254478802376137
+    Attrib GPC6=Yes    -0.11324407305860712
+    Attrib HECTD2=Yes    0.14387286488157414
+    Attrib ITGB8=Yes    0.19672622196829376
+    Attrib KCNJ2=Yes    0.027647035844981897
+    Attrib KDM5B=Yes    0.24866430630556188
+    Attrib KIAA1522=Yes    -0.037447468037832284
+    Attrib LIN28B=No    -0.11885986426714101
+    Attrib LRIG3=No    -0.010076881661699701
+    Attrib MAFB=Yes    -0.137722735445577
+    Attrib MMGT1=Yes    0.164347967955281
+    Attrib MTMR2=Yes    -0.051296273818730656
+    Attrib NFIC=Yes    0.2552232430729977
+    Attrib NFIX=Yes    -0.12660696262111132
+    Attrib NPTX1=Yes    0.19305638530343236
+    Attrib PLEKHS1=Yes    -0.10616809449591239
+    Attrib POU3F4=Yes    -0.08144793646673278
+    Attrib PPP1R11=Yes    0.27399888630907515
+    Attrib PSKH1=Yes    -0.044595743875870945
+    Attrib PTEN=Yes    0.06955763320310268
+    Attrib RIMS4=Yes    -0.048720515022617844
+    Attrib RORA=Yes    0.2577403161842254
+    Attrib RPS6KA5=Yes    0.06688913906354796
+    Attrib RUNDC3A=Yes    -0.02418273521872119
+    Attrib SEC23IP=Yes    0.03270996392884449
+    Attrib SESN3=Yes    0.07726848969112388
+    Attrib SLITRK4=Yes    -0.07608290894267024
+    Attrib SP4=Yes    -0.035844165716931706
+    Attrib TRIM71=No    -0.10089160154411056
+    Attrib UBE2H=Yes    -0.10891785820590054
+    Attrib USP3=Yes    0.0927397389576134
+    Attrib VPS54=Yes    -0.1953488673574482
+    Attrib YOD1=Yes    0.07083014750223493
+    Attrib ZBTB34=Yes    0.2585316943813798
+    Attrib ZNF512B=No    -0.09179206513318726
+Sigmoid Node 11
+    Inputs    Weights
+    Threshold    0.0156439910382529
+    Attrib A1CF=Yes    -0.09018684265694485
+    Attrib ABL2=Yes    0.1683645233240701
+    Attrib ACTC1=Yes    -0.11585086100658808
+    Attrib ACVR1=Yes    0.2188500913410716
+    Attrib ADCY1=Yes    -0.09264996589689402
+    Attrib ADIPOR2=Yes    0.2408360825426316
+    Attrib AHR=Yes    -0.09078924459433167
+    Attrib AKAP1=Yes    0.08361857795499045
+    Attrib AKR1B10=Yes    -0.0426958885483857
+    Attrib AMOTL2=Yes    0.1914273694055682
+    Attrib ANK1=Yes    -0.08375740965355344
+    Attrib ANO5=Yes    -0.05175290723238723
+    Attrib APOBEC4=Yes    -0.07256763417815106
+    Attrib APPBP2=Yes    0.20755297904532335
+    Attrib AR=Yes    -0.11908626854674839
+    Attrib ARHGAP6=Yes    -0.07058665016261882
+    Attrib AZIN1=Yes    -0.049617210879240176
+    Attrib BBX=Yes    0.06939954191539677
+    Attrib BMP2=Yes    -0.09782567476724251
+    Attrib BTG2=Yes    0.2595613466342497
+    Attrib C15ORF40=Yes    -0.0567257879454254
+    Attrib C21ORF91=Yes    0.014753989983027386
+    Attrib C2CD2=Yes    0.06739682568783541
+    Attrib CABP5=Yes    -0.009623843399393131
+    Attrib CALD1=Yes    -0.059908529042242635
+    Attrib CAMK1D=Yes    -0.15947017574256145
+    Attrib CASP8AP2=Yes    -0.1040727367097564
+    Attrib CIB2=Yes    -0.10033884464605497
+    Attrib CIC=Yes    -0.09192651407990719
+    Attrib CLCN3=Yes    0.08438846829378059
+    Attrib CLDN22=Yes    0.09148709375042328
+    Attrib CREB1=Yes    -0.08774104874665653
+    Attrib CREBBP=Yes    -0.1896155091123573
+    Attrib CREBRF=Yes    0.13731332437371688
+    Attrib CUL3=Yes    -0.050231046678933994
+    Attrib DBT=Yes    -0.09996479746806836
+    Attrib DEAF1=Yes    -0.15710880726682558
+    Attrib DOCK7=Yes    -0.08355342181573838
+    Attrib ERICH3=Yes    -0.06873213289828478
+    Attrib FAM86B1=Yes    -0.06983453026127397
+    Attrib FBXW7=Yes    0.26013206769142744
+    Attrib FCGR1B=Yes    -0.09304061018826815
+    Attrib FRMD4B=No    -0.06012639171699501
+    Attrib GPC6=Yes    -0.07083454977662788
+    Attrib HECTD2=Yes    0.14375791719332637
+    Attrib ITGB8=Yes    0.1590146396588675
+    Attrib KCNJ2=Yes    0.11262060080986058
+    Attrib KDM5B=Yes    0.23414711313176523
+    Attrib KIAA1522=Yes    -0.030382266277587944
+    Attrib LIN28B=No    -0.07800354241093863
+    Attrib LRIG3=No    -0.0691229186317744
+    Attrib MAFB=Yes    -0.12544298395039974
+    Attrib MMGT1=Yes    0.1303868538607829
+    Attrib MTMR2=Yes    -0.058131439636975014
+    Attrib NFIC=Yes    0.25957882164772217
+    Attrib NFIX=Yes    -0.11201688403317084
+    Attrib NPTX1=Yes    0.2671314767655159
+    Attrib PLEKHS1=Yes    -0.0831477446426242
+    Attrib POU3F4=Yes    -0.07233403301700532
+    Attrib PPP1R11=Yes    0.289737679656017
+    Attrib PSKH1=Yes    -0.10433229401047137
+    Attrib PTEN=Yes    0.07069433496085274
+    Attrib RIMS4=Yes    -0.02639697221427414
+    Attrib RORA=Yes    0.2808560971060674
+    Attrib RPS6KA5=Yes    0.06384490269732965
+    Attrib RUNDC3A=Yes    -0.06638235999322079
+    Attrib SEC23IP=Yes    0.054132450950698435
+    Attrib SESN3=Yes    0.06558780169748782
+    Attrib SLITRK4=Yes    -0.13812382512186863
+    Attrib SP4=Yes    -0.0875675088329122
+    Attrib TRIM71=No    -0.14525490696842897
+    Attrib UBE2H=Yes    -0.07784327280481833
+    Attrib USP3=Yes    0.029180905655632257
+    Attrib VPS54=Yes    -0.18234103844714206
+    Attrib YOD1=Yes    0.04409071053137818
+    Attrib ZBTB34=Yes    0.2784802741203467
+    Attrib ZNF512B=No    -0.10843694947414458
+Sigmoid Node 12
+    Inputs    Weights
+    Threshold    -0.057580700683277974
+    Attrib A1CF=Yes    0.05458511214735594
+    Attrib ABL2=Yes    0.0538771347234251
+    Attrib ACTC1=Yes    0.04599693272483607
+    Attrib ACVR1=Yes    0.055843682718127174
+    Attrib ADCY1=Yes    -0.00750165205509907
+    Attrib ADIPOR2=Yes    0.06339346474642786
+    Attrib AHR=Yes    0.041841873321522165
+    Attrib AKAP1=Yes    0.008378460386706461
+    Attrib AKR1B10=Yes    0.030817133543206796
+    Attrib AMOTL2=Yes    0.048503282731005105
+    Attrib ANK1=Yes    -0.04422782583924615
+    Attrib ANO5=Yes    0.03621193186659853
+    Attrib APOBEC4=Yes    0.005544808197117482
+    Attrib APPBP2=Yes    0.011480021990425781
+    Attrib AR=Yes    0.023805654866620975
+    Attrib ARHGAP6=Yes    -0.03182066751521103
+    Attrib AZIN1=Yes    0.037087240621713306
+    Attrib BBX=Yes    0.06959149820922769
+    Attrib BMP2=Yes    0.052385884098439556
+    Attrib BTG2=Yes    0.0890211664264946
+    Attrib C15ORF40=Yes    0.053528398503436894
+    Attrib C21ORF91=Yes    0.019784336405059798
+    Attrib C2CD2=Yes    -0.01761871299246292
+    Attrib CABP5=Yes    -0.0059023135832060435
+    Attrib CALD1=Yes    0.02538066266723839
+    Attrib CAMK1D=Yes    -0.04375715945234597
+    Attrib CASP8AP2=Yes    -0.004098287834385434
+    Attrib CIB2=Yes    0.03907107274746772
+    Attrib CIC=Yes    0.054387748562065553
+    Attrib CLCN3=Yes    0.024410566342787925
+    Attrib CLDN22=Yes    0.025813184291195748
+    Attrib CREB1=Yes    0.029869201562027464
+    Attrib CREBBP=Yes    -0.0066594119415613095
+    Attrib CREBRF=Yes    0.061622197569022805
+    Attrib CUL3=Yes    -0.005492176800328694
+    Attrib DBT=Yes    0.023454399416059025
+    Attrib DEAF1=Yes    0.0018027981096120555
+    Attrib DOCK7=Yes    0.019233065907379537
+    Attrib ERICH3=Yes    0.01527853571878088
+    Attrib FAM86B1=Yes    -0.029408032179638666
+    Attrib FBXW7=Yes    0.0912372588030048
+    Attrib FCGR1B=Yes    -0.011980737271549947
+    Attrib FRMD4B=No    -0.011543826381666195
+    Attrib GPC6=Yes    0.0016597865104792638
+    Attrib HECTD2=Yes    0.05757966778031467
+    Attrib ITGB8=Yes    0.062089717433304485
+    Attrib KCNJ2=Yes    0.018779399410033024
+    Attrib KDM5B=Yes    0.07013189675860126
+    Attrib KIAA1522=Yes    0.050072849158852926
+    Attrib LIN28B=No    -0.03863418461473852
+    Attrib LRIG3=No    -0.07866302174379936
+    Attrib MAFB=Yes    -0.015376624039767597
+    Attrib MMGT1=Yes    0.08098949351206416
+    Attrib MTMR2=Yes    -0.021085992767845754
+    Attrib NFIC=Yes    0.05057625275713716
+    Attrib NFIX=Yes    0.010853724360035061
+    Attrib NPTX1=Yes    0.0661748061231077
+    Attrib PLEKHS1=Yes    0.04291634405256629
+    Attrib POU3F4=Yes    0.013918130753341125
+    Attrib PPP1R11=Yes    0.01669380580983446
+    Attrib PSKH1=Yes    0.019183082612950184
+    Attrib PTEN=Yes    0.08339573581947976
+    Attrib RIMS4=Yes    -0.01350051985920855
+    Attrib RORA=Yes    0.06963227937334149
+    Attrib RPS6KA5=Yes    0.01619566746730974
+    Attrib RUNDC3A=Yes    0.022117608546894187
+    Attrib SEC23IP=Yes    0.04741716276841385
+    Attrib SESN3=Yes    -0.013368672025939882
+    Attrib SLITRK4=Yes    0.047040409195442584
+    Attrib SP4=Yes    -0.01831677104191435
+    Attrib TRIM71=No    -0.07527339215144102
+    Attrib UBE2H=Yes    -0.009941716345837065
+    Attrib USP3=Yes    0.05650424681758173
+    Attrib VPS54=Yes    -0.007620421249514564
+    Attrib YOD1=Yes    -0.008793175209039888
+    Attrib ZBTB34=Yes    0.06993954200576225
+    Attrib ZNF512B=No    -0.019676180601421515
+Sigmoid Node 13
+    Inputs    Weights
+    Threshold    -0.036656429244080316
+    Attrib A1CF=Yes    0.059484058296370865
+    Attrib ABL2=Yes    0.013327443642581637
+    Attrib ACTC1=Yes    0.06706612421904716
+    Attrib ACVR1=Yes    0.08313536773449881
+    Attrib ADCY1=Yes    0.05905568167437203
+    Attrib ADIPOR2=Yes    0.041431940127711585
+    Attrib AHR=Yes    0.03406858493087109
+    Attrib AKAP1=Yes    0.04424088237376791
+    Attrib AKR1B10=Yes    -0.010158322505912008
+    Attrib AMOTL2=Yes    0.06468469594569859
+    Attrib ANK1=Yes    0.018185696298760306
+    Attrib ANO5=Yes    0.053442395277847006
+    Attrib APOBEC4=Yes    0.06193697553771218
+    Attrib APPBP2=Yes    0.005779384909808397
+    Attrib AR=Yes    0.04483479141685493
+    Attrib ARHGAP6=Yes    0.07248242103616766
+    Attrib AZIN1=Yes    -0.010817645206027812
+    Attrib BBX=Yes    0.027915613235097662
+    Attrib BMP2=Yes    0.07180544984852381
+    Attrib BTG2=Yes    0.06627616632450005
+    Attrib C15ORF40=Yes    0.0740254915888725
+    Attrib C21ORF91=Yes    0.0539514020395931
+    Attrib C2CD2=Yes    0.05196693687825411
+    Attrib CABP5=Yes    -0.004026342259404252
+    Attrib CALD1=Yes    0.07256954784424859
+    Attrib CAMK1D=Yes    0.03199726911417671
+    Attrib CASP8AP2=Yes    -0.0016796844424163356
+    Attrib CIB2=Yes    0.056294641084534545
+    Attrib CIC=Yes    0.057083448435914626
+    Attrib CLCN3=Yes    0.08351644387741607
+    Attrib CLDN22=Yes    0.07107921693967272
+    Attrib CREB1=Yes    0.04923260673164784
+    Attrib CREBBP=Yes    0.04884546689842312
+    Attrib CREBRF=Yes    -0.022871035113719823
+    Attrib CUL3=Yes    0.048254605313907566
+    Attrib DBT=Yes    0.060543499011412615
+    Attrib DEAF1=Yes    0.06470854836992032
+    Attrib DOCK7=Yes    0.014083044061558452
+    Attrib ERICH3=Yes    0.07146242439266741
+    Attrib FAM86B1=Yes    0.05286263172306417
+    Attrib FBXW7=Yes    0.03970838315155388
+    Attrib FCGR1B=Yes    -9.837063251143094E-4
+    Attrib FRMD4B=No    -0.008341136674560351
+    Attrib GPC6=Yes    0.06356543812860743
+    Attrib HECTD2=Yes    0.0882324479961481
+    Attrib ITGB8=Yes    0.04311247350900235
+    Attrib KCNJ2=Yes    0.048921690861869455
+    Attrib KDM5B=Yes    0.007260946123470355
+    Attrib KIAA1522=Yes    0.021944046394740114
+    Attrib LIN28B=No    -0.042338996435825546
+    Attrib LRIG3=No    -0.05108706186151904
+    Attrib MAFB=Yes    0.056068618493111906
+    Attrib MMGT1=Yes    0.03676826943950212
+    Attrib MTMR2=Yes    0.0035286008375605966
+    Attrib NFIC=Yes    -5.720046774751682E-4
+    Attrib NFIX=Yes    0.0012070208024497582
+    Attrib NPTX1=Yes    -0.018975176783627788
+    Attrib PLEKHS1=Yes    0.06635025302943545
+    Attrib POU3F4=Yes    0.07564472214580542
+    Attrib PPP1R11=Yes    0.08279283653332559
+    Attrib PSKH1=Yes    0.010871816406014137
+    Attrib PTEN=Yes    0.05969288501978753
+    Attrib RIMS4=Yes    0.009863178269496196
+    Attrib RORA=Yes    0.02479599559358135
+    Attrib RPS6KA5=Yes    -0.029408109363973846
+    Attrib RUNDC3A=Yes    -5.566563561929512E-4
+    Attrib SEC23IP=Yes    0.0442642806147505
+    Attrib SESN3=Yes    0.014075188981590502
+    Attrib SLITRK4=Yes    0.0489961771502464
+    Attrib SP4=Yes    0.055993637420625714
+    Attrib TRIM71=No    -0.011311575251104633
+    Attrib UBE2H=Yes    -0.01729612073130698
+    Attrib USP3=Yes    0.045444684727746064
+    Attrib VPS54=Yes    -0.010877660542393995
+    Attrib YOD1=Yes    0.020626692754654088
+    Attrib ZBTB34=Yes    0.05388196207499409
+    Attrib ZNF512B=No    0.01884066218662749
+Sigmoid Node 14
+    Inputs    Weights
+    Threshold    0.09987847666020888
+    Attrib A1CF=Yes    -0.11685450653548524
+    Attrib ABL2=Yes    0.5459211006762972
+    Attrib ACTC1=Yes    -0.22769970663831446
+    Attrib ACVR1=Yes    0.38830759627033723
+    Attrib ADCY1=Yes    -0.16248617953441458
+    Attrib ADIPOR2=Yes    0.3793304543697099
+    Attrib AHR=Yes    -0.18834950930419447
+    Attrib AKAP1=Yes    0.21880034108634655
+    Attrib AKR1B10=Yes    -0.1249294093339153
+    Attrib AMOTL2=Yes    0.3524719574743225
+    Attrib ANK1=Yes    -0.25093946428209496
+    Attrib ANO5=Yes    -0.18016327410196029
+    Attrib APOBEC4=Yes    -0.26461912102391133
+    Attrib APPBP2=Yes    0.5347881035981761
+    Attrib AR=Yes    -0.13448460871484638
+    Attrib ARHGAP6=Yes    -0.21477968282709298
+    Attrib AZIN1=Yes    -0.17253637243927591
+    Attrib BBX=Yes    0.1926596614055405
+    Attrib BMP2=Yes    -0.2524970012373958
+    Attrib BTG2=Yes    0.6458166704527815
+    Attrib C15ORF40=Yes    -0.13482598219609268
+    Attrib C21ORF91=Yes    -0.024109799708725538
+    Attrib C2CD2=Yes    0.07973613379262134
+    Attrib CABP5=Yes    -0.09833964074823197
+    Attrib CALD1=Yes    -0.08060023047167574
+    Attrib CAMK1D=Yes    -0.36040462447309235
+    Attrib CASP8AP2=Yes    -0.28560078350631246
+    Attrib CIB2=Yes    -0.11417283088615796
+    Attrib CIC=Yes    -0.15018764015095673
+    Attrib CLCN3=Yes    0.19593722099033864
+    Attrib CLDN22=Yes    0.2600648875334299
+    Attrib CREB1=Yes    -0.19570713737043866
+    Attrib CREBBP=Yes    -0.37858560821111636
+    Attrib CREBRF=Yes    0.4166209331124156
+    Attrib CUL3=Yes    -0.1336691674692786
+    Attrib DBT=Yes    -0.17033678988232437
+    Attrib DEAF1=Yes    -0.2820551713286956
+    Attrib DOCK7=Yes    -0.23852635878916445
+    Attrib ERICH3=Yes    -0.09954443900256958
+    Attrib FAM86B1=Yes    -0.11859182387823622
+    Attrib FBXW7=Yes    0.4154881320490964
+    Attrib FCGR1B=Yes    -0.21136331584442877
+    Attrib FRMD4B=No    -0.09244198299905083
+    Attrib GPC6=Yes    -0.20765443332899372
+    Attrib HECTD2=Yes    0.3654667675226403
+    Attrib ITGB8=Yes    0.35951324015003905
+    Attrib KCNJ2=Yes    0.11756514884165524
+    Attrib KDM5B=Yes    0.4300851974937406
+    Attrib KIAA1522=Yes    -0.1537515532511564
+    Attrib LIN28B=No    -0.15289236855027558
+    Attrib LRIG3=No    -0.08775985209892076
+    Attrib MAFB=Yes    -0.27592754133666686
+    Attrib MMGT1=Yes    0.42854554724170607
+    Attrib MTMR2=Yes    -0.10346613266071063
+    Attrib NFIC=Yes    0.5831520706747491
+    Attrib NFIX=Yes    -0.3373474711476779
+    Attrib NPTX1=Yes    0.4772026403190397
+    Attrib PLEKHS1=Yes    -0.1955415123989848
+    Attrib POU3F4=Yes    -0.1801674668053227
+    Attrib PPP1R11=Yes    0.5307425225294109
+    Attrib PSKH1=Yes    -0.12332372987855574
+    Attrib PTEN=Yes    0.07308940097181034
+    Attrib RIMS4=Yes    -0.0799197476475094
+    Attrib RORA=Yes    0.6303918140729271
+    Attrib RPS6KA5=Yes    0.08024591902684092
+    Attrib RUNDC3A=Yes    -0.06742816259603505
+    Attrib SEC23IP=Yes    0.040505701232218465
+    Attrib SESN3=Yes    0.1009140402744035
+    Attrib SLITRK4=Yes    -0.2697034929250804
+    Attrib SP4=Yes    -0.22716431648264646
+    Attrib TRIM71=No    -0.2546352227640963
+    Attrib UBE2H=Yes    -0.29145522145103864
+    Attrib USP3=Yes    0.11826860305727838
+    Attrib VPS54=Yes    -0.45561294421611964
+    Attrib YOD1=Yes    0.03942257817723749
+    Attrib ZBTB34=Yes    0.3861891040321183
+    Attrib ZNF512B=No    -0.1507464359114518
+Sigmoid Node 15
+    Inputs    Weights
+    Threshold    -0.036103323901142806
+    Attrib A1CF=Yes    0.04391393371261818
+    Attrib ABL2=Yes    0.05653167852016589
+    Attrib ACTC1=Yes    0.052226670370521616
+    Attrib ACVR1=Yes    0.07742524162429444
+    Attrib ADCY1=Yes    0.02343898288898402
+    Attrib ADIPOR2=Yes    0.04753493804030904
+    Attrib AHR=Yes    0.078859492282998
+    Attrib AKAP1=Yes    -0.001936860789080652
+    Attrib AKR1B10=Yes    0.030420083965820827
+    Attrib AMOTL2=Yes    0.06873627557255342
+    Attrib ANK1=Yes    0.08442375478987121
+    Attrib ANO5=Yes    0.020163723565456912
+    Attrib APOBEC4=Yes    0.08221410996378209
+    Attrib APPBP2=Yes    -0.009575643384993664
+    Attrib AR=Yes    0.0756344952734017
+    Attrib ARHGAP6=Yes    0.02428358834619814
+    Attrib AZIN1=Yes    0.06647590156029519
+    Attrib BBX=Yes    0.010404244981106365
+    Attrib BMP2=Yes    0.08083498078353575
+    Attrib BTG2=Yes    0.05617529507544731
+    Attrib C15ORF40=Yes    0.07817635590535163
+    Attrib C21ORF91=Yes    0.013158492516735537
+    Attrib C2CD2=Yes    -0.023229778566497255
+    Attrib CABP5=Yes    0.051773210154546764
+    Attrib CALD1=Yes    0.028499229936845224
+    Attrib CAMK1D=Yes    0.04279478998309169
+    Attrib CASP8AP2=Yes    0.02516089095936118
+    Attrib CIB2=Yes    0.021524558514301458
+    Attrib CIC=Yes    0.024870567398223745
+    Attrib CLCN3=Yes    0.03510461634639675
+    Attrib CLDN22=Yes    0.021627669960675205
+    Attrib CREB1=Yes    0.00973556805178456
+    Attrib CREBBP=Yes    0.0065395975540105955
+    Attrib CREBRF=Yes    -0.020939388823798512
+    Attrib CUL3=Yes    0.02424754093917208
+    Attrib DBT=Yes    0.022762778319601246
+    Attrib DEAF1=Yes    0.06837709377152863
+    Attrib DOCK7=Yes    0.047431508540974894
+    Attrib ERICH3=Yes    0.006638924673717527
+    Attrib FAM86B1=Yes    0.008131577402122406
+    Attrib FBXW7=Yes    0.03642020750843018
+    Attrib FCGR1B=Yes    0.08184854374426064
+    Attrib FRMD4B=No    0.010287251047930322
+    Attrib GPC6=Yes    0.05004983450514969
+    Attrib HECTD2=Yes    0.08345370209766267
+    Attrib ITGB8=Yes    -0.03697822179664685
+    Attrib KCNJ2=Yes    0.03640996283036417
+    Attrib KDM5B=Yes    0.07303347268791717
+    Attrib KIAA1522=Yes    0.06901621558267193
+    Attrib LIN28B=No    -0.06315501903094346
+    Attrib LRIG3=No    -0.014474432803830336
+    Attrib MAFB=Yes    0.015291958771054095
+    Attrib MMGT1=Yes    0.06192197880934312
+    Attrib MTMR2=Yes    0.061259489918966875
+    Attrib NFIC=Yes    0.033069349776798866
+    Attrib NFIX=Yes    0.04065412218736405
+    Attrib NPTX1=Yes    0.05797826221327468
+    Attrib PLEKHS1=Yes    0.06676207842261841
+    Attrib POU3F4=Yes    0.09075884111382995
+    Attrib PPP1R11=Yes    0.02119707239766297
+    Attrib PSKH1=Yes    0.027831220358806818
+    Attrib PTEN=Yes    0.06670717855151434
+    Attrib RIMS4=Yes    0.031425818784559405
+    Attrib RORA=Yes    -0.008905118906495684
+    Attrib RPS6KA5=Yes    -0.003518751754122855
+    Attrib RUNDC3A=Yes    0.08515534248627711
+    Attrib SEC23IP=Yes    0.001749141595421687
+    Attrib SESN3=Yes    0.05833404398176519
+    Attrib SLITRK4=Yes    0.09112707735793205
+    Attrib SP4=Yes    0.06258555352467808
+    Attrib TRIM71=No    -0.010112892422057792
+    Attrib UBE2H=Yes    0.06847354932785572
+    Attrib USP3=Yes    -0.006052066397278511
+    Attrib VPS54=Yes    -0.004156181540872758
+    Attrib YOD1=Yes    0.002958223377013807
+    Attrib ZBTB34=Yes    0.026836994746045895
+    Attrib ZNF512B=No    0.008152064257245224
+Sigmoid Node 16
+    Inputs    Weights
+    Threshold    -0.15682377612158568
+    Attrib A1CF=Yes    0.2852439511008895
+    Attrib ABL2=Yes    -0.7236640491362764
+    Attrib ACTC1=Yes    0.4138954332817562
+    Attrib ACVR1=Yes    -0.5769232248333273
+    Attrib ADCY1=Yes    0.3275949402556237
+    Attrib ADIPOR2=Yes    -0.5939007840208402
+    Attrib AHR=Yes    0.2708149128382348
+    Attrib AKAP1=Yes    -0.2945053601026331
+    Attrib AKR1B10=Yes    0.34261790559843786
+    Attrib AMOTL2=Yes    -0.4634514801709209
+    Attrib ANK1=Yes    0.3695891071302177
+    Attrib ANO5=Yes    0.32093431543890477
+    Attrib APOBEC4=Yes    0.43990090429894296
+    Attrib APPBP2=Yes    -0.6701160433125424
+    Attrib AR=Yes    0.2836514574153522
+    Attrib ARHGAP6=Yes    0.4001354211188986
+    Attrib AZIN1=Yes    0.2563295503660658
+    Attrib BBX=Yes    -0.18334576207206732
+    Attrib BMP2=Yes    0.40162903189027827
+    Attrib BTG2=Yes    -0.9679532038081606
+    Attrib C15ORF40=Yes    0.28190350542861536
+    Attrib C21ORF91=Yes    0.04824606095194355
+    Attrib C2CD2=Yes    -0.007886899054790023
+    Attrib CABP5=Yes    0.22140180243609497
+    Attrib CALD1=Yes    0.2911458134939797
+    Attrib CAMK1D=Yes    0.5747827812621096
+    Attrib CASP8AP2=Yes    0.5075853721400897
+    Attrib CIB2=Yes    0.27906736049527653
+    Attrib CIC=Yes    0.24469783742396947
+    Attrib CLCN3=Yes    -0.25523015917055614
+    Attrib CLDN22=Yes    -0.49779662033104066
+    Attrib CREB1=Yes    0.42183582581407486
+    Attrib CREBBP=Yes    0.6204998621045956
+    Attrib CREBRF=Yes    -0.46459260520741
+    Attrib CUL3=Yes    0.28772981336999787
+    Attrib DBT=Yes    0.24535963723538712
+    Attrib DEAF1=Yes    0.48422139142889287
+    Attrib DOCK7=Yes    0.4165618978703674
+    Attrib ERICH3=Yes    0.2617419047198746
+    Attrib FAM86B1=Yes    0.2237488930529708
+    Attrib FBXW7=Yes    -0.5261013486832142
+    Attrib FCGR1B=Yes    0.3064440918147248
+    Attrib FRMD4B=No    0.04203403532804738
+    Attrib GPC6=Yes    0.40228998900223994
+    Attrib HECTD2=Yes    -0.3734997086236534
+    Attrib ITGB8=Yes    -0.4030158166675868
+    Attrib KCNJ2=Yes    -0.08151102371267185
+    Attrib KDM5B=Yes    -0.603739495591078
+    Attrib KIAA1522=Yes    0.29155558410633414
+    Attrib LIN28B=No    0.06917138268259247
+    Attrib LRIG3=No    -0.028981338310442195
+    Attrib MAFB=Yes    0.512489658688193
+    Attrib MMGT1=Yes    -0.4737677455534762
+    Attrib MTMR2=Yes    0.25134761364701047
+    Attrib NFIC=Yes    -0.8928982767865472
+    Attrib NFIX=Yes    0.5153007896041716
+    Attrib NPTX1=Yes    -0.8134334959323859
+    Attrib PLEKHS1=Yes    0.35663872165051874
+    Attrib POU3F4=Yes    0.23130754044682686
+    Attrib PPP1R11=Yes    -0.8054069167471911
+    Attrib PSKH1=Yes    0.24920576463953503
+    Attrib PTEN=Yes    -0.059785389867236895
+    Attrib RIMS4=Yes    0.23183731160002022
+    Attrib RORA=Yes    -0.871149323270071
+    Attrib RPS6KA5=Yes    -0.10823326066372858
+    Attrib RUNDC3A=Yes    0.2248346109956916
+    Attrib SEC23IP=Yes    0.015158433812513758
+    Attrib SESN3=Yes    -0.07801897887322606
+    Attrib SLITRK4=Yes    0.4244205637941749
+    Attrib SP4=Yes    0.31851033380018473
+    Attrib TRIM71=No    0.2847091625665033
+    Attrib UBE2H=Yes    0.4158716094811548
+    Attrib USP3=Yes    -0.018378124516543748
+    Attrib VPS54=Yes    0.6157653243263954
+    Attrib YOD1=Yes    -0.07241052215099486
+    Attrib ZBTB34=Yes    -0.456240207759225
+    Attrib ZNF512B=No    0.19762473546479048
+Sigmoid Node 17
+    Inputs    Weights
+    Threshold    -0.015989063569333082
+    Attrib A1CF=Yes    -0.05234713836775863
+    Attrib ABL2=Yes    0.08214420414323652
+    Attrib ACTC1=Yes    -0.06407547578756922
+    Attrib ACVR1=Yes    0.14343069810541872
+    Attrib ADCY1=Yes    0.014478604515152808
+    Attrib ADIPOR2=Yes    0.1242016490546683
+    Attrib AHR=Yes    -0.026303454922261185
+    Attrib AKAP1=Yes    0.07824902338864279
+    Attrib AKR1B10=Yes    0.020952080696632437
+    Attrib AMOTL2=Yes    0.07079365125164659
+    Attrib ANK1=Yes    -0.06461382145901078
+    Attrib ANO5=Yes    0.009347624526749669
+    Attrib APOBEC4=Yes    -0.021608217234632625
+    Attrib APPBP2=Yes    0.1450192019736875
+    Attrib AR=Yes    -0.0319334056293767
+    Attrib ARHGAP6=Yes    0.005312143301318079
+    Attrib AZIN1=Yes    -0.047610467019206834
+    Attrib BBX=Yes    0.027239502212658598
+    Attrib BMP2=Yes    -0.07108887763602062
+    Attrib BTG2=Yes    0.1538088034943175
+    Attrib C15ORF40=Yes    -0.019214427685904034
+    Attrib C21ORF91=Yes    -0.018274665326434774
+    Attrib C2CD2=Yes    0.050573885602972365
+    Attrib CABP5=Yes    -0.024697755109443616
+    Attrib CALD1=Yes    -0.04586038330981933
+    Attrib CAMK1D=Yes    -0.08681790339054864
+    Attrib CASP8AP2=Yes    0.0022145660102600305
+    Attrib CIB2=Yes    0.004866987778979503
+    Attrib CIC=Yes    -2.7833043232053454E-4
+    Attrib CLCN3=Yes    0.12234392510536364
+    Attrib CLDN22=Yes    0.06359419122649236
+    Attrib CREB1=Yes    -0.01946202118427236
+    Attrib CREBBP=Yes    -0.07246284477530388
+    Attrib CREBRF=Yes    0.12796193339660558
+    Attrib CUL3=Yes    0.015062946702341614
+    Attrib DBT=Yes    -0.05068438377903902
+    Attrib DEAF1=Yes    -0.049671106850321764
+    Attrib DOCK7=Yes    -0.07210730514374582
+    Attrib ERICH3=Yes    -0.03499431665261475
+    Attrib FAM86B1=Yes    -0.027262473427450133
+    Attrib FBXW7=Yes    0.05565146691846207
+    Attrib FCGR1B=Yes    -0.04414137569958383
+    Attrib FRMD4B=No    0.011425250331224532
+    Attrib GPC6=Yes    -0.027394089254189045
+    Attrib HECTD2=Yes    0.15467163110768428
+    Attrib ITGB8=Yes    0.026074554124279902
+    Attrib KCNJ2=Yes    0.06476518669526538
+    Attrib KDM5B=Yes    0.058550305789203276
+    Attrib KIAA1522=Yes    0.005721452399792171
+    Attrib LIN28B=No    -0.05535552459592002
+    Attrib LRIG3=No    -0.08221437526200283
+    Attrib MAFB=Yes    -0.015963536320007864
+    Attrib MMGT1=Yes    0.13622776173489112
+    Attrib MTMR2=Yes    -0.029111575167530594
+    Attrib NFIC=Yes    0.10321866681566233
+    Attrib NFIX=Yes    -0.04647250831346753
+    Attrib NPTX1=Yes    0.09722846001594099
+    Attrib PLEKHS1=Yes    -0.04332155082704509
+    Attrib POU3F4=Yes    0.0021981422281785305
+    Attrib PPP1R11=Yes    0.12479344831218239
+    Attrib PSKH1=Yes    -0.002497991481663955
+    Attrib PTEN=Yes    0.018778191625330346
+    Attrib RIMS4=Yes    0.016676425606943972
+    Attrib RORA=Yes    0.1256195571008457
+    Attrib RPS6KA5=Yes    -0.002081248424993132
+    Attrib RUNDC3A=Yes    0.040237108426697206
+    Attrib SEC23IP=Yes    0.06388392845681394
+    Attrib SESN3=Yes    0.04569816403254796
+    Attrib SLITRK4=Yes    -0.06818468906090587
+    Attrib SP4=Yes    -0.07036063370644471
+    Attrib TRIM71=No    -0.09590827577370907
+    Attrib UBE2H=Yes    -0.07078620057634845
+    Attrib USP3=Yes    0.016784619301304718
+    Attrib VPS54=Yes    -0.042134922753532374
+    Attrib YOD1=Yes    0.045630767485952885
+    Attrib ZBTB34=Yes    0.09003647158357554
+    Attrib ZNF512B=No    -0.055598841163452976
+Sigmoid Node 18
+    Inputs    Weights
+    Threshold    0.054898991306593
+    Attrib A1CF=Yes    -0.07553558816252964
+    Attrib ABL2=Yes    0.13790929873748622
+    Attrib ACTC1=Yes    -0.11517506149236724
+    Attrib ACVR1=Yes    0.2234163552371883
+    Attrib ADCY1=Yes    -0.06296587847743959
+    Attrib ADIPOR2=Yes    0.10809011184218736
+    Attrib AHR=Yes    -0.01797310036154101
+    Attrib AKAP1=Yes    0.10195194428346945
+    Attrib AKR1B10=Yes    -0.06849474878675132
+    Attrib AMOTL2=Yes    0.19299542516328122
+    Attrib ANK1=Yes    -0.11550277976255265
+    Attrib ANO5=Yes    -0.03452421893464233
+    Attrib APOBEC4=Yes    -0.04993379845535158
+    Attrib APPBP2=Yes    0.1386184367338477
+    Attrib AR=Yes    -0.04960025182829576
+    Attrib ARHGAP6=Yes    -0.034698129096718995
+    Attrib AZIN1=Yes    -0.009981156089504789
+    Attrib BBX=Yes    0.0723805740976402
+    Attrib BMP2=Yes    -0.08814023417961503
+    Attrib BTG2=Yes    0.18476026576064555
+    Attrib C15ORF40=Yes    -0.00911873816235498
+    Attrib C21ORF91=Yes    0.01627532276554876
+    Attrib C2CD2=Yes    0.02703671333807172
+    Attrib CABP5=Yes    -0.023809089454322797
+    Attrib CALD1=Yes    -0.0028580687121481365
+    Attrib CAMK1D=Yes    -0.1551241074266583
+    Attrib CASP8AP2=Yes    -0.08693479636343071
+    Attrib CIB2=Yes    -0.06123448404573379
+    Attrib CIC=Yes    -0.028150251643010347
+    Attrib CLCN3=Yes    0.12025498682973804
+    Attrib CLDN22=Yes    0.06627209378118894
+    Attrib CREB1=Yes    -0.10220051892160996
+    Attrib CREBBP=Yes    -0.11931289390592227
+    Attrib CREBRF=Yes    0.14126140931809644
+    Attrib CUL3=Yes    -0.1009273402899888
+    Attrib DBT=Yes    -0.06596038632781119
+    Attrib DEAF1=Yes    -0.07641768198735306
+    Attrib DOCK7=Yes    -0.08044091828946978
+    Attrib ERICH3=Yes    -0.08027163744671939
+    Attrib FAM86B1=Yes    -0.051136599146990376
+    Attrib FBXW7=Yes    0.12432063704116991
+    Attrib FCGR1B=Yes    -0.09272028745585725
+    Attrib FRMD4B=No    -0.02180691965898196
+    Attrib GPC6=Yes    -0.08826198171739356
+    Attrib HECTD2=Yes    0.19407052175816125
+    Attrib ITGB8=Yes    0.20633834241111942
+    Attrib KCNJ2=Yes    0.09835646021083723
+    Attrib KDM5B=Yes    0.15706143784966392
+    Attrib KIAA1522=Yes    -0.069789237111556
+    Attrib LIN28B=No    -0.07571994904498797
+    Attrib LRIG3=No    -0.047170860070587316
+    Attrib MAFB=Yes    -0.12524118269015494
+    Attrib MMGT1=Yes    0.11695255385247186
+    Attrib MTMR2=Yes    -0.021544293796141867
+    Attrib NFIC=Yes    0.24549276772565568
+    Attrib NFIX=Yes    -0.14220876439599656
+    Attrib NPTX1=Yes    0.1687284030894811
+    Attrib PLEKHS1=Yes    -0.07021884193399434
+    Attrib POU3F4=Yes    -0.01763851431238744
+    Attrib PPP1R11=Yes    0.17102720622299133
+    Attrib PSKH1=Yes    -0.0800289861191279
+    Attrib PTEN=Yes    0.10570871538554384
+    Attrib RIMS4=Yes    -0.03274905668250265
+    Attrib RORA=Yes    0.2933339623999032
+    Attrib RPS6KA5=Yes    0.0878030964170299
+    Attrib RUNDC3A=Yes    -0.08906056174253431
+    Attrib SEC23IP=Yes    0.0930808988140358
+    Attrib SESN3=Yes    0.11244271058974924
+    Attrib SLITRK4=Yes    -0.09897765090480415
+    Attrib SP4=Yes    -0.10527903471709207
+    Attrib TRIM71=No    -0.17286628452735095
+    Attrib UBE2H=Yes    -0.1157847253478858
+    Attrib USP3=Yes    0.03937190100672783
+    Attrib VPS54=Yes    -0.1238143861896756
+    Attrib YOD1=Yes    0.05468757874368668
+    Attrib ZBTB34=Yes    0.20708663253788617
+    Attrib ZNF512B=No    -0.14319658515727832
+Sigmoid Node 19
+    Inputs    Weights
+    Threshold    0.09610139990876894
+    Attrib A1CF=Yes    -0.23038928088690158
+    Attrib ABL2=Yes    0.8479342759632277
+    Attrib ACTC1=Yes    -0.4496204814323222
+    Attrib ACVR1=Yes    0.7463125393863935
+    Attrib ADCY1=Yes    -0.28159378638613436
+    Attrib ADIPOR2=Yes    0.7952052161389969
+    Attrib AHR=Yes    -0.28610617299346874
+    Attrib AKAP1=Yes    0.3412355045450224
+    Attrib AKR1B10=Yes    -0.2799262767282696
+    Attrib AMOTL2=Yes    0.6285528400617175
+    Attrib ANK1=Yes    -0.3987511576294182
+    Attrib ANO5=Yes    -0.32095147845448824
+    Attrib APOBEC4=Yes    -0.4049753595884741
+    Attrib APPBP2=Yes    0.7300182055400853
+    Attrib AR=Yes    -0.2806337383642519
+    Attrib ARHGAP6=Yes    -0.30238939134629095
+    Attrib AZIN1=Yes    -0.18533733654303433
+    Attrib BBX=Yes    0.266279684738171
+    Attrib BMP2=Yes    -0.35811416890555653
+    Attrib BTG2=Yes    1.000426180696873
+    Attrib C15ORF40=Yes    -0.22040794106917339
+    Attrib C21ORF91=Yes    0.04348653161145129
+    Attrib C2CD2=Yes    0.1240838225744147
+    Attrib CABP5=Yes    -0.19323130735734936
+    Attrib CALD1=Yes    -0.1818285116521841
+    Attrib CAMK1D=Yes    -0.5416292561662148
+    Attrib CASP8AP2=Yes    -0.49638878618093935
+    Attrib CIB2=Yes    -0.19840077453250246
+    Attrib CIC=Yes    -0.19561045540224986
+    Attrib CLCN3=Yes    0.37653711481896235
+    Attrib CLDN22=Yes    0.4976405590256966
+    Attrib CREB1=Yes    -0.43828959442230575
+    Attrib CREBBP=Yes    -0.637830648744232
+    Attrib CREBRF=Yes    0.5581013365858988
+    Attrib CUL3=Yes    -0.33139921393533645
+    Attrib DBT=Yes    -0.21830511278753753
+    Attrib DEAF1=Yes    -0.43508079959766266
+    Attrib DOCK7=Yes    -0.43922730463585147
+    Attrib ERICH3=Yes    -0.18347185134774727
+    Attrib FAM86B1=Yes    -0.23579169770705724
+    Attrib FBXW7=Yes    0.6980067753777022
+    Attrib FCGR1B=Yes    -0.3694039650776379
+    Attrib FRMD4B=No    -0.10615884805488292
+    Attrib GPC6=Yes    -0.43548966603587796
+    Attrib HECTD2=Yes    0.5380373232794962
+    Attrib ITGB8=Yes    0.5357472608130601
+    Attrib KCNJ2=Yes    0.08520415549099014
+    Attrib KDM5B=Yes    0.8140266559727446
+    Attrib KIAA1522=Yes    -0.22939237287010178
+    Attrib LIN28B=No    -0.14239064872925505
+    Attrib LRIG3=No    -0.0372651234015649
+    Attrib MAFB=Yes    -0.5204566414347511
+    Attrib MMGT1=Yes    0.6253083725196622
+    Attrib MTMR2=Yes    -0.1961351812165615
+    Attrib NFIC=Yes    0.9828472589114378
+    Attrib NFIX=Yes    -0.5521750011563381
+    Attrib NPTX1=Yes    0.9973614739923087
+    Attrib PLEKHS1=Yes    -0.40155824778158405
+    Attrib POU3F4=Yes    -0.2304047715651523
+    Attrib PPP1R11=Yes    0.8849036699684406
+    Attrib PSKH1=Yes    -0.267841276533012
+    Attrib PTEN=Yes    0.11245310814447862
+    Attrib RIMS4=Yes    -0.21489430687236388
+    Attrib RORA=Yes    1.0296094714648336
+    Attrib RPS6KA5=Yes    0.19215169014535322
+    Attrib RUNDC3A=Yes    -0.21475299436682876
+    Attrib SEC23IP=Yes    0.1380486829726994
+    Attrib SESN3=Yes    0.19075067852953212
+    Attrib SLITRK4=Yes    -0.5141160633151114
+    Attrib SP4=Yes    -0.32802951651375206
+    Attrib TRIM71=No    -0.33134098668378426
+    Attrib UBE2H=Yes    -0.5111011173597727
+    Attrib USP3=Yes    0.06112555063679104
+    Attrib VPS54=Yes    -0.8144075569014455
+    Attrib YOD1=Yes    0.09239715267554398
+    Attrib ZBTB34=Yes    0.7276137025291493
+    Attrib ZNF512B=No    -0.2958212557493689
+Sigmoid Node 20
+    Inputs    Weights
+    Threshold    0.16769792509800424
+    Attrib A1CF=Yes    -0.31835268089107077
+    Attrib ABL2=Yes    1.1223902103322456
+    Attrib ACTC1=Yes    -0.6350628430249107
+    Attrib ACVR1=Yes    1.016580729157482
+    Attrib ADCY1=Yes    -0.4474359457922568
+    Attrib ADIPOR2=Yes    1.0061207581545504
+    Attrib AHR=Yes    -0.36139581243496677
+    Attrib AKAP1=Yes    0.3479099316081024
+    Attrib AKR1B10=Yes    -0.34363946442390864
+    Attrib AMOTL2=Yes    0.8184816810985499
+    Attrib ANK1=Yes    -0.5632109524651475
+    Attrib ANO5=Yes    -0.4417272931877431
+    Attrib APOBEC4=Yes    -0.5477913384151606
+    Attrib APPBP2=Yes    1.0673609446647476
+    Attrib AR=Yes    -0.3911516993804823
+    Attrib ARHGAP6=Yes    -0.4813129997548409
+    Attrib AZIN1=Yes    -0.28869701719760377
+    Attrib BBX=Yes    0.3366446807500929
+    Attrib BMP2=Yes    -0.5071050525761354
+    Attrib BTG2=Yes    1.4046706782869247
+    Attrib C15ORF40=Yes    -0.23950118807674892
+    Attrib C21ORF91=Yes    -0.0067921046958502405
+    Attrib C2CD2=Yes    0.10330099077977524
+    Attrib CABP5=Yes    -0.33112880111040366
+    Attrib CALD1=Yes    -0.3281888689458839
+    Attrib CAMK1D=Yes    -0.7779086024040012
+    Attrib CASP8AP2=Yes    -0.6087162582553535
+    Attrib CIB2=Yes    -0.27393740257612725
+    Attrib CIC=Yes    -0.24816174210495962
+    Attrib CLCN3=Yes    0.5188730401431114
+    Attrib CLDN22=Yes    0.6162828051584476
+    Attrib CREB1=Yes    -0.5667339228860233
+    Attrib CREBBP=Yes    -0.8567556724944495
+    Attrib CREBRF=Yes    0.6681982397603131
+    Attrib CUL3=Yes    -0.4290935860601236
+    Attrib DBT=Yes    -0.3450269409473032
+    Attrib DEAF1=Yes    -0.5888397866188474
+    Attrib DOCK7=Yes    -0.6541533775462453
+    Attrib ERICH3=Yes    -0.29787790957392196
+    Attrib FAM86B1=Yes    -0.2746046392544443
+    Attrib FBXW7=Yes    0.9697841600751254
+    Attrib FCGR1B=Yes    -0.4813300491083702
+    Attrib FRMD4B=No    -0.10394682612426501
+    Attrib GPC6=Yes    -0.5261859794564759
+    Attrib HECTD2=Yes    0.7908608659781652
+    Attrib ITGB8=Yes    0.7013979567393968
+    Attrib KCNJ2=Yes    0.19813017358805274
+    Attrib KDM5B=Yes    1.0873613570313587
+    Attrib KIAA1522=Yes    -0.27561993837207455
+    Attrib LIN28B=No    -0.20196069440932132
+    Attrib LRIG3=No    -0.11373950914611136
+    Attrib MAFB=Yes    -0.7023337575236976
+    Attrib MMGT1=Yes    0.9113723659361161
+    Attrib MTMR2=Yes    -0.23087741634390252
+    Attrib NFIC=Yes    1.2907514462841112
+    Attrib NFIX=Yes    -0.7180923205446789
+    Attrib NPTX1=Yes    1.2543512777063488
+    Attrib PLEKHS1=Yes    -0.5223081684342195
+    Attrib POU3F4=Yes    -0.3012380588515295
+    Attrib PPP1R11=Yes    1.1645296992743766
+    Attrib PSKH1=Yes    -0.31939949835754944
+    Attrib PTEN=Yes    0.1436279070204662
+    Attrib RIMS4=Yes    -0.22854157322893293
+    Attrib RORA=Yes    1.3301293163596843
+    Attrib RPS6KA5=Yes    0.26904279848059465
+    Attrib RUNDC3A=Yes    -0.2789733283782086
+    Attrib SEC23IP=Yes    0.07565522459703164
+    Attrib SESN3=Yes    0.19638375447998566
+    Attrib SLITRK4=Yes    -0.687430897003913
+    Attrib SP4=Yes    -0.414677145602488
+    Attrib TRIM71=No    -0.4242658352381298
+    Attrib UBE2H=Yes    -0.6725032632330004
+    Attrib USP3=Yes    0.15154428004407966
+    Attrib VPS54=Yes    -1.0510465607383348
+    Attrib YOD1=Yes    0.08744293223313072
+    Attrib ZBTB34=Yes    0.9889687090195558
+    Attrib ZNF512B=No    -0.3456475105494174
+Sigmoid Node 21
+    Inputs    Weights
+    Threshold    -0.2230893708055609
+    Attrib A1CF=Yes    0.24766940690596945
+    Attrib ABL2=Yes    -0.7715145007106613
+    Attrib ACTC1=Yes    0.48599377690767515
+    Attrib ACVR1=Yes    -0.6232614646491633
+    Attrib ADCY1=Yes    0.2810515061056913
+    Attrib ADIPOR2=Yes    -0.6356806880485709
+    Attrib AHR=Yes    0.286924044361616
+    Attrib AKAP1=Yes    -0.24358292049318492
+    Attrib AKR1B10=Yes    0.3178410819391142
+    Attrib AMOTL2=Yes    -0.46320396066459874
+    Attrib ANK1=Yes    0.39964775100513134
+    Attrib ANO5=Yes    0.37761311254787905
+    Attrib APOBEC4=Yes    0.4106690287544592
+    Attrib APPBP2=Yes    -0.6987024113334043
+    Attrib AR=Yes    0.28438055303787824
+    Attrib ARHGAP6=Yes    0.4088906376583825
+    Attrib AZIN1=Yes    0.2281532448446188
+    Attrib BBX=Yes    -0.21654149857430666
+    Attrib BMP2=Yes    0.3888878515653421
+    Attrib BTG2=Yes    -1.0417287567425262
+    Attrib C15ORF40=Yes    0.2046365158961026
+    Attrib C21ORF91=Yes    0.06578914839150127
+    Attrib C2CD2=Yes    -8.883400084877854E-4
+    Attrib CABP5=Yes    0.25880672972677216
+    Attrib CALD1=Yes    0.2751947856715832
+    Attrib CAMK1D=Yes    0.5867920247402503
+    Attrib CASP8AP2=Yes    0.5107854665156903
+    Attrib CIB2=Yes    0.26497686545593835
+    Attrib CIC=Yes    0.19682010152709872
+    Attrib CLCN3=Yes    -0.28212194650161504
+    Attrib CLDN22=Yes    -0.5843003349398911
+    Attrib CREB1=Yes    0.43553409322789194
+    Attrib CREBBP=Yes    0.6811671969140801
+    Attrib CREBRF=Yes    -0.5176215189209663
+    Attrib CUL3=Yes    0.31109135554832035
+    Attrib DBT=Yes    0.2749280223668103
+    Attrib DEAF1=Yes    0.5664555017115613
+    Attrib DOCK7=Yes    0.405526143328518
+    Attrib ERICH3=Yes    0.25448934714295496
+    Attrib FAM86B1=Yes    0.23539519311689258
+    Attrib FBXW7=Yes    -0.5114913950915914
+    Attrib FCGR1B=Yes    0.4141333654719257
+    Attrib FRMD4B=No    0.02949543604918687
+    Attrib GPC6=Yes    0.4920520992874727
+    Attrib HECTD2=Yes    -0.4316997878213647
+    Attrib ITGB8=Yes    -0.40855186215867867
+    Attrib KCNJ2=Yes    -0.07605724020394485
+    Attrib KDM5B=Yes    -0.6525704465001557
+    Attrib KIAA1522=Yes    0.2648923257773035
+    Attrib LIN28B=No    0.09313635547054244
+    Attrib LRIG3=No    0.008696755894562222
+    Attrib MAFB=Yes    0.5666359719285483
+    Attrib MMGT1=Yes    -0.5239112417806698
+    Attrib MTMR2=Yes    0.2637542424584946
+    Attrib NFIC=Yes    -0.9526093696422444
+    Attrib NFIX=Yes    0.5499299080988411
+    Attrib NPTX1=Yes    -0.9236824860588349
+    Attrib PLEKHS1=Yes    0.3739055076592288
+    Attrib POU3F4=Yes    0.3426627292861214
+    Attrib PPP1R11=Yes    -0.898739285113756
+    Attrib PSKH1=Yes    0.24703883687044953
+    Attrib PTEN=Yes    -0.03006017011249608
+    Attrib RIMS4=Yes    0.22855240803428142
+    Attrib RORA=Yes    -0.9283661684096239
+    Attrib RPS6KA5=Yes    -0.0956032906690071
+    Attrib RUNDC3A=Yes    0.2704667161940324
+    Attrib SEC23IP=Yes    0.003761351486952067
+    Attrib SESN3=Yes    -0.13498111798949441
+    Attrib SLITRK4=Yes    0.4711014221017751
+    Attrib SP4=Yes    0.4247640262087108
+    Attrib TRIM71=No    0.28893023565691506
+    Attrib UBE2H=Yes    0.5000416597416145
+    Attrib USP3=Yes    -0.09157516978023336
+    Attrib VPS54=Yes    0.7282819537593849
+    Attrib YOD1=Yes    -0.003143130191545196
+    Attrib ZBTB34=Yes    -0.518301789755761
+    Attrib ZNF512B=No    0.16392006389914845
+Sigmoid Node 22
+    Inputs    Weights
+    Threshold    -0.04689589028721614
+    Attrib A1CF=Yes    0.08896408794756316
+    Attrib ABL2=Yes    -0.043026057360723895
+    Attrib ACTC1=Yes    0.030993954213098435
+    Attrib ACVR1=Yes    -0.034058546189911144
+    Attrib ADCY1=Yes    0.04745825528908189
+    Attrib ADIPOR2=Yes    0.012679319619135513
+    Attrib AHR=Yes    0.07592236803091969
+    Attrib AKAP1=Yes    0.02109007880842382
+    Attrib AKR1B10=Yes    0.07322511585630902
+    Attrib AMOTL2=Yes    -0.014677038391779213
+    Attrib ANK1=Yes    0.10060764561108303
+    Attrib ANO5=Yes    0.06528995067151959
+    Attrib APOBEC4=Yes    0.04381503120253491
+    Attrib APPBP2=Yes    -0.03034943548048646
+    Attrib AR=Yes    0.08458714703150765
+    Attrib ARHGAP6=Yes    0.0761237266397895
+    Attrib AZIN1=Yes    0.08951123367921031
+    Attrib BBX=Yes    0.02701635020061256
+    Attrib BMP2=Yes    0.027727906922019898
+    Attrib BTG2=Yes    -0.0700864468963496
+    Attrib C15ORF40=Yes    0.10092297315170526
+    Attrib C21ORF91=Yes    0.06094736340200107
+    Attrib C2CD2=Yes    -0.013915185051854075
+    Attrib CABP5=Yes    0.10672752231179984
+    Attrib CALD1=Yes    0.08563160342608582
+    Attrib CAMK1D=Yes    0.04769321077400585
+    Attrib CASP8AP2=Yes    0.034158953558277055
+    Attrib CIB2=Yes    0.10278270108546973
+    Attrib CIC=Yes    0.018457517675514235
+    Attrib CLCN3=Yes    0.05020037911197596
+    Attrib CLDN22=Yes    -0.019728156389658545
+    Attrib CREB1=Yes    0.09234749542002511
+    Attrib CREBBP=Yes    0.04413170434530614
+    Attrib CREBRF=Yes    -0.013386885247256402
+    Attrib CUL3=Yes    0.07756769733185516
+    Attrib DBT=Yes    0.02275220658189264
+    Attrib DEAF1=Yes    0.1223592798010791
+    Attrib DOCK7=Yes    0.11877864481248859
+    Attrib ERICH3=Yes    0.07721838813744522
+    Attrib FAM86B1=Yes    0.09132125354957908
+    Attrib FBXW7=Yes    -0.059564122808939766
+    Attrib FCGR1B=Yes    0.02675158466602072
+    Attrib FRMD4B=No    0.02829487785304741
+    Attrib GPC6=Yes    0.0881976911720288
+    Attrib HECTD2=Yes    0.03190420877895532
+    Attrib ITGB8=Yes    -0.06312879863491368
+    Attrib KCNJ2=Yes    -0.005134437614771005
+    Attrib KDM5B=Yes    -0.026438781011208726
+    Attrib KIAA1522=Yes    0.07353416112581597
+    Attrib LIN28B=No    -0.024292414338814725
+    Attrib LRIG3=No    -0.004249223487728264
+    Attrib MAFB=Yes    0.025999410786001726
+    Attrib MMGT1=Yes    0.039586688539004024
+    Attrib MTMR2=Yes    0.010241674985575547
+    Attrib NFIC=Yes    -0.007979292989757166
+    Attrib NFIX=Yes    0.04242911347634463
+    Attrib NPTX1=Yes    -0.0035674004598418925
+    Attrib PLEKHS1=Yes    0.04316637433600929
+    Attrib POU3F4=Yes    0.0771551690722908
+    Attrib PPP1R11=Yes    0.0025885286050258897
+    Attrib PSKH1=Yes    0.038899596993887356
+    Attrib PTEN=Yes    -5.194587163291613E-4
+    Attrib RIMS4=Yes    0.10302740711092413
+    Attrib RORA=Yes    -0.08835700650778988
+    Attrib RPS6KA5=Yes    0.025908470600541186
+    Attrib RUNDC3A=Yes    0.06694842592084937
+    Attrib SEC23IP=Yes    0.036347146072979813
+    Attrib SESN3=Yes    0.00890247440640849
+    Attrib SLITRK4=Yes    0.12387122190049335
+    Attrib SP4=Yes    0.06446391399985611
+    Attrib TRIM71=No    0.007597236920163056
+    Attrib UBE2H=Yes    0.08306497393368818
+    Attrib USP3=Yes    -0.050408495566122084
+    Attrib VPS54=Yes    0.07710142709267433
+    Attrib YOD1=Yes    -0.026218105370597176
+    Attrib ZBTB34=Yes    0.007236256729330659
+    Attrib ZNF512B=No    0.01478387183068754
+Sigmoid Node 23
+    Inputs    Weights
+    Threshold    0.018648515240954806
+    Attrib A1CF=Yes    -0.09981430646749094
+    Attrib ABL2=Yes    0.23325430739451766
+    Attrib ACTC1=Yes    -0.11436656759578073
+    Attrib ACVR1=Yes    0.28832641626746897
+    Attrib ADCY1=Yes    -0.0531989301704062
+    Attrib ADIPOR2=Yes    0.23271739214210507
+    Attrib AHR=Yes    -0.04299633809285097
+    Attrib AKAP1=Yes    0.1792932877786074
+    Attrib AKR1B10=Yes    -0.08003968164497705
+    Attrib AMOTL2=Yes    0.27073152912620313
+    Attrib ANK1=Yes    -0.14217558096484997
+    Attrib ANO5=Yes    -0.09742262196791743
+    Attrib APOBEC4=Yes    -0.10669952113210099
+    Attrib APPBP2=Yes    0.3026458123131497
+    Attrib AR=Yes    -0.11038014099130924
+    Attrib ARHGAP6=Yes    -0.10266584391864043
+    Attrib AZIN1=Yes    -0.059715678722492956
+    Attrib BBX=Yes    0.08543690266376146
+    Attrib BMP2=Yes    -0.1385142641292452
+    Attrib BTG2=Yes    0.3985066977044658
+    Attrib C15ORF40=Yes    -0.0943457268999234
+    Attrib C21ORF91=Yes    0.0017424552070364476
+    Attrib C2CD2=Yes    0.0871485114660722
+    Attrib CABP5=Yes    -0.07422968619640816
+    Attrib CALD1=Yes    -0.02322059626280233
+    Attrib CAMK1D=Yes    -0.1414418704191173
+    Attrib CASP8AP2=Yes    -0.16563775961450086
+    Attrib CIB2=Yes    -0.11141590620571723
+    Attrib CIC=Yes    -0.030847517996079734
+    Attrib CLCN3=Yes    0.19516430697526105
+    Attrib CLDN22=Yes    0.12445790169589535
+    Attrib CREB1=Yes    -0.17137408376407703
+    Attrib CREBBP=Yes    -0.21632736754653026
+    Attrib CREBRF=Yes    0.22502033026966275
+    Attrib CUL3=Yes    -0.04405526316074256
+    Attrib DBT=Yes    -0.04727739583162962
+    Attrib DEAF1=Yes    -0.10226756199886974
+    Attrib DOCK7=Yes    -0.17235337460136377
+    Attrib ERICH3=Yes    -0.11516219727133944
+    Attrib FAM86B1=Yes    -0.060283622796146005
+    Attrib FBXW7=Yes    0.19311306907305553
+    Attrib FCGR1B=Yes    -0.08774572051747423
+    Attrib FRMD4B=No    -0.05650382062202318
+    Attrib GPC6=Yes    -0.09021778610411989
+    Attrib HECTD2=Yes    0.16376313416035324
+    Attrib ITGB8=Yes    0.24851727453767708
+    Attrib KCNJ2=Yes    0.02401515098186332
+    Attrib KDM5B=Yes    0.24293610618964467
+    Attrib KIAA1522=Yes    -0.09982271190550297
+    Attrib LIN28B=No    -0.08664764750452428
+    Attrib LRIG3=No    -0.024445409586727824
+    Attrib MAFB=Yes    -0.19542366935567854
+    Attrib MMGT1=Yes    0.22775057482357838
+    Attrib MTMR2=Yes    -0.044438009468319425
+    Attrib NFIC=Yes    0.2513198349871781
+    Attrib NFIX=Yes    -0.14290148155722196
+    Attrib NPTX1=Yes    0.2333558829644778
+    Attrib PLEKHS1=Yes    -0.11233070658461386
+    Attrib POU3F4=Yes    -0.07815470639601813
+    Attrib PPP1R11=Yes    0.24706286761055948
+    Attrib PSKH1=Yes    -0.09513450668093786
+    Attrib PTEN=Yes    0.0430875501115444
+    Attrib RIMS4=Yes    -0.012932325311097807
+    Attrib RORA=Yes    0.3943004681589448
+    Attrib RPS6KA5=Yes    0.06810593766276908
+    Attrib RUNDC3A=Yes    -0.05712627025260688
+    Attrib SEC23IP=Yes    0.09287178386039383
+    Attrib SESN3=Yes    0.05310977294748474
+    Attrib SLITRK4=Yes    -0.1629602334938765
+    Attrib SP4=Yes    -0.08620065921448485
+    Attrib TRIM71=No    -0.19686524950440848
+    Attrib UBE2H=Yes    -0.17480327952824273
+    Attrib USP3=Yes    0.018338100752837785
+    Attrib VPS54=Yes    -0.260643528876575
+    Attrib YOD1=Yes    0.08330723781874216
+    Attrib ZBTB34=Yes    0.22403069456949581
+    Attrib ZNF512B=No    -0.0845518035958302
+Sigmoid Node 24
+    Inputs    Weights
+    Threshold    0.041243203633096207
+    Attrib A1CF=Yes    -0.061388566986782064
+    Attrib ABL2=Yes    0.1972940685931893
+    Attrib ACTC1=Yes    -0.048365186919589444
+    Attrib ACVR1=Yes    0.14937202751395132
+    Attrib ADCY1=Yes    -0.046017166944666454
+    Attrib ADIPOR2=Yes    0.14827588393642627
+    Attrib AHR=Yes    -0.07312722607047875
+    Attrib AKAP1=Yes    0.1346868920265644
+    Attrib AKR1B10=Yes    -0.07988913101982964
+    Attrib AMOTL2=Yes    0.13287794088146274
+    Attrib ANK1=Yes    -0.05229473658148936
+    Attrib ANO5=Yes    -0.0591191433459699
+    Attrib APOBEC4=Yes    -0.11645503404592066
+    Attrib APPBP2=Yes    0.15554599484323403
+    Attrib AR=Yes    -0.05687134592108835
+    Attrib ARHGAP6=Yes    -0.05885446737363555
+    Attrib AZIN1=Yes    -0.08380187721109732
+    Attrib BBX=Yes    0.09300447683677333
+    Attrib BMP2=Yes    -0.03973908350018342
+    Attrib BTG2=Yes    0.2377892268474858
+    Attrib C15ORF40=Yes    -0.016067250046676675
+    Attrib C21ORF91=Yes    -0.02367811070732571
+    Attrib C2CD2=Yes    0.06963790135676104
+    Attrib CABP5=Yes    -0.009557596269811109
+    Attrib CALD1=Yes    -0.08960758968065363
+    Attrib CAMK1D=Yes    -0.12185565184928716
+    Attrib CASP8AP2=Yes    -0.07452300603717917
+    Attrib CIB2=Yes    -0.03687267259888987
+    Attrib CIC=Yes    -0.04718767470007445
+    Attrib CLCN3=Yes    0.14856652387077218
+    Attrib CLDN22=Yes    0.06598964670063064
+    Attrib CREB1=Yes    -0.08047441867507713
+    Attrib CREBBP=Yes    -0.1610946288064715
+    Attrib CREBRF=Yes    0.14627434180168558
+    Attrib CUL3=Yes    -0.0738389967802746
+    Attrib DBT=Yes    -0.04480994065934861
+    Attrib DEAF1=Yes    -0.08535559987915885
+    Attrib DOCK7=Yes    -0.11708906515475553
+    Attrib ERICH3=Yes    -0.0850568198989243
+    Attrib FAM86B1=Yes    -0.025699544218439944
+    Attrib FBXW7=Yes    0.225348856418276
+    Attrib FCGR1B=Yes    -0.07891978144707541
+    Attrib FRMD4B=No    -0.058475035693811135
+    Attrib GPC6=Yes    -0.06679176918928394
+    Attrib HECTD2=Yes    0.10031260039045078
+    Attrib ITGB8=Yes    0.19365433016261865
+    Attrib KCNJ2=Yes    0.03146844907654557
+    Attrib KDM5B=Yes    0.2241201027433092
+    Attrib KIAA1522=Yes    -0.06933678540716817
+    Attrib LIN28B=No    -0.026599792678597023
+    Attrib LRIG3=No    -0.011478567673218452
+    Attrib MAFB=Yes    -0.11702723840828881
+    Attrib MMGT1=Yes    0.18756383777640465
+    Attrib MTMR2=Yes    -0.06860903080134433
+    Attrib NFIC=Yes    0.2792471586507319
+    Attrib NFIX=Yes    -0.09272934849056065
+    Attrib NPTX1=Yes    0.25570383982079464
+    Attrib PLEKHS1=Yes    -0.03946504767536597
+    Attrib POU3F4=Yes    -0.06944431635230322
+    Attrib PPP1R11=Yes    0.2710655016868099
+    Attrib PSKH1=Yes    -0.01833353109736526
+    Attrib PTEN=Yes    0.0625075789578733
+    Attrib RIMS4=Yes    -0.06091209568169181
+    Attrib RORA=Yes    0.21609614424406112
+    Attrib RPS6KA5=Yes    0.08412428026283297
+    Attrib RUNDC3A=Yes    -0.018292121956870598
+    Attrib SEC23IP=Yes    0.06613670973990014
+    Attrib SESN3=Yes    0.017484000836792142
+    Attrib SLITRK4=Yes    -0.08185389753249851
+    Attrib SP4=Yes    -0.10674622567616891
+    Attrib TRIM71=No    -0.07492407082110326
+    Attrib UBE2H=Yes    -0.06117411978365651
+    Attrib USP3=Yes    0.052449884998037086
+    Attrib VPS54=Yes    -0.13540331113543622
+    Attrib YOD1=Yes    0.08220420499836528
+    Attrib ZBTB34=Yes    0.18205594312693135
+    Attrib ZNF512B=No    -0.08715738916165493
+Sigmoid Node 25
+    Inputs    Weights
+    Threshold    0.25485762790195327
+    Attrib A1CF=Yes    -0.38408263373263707
+    Attrib ABL2=Yes    1.228833059841076
+    Attrib ACTC1=Yes    -0.7053477733373825
+    Attrib ACVR1=Yes    1.0914158425960319
+    Attrib ADCY1=Yes    -0.4826362587948991
+    Attrib ADIPOR2=Yes    1.0762208897823917
+    Attrib AHR=Yes    -0.42847149364502146
+    Attrib AKAP1=Yes    0.49375486597185697
+    Attrib AKR1B10=Yes    -0.3974222765763617
+    Attrib AMOTL2=Yes    0.9251881083124461
+    Attrib ANK1=Yes    -0.6314137307620968
+    Attrib ANO5=Yes    -0.4655923862830046
+    Attrib APOBEC4=Yes    -0.6911423828647189
+    Attrib APPBP2=Yes    1.2212525668160277
+    Attrib AR=Yes    -0.41833642553392036
+    Attrib ARHGAP6=Yes    -0.4805856633180228
+    Attrib AZIN1=Yes    -0.32180737422975075
+    Attrib BBX=Yes    0.3691592316231352
+    Attrib BMP2=Yes    -0.544069294294454
+    Attrib BTG2=Yes    1.5843455631636179
+    Attrib C15ORF40=Yes    -0.2702462569373794
+    Attrib C21ORF91=Yes    0.03628047464241773
+    Attrib C2CD2=Yes    0.1432115695324491
+    Attrib CABP5=Yes    -0.35010104799786096
+    Attrib CALD1=Yes    -0.31021423402266124
+    Attrib CAMK1D=Yes    -0.8446391297156547
+    Attrib CASP8AP2=Yes    -0.7216147068631037
+    Attrib CIB2=Yes    -0.3375000242376702
+    Attrib CIC=Yes    -0.2987599904618217
+    Attrib CLCN3=Yes    0.5540562117847615
+    Attrib CLDN22=Yes    0.6813129730106651
+    Attrib CREB1=Yes    -0.6316768288694377
+    Attrib CREBBP=Yes    -1.020139490669222
+    Attrib CREBRF=Yes    0.8746904125060037
+    Attrib CUL3=Yes    -0.43494169932811844
+    Attrib DBT=Yes    -0.33516658928231075
+    Attrib DEAF1=Yes    -0.7115337114684989
+    Attrib DOCK7=Yes    -0.724121220630382
+    Attrib ERICH3=Yes    -0.3758733670826133
+    Attrib FAM86B1=Yes    -0.2868953128523777
+    Attrib FBXW7=Yes    1.0426923129058392
+    Attrib FCGR1B=Yes    -0.5439628356509076
+    Attrib FRMD4B=No    -0.09305594630531568
+    Attrib GPC6=Yes    -0.6234833567105417
+    Attrib HECTD2=Yes    0.9624807061758176
+    Attrib ITGB8=Yes    0.6980579512092525
+    Attrib KCNJ2=Yes    0.14090642033415535
+    Attrib KDM5B=Yes    1.1602232642789718
+    Attrib KIAA1522=Yes    -0.31546921146157453
+    Attrib LIN28B=No    -0.29924252504806975
+    Attrib LRIG3=No    -0.14045639034398053
+    Attrib MAFB=Yes    -0.7436845037015951
+    Attrib MMGT1=Yes    0.954467927140192
+    Attrib MTMR2=Yes    -0.26414947585920956
+    Attrib NFIC=Yes    1.3425440840197602
+    Attrib NFIX=Yes    -0.8151109559888071
+    Attrib NPTX1=Yes    1.4107326424313302
+    Attrib PLEKHS1=Yes    -0.6020836137783155
+    Attrib POU3F4=Yes    -0.3717688564011293
+    Attrib PPP1R11=Yes    1.4128354879195792
+    Attrib PSKH1=Yes    -0.3334255832732211
+    Attrib PTEN=Yes    0.11437241604538213
+    Attrib RIMS4=Yes    -0.28023243771875644
+    Attrib RORA=Yes    1.5519863798023068
+    Attrib RPS6KA5=Yes    0.2670739576019277
+    Attrib RUNDC3A=Yes    -0.32388989808381347
+    Attrib SEC23IP=Yes    0.14599638573332677
+    Attrib SESN3=Yes    0.19925954843727417
+    Attrib SLITRK4=Yes    -0.7597992890221839
+    Attrib SP4=Yes    -0.5147417776487407
+    Attrib TRIM71=No    -0.5142321103448936
+    Attrib UBE2H=Yes    -0.7224797755494576
+    Attrib USP3=Yes    0.08854258565043575
+    Attrib VPS54=Yes    -1.2034481529099703
+    Attrib YOD1=Yes    0.19685250912771957
+    Attrib ZBTB34=Yes    1.0351805788853834
+    Attrib ZNF512B=No    -0.37506148530646316
+Sigmoid Node 26
+    Inputs    Weights
+    Threshold    0.22552787969706956
+    Attrib A1CF=Yes    -0.36069140362565344
+    Attrib ABL2=Yes    1.225938161942681
+    Attrib ACTC1=Yes    -0.7220886006306004
+    Attrib ACVR1=Yes    1.2218425880582338
+    Attrib ADCY1=Yes    -0.4857882092784626
+    Attrib ADIPOR2=Yes    1.1577566217349002
+    Attrib AHR=Yes    -0.4637255011272151
+    Attrib AKAP1=Yes    0.48654679436967907
+    Attrib AKR1B10=Yes    -0.38985910320326983
+    Attrib AMOTL2=Yes    0.9064016032315371
+    Attrib ANK1=Yes    -0.6407862233352684
+    Attrib ANO5=Yes    -0.470057742495016
+    Attrib APOBEC4=Yes    -0.6759814919435452
+    Attrib APPBP2=Yes    1.2361870166621443
+    Attrib AR=Yes    -0.4622872685319932
+    Attrib ARHGAP6=Yes    -0.5167210988237971
+    Attrib AZIN1=Yes    -0.3146704809879458
+    Attrib BBX=Yes    0.2961252097922237
+    Attrib BMP2=Yes    -0.5661204970650572
+    Attrib BTG2=Yes    1.6331482992080422
+    Attrib C15ORF40=Yes    -0.3234339074654426
+    Attrib C21ORF91=Yes    -0.0321793984212202
+    Attrib C2CD2=Yes    0.13252139300344903
+    Attrib CABP5=Yes    -0.37995577994268936
+    Attrib CALD1=Yes    -0.36175586871012927
+    Attrib CAMK1D=Yes    -0.9027768642353311
+    Attrib CASP8AP2=Yes    -0.7111790715695845
+    Attrib CIB2=Yes    -0.33005128777571624
+    Attrib CIC=Yes    -0.3487084244769201
+    Attrib CLCN3=Yes    0.5848445722051404
+    Attrib CLDN22=Yes    0.8456103511894855
+    Attrib CREB1=Yes    -0.6279495505236495
+    Attrib CREBBP=Yes    -1.0641888997762476
+    Attrib CREBRF=Yes    0.8831540470368578
+    Attrib CUL3=Yes    -0.440817750664396
+    Attrib DBT=Yes    -0.4055349325658545
+    Attrib DEAF1=Yes    -0.7138704958248292
+    Attrib DOCK7=Yes    -0.7061663690703253
+    Attrib ERICH3=Yes    -0.3787572516707888
+    Attrib FAM86B1=Yes    -0.3144272305556792
+    Attrib FBXW7=Yes    1.1040907835696152
+    Attrib FCGR1B=Yes    -0.5735989814506319
+    Attrib FRMD4B=No    -0.16158305470784648
+    Attrib GPC6=Yes    -0.6298755025153425
+    Attrib HECTD2=Yes    0.9562968093575377
+    Attrib ITGB8=Yes    0.7441267496728725
+    Attrib KCNJ2=Yes    0.23563318359778054
+    Attrib KDM5B=Yes    1.122333296795116
+    Attrib KIAA1522=Yes    -0.32008202564859783
+    Attrib LIN28B=No    -0.30799947380696013
+    Attrib LRIG3=No    -0.08927548893579375
+    Attrib MAFB=Yes    -0.7977565274901356
+    Attrib MMGT1=Yes    0.9501870193978809
+    Attrib MTMR2=Yes    -0.2885748777618191
+    Attrib NFIC=Yes    1.3039599233575758
+    Attrib NFIX=Yes    -0.8812453423856788
+    Attrib NPTX1=Yes    1.4623284071745608
+    Attrib PLEKHS1=Yes    -0.5915103139879369
+    Attrib POU3F4=Yes    -0.39250333724159325
+    Attrib PPP1R11=Yes    1.3712169273358594
+    Attrib PSKH1=Yes    -0.3279668324971158
+    Attrib PTEN=Yes    0.10431922113002734
+    Attrib RIMS4=Yes    -0.3058861034406732
+    Attrib RORA=Yes    1.4990044899247348
+    Attrib RPS6KA5=Yes    0.24826400658653086
+    Attrib RUNDC3A=Yes    -0.28408685215615115
+    Attrib SEC23IP=Yes    0.11868878308050401
+    Attrib SESN3=Yes    0.2849743466171461
+    Attrib SLITRK4=Yes    -0.7851797814872157
+    Attrib SP4=Yes    -0.4990531800181324
+    Attrib TRIM71=No    -0.5738098309148086
+    Attrib UBE2H=Yes    -0.7587088970149406
+    Attrib USP3=Yes    0.17205476011121162
+    Attrib VPS54=Yes    -1.204419855463239
+    Attrib YOD1=Yes    0.17545903623179984
+    Attrib ZBTB34=Yes    1.1190214532537153
+    Attrib ZNF512B=No    -0.4198139687726677
+Sigmoid Node 27
+    Inputs    Weights
+    Threshold    -0.05390013691592629
+    Attrib A1CF=Yes    0.08429011721391799
+    Attrib ABL2=Yes    -0.22726209513379372
+    Attrib ACTC1=Yes    0.1910849474649084
+    Attrib ACVR1=Yes    -0.21209062788032895
+    Attrib ADCY1=Yes    0.15580270521865455
+    Attrib ADIPOR2=Yes    -0.15053551693268852
+    Attrib AHR=Yes    0.10731515812385019
+    Attrib AKAP1=Yes    -0.0711794194582566
+    Attrib AKR1B10=Yes    0.11202306634212145
+    Attrib AMOTL2=Yes    -0.12322105606840558
+    Attrib ANK1=Yes    0.16184954676978966
+    Attrib ANO5=Yes    0.14884039704905636
+    Attrib APOBEC4=Yes    0.22436580322168612
+    Attrib APPBP2=Yes    -0.16139743547136123
+    Attrib AR=Yes    0.1323134393312022
+    Attrib ARHGAP6=Yes    0.14060697174419412
+    Attrib AZIN1=Yes    0.13311023765562613
+    Attrib BBX=Yes    -0.06520989713187038
+    Attrib BMP2=Yes    0.1016301059226995
+    Attrib BTG2=Yes    -0.2859844793757092
+    Attrib C15ORF40=Yes    0.0898681644373074
+    Attrib C21ORF91=Yes    0.03330931359469218
+    Attrib C2CD2=Yes    -0.02654118598369553
+    Attrib CABP5=Yes    0.1256586578826479
+    Attrib CALD1=Yes    0.1378067607150507
+    Attrib CAMK1D=Yes    0.23771937223256775
+    Attrib CASP8AP2=Yes    0.1716685881438667
+    Attrib CIB2=Yes    0.1403514987541058
+    Attrib CIC=Yes    0.11174580870739383
+    Attrib CLCN3=Yes    -0.0695379445351113
+    Attrib CLDN22=Yes    -0.12390267643234094
+    Attrib CREB1=Yes    0.19253915467032762
+    Attrib CREBBP=Yes    0.20054136154722768
+    Attrib CREBRF=Yes    -0.14892663512211207
+    Attrib CUL3=Yes    0.10539672887105689
+    Attrib DBT=Yes    0.074015056747342
+    Attrib DEAF1=Yes    0.22507010177022177
+    Attrib DOCK7=Yes    0.19514549513336668
+    Attrib ERICH3=Yes    0.1574382139960984
+    Attrib FAM86B1=Yes    0.08972109333595744
+    Attrib FBXW7=Yes    -0.14225711638664906
+    Attrib FCGR1B=Yes    0.16434158520707487
+    Attrib FRMD4B=No    -0.05024776623318435
+    Attrib GPC6=Yes    0.1455764345811622
+    Attrib HECTD2=Yes    -0.0861293178321887
+    Attrib ITGB8=Yes    -0.15300070095440316
+    Attrib KCNJ2=Yes    -0.029606131809035475
+    Attrib KDM5B=Yes    -0.1691173544028678
+    Attrib KIAA1522=Yes    0.13442289957823325
+    Attrib LIN28B=No    0.03481708485998703
+    Attrib LRIG3=No    0.008006150780776511
+    Attrib MAFB=Yes    0.2134579262472116
+    Attrib MMGT1=Yes    -0.0906713461177044
+    Attrib MTMR2=Yes    0.0496381791516767
+    Attrib NFIC=Yes    -0.27637912470705417
+    Attrib NFIX=Yes    0.2184638256273788
+    Attrib NPTX1=Yes    -0.23964651963368772
+    Attrib PLEKHS1=Yes    0.11636186537292179
+    Attrib POU3F4=Yes    0.08090190595019806
+    Attrib PPP1R11=Yes    -0.2825250715642112
+    Attrib PSKH1=Yes    0.08598709478519312
+    Attrib PTEN=Yes    0.004030812985631123
+    Attrib RIMS4=Yes    0.11999979333655517
+    Attrib RORA=Yes    -0.2373493437562821
+    Attrib RPS6KA5=Yes    -0.05788242663740566
+    Attrib RUNDC3A=Yes    0.1351259180714328
+    Attrib SEC23IP=Yes    -0.004403204764297954
+    Attrib SESN3=Yes    -0.015342710348398899
+    Attrib SLITRK4=Yes    0.13646395363549166
+    Attrib SP4=Yes    0.09991924704501341
+    Attrib TRIM71=No    0.09939226512358196
+    Attrib UBE2H=Yes    0.12521442335313238
+    Attrib USP3=Yes    -0.04347095154174513
+    Attrib VPS54=Yes    0.22677276355387754
+    Attrib YOD1=Yes    0.007896873080271392
+    Attrib ZBTB34=Yes    -0.11002904569608751
+    Attrib ZNF512B=No    0.058361081886380284
+Sigmoid Node 28
+    Inputs    Weights
+    Threshold    -0.1475395505885982
+    Attrib A1CF=Yes    0.29916492809083817
+    Attrib ABL2=Yes    -0.9973777422293969
+    Attrib ACTC1=Yes    0.514722799482418
+    Attrib ACVR1=Yes    -0.8562197283372524
+    Attrib ADCY1=Yes    0.3576299736428295
+    Attrib ADIPOR2=Yes    -0.8281519342606589
+    Attrib AHR=Yes    0.35910789776125407
+    Attrib AKAP1=Yes    -0.3925216149245329
+    Attrib AKR1B10=Yes    0.30268582543212236
+    Attrib AMOTL2=Yes    -0.6458729614526688
+    Attrib ANK1=Yes    0.4019764309762488
+    Attrib ANO5=Yes    0.3562927603323745
+    Attrib APOBEC4=Yes    0.5135661952751783
+    Attrib APPBP2=Yes    -0.9711692956268844
+    Attrib AR=Yes    0.38811357955280124
+    Attrib ARHGAP6=Yes    0.4791588064525731
+    Attrib AZIN1=Yes    0.3176809233145048
+    Attrib BBX=Yes    -0.29783555055889216
+    Attrib BMP2=Yes    0.42433546758784135
+    Attrib BTG2=Yes    -1.298724006703592
+    Attrib C15ORF40=Yes    0.20688880865556436
+    Attrib C21ORF91=Yes    0.017223450754932926
+    Attrib C2CD2=Yes    -0.11004507834976486
+    Attrib CABP5=Yes    0.30978261407257757
+    Attrib CALD1=Yes    0.30265078111383276
+    Attrib CAMK1D=Yes    0.6893168310898127
+    Attrib CASP8AP2=Yes    0.6178617059654038
+    Attrib CIB2=Yes    0.2469981207714719
+    Attrib CIC=Yes    0.27710162788867904
+    Attrib CLCN3=Yes    -0.3715493598367297
+    Attrib CLDN22=Yes    -0.6924819618402895
+    Attrib CREB1=Yes    0.48057211741285566
+    Attrib CREBBP=Yes    0.7803253376713392
+    Attrib CREBRF=Yes    -0.709749354387197
+    Attrib CUL3=Yes    0.4139967485428864
+    Attrib DBT=Yes    0.3399159520690947
+    Attrib DEAF1=Yes    0.6244732514542451
+    Attrib DOCK7=Yes    0.5263164182965212
+    Attrib ERICH3=Yes    0.2669197104883554
+    Attrib FAM86B1=Yes    0.23599562994626105
+    Attrib FBXW7=Yes    -0.7598988217870142
+    Attrib FCGR1B=Yes    0.396133629933239
+    Attrib FRMD4B=No    0.06585618204917444
+    Attrib GPC6=Yes    0.5158433825471254
+    Attrib HECTD2=Yes    -0.6884015231004981
+    Attrib ITGB8=Yes    -0.5376305350822426
+    Attrib KCNJ2=Yes    -0.17029937909541218
+    Attrib KDM5B=Yes    -0.9119456093508683
+    Attrib KIAA1522=Yes    0.28711727903258094
+    Attrib LIN28B=No    0.15026128325399224
+    Attrib LRIG3=No    0.016276378698190156
+    Attrib MAFB=Yes    0.590819870406883
+    Attrib MMGT1=Yes    -0.6732217100998105
+    Attrib MTMR2=Yes    0.21796758949641493
+    Attrib NFIC=Yes    -1.2863486234882533
+    Attrib NFIX=Yes    0.7028002999643078
+    Attrib NPTX1=Yes    -1.1891694134746378
+    Attrib PLEKHS1=Yes    0.4281188522145102
+    Attrib POU3F4=Yes    0.3152892299161971
+    Attrib PPP1R11=Yes    -1.151447820393094
+    Attrib PSKH1=Yes    0.3052474127194832
+    Attrib PTEN=Yes    -0.07520180756795022
+    Attrib RIMS4=Yes    0.21242744676799435
+    Attrib RORA=Yes    -1.2066952665966657
+    Attrib RPS6KA5=Yes    -0.17023796492488394
+    Attrib RUNDC3A=Yes    0.24764735211953556
+    Attrib SEC23IP=Yes    0.0024570412829051395
+    Attrib SESN3=Yes    -0.20484157278781098
+    Attrib SLITRK4=Yes    0.5208871044598893
+    Attrib SP4=Yes    0.3810252479651259
+    Attrib TRIM71=No    0.40740260639504783
+    Attrib UBE2H=Yes    0.5492111061710905
+    Attrib USP3=Yes    -0.13616749856563967
+    Attrib VPS54=Yes    0.8727255835759324
+    Attrib YOD1=Yes    -0.08333884361954758
+    Attrib ZBTB34=Yes    -0.6675836298729333
+    Attrib ZNF512B=No    0.29184241267289246
+Sigmoid Node 29
+    Inputs    Weights
+    Threshold    -0.01859365818399368
+    Attrib A1CF=Yes    -0.002670727573947604
+    Attrib ABL2=Yes    0.20934279560029198
+    Attrib ACTC1=Yes    -0.021403309579950208
+    Attrib ACVR1=Yes    0.10236699311876504
+    Attrib ADCY1=Yes    -0.07393405053093668
+    Attrib ADIPOR2=Yes    0.11390291507394384
+    Attrib AHR=Yes    -0.02182950945689363
+    Attrib AKAP1=Yes    0.07373581541608985
+    Attrib AKR1B10=Yes    -0.06387184785177968
+    Attrib AMOTL2=Yes    0.1031366145162639
+    Attrib ANK1=Yes    -0.07366612125579874
+    Attrib ANO5=Yes    -0.028602599940308743
+    Attrib APOBEC4=Yes    -0.06051610165970452
+    Attrib APPBP2=Yes    0.13465981842577526
+    Attrib AR=Yes    -0.06530595632085721
+    Attrib ARHGAP6=Yes    -0.005206565720452941
+    Attrib AZIN1=Yes    0.011151825494932063
+    Attrib BBX=Yes    0.09688538195700098
+    Attrib BMP2=Yes    -0.08900858411167654
+    Attrib BTG2=Yes    0.1438814700405621
+    Attrib C15ORF40=Yes    -0.05143600256160627
+    Attrib C21ORF91=Yes    0.05262963508702225
+    Attrib C2CD2=Yes    0.08568954192334619
+    Attrib CABP5=Yes    0.004082029030527958
+    Attrib CALD1=Yes    -0.058729824132682414
+    Attrib CAMK1D=Yes    -0.09383452153663925
+    Attrib CASP8AP2=Yes    -0.10742141550958292
+    Attrib CIB2=Yes    -0.059427651438205636
+    Attrib CIC=Yes    8.259384774843059E-4
+    Attrib CLCN3=Yes    0.06270886466229296
+    Attrib CLDN22=Yes    0.06323653839353839
+    Attrib CREB1=Yes    -0.06278928740565558
+    Attrib CREBBP=Yes    -0.059922539216717884
+    Attrib CREBRF=Yes    0.1570923208582592
+    Attrib CUL3=Yes    -0.018595377939639512
+    Attrib DBT=Yes    -0.013758562166625828
+    Attrib DEAF1=Yes    -0.051452346558542965
+    Attrib DOCK7=Yes    -0.08931900765894787
+    Attrib ERICH3=Yes    -0.04626127105912631
+    Attrib FAM86B1=Yes    -0.07431942888663401
+    Attrib FBXW7=Yes    0.20900855319286696
+    Attrib FCGR1B=Yes    -0.011139198764264004
+    Attrib FRMD4B=No    -0.023430395583467066
+    Attrib GPC6=Yes    -0.09039326926961379
+    Attrib HECTD2=Yes    0.12153169205544985
+    Attrib ITGB8=Yes    0.16305003931569395
+    Attrib KCNJ2=Yes    0.09005923913610522
+    Attrib KDM5B=Yes    0.19423477330487615
+    Attrib KIAA1522=Yes    -0.07491505718005462
+    Attrib LIN28B=No    -0.0645221031960723
+    Attrib LRIG3=No    -0.05882813211874005
+    Attrib MAFB=Yes    -0.10145471486587818
+    Attrib MMGT1=Yes    0.10190711484683733
+    Attrib MTMR2=Yes    -0.0026390693997305342
+    Attrib NFIC=Yes    0.17995724633190133
+    Attrib NFIX=Yes    -0.10180390489961262
+    Attrib NPTX1=Yes    0.2091887579195694
+    Attrib PLEKHS1=Yes    -0.10301164203690079
+    Attrib POU3F4=Yes    -0.08178137662008847
+    Attrib PPP1R11=Yes    0.11329010479351374
+    Attrib PSKH1=Yes    -0.06251406704300609
+    Attrib PTEN=Yes    0.021309656479816863
+    Attrib RIMS4=Yes    -0.012645442339006031
+    Attrib RORA=Yes    0.158851238012596
+    Attrib RPS6KA5=Yes    0.0749843899988503
+    Attrib RUNDC3A=Yes    -0.07251054313771846
+    Attrib SEC23IP=Yes    -0.006431414010565343
+    Attrib SESN3=Yes    0.09635522236611456
+    Attrib SLITRK4=Yes    -0.07922182005693228
+    Attrib SP4=Yes    -0.053793809598780835
+    Attrib TRIM71=No    -0.06646378922094968
+    Attrib UBE2H=Yes    -0.12216449875051313
+    Attrib USP3=Yes    0.07375509099739105
+    Attrib VPS54=Yes    -0.07682304741487363
+    Attrib YOD1=Yes    0.07369645466428641
+    Attrib ZBTB34=Yes    0.15370899903762605
+    Attrib ZNF512B=No    -0.09033062185817285
+Sigmoid Node 30
+    Inputs    Weights
+    Threshold    -0.03716117862260136
+    Attrib A1CF=Yes    0.02777522145338128
+    Attrib ABL2=Yes    0.09224971430850637
+    Attrib ACTC1=Yes    -0.05903127612471735
+    Attrib ACVR1=Yes    0.07411509363347682
+    Attrib ADCY1=Yes    0.02875158491721854
+    Attrib ADIPOR2=Yes    0.12059821342118246
+    Attrib AHR=Yes    -0.003433103573807903
+    Attrib AKAP1=Yes    -0.0043121569693637595
+    Attrib AKR1B10=Yes    0.025902046544392175
+    Attrib AMOTL2=Yes    0.025839536893874294
+    Attrib ANK1=Yes    -0.020674691975121853
+    Attrib ANO5=Yes    -0.05536523379840376
+    Attrib APOBEC4=Yes    0.02606690656055734
+    Attrib APPBP2=Yes    0.09000808708497285
+    Attrib AR=Yes    0.028780742670074775
+    Attrib ARHGAP6=Yes    0.01039684619831755
+    Attrib AZIN1=Yes    0.0024749939505941923
+    Attrib BBX=Yes    -0.005722970619289872
+    Attrib BMP2=Yes    -0.045848735540922246
+    Attrib BTG2=Yes    0.056508132302357086
+    Attrib C15ORF40=Yes    -0.03554291176771668
+    Attrib C21ORF91=Yes    0.004710695816110958
+    Attrib C2CD2=Yes    0.027588980391640205
+    Attrib CABP5=Yes    0.011976153854597662
+    Attrib CALD1=Yes    0.03278777453760651
+    Attrib CAMK1D=Yes    -0.01621714414448828
+    Attrib CASP8AP2=Yes    -0.035926618592473855
+    Attrib CIB2=Yes    -0.007225671895928036
+    Attrib CIC=Yes    -0.05015202243642241
+    Attrib CLCN3=Yes    0.06122959340851254
+    Attrib CLDN22=Yes    -0.005835613338714041
+    Attrib CREB1=Yes    0.0037079368296371773
+    Attrib CREBBP=Yes    -0.0678977437689881
+    Attrib CREBRF=Yes    0.051285414944726236
+    Attrib CUL3=Yes    -0.026462270500675667
+    Attrib DBT=Yes    -0.03630081251678792
+    Attrib DEAF1=Yes    -0.00646324701635571
+    Attrib DOCK7=Yes    0.030043037243176595
+    Attrib ERICH3=Yes    0.007205395584041631
+    Attrib FAM86B1=Yes    0.02440240580782688
+    Attrib FBXW7=Yes    0.1129761357829231
+    Attrib FCGR1B=Yes    0.013394397129594664
+    Attrib FRMD4B=No    -0.06803057898822645
+    Attrib GPC6=Yes    -0.0033203567560126028
+    Attrib HECTD2=Yes    0.11453917087285763
+    Attrib ITGB8=Yes    0.037441926487609044
+    Attrib KCNJ2=Yes    -0.016328297829928073
+    Attrib KDM5B=Yes    0.08162231650250903
+    Attrib KIAA1522=Yes    -0.01906336104155269
+    Attrib LIN28B=No    -0.0330035658358893
+    Attrib LRIG3=No    -0.004631479694730116
+    Attrib MAFB=Yes    0.014380206253923482
+    Attrib MMGT1=Yes    0.06238073416411398
+    Attrib MTMR2=Yes    -0.04453958616101389
+    Attrib NFIC=Yes    0.09662680345770842
+    Attrib NFIX=Yes    -0.032552031929035816
+    Attrib NPTX1=Yes    0.11588934404203471
+    Attrib PLEKHS1=Yes    -0.0058945435758542145
+    Attrib POU3F4=Yes    0.026924407010110396
+    Attrib PPP1R11=Yes    0.11635876548206589
+    Attrib PSKH1=Yes    -0.010853550192813128
+    Attrib PTEN=Yes    0.04771603533155077
+    Attrib RIMS4=Yes    0.01625879112865435
+    Attrib RORA=Yes    0.1037719756261428
+    Attrib RPS6KA5=Yes    0.022822804972337244
+    Attrib RUNDC3A=Yes    -0.0037817601032932927
+    Attrib SEC23IP=Yes    -0.010654666073066104
+    Attrib SESN3=Yes    0.07788899252204125
+    Attrib SLITRK4=Yes    -0.029179535342485328
+    Attrib SP4=Yes    -0.008493419745859047
+    Attrib TRIM71=No    -8.399479532175616E-4
+    Attrib UBE2H=Yes    0.01636417368944121
+    Attrib USP3=Yes    0.028910773475414646
+    Attrib VPS54=Yes    -0.027804291869013762
+    Attrib YOD1=Yes    0.03008413258865731
+    Attrib ZBTB34=Yes    0.1175533990578822
+    Attrib ZNF512B=No    -0.0699357274356582
+Sigmoid Node 31
+    Inputs    Weights
+    Threshold    -0.05862276981600313
+    Attrib A1CF=Yes    0.09119650189430097
+    Attrib ABL2=Yes    -0.2645808290994313
+    Attrib ACTC1=Yes    0.23043085139151262
+    Attrib ACVR1=Yes    -0.29277546942368393
+    Attrib ADCY1=Yes    0.14499329916862289
+    Attrib ADIPOR2=Yes    -0.24767358497265093
+    Attrib AHR=Yes    0.11983556545248022
+    Attrib AKAP1=Yes    -0.07889713948354549
+    Attrib AKR1B10=Yes    0.1534648340033486
+    Attrib AMOTL2=Yes    -0.1650271583328149
+    Attrib ANK1=Yes    0.17709375681331035
+    Attrib ANO5=Yes    0.21339963681943225
+    Attrib APOBEC4=Yes    0.24696568653569476
+    Attrib APPBP2=Yes    -0.2982879567939744
+    Attrib AR=Yes    0.1081468496330058
+    Attrib ARHGAP6=Yes    0.23232065674044886
+    Attrib AZIN1=Yes    0.1253813919799049
+    Attrib BBX=Yes    -0.036093349733161965
+    Attrib BMP2=Yes    0.13627345549236047
+    Attrib BTG2=Yes    -0.4650954183660524
+    Attrib C15ORF40=Yes    0.13217354949694438
+    Attrib C21ORF91=Yes    0.008988705469004325
+    Attrib C2CD2=Yes    -0.010465136732067035
+    Attrib CABP5=Yes    0.1539806968904831
+    Attrib CALD1=Yes    0.0976887283941587
+    Attrib CAMK1D=Yes    0.33194804478430184
+    Attrib CASP8AP2=Yes    0.25248501438684134
+    Attrib CIB2=Yes    0.1254814947557653
+    Attrib CIC=Yes    0.1699033613528841
+    Attrib CLCN3=Yes    -0.054903441950798784
+    Attrib CLDN22=Yes    -0.2598098040895439
+    Attrib CREB1=Yes    0.225298017568561
+    Attrib CREBBP=Yes    0.3165603359200618
+    Attrib CREBRF=Yes    -0.1897770848948584
+    Attrib CUL3=Yes    0.21046205701994125
+    Attrib DBT=Yes    0.1448365453067687
+    Attrib DEAF1=Yes    0.21653142317500682
+    Attrib DOCK7=Yes    0.24861673813041413
+    Attrib ERICH3=Yes    0.11401777097169934
+    Attrib FAM86B1=Yes    0.09447623028964755
+    Attrib FBXW7=Yes    -0.2138296399443632
+    Attrib FCGR1B=Yes    0.18132082466031454
+    Attrib FRMD4B=No    6.215087924018416E-4
+    Attrib GPC6=Yes    0.21389335720005062
+    Attrib HECTD2=Yes    -0.18570948693749167
+    Attrib ITGB8=Yes    -0.21113580785035782
+    Attrib KCNJ2=Yes    -0.017464177168151605
+    Attrib KDM5B=Yes    -0.2794258236674939
+    Attrib KIAA1522=Yes    0.1529330755248742
+    Attrib LIN28B=No    0.05092997225572683
+    Attrib LRIG3=No    -0.04207027418383035
+    Attrib MAFB=Yes    0.2750953576579617
+    Attrib MMGT1=Yes    -0.18174023476970222
+    Attrib MTMR2=Yes    0.1184398412264772
+    Attrib NFIC=Yes    -0.39070568957424995
+    Attrib NFIX=Yes    0.3090079089153179
+    Attrib NPTX1=Yes    -0.3886507477505045
+    Attrib PLEKHS1=Yes    0.19518670744907318
+    Attrib POU3F4=Yes    0.14142431438835312
+    Attrib PPP1R11=Yes    -0.41002692571941085
+    Attrib PSKH1=Yes    0.17145343910452826
+    Attrib PTEN=Yes    -0.006749234179848796
+    Attrib RIMS4=Yes    0.11388807146354717
+    Attrib RORA=Yes    -0.3625662200649694
+    Attrib RPS6KA5=Yes    0.014887374223395247
+    Attrib RUNDC3A=Yes    0.1214143601072911
+    Attrib SEC23IP=Yes    0.06831177707661382
+    Attrib SESN3=Yes    -0.0637003221633062
+    Attrib SLITRK4=Yes    0.24572734549281078
+    Attrib SP4=Yes    0.170965282593708
+    Attrib TRIM71=No    0.0985875275095264
+    Attrib UBE2H=Yes    0.17533112941542703
+    Attrib USP3=Yes    -0.027120704500159527
+    Attrib VPS54=Yes    0.2881312247550891
+    Attrib YOD1=Yes    -0.01981697075261701
+    Attrib ZBTB34=Yes    -0.1518841516710023
+    Attrib ZNF512B=No    0.09868860240319488
+Sigmoid Node 32
+    Inputs    Weights
+    Threshold    0.05265766640452846
+    Attrib A1CF=Yes    -0.08255377501669801
+    Attrib ABL2=Yes    0.2363636863231874
+    Attrib ACTC1=Yes    -0.09542002645258761
+    Attrib ACVR1=Yes    0.14771644740226744
+    Attrib ADCY1=Yes    -0.08059062961745546
+    Attrib ADIPOR2=Yes    0.17963753235832444
+    Attrib AHR=Yes    -0.057606850763675915
+    Attrib AKAP1=Yes    0.1264036455242565
+    Attrib AKR1B10=Yes    -0.05645412614344078
+    Attrib AMOTL2=Yes    0.130703602401741
+    Attrib ANK1=Yes    -0.11196861755922499
+    Attrib ANO5=Yes    -0.06454745143019754
+    Attrib APOBEC4=Yes    -0.10473848293678027
+    Attrib APPBP2=Yes    0.14813523569681444
+    Attrib AR=Yes    -0.09238401820752058
+    Attrib ARHGAP6=Yes    -0.09005768569210094
+    Attrib AZIN1=Yes    -0.051893538346834175
+    Attrib BBX=Yes    0.041646969620196116
+    Attrib BMP2=Yes    -0.017455632818040315
+    Attrib BTG2=Yes    0.23807043438492562
+    Attrib C15ORF40=Yes    -0.07064843770114104
+    Attrib C21ORF91=Yes    0.06208381695862433
+    Attrib C2CD2=Yes    0.018758682730530454
+    Attrib CABP5=Yes    0.002292915616762391
+    Attrib CALD1=Yes    -0.054873842333060426
+    Attrib CAMK1D=Yes    -0.13084709021308052
+    Attrib CASP8AP2=Yes    -0.07781707548246208
+    Attrib CIB2=Yes    -0.07207598619131327
+    Attrib CIC=Yes    -0.013915864515268689
+    Attrib CLCN3=Yes    0.14901796866126613
+    Attrib CLDN22=Yes    0.11360998634945253
+    Attrib CREB1=Yes    -0.06112116562142916
+    Attrib CREBBP=Yes    -0.11053820710649793
+    Attrib CREBRF=Yes    0.13674712558081906
+    Attrib CUL3=Yes    -0.014788103556213373
+    Attrib DBT=Yes    -0.08038654960078129
+    Attrib DEAF1=Yes    -0.10784126968397652
+    Attrib DOCK7=Yes    -0.11758641782853294
+    Attrib ERICH3=Yes    -0.06855895840780671
+    Attrib FAM86B1=Yes    -0.022745826380822766
+    Attrib FBXW7=Yes    0.18779611015430617
+    Attrib FCGR1B=Yes    -0.08670067543686676
+    Attrib FRMD4B=No    -0.013744793740923078
+    Attrib GPC6=Yes    -0.1139740530330603
+    Attrib HECTD2=Yes    0.13241938607245785
+    Attrib ITGB8=Yes    0.11492849799803481
+    Attrib KCNJ2=Yes    0.0736446085561596
+    Attrib KDM5B=Yes    0.22827070673449437
+    Attrib KIAA1522=Yes    9.1592067026277E-4
+    Attrib LIN28B=No    -0.04817294960315854
+    Attrib LRIG3=No    -0.08551535284024679
+    Attrib MAFB=Yes    -0.06176698159087644
+    Attrib MMGT1=Yes    0.13569444351848156
+    Attrib MTMR2=Yes    -0.03728735322234851
+    Attrib NFIC=Yes    0.15673224215855813
+    Attrib NFIX=Yes    -0.11559531909861301
+    Attrib NPTX1=Yes    0.2738291680970511
+    Attrib PLEKHS1=Yes    -0.02926064079494898
+    Attrib POU3F4=Yes    -0.015580406841141075
+    Attrib PPP1R11=Yes    0.2478953407734005
+    Attrib PSKH1=Yes    -0.03305553086553602
+    Attrib PTEN=Yes    0.049563809476383607
+    Attrib RIMS4=Yes    -0.03343102616129695
+    Attrib RORA=Yes    0.20922938582940184
+    Attrib RPS6KA5=Yes    0.008313990461628451
+    Attrib RUNDC3A=Yes    -0.02040727455311926
+    Attrib SEC23IP=Yes    0.009112338284065429
+    Attrib SESN3=Yes    0.024622914309611915
+    Attrib SLITRK4=Yes    -0.050732844372092994
+    Attrib SP4=Yes    -0.07565853309655735
+    Attrib TRIM71=No    -0.16917377834334066
+    Attrib UBE2H=Yes    -0.1037062668268243
+    Attrib USP3=Yes    6.23796645578159E-5
+    Attrib VPS54=Yes    -0.1680462460765298
+    Attrib YOD1=Yes    0.04556302193585332
+    Attrib ZBTB34=Yes    0.2552307313730273
+    Attrib ZNF512B=No    -0.1160096713543992
+Sigmoid Node 33
+    Inputs    Weights
+    Threshold    -0.0071517304203652385
+    Attrib A1CF=Yes    0.05562636961846146
+    Attrib ABL2=Yes    0.060242696752042746
+    Attrib ACTC1=Yes    0.017567385980320094
+    Attrib ACVR1=Yes    -9.140699815112006E-5
+    Attrib ADCY1=Yes    0.036467481229689125
+    Attrib ADIPOR2=Yes    0.055920618094675245
+    Attrib AHR=Yes    0.012156374388203696
+    Attrib AKAP1=Yes    0.053446101693617375
+    Attrib AKR1B10=Yes    -0.007185184705116265
+    Attrib AMOTL2=Yes    0.09163121396939329
+    Attrib ANK1=Yes    0.01560162766834883
+    Attrib ANO5=Yes    0.03656787169903645
+    Attrib APOBEC4=Yes    -0.007712366840812196
+    Attrib APPBP2=Yes    0.07831363052541158
+    Attrib AR=Yes    0.041605271819987334
+    Attrib ARHGAP6=Yes    -0.003073481367086013
+    Attrib AZIN1=Yes    0.04452744232606702
+    Attrib BBX=Yes    -0.0019230287554995121
+    Attrib BMP2=Yes    0.07741502594506587
+    Attrib BTG2=Yes    0.01822685192967466
+    Attrib C15ORF40=Yes    0.09231927689469609
+    Attrib C21ORF91=Yes    -0.002160594730260064
+    Attrib C2CD2=Yes    0.006841073382580028
+    Attrib CABP5=Yes    0.05615507536242517
+    Attrib CALD1=Yes    0.08353180494779155
+    Attrib CAMK1D=Yes    0.04287962755283278
+    Attrib CASP8AP2=Yes    -0.006867780059893108
+    Attrib CIB2=Yes    0.017896779984954533
+    Attrib CIC=Yes    0.07044862160562827
+    Attrib CLCN3=Yes    0.05168738830482685
+    Attrib CLDN22=Yes    0.04295994522771076
+    Attrib CREB1=Yes    0.031528123926093624
+    Attrib CREBBP=Yes    0.031125766085290697
+    Attrib CREBRF=Yes    -0.018362496388127467
+    Attrib CUL3=Yes    0.04800047805607887
+    Attrib DBT=Yes    -0.0025377018087978645
+    Attrib DEAF1=Yes    -0.0026468219347816862
+    Attrib DOCK7=Yes    0.06867006895796482
+    Attrib ERICH3=Yes    0.07077165562798474
+    Attrib FAM86B1=Yes    0.033823182445397185
+    Attrib FBXW7=Yes    0.07103684682981483
+    Attrib FCGR1B=Yes    -0.005798901222337187
+    Attrib FRMD4B=No    0.008405783176012012
+    Attrib GPC6=Yes    0.0789216883113544
+    Attrib HECTD2=Yes    0.0695016851810254
+    Attrib ITGB8=Yes    -0.01851847644848812
+    Attrib KCNJ2=Yes    0.05767212568477585
+    Attrib KDM5B=Yes    0.015790469609312584
+    Attrib KIAA1522=Yes    -0.007883688888201375
+    Attrib LIN28B=No    -0.053762687014693666
+    Attrib LRIG3=No    -0.008870504086007147
+    Attrib MAFB=Yes    0.06171745809233693
+    Attrib MMGT1=Yes    0.04418791544680368
+    Attrib MTMR2=Yes    0.044740192886926995
+    Attrib NFIC=Yes    0.06601209631449978
+    Attrib NFIX=Yes    0.04154592841465878
+    Attrib NPTX1=Yes    0.019172947959643947
+    Attrib PLEKHS1=Yes    0.07097031469013579
+    Attrib POU3F4=Yes    0.0017823074119341124
+    Attrib PPP1R11=Yes    0.06917997579673683
+    Attrib PSKH1=Yes    0.0369974416373518
+    Attrib PTEN=Yes    0.036925069951432986
+    Attrib RIMS4=Yes    0.01407870091759224
+    Attrib RORA=Yes    0.026117106318383123
+    Attrib RPS6KA5=Yes    0.06832953745550749
+    Attrib RUNDC3A=Yes    0.04891506763334499
+    Attrib SEC23IP=Yes    0.01217026593911693
+    Attrib SESN3=Yes    0.07396159559447286
+    Attrib SLITRK4=Yes    0.08486331727727808
+    Attrib SP4=Yes    0.08020201690341572
+    Attrib TRIM71=No    -0.019911259491422292
+    Attrib UBE2H=Yes    0.07715762194554585
+    Attrib USP3=Yes    0.009468081671556569
+    Attrib VPS54=Yes    0.02895983862494887
+    Attrib YOD1=Yes    0.015829232563883147
+    Attrib ZBTB34=Yes    0.052891853357317276
+    Attrib ZNF512B=No    -0.0010266704933715376
+Sigmoid Node 34
+    Inputs    Weights
+    Threshold    0.15223490772499926
+    Attrib A1CF=Yes    -0.19739954114222047
+    Attrib ABL2=Yes    0.6599224758152673
+    Attrib ACTC1=Yes    -0.37379091360252525
+    Attrib ACVR1=Yes    0.6742531320873478
+    Attrib ADCY1=Yes    -0.23814157889153095
+    Attrib ADIPOR2=Yes    0.5955525335827306
+    Attrib AHR=Yes    -0.2267187377951931
+    Attrib AKAP1=Yes    0.3091678740466861
+    Attrib AKR1B10=Yes    -0.2431716275367994
+    Attrib AMOTL2=Yes    0.5597452235965608
+    Attrib ANK1=Yes    -0.3199288377196534
+    Attrib ANO5=Yes    -0.27430998311177185
+    Attrib APOBEC4=Yes    -0.35128323724536326
+    Attrib APPBP2=Yes    0.6188469050947101
+    Attrib AR=Yes    -0.20837134395215628
+    Attrib ARHGAP6=Yes    -0.27582455611962553
+    Attrib AZIN1=Yes    -0.22640687416556765
+    Attrib BBX=Yes    0.20449207916031947
+    Attrib BMP2=Yes    -0.3034196784399279
+    Attrib BTG2=Yes    0.8441716550963481
+    Attrib C15ORF40=Yes    -0.176853501107457
+    Attrib C21ORF91=Yes    -0.037694244676985185
+    Attrib C2CD2=Yes    0.09950149313457471
+    Attrib CABP5=Yes    -0.21674718883051133
+    Attrib CALD1=Yes    -0.1623025866991369
+    Attrib CAMK1D=Yes    -0.46424212237206924
+    Attrib CASP8AP2=Yes    -0.4392720095804953
+    Attrib CIB2=Yes    -0.15376798961377453
+    Attrib CIC=Yes    -0.21058138847212668
+    Attrib CLCN3=Yes    0.39722044038266474
+    Attrib CLDN22=Yes    0.36931185321538185
+    Attrib CREB1=Yes    -0.34264747257107686
+    Attrib CREBBP=Yes    -0.5607803583697853
+    Attrib CREBRF=Yes    0.536384462409499
+    Attrib CUL3=Yes    -0.23300657555924298
+    Attrib DBT=Yes    -0.20654705074907637
+    Attrib DEAF1=Yes    -0.418291141719923
+    Attrib DOCK7=Yes    -0.4079125046187806
+    Attrib ERICH3=Yes    -0.1735651048192044
+    Attrib FAM86B1=Yes    -0.17133506166057974
+    Attrib FBXW7=Yes    0.6468272158051585
+    Attrib FCGR1B=Yes    -0.2735932043373168
+    Attrib FRMD4B=No    -0.11604735613919544
+    Attrib GPC6=Yes    -0.3222929597662726
+    Attrib HECTD2=Yes    0.43225828246674086
+    Attrib ITGB8=Yes    0.4729781114434457
+    Attrib KCNJ2=Yes    0.11221109153261677
+    Attrib KDM5B=Yes    0.6656571066777331
+    Attrib KIAA1522=Yes    -0.19928674867336635
+    Attrib LIN28B=No    -0.18139714694540504
+    Attrib LRIG3=No    -0.12432538330808975
+    Attrib MAFB=Yes    -0.4566004772815759
+    Attrib MMGT1=Yes    0.4892013727646224
+    Attrib MTMR2=Yes    -0.14417271167915982
+    Attrib NFIC=Yes    0.8029343803562244
+    Attrib NFIX=Yes    -0.4983024408577538
+    Attrib NPTX1=Yes    0.8279004537228828
+    Attrib PLEKHS1=Yes    -0.28642629435966643
+    Attrib POU3F4=Yes    -0.22357311318014308
+    Attrib PPP1R11=Yes    0.6909119758835152
+    Attrib PSKH1=Yes    -0.17747946363333983
+    Attrib PTEN=Yes    0.14805308348563667
+    Attrib RIMS4=Yes    -0.19543275151960152
+    Attrib RORA=Yes    0.8339946723511691
+    Attrib RPS6KA5=Yes    0.17419119964014568
+    Attrib RUNDC3A=Yes    -0.11875941693585372
+    Attrib SEC23IP=Yes    0.07981777598751003
+    Attrib SESN3=Yes    0.18034129376488792
+    Attrib SLITRK4=Yes    -0.390436857962637
+    Attrib SP4=Yes    -0.25913368454769553
+    Attrib TRIM71=No    -0.3614108998235093
+    Attrib UBE2H=Yes    -0.44241413781811634
+    Attrib USP3=Yes    0.1429521317445016
+    Attrib VPS54=Yes    -0.6430233898713016
+    Attrib YOD1=Yes    0.061612168978719815
+    Attrib ZBTB34=Yes    0.6630874781496816
+    Attrib ZNF512B=No    -0.2007663402331396
+Sigmoid Node 35
+    Inputs    Weights
+    Threshold    -0.20013060224474705
+    Attrib A1CF=Yes    0.3468586151875839
+    Attrib ABL2=Yes    -1.2397288559424708
+    Attrib ACTC1=Yes    0.6124430189729617
+    Attrib ACVR1=Yes    -1.0982519146713712
+    Attrib ADCY1=Yes    0.46283206725378445
+    Attrib ADIPOR2=Yes    -1.06278396711229
+    Attrib AHR=Yes    0.4641785968301158
+    Attrib AKAP1=Yes    -0.4875402673983782
+    Attrib AKR1B10=Yes    0.4491882684411455
+    Attrib AMOTL2=Yes    -0.8299217365013447
+    Attrib ANK1=Yes    0.5165657348001946
+    Attrib ANO5=Yes    0.4877918697606998
+    Attrib APOBEC4=Yes    0.672846897295917
+    Attrib APPBP2=Yes    -1.1862059006869083
+    Attrib AR=Yes    0.4219262031016334
+    Attrib ARHGAP6=Yes    0.5669321602372179
+    Attrib AZIN1=Yes    0.35414562603452626
+    Attrib BBX=Yes    -0.36273928218721246
+    Attrib BMP2=Yes    0.5419487053110631
+    Attrib BTG2=Yes    -1.6379366194289067
+    Attrib C15ORF40=Yes    0.3312696181970472
+    Attrib C21ORF91=Yes    0.08750408270631091
+    Attrib C2CD2=Yes    -0.12981586591261324
+    Attrib CABP5=Yes    0.33239062991880686
+    Attrib CALD1=Yes    0.33401085175884027
+    Attrib CAMK1D=Yes    0.8542082698285642
+    Attrib CASP8AP2=Yes    0.7450934718965381
+    Attrib CIB2=Yes    0.33178559592520923
+    Attrib CIC=Yes    0.34547950972648517
+    Attrib CLCN3=Yes    -0.5133729424385166
+    Attrib CLDN22=Yes    -0.8946100970395618
+    Attrib CREB1=Yes    0.5985904666792913
+    Attrib CREBBP=Yes    0.9583225561905238
+    Attrib CREBRF=Yes    -0.8766012292252082
+    Attrib CUL3=Yes    0.4538457283403563
+    Attrib DBT=Yes    0.3680026933302462
+    Attrib DEAF1=Yes    0.7212444953412603
+    Attrib DOCK7=Yes    0.6948510136153327
+    Attrib ERICH3=Yes    0.358183762696828
+    Attrib FAM86B1=Yes    0.3363622613896416
+    Attrib FBXW7=Yes    -0.9205879849332803
+    Attrib FCGR1B=Yes    0.5369117674242795
+    Attrib FRMD4B=No    0.11761306216289527
+    Attrib GPC6=Yes    0.6659722793880549
+    Attrib HECTD2=Yes    -0.8100935934253085
+    Attrib ITGB8=Yes    -0.7068558192467138
+    Attrib KCNJ2=Yes    -0.18696576227759282
+    Attrib KDM5B=Yes    -1.1639428345405856
+    Attrib KIAA1522=Yes    0.33740957180454134
+    Attrib LIN28B=No    0.23209627121394488
+    Attrib LRIG3=No    0.0038799892924122905
+    Attrib MAFB=Yes    0.7420677858631096
+    Attrib MMGT1=Yes    -0.9112116704440102
+    Attrib MTMR2=Yes    0.30185846898920216
+    Attrib NFIC=Yes    -1.5321852601041328
+    Attrib NFIX=Yes    0.7739070847330648
+    Attrib NPTX1=Yes    -1.4831666851376253
+    Attrib PLEKHS1=Yes    0.49560404177328327
+    Attrib POU3F4=Yes    0.3847107804697506
+    Attrib PPP1R11=Yes    -1.3675958382435525
+    Attrib PSKH1=Yes    0.3609987678562121
+    Attrib PTEN=Yes    -0.09093845300054061
+    Attrib RIMS4=Yes    0.27256958237040607
+    Attrib RORA=Yes    -1.4524457885875535
+    Attrib RPS6KA5=Yes    -0.19579360371010712
+    Attrib RUNDC3A=Yes    0.2501138729323033
+    Attrib SEC23IP=Yes    -0.0345787808318358
+    Attrib SESN3=Yes    -0.19810870185291615
+    Attrib SLITRK4=Yes    0.7053930398184022
+    Attrib SP4=Yes    0.5663578436502881
+    Attrib TRIM71=No    0.518007619369251
+    Attrib UBE2H=Yes    0.677812335977666
+    Attrib USP3=Yes    -0.1514822961319294
+    Attrib VPS54=Yes    0.9718363051295799
+    Attrib YOD1=Yes    -0.09696783748985982
+    Attrib ZBTB34=Yes    -0.9054784397914641
+    Attrib ZNF512B=No    0.28839516790731196
+Sigmoid Node 36
+    Inputs    Weights
+    Threshold    0.045356374822935884
+    Attrib A1CF=Yes    -0.125178557792175
+    Attrib ABL2=Yes    0.4232372367498086
+    Attrib ACTC1=Yes    -0.2067958360571668
+    Attrib ACVR1=Yes    0.35191209590152406
+    Attrib ADCY1=Yes    -0.15295072368588106
+    Attrib ADIPOR2=Yes    0.2937084406888963
+    Attrib AHR=Yes    -0.15121418514108984
+    Attrib AKAP1=Yes    0.1285740759308238
+    Attrib AKR1B10=Yes    -0.15425851866836926
+    Attrib AMOTL2=Yes    0.2968144535685619
+    Attrib ANK1=Yes    -0.15671179124888165
+    Attrib ANO5=Yes    -0.16119128274215183
+    Attrib APOBEC4=Yes    -0.1476918017987816
+    Attrib APPBP2=Yes    0.37477829864523293
+    Attrib AR=Yes    -0.17652404365292718
+    Attrib ARHGAP6=Yes    -0.18376702580198223
+    Attrib AZIN1=Yes    -0.11914137667123746
+    Attrib BBX=Yes    0.10234327327038491
+    Attrib BMP2=Yes    -0.15204205254371117
+    Attrib BTG2=Yes    0.39717198519379565
+    Attrib C15ORF40=Yes    -0.09898566672848262
+    Attrib C21ORF91=Yes    0.046633622703811224
+    Attrib C2CD2=Yes    0.034626489260693866
+    Attrib CABP5=Yes    -0.061710543189158994
+    Attrib CALD1=Yes    -0.08057235325630666
+    Attrib CAMK1D=Yes    -0.2525230047484309
+    Attrib CASP8AP2=Yes    -0.2161112747305969
+    Attrib CIB2=Yes    -0.11907448258494349
+    Attrib CIC=Yes    -0.06921772150512659
+    Attrib CLCN3=Yes    0.17374729920500753
+    Attrib CLDN22=Yes    0.27684480297638486
+    Attrib CREB1=Yes    -0.1818324603551192
+    Attrib CREBBP=Yes    -0.2916439524701608
+    Attrib CREBRF=Yes    0.2308842345102987
+    Attrib CUL3=Yes    -0.15674287177724364
+    Attrib DBT=Yes    -0.15274723063672843
+    Attrib DEAF1=Yes    -0.2464373286456405
+    Attrib DOCK7=Yes    -0.18621058473586613
+    Attrib ERICH3=Yes    -0.14566772932808592
+    Attrib FAM86B1=Yes    -0.10706694141966284
+    Attrib FBXW7=Yes    0.3200498974949299
+    Attrib FCGR1B=Yes    -0.1711390217341533
+    Attrib FRMD4B=No    -0.08987673954279204
+    Attrib GPC6=Yes    -0.15789977823329165
+    Attrib HECTD2=Yes    0.22571723409730082
+    Attrib ITGB8=Yes    0.1713382851828796
+    Attrib KCNJ2=Yes    0.12524115947853226
+    Attrib KDM5B=Yes    0.31501008894753385
+    Attrib KIAA1522=Yes    -0.11526314136843112
+    Attrib LIN28B=No    -0.13718933962836788
+    Attrib LRIG3=No    -0.04904536088460107
+    Attrib MAFB=Yes    -0.20883168795687115
+    Attrib MMGT1=Yes    0.336188903345447
+    Attrib MTMR2=Yes    -0.11859534482345904
+    Attrib NFIC=Yes    0.3716170818154477
+    Attrib NFIX=Yes    -0.22070861383842147
+    Attrib NPTX1=Yes    0.3798912745206116
+    Attrib PLEKHS1=Yes    -0.19744657181497866
+    Attrib POU3F4=Yes    -0.09935807788966895
+    Attrib PPP1R11=Yes    0.35134977502017073
+    Attrib PSKH1=Yes    -0.12204673406019467
+    Attrib PTEN=Yes    0.08924717588373354
+    Attrib RIMS4=Yes    -0.08148368043047118
+    Attrib RORA=Yes    0.48956292967142406
+    Attrib RPS6KA5=Yes    0.13362605736420502
+    Attrib RUNDC3A=Yes    -0.047586038593136024
+    Attrib SEC23IP=Yes    0.10307010722568435
+    Attrib SESN3=Yes    0.08953986051825055
+    Attrib SLITRK4=Yes    -0.24489000568391067
+    Attrib SP4=Yes    -0.151379274016313
+    Attrib TRIM71=No    -0.13471948090547417
+    Attrib UBE2H=Yes    -0.1812949850780555
+    Attrib USP3=Yes    0.09612850923047617
+    Attrib VPS54=Yes    -0.34665231587942547
+    Attrib YOD1=Yes    0.04811272363971104
+    Attrib ZBTB34=Yes    0.3375527916598663
+    Attrib ZNF512B=No    -0.10760456386746524
+Sigmoid Node 37
+    Inputs    Weights
+    Threshold    -0.1730621365746662
+    Attrib A1CF=Yes    0.30338194107192334
+    Attrib ABL2=Yes    -0.6313450999342485
+    Attrib ACTC1=Yes    0.4305436337433755
+    Attrib ACVR1=Yes    -0.5766688860274767
+    Attrib ADCY1=Yes    0.24736169081655524
+    Attrib ADIPOR2=Yes    -0.5392252135382605
+    Attrib AHR=Yes    0.3046569936050662
+    Attrib AKAP1=Yes    -0.25169915062882886
+    Attrib AKR1B10=Yes    0.30677450267519296
+    Attrib AMOTL2=Yes    -0.41286495870772244
+    Attrib ANK1=Yes    0.3695582219957596
+    Attrib ANO5=Yes    0.2708524352599383
+    Attrib APOBEC4=Yes    0.35798624621944264
+    Attrib APPBP2=Yes    -0.6386312343754456
+    Attrib AR=Yes    0.2611754762033093
+    Attrib ARHGAP6=Yes    0.3604765507471665
+    Attrib AZIN1=Yes    0.27720460153997367
+    Attrib BBX=Yes    -0.15907782139961507
+    Attrib BMP2=Yes    0.35222750222279764
+    Attrib BTG2=Yes    -0.924401756344487
+    Attrib C15ORF40=Yes    0.25767600431869575
+    Attrib C21ORF91=Yes    0.10850119265445843
+    Attrib C2CD2=Yes    -0.041787520258416304
+    Attrib CABP5=Yes    0.2296906160158228
+    Attrib CALD1=Yes    0.22540509719606783
+    Attrib CAMK1D=Yes    0.5627147122425866
+    Attrib CASP8AP2=Yes    0.4285025490426242
+    Attrib CIB2=Yes    0.19533796606021406
+    Attrib CIC=Yes    0.26137457619314947
+    Attrib CLCN3=Yes    -0.23198368504312286
+    Attrib CLDN22=Yes    -0.46380832745391715
+    Attrib CREB1=Yes    0.33803050112422184
+    Attrib CREBBP=Yes    0.5444052284053853
+    Attrib CREBRF=Yes    -0.48741795888673717
+    Attrib CUL3=Yes    0.36484399648008026
+    Attrib DBT=Yes    0.2311134526404036
+    Attrib DEAF1=Yes    0.4475673373523247
+    Attrib DOCK7=Yes    0.44911731941173005
+    Attrib ERICH3=Yes    0.22594491508382178
+    Attrib FAM86B1=Yes    0.22466389051181174
+    Attrib FBXW7=Yes    -0.5313055748313336
+    Attrib FCGR1B=Yes    0.32876725262066986
+    Attrib FRMD4B=No    0.052105053057758435
+    Attrib GPC6=Yes    0.3913381972855407
+    Attrib HECTD2=Yes    -0.3636252916198828
+    Attrib ITGB8=Yes    -0.34541318395948983
+    Attrib KCNJ2=Yes    -0.029930715455144384
+    Attrib KDM5B=Yes    -0.5724208055197245
+    Attrib KIAA1522=Yes    0.27059040835012277
+    Attrib LIN28B=No    0.022970319937467096
+    Attrib LRIG3=No    -0.026382339220098347
+    Attrib MAFB=Yes    0.47463401746049244
+    Attrib MMGT1=Yes    -0.4675362587438658
+    Attrib MTMR2=Yes    0.171966088194654
+    Attrib NFIC=Yes    -0.8469356729473677
+    Attrib NFIX=Yes    0.5342711164739616
+    Attrib NPTX1=Yes    -0.7946939921735897
+    Attrib PLEKHS1=Yes    0.35923984463485353
+    Attrib POU3F4=Yes    0.2710736192915564
+    Attrib PPP1R11=Yes    -0.8141221902989892
+    Attrib PSKH1=Yes    0.24713831534023614
+    Attrib PTEN=Yes    -0.04052114655416783
+    Attrib RIMS4=Yes    0.16469673152376846
+    Attrib RORA=Yes    -0.795079057262415
+    Attrib RPS6KA5=Yes    -0.11208206056680302
+    Attrib RUNDC3A=Yes    0.24457239425433977
+    Attrib SEC23IP=Yes    -0.0325159795779289
+    Attrib SESN3=Yes    -0.10585111797637067
+    Attrib SLITRK4=Yes    0.43303874082057875
+    Attrib SP4=Yes    0.34980290527309194
+    Attrib TRIM71=No    0.2444607949290598
+    Attrib UBE2H=Yes    0.4628751740937934
+    Attrib USP3=Yes    -0.04736582052396691
+    Attrib VPS54=Yes    0.6120973147015183
+    Attrib YOD1=Yes    -0.08204818718803136
+    Attrib ZBTB34=Yes    -0.4627862743284133
+    Attrib ZNF512B=No    0.156249241271283
+Sigmoid Node 38
+    Inputs    Weights
+    Threshold    0.2696927310732834
+    Attrib A1CF=Yes    -0.340514223512257
+    Attrib ABL2=Yes    1.093703264944739
+    Attrib ACTC1=Yes    -0.6896812602976559
+    Attrib ACVR1=Yes    1.0499043946955022
+    Attrib ADCY1=Yes    -0.49128801274961276
+    Attrib ADIPOR2=Yes    1.00054206665225
+    Attrib AHR=Yes    -0.4509449997665419
+    Attrib AKAP1=Yes    0.4229575445697905
+    Attrib AKR1B10=Yes    -0.37654520818117454
+    Attrib AMOTL2=Yes    0.9331831862059269
+    Attrib ANK1=Yes    -0.6003369468080558
+    Attrib ANO5=Yes    -0.4373609033989594
+    Attrib APOBEC4=Yes    -0.6073991399737276
+    Attrib APPBP2=Yes    1.170384714446684
+    Attrib AR=Yes    -0.4481712521157697
+    Attrib ARHGAP6=Yes    -0.4977161646946401
+    Attrib AZIN1=Yes    -0.31973908199492124
+    Attrib BBX=Yes    0.3305830225278911
+    Attrib BMP2=Yes    -0.5439174596121359
+    Attrib BTG2=Yes    1.4661259212555309
+    Attrib C15ORF40=Yes    -0.2570651815902032
+    Attrib C21ORF91=Yes    0.01777066764871751
+    Attrib C2CD2=Yes    0.12907108790654484
+    Attrib CABP5=Yes    -0.30718482315520634
+    Attrib CALD1=Yes    -0.27544914552621225
+    Attrib CAMK1D=Yes    -0.8062725540692731
+    Attrib CASP8AP2=Yes    -0.6306088593492492
+    Attrib CIB2=Yes    -0.29767707880372035
+    Attrib CIC=Yes    -0.2805531898614442
+    Attrib CLCN3=Yes    0.5334173047720497
+    Attrib CLDN22=Yes    0.6768917010437556
+    Attrib CREB1=Yes    -0.5491010904267044
+    Attrib CREBBP=Yes    -1.0021494057976073
+    Attrib CREBRF=Yes    0.8681676347194892
+    Attrib CUL3=Yes    -0.4099388252804568
+    Attrib DBT=Yes    -0.3186769190910586
+    Attrib DEAF1=Yes    -0.6440795831046021
+    Attrib DOCK7=Yes    -0.6530834002308638
+    Attrib ERICH3=Yes    -0.3417222910877683
+    Attrib FAM86B1=Yes    -0.28534978159846863
+    Attrib FBXW7=Yes    0.9344555544859802
+    Attrib FCGR1B=Yes    -0.5255230554174521
+    Attrib FRMD4B=No    -0.12743966367243015
+    Attrib GPC6=Yes    -0.5818024259251507
+    Attrib HECTD2=Yes    0.8777626849681647
+    Attrib ITGB8=Yes    0.7265608098482673
+    Attrib KCNJ2=Yes    0.19709184938693078
+    Attrib KDM5B=Yes    1.0841230180393457
+    Attrib KIAA1522=Yes    -0.30416448284135345
+    Attrib LIN28B=No    -0.2986929822430102
+    Attrib LRIG3=No    -0.0912322819901536
+    Attrib MAFB=Yes    -0.7268340858430895
+    Attrib MMGT1=Yes    0.9576089933422689
+    Attrib MTMR2=Yes    -0.26666230505480415
+    Attrib NFIC=Yes    1.181415368188259
+    Attrib NFIX=Yes    -0.7972842562560967
+    Attrib NPTX1=Yes    1.2980729927632537
+    Attrib PLEKHS1=Yes    -0.5493003646125002
+    Attrib POU3F4=Yes    -0.34772118277112096
+    Attrib PPP1R11=Yes    1.3592475041346586
+    Attrib PSKH1=Yes    -0.3548650581274948
+    Attrib PTEN=Yes    0.09936248972542389
+    Attrib RIMS4=Yes    -0.32071483157144454
+    Attrib RORA=Yes    1.480818584924184
+    Attrib RPS6KA5=Yes    0.22213226597160393
+    Attrib RUNDC3A=Yes    -0.2487378948562375
+    Attrib SEC23IP=Yes    0.1610759588272978
+    Attrib SESN3=Yes    0.2330915199824658
+    Attrib SLITRK4=Yes    -0.7020556524554483
+    Attrib SP4=Yes    -0.5081850259358363
+    Attrib TRIM71=No    -0.5232346417966303
+    Attrib UBE2H=Yes    -0.7004918705437649
+    Attrib USP3=Yes    0.14281064360744497
+    Attrib VPS54=Yes    -1.0939601888057418
+    Attrib YOD1=Yes    0.19712736741493583
+    Attrib ZBTB34=Yes    1.0217325239514903
+    Attrib ZNF512B=No    -0.37517081271773645
+Sigmoid Node 39
+    Inputs    Weights
+    Threshold    -0.01593772615258779
+    Attrib A1CF=Yes    0.02259376081250336
+    Attrib ABL2=Yes    -0.0069996286103355745
+    Attrib ACTC1=Yes    0.083218665730812
+    Attrib ACVR1=Yes    0.023475911344656153
+    Attrib ADCY1=Yes    0.047761229970212024
+    Attrib ADIPOR2=Yes    0.052109683491224676
+    Attrib AHR=Yes    0.006169504568429029
+    Attrib AKAP1=Yes    0.07219693265731306
+    Attrib AKR1B10=Yes    0.02038493104785645
+    Attrib AMOTL2=Yes    0.07633164923101729
+    Attrib ANK1=Yes    0.04987168575074642
+    Attrib ANO5=Yes    0.015304955159699872
+    Attrib APOBEC4=Yes    0.07761967310090744
+    Attrib APPBP2=Yes    0.031319324320236396
+    Attrib AR=Yes    0.0030537590147699926
+    Attrib ARHGAP6=Yes    0.011582808653783491
+    Attrib AZIN1=Yes    0.013361114976766298
+    Attrib BBX=Yes    0.0019129343709864757
+    Attrib BMP2=Yes    0.009288005598848351
+    Attrib BTG2=Yes    -0.011332867152567596
+    Attrib C15ORF40=Yes    0.07296581060943678
+    Attrib C21ORF91=Yes    0.008249688921141696
+    Attrib C2CD2=Yes    0.06932188796368012
+    Attrib CABP5=Yes    0.06229454800007092
+    Attrib CALD1=Yes    0.08670426164922945
+    Attrib CAMK1D=Yes    0.0466451331517768
+    Attrib CASP8AP2=Yes    0.034996715484681445
+    Attrib CIB2=Yes    0.021780137834044366
+    Attrib CIC=Yes    8.315831101534816E-4
+    Attrib CLCN3=Yes    0.06491116516143647
+    Attrib CLDN22=Yes    0.07903387161181022
+    Attrib CREB1=Yes    0.044371870372292455
+    Attrib CREBBP=Yes    0.06508906203156975
+    Attrib CREBRF=Yes    0.010428643579489725
+    Attrib CUL3=Yes    0.02086588540489113
+    Attrib DBT=Yes    0.04171793612597934
+    Attrib DEAF1=Yes    0.01091683136570907
+    Attrib DOCK7=Yes    0.04488958849380217
+    Attrib ERICH3=Yes    0.07998829861627811
+    Attrib FAM86B1=Yes    0.01356187796187217
+    Attrib FBXW7=Yes    0.020451223309072675
+    Attrib FCGR1B=Yes    0.021139176872100866
+    Attrib FRMD4B=No    -0.04162808775398237
+    Attrib GPC6=Yes    0.07909611277082106
+    Attrib HECTD2=Yes    0.019822267935413834
+    Attrib ITGB8=Yes    -0.011158422592859051
+    Attrib KCNJ2=Yes    0.048998114625340344
+    Attrib KDM5B=Yes    0.007602508630410504
+    Attrib KIAA1522=Yes    0.06028470221922076
+    Attrib LIN28B=No    -0.04965027193014262
+    Attrib LRIG3=No    0.00662175210575563
+    Attrib MAFB=Yes    0.01648067374484839
+    Attrib MMGT1=Yes    0.04372374098266086
+    Attrib MTMR2=Yes    0.08611010974509056
+    Attrib NFIC=Yes    0.06555587843109296
+    Attrib NFIX=Yes    0.009959103903943277
+    Attrib NPTX1=Yes    0.04938693365142469
+    Attrib PLEKHS1=Yes    0.04083231668784189
+    Attrib POU3F4=Yes    0.08183340184917051
+    Attrib PPP1R11=Yes    0.005239056311743425
+    Attrib PSKH1=Yes    0.09260426242509587
+    Attrib PTEN=Yes    0.01992182363979131
+    Attrib RIMS4=Yes    0.017614618768505813
+    Attrib RORA=Yes    0.04338164498770242
+    Attrib RPS6KA5=Yes    0.036514450124465796
+    Attrib RUNDC3A=Yes    0.05355930460659241
+    Attrib SEC23IP=Yes    0.009190445286841424
+    Attrib SESN3=Yes    0.0568006196847983
+    Attrib SLITRK4=Yes    0.036277617049194
+    Attrib SP4=Yes    0.027825379667160227
+    Attrib TRIM71=No    -0.0456504153424403
+    Attrib UBE2H=Yes    0.07081280560606684
+    Attrib USP3=Yes    -0.0032400554039506793
+    Attrib VPS54=Yes    0.03300613279302554
+    Attrib YOD1=Yes    0.07713664859554525
+    Attrib ZBTB34=Yes    0.06315453329664002
+    Attrib ZNF512B=No    -0.004359594211664007
+Sigmoid Node 40
+    Inputs    Weights
+    Threshold    0.17680298436200856
+    Attrib A1CF=Yes    -0.23800495147056175
+    Attrib ABL2=Yes    0.947812918967802
+    Attrib ACTC1=Yes    -0.5136120599967542
+    Attrib ACVR1=Yes    0.911839024930109
+    Attrib ADCY1=Yes    -0.33507835703032873
+    Attrib ADIPOR2=Yes    0.8435191396950992
+    Attrib AHR=Yes    -0.35465549891025216
+    Attrib AKAP1=Yes    0.34497212607509753
+    Attrib AKR1B10=Yes    -0.34947973430333984
+    Attrib AMOTL2=Yes    0.7369794739092148
+    Attrib ANK1=Yes    -0.4832707540288472
+    Attrib ANO5=Yes    -0.3454881589753028
+    Attrib APOBEC4=Yes    -0.4931088080099039
+    Attrib APPBP2=Yes    0.9820237364380473
+    Attrib AR=Yes    -0.32273311145374434
+    Attrib ARHGAP6=Yes    -0.36137292053699854
+    Attrib AZIN1=Yes    -0.27247343516780675
+    Attrib BBX=Yes    0.27049440748381764
+    Attrib BMP2=Yes    -0.45336725639385944
+    Attrib BTG2=Yes    1.2476210209669134
+    Attrib C15ORF40=Yes    -0.24395568799612244
+    Attrib C21ORF91=Yes    0.04007228773593505
+    Attrib C2CD2=Yes    0.10542889604113927
+    Attrib CABP5=Yes    -0.2664554283637944
+    Attrib CALD1=Yes    -0.2532123218998663
+    Attrib CAMK1D=Yes    -0.6563394564141654
+    Attrib CASP8AP2=Yes    -0.5094855135447117
+    Attrib CIB2=Yes    -0.2769833430973176
+    Attrib CIC=Yes    -0.20095354983532582
+    Attrib CLCN3=Yes    0.4578434768253732
+    Attrib CLDN22=Yes    0.5881486446511558
+    Attrib CREB1=Yes    -0.49149927394772636
+    Attrib CREBBP=Yes    -0.7879299437145025
+    Attrib CREBRF=Yes    0.7007069261814626
+    Attrib CUL3=Yes    -0.34479316755781075
+    Attrib DBT=Yes    -0.26936185669340673
+    Attrib DEAF1=Yes    -0.527568088138796
+    Attrib DOCK7=Yes    -0.5584058551022665
+    Attrib ERICH3=Yes    -0.21190544691329952
+    Attrib FAM86B1=Yes    -0.19806023590555932
+    Attrib FBXW7=Yes    0.7087976255550933
+    Attrib FCGR1B=Yes    -0.35112092438478293
+    Attrib FRMD4B=No    -0.10523111440031853
+    Attrib GPC6=Yes    -0.4902212681778194
+    Attrib HECTD2=Yes    0.6883281564304019
+    Attrib ITGB8=Yes    0.5534522004394944
+    Attrib KCNJ2=Yes    0.09680354994277815
+    Attrib KDM5B=Yes    0.8874188578140945
+    Attrib KIAA1522=Yes    -0.25407135845662926
+    Attrib LIN28B=No    -0.1817073283274991
+    Attrib LRIG3=No    -0.1156807149472739
+    Attrib MAFB=Yes    -0.6048918512393465
+    Attrib MMGT1=Yes    0.7107723305348673
+    Attrib MTMR2=Yes    -0.24823913892693833
+    Attrib NFIC=Yes    1.0104369537298277
+    Attrib NFIX=Yes    -0.6047051067185687
+    Attrib NPTX1=Yes    1.1047067596002185
+    Attrib PLEKHS1=Yes    -0.4596252858184896
+    Attrib POU3F4=Yes    -0.2595916660355204
+    Attrib PPP1R11=Yes    1.0092083279753834
+    Attrib PSKH1=Yes    -0.22407885265663396
+    Attrib PTEN=Yes    0.04832666121647605
+    Attrib RIMS4=Yes    -0.197323171985547
+    Attrib RORA=Yes    1.1074885150200824
+    Attrib RPS6KA5=Yes    0.2150730345477053
+    Attrib RUNDC3A=Yes    -0.18932143428193168
+    Attrib SEC23IP=Yes    0.125351127168088
+    Attrib SESN3=Yes    0.22156538799552963
+    Attrib SLITRK4=Yes    -0.6022034763147354
+    Attrib SP4=Yes    -0.3490305984629775
+    Attrib TRIM71=No    -0.4212403097635052
+    Attrib UBE2H=Yes    -0.5450528279621631
+    Attrib USP3=Yes    0.08954383226913219
+    Attrib VPS54=Yes    -0.9436970700100497
+    Attrib YOD1=Yes    0.13340326533294222
+    Attrib ZBTB34=Yes    0.8139252388650896
+    Attrib ZNF512B=No    -0.3168972319711461
+Class Yes
+    Input
+    Node 0
+Class No
+    Input
+    Node 1
 
-Bagging with 100 iterations and base learner
-
-weka.classifiers.trees.RandomTree -K 0 -M 1.0 -V 0.001 -S 1 -do-not-check-capabilities
 Attribute mappings:
 
 Model attributes               	    Incoming attributes
 -------------------------------	    ----------------
-(nominal) mirna                	--> 1 (nominal) mirna
 (nominal) A1CF                 	--> 2 (nominal) A1CF
 (nominal) A2ML1                	--> 3 (nominal) A2ML1
 (nominal) AAK1                 	--> 4 (nominal) AAK1
@@ -8854,33 +12197,33 @@ Model attributes               	    Incoming attributes
 (nominal) DIAGNOSTIC_POSITIVE  	--> 8786 (nominal) DIAGNOSTIC_POSITIVE
 
 
-Time taken to build model: 7.28 seconds
+Time taken to build model: 59.67 seconds
 
 === Evaluation on test set ===
 
-Time taken to test model on supplied test set: 0.02 seconds
+Time taken to test model on supplied test set: 0.09 seconds
 
 === Summary ===
 
-Correctly Classified Instances          13               65      %
-Incorrectly Classified Instances         7               35      %
+Correctly Classified Instances          14               70      %
+Incorrectly Classified Instances         6               30      %
 Kappa statistic                          0     
-Mean absolute error                      0.3265
-Root mean squared error                  0.3743
-Relative absolute error                 65.295  %
-Root relative squared error             74.8521 %
+Mean absolute error                      0.2965
+Root mean squared error                  0.5107
+Relative absolute error                 59.3053 %
+Root relative squared error            102.1496 %
 Total Number of Instances               20     
 
 === Detailed Accuracy By Class ===
 
                  TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
-                 0.650    ?        1.000      0.650    0.788      ?        ?         1.000     Yes
-                 ?        0.350    0.000      ?        ?          ?        ?         ?         No
-Weighted Avg.    0.650    ?        1.000      0.650    0.788      ?        ?         1.000     
+                 0.700    ?        1.000      0.700    0.824      ?        ?         1.000     Yes
+                 ?        0.300    0.000      ?        ?          ?        ?         ?         No
+Weighted Avg.    0.700    ?        1.000      0.700    0.824      ?        ?         1.000     
 
 === Confusion Matrix ===
 
   a  b   <-- classified as
- 13  7 |  a = Yes
+ 14  6 |  a = Yes
   0  0 |  b = No
 
