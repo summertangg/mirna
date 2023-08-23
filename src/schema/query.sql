@@ -88,7 +88,7 @@ ORDER BY mirna_id
 
 SELECT mirna, gene, target_score 
 FROM mirdb_mirna_gene 
-WHERE mirna IN ('hsa-mir-215')
+WHERE mirna IN ('hsa-mir-10a')
 ORDER BY target_score desc
 
 DELETE FROM genes

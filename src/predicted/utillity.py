@@ -4,6 +4,7 @@ from config import mir54_training_set as m54
 from config import mir17_training_set as m17
 from config import mir_lawrie_testing_set as mlawrie
 from config import mir_larrabeiti_testing_set as mlar
+from config import SOM_correct as som_c
 
 
 def generate_random_numbers(scope, number):
@@ -39,10 +40,25 @@ def diff(list_1, list_2):
     print("Diff only in B {}: {}".format(len(only_in_set2), only_in_set2))
 
 
-intersect(m54.positive_mirnas, m26.natural_set)
-# diff(m54.positive_mirnas, mlawrie.table_1)
-diff(m54.positive_mirnas, m26.natural_set)
-# intersect(m54.positive_mirnas, m54.random_mirnas_2)
+intersect(m54.positive_mirnas, mlawrie.table_1)
+print('\n')
+intersect(som_c.mirnas, mlawrie.table_1)
+print('\n')
+diff(m54.positive_mirnas, mlawrie.table_1)
+
+print('*'*20)
+intersect(m54.positive_mirnas, mlawrie.table_2)
+print('\n')
+intersect(som_c.mirnas, mlawrie.table_2)
+print('\n')
+diff(m54.positive_mirnas, mlawrie.table_2)
+
+print('*'*20)
+intersect(m54.positive_mirnas, mlar.table_1)
+print('\n')
+intersect(som_c.mirnas, mlar.table_1)
+print('\n')
+diff(m54.positive_mirnas, mlar.table_1)
 
 # generate_random_numbers(2552, 1)
 
