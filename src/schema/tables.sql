@@ -9,6 +9,11 @@ CREATE TABLE genes (
   description VARCHAR(200)
 );
 
+CREATE TABLE DAVID (
+  pathway_id VARCHAR(20) PRIMARY KEY,
+  name VARCHAR(255)
+);
+
 CREATE TABLE pathways (
   pathway_id smallint PRIMARY KEY,
   name VARCHAR(255)
@@ -43,6 +48,15 @@ CREATE TABLE mirdb_mirna_gene (
   FOREIGN KEY (gene) REFERENCES genes (gene_id)
 );
 
+-- Create a table to save mirna:pathway interactions from DAVID
+CREATE TABLE DAVID_mirna_pathway (
+  mirna VARCHAR(20),
+  pathway VARCHAR(20),
+  PRIMARY KEY (mirna, pathway),
+  FOREIGN KEY (mirna) REFERENCES mirnas (mirna_id),
+  FOREIGN KEY (pathway) REFERENCES DAVID (pathway_id)
+);
+
 -- Create a table to save pathway:gene interactions from KEGG
 CREATE TABLE pathway_gene (
   pathway_id smallint,
@@ -74,6 +88,9 @@ INSERT INTO pathways (pathway_id, name) VALUES (12, 'ECM-receptor interaction');
 INSERT INTO pathways (pathway_id, name) VALUES (13, 'JAK-STAT signaling pathway');
 INSERT INTO pathways (pathway_id, name) VALUES (14, 'mTOR signaling pathway');
 INSERT INTO pathways (pathway_id, name) VALUES (15, 'Cytokine-cytokine receptor interaction');
+
+INSERT INTO david (pathway_id, name) VALUES ('hsa05206', 'MicroRNAs in cancer');
+INSERT INTO DAVID_mirna_pathway (mirna, pathway) VALUES ('hsa-let-7d', 'hsa05206');
 
 
 
