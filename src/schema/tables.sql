@@ -91,6 +91,8 @@ INSERT INTO pathways (pathway_id, name) VALUES (15, 'Cytokine-cytokine receptor 
 
 INSERT INTO david (pathway_id, name) VALUES ('hsa05206', 'MicroRNAs in cancer');
 INSERT INTO DAVID_mirna_pathway (mirna, pathway) VALUES ('hsa-let-7d', 'hsa05206');
+INSERT INTO DAVID_mirna_pathway (mirna, pathway) VALUES ('hsa-let-7e', 'hsa05206');
+INSERT INTO DAVID_mirna_pathway (mirna, pathway) VALUES ('hsa-let-7g', 'hsa05206');
 
 
 

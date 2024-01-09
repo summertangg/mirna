@@ -127,9 +127,9 @@ ORDER BY num_interactions desc
 SELECT gene, COUNT(mirna) AS num_interactions, STRING_AGG(DISTINCT mirna, ',') AS grouped_mirna
 FROM mirdb_mirna_gene i
 WHERE target_score >= 97
-  AND mirna IN ('hsa-let-7d') 
+  AND mirna IN ('hsa-let-7g') 
 group by gene
-ORDER BY num_interactions desc
+ORDER BY gene
 
 SELECT DISTINCT (mirna) --, m.disease
 FROM mirdb_mirna_gene AS i
