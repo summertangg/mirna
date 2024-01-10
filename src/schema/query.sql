@@ -139,7 +139,9 @@ order by mirna
 select count(g.gene_id)
 from genes as g
 
-select * from david_mirna_pathway
+select m.*, d.name from david_mirna_pathway AS m
+inner join david as d on m.pathway = d.pathway_id
+order by mirna, p_value
 
 -- GET interactions of specif mirnas "mirdb_interactions_m54_training.csv"
 SELECT COALESCE(i.mirna, 'mir-0') AS mirna, ge.gene_id, '1' AS is_target
