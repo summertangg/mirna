@@ -93,6 +93,20 @@ SELECT mirna_id, disease FROM mirnas
     results = cur.fetchall()
     return results
 
+def get_mirna_genes(conn, cur, mirna):
+    cur.execute(f"""
+SELECT gene
+FROM mirdb_mirna_gene
+WHERE target_score >= 97
+  AND mirna = '{mirna}'
+group by gene
+ORDER BY gene
+""")
+
+    # Fetch all the query results
+    results = cur.fetchall()
+    return results
+
 def get_pathway(cur, pathway_id):
     print(f'pathway id: {pathway_id}')
     cur.execute("SELECT name FROM pathways WHERE pathway_id = %s", (pathway_id,))

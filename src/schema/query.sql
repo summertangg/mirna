@@ -127,7 +127,7 @@ ORDER BY num_interactions desc
 SELECT gene, COUNT(mirna) AS num_interactions, STRING_AGG(DISTINCT mirna, ',') AS grouped_mirna
 FROM mirdb_mirna_gene i
 WHERE target_score >= 97
-  AND mirna IN ('hsa-let-7g') 
+  AND mirna IN ('hsa-mir-16-1') 
 group by gene
 ORDER BY gene
 
@@ -138,6 +138,8 @@ order by mirna
 
 select count(g.gene_id)
 from genes as g
+
+select * from david_mirna_pathway
 
 -- GET interactions of specif mirnas "mirdb_interactions_m54_training.csv"
 SELECT COALESCE(i.mirna, 'mir-0') AS mirna, ge.gene_id, '1' AS is_target

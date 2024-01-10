@@ -90,9 +90,60 @@ INSERT INTO pathways (pathway_id, name) VALUES (14, 'mTOR signaling pathway');
 INSERT INTO pathways (pathway_id, name) VALUES (15, 'Cytokine-cytokine receptor interaction');
 
 INSERT INTO david (pathway_id, name) VALUES ('hsa05206', 'MicroRNAs in cancer');
-INSERT INTO DAVID_mirna_pathway (mirna, pathway) VALUES ('hsa-let-7d', 'hsa05206');
+INSERT INTO david (pathway_id, name) VALUES ('hsa05219', 'Bladder cancer');
+INSERT INTO david (pathway_id, name) VALUES ('hsa04010', 'MAPK signaling pathway');
+INSERT INTO david (pathway_id, name) VALUES ('hsa05133', 'Pertussis');
+INSERT INTO david (pathway_id, name) VALUES ('hsa05140', 'Leishmaniasis');
+INSERT INTO david (pathway_id, name) VALUES ('hsa05142', 'Chagas disease');
+INSERT INTO david (pathway_id, name) VALUES ('hsa04064', 'NF-kappa B signaling pathway');
+INSERT INTO david (pathway_id, name) VALUES ('hsa04620', 'Toll-like receptor signaling pathway');
+INSERT INTO david (pathway_id, name) VALUES ('hsa05145', 'Toxoplasmosis');
+INSERT INTO david (pathway_id, name) VALUES ('hsa04722', 'Neurotrophin signaling pathway');
+INSERT INTO david (pathway_id, name) VALUES ('hsa05135', 'Yersinia infection');
+INSERT INTO david (pathway_id, name) VALUES ('hsa05162', 'Measles');
+INSERT INTO david (pathway_id, name) VALUES ('hsa04936', 'Alcoholic liver disease');
+INSERT INTO david (pathway_id, name) VALUES ('hsa05161', 'Hepatitis B');
+INSERT INTO david (pathway_id, name) VALUES ('hsa05152', 'Tuberculosis');
+INSERT INTO david (pathway_id, name) VALUES ('hsa05130', 'Pathogenic Escherichia coli infection');
+INSERT INTO david (pathway_id, name) VALUES ('hsa05169', 'Epstein-Barr virus infection');
+INSERT INTO david (pathway_id, name) VALUES ('hsa05170', 'Human immunodeficiency virus 1 infection');
+INSERT INTO david (pathway_id, name) VALUES ('hsa05417', 'Lipid and atherosclerosis');
+INSERT INTO david (pathway_id, name) VALUES ('hsa04550', 'Signaling pathways regulating pluripotency of stem cells');
+INSERT INTO david (pathway_id, name) VALUES ('hsa05226', 'Gastric cancer');
+INSERT INTO david (pathway_id, name) VALUES ('hsa04014', 'Ras signaling pathway');
+INSERT INTO david (pathway_id, name) VALUES ('hsa04120', 'Ubiquitin mediated proteolysis');
+INSERT INTO david (pathway_id, name) VALUES ('hsa04151', 'PI3K-Akt signaling pathway');
+INSERT INTO david (pathway_id, name) VALUES ('hsa05224', 'Breast cancer');
+
+INSERT INTO DAVID_mirna_pathway (mirna, pathway, p_value) VALUES ('hsa-let-7d', 'hsa05206', 0.00450);
 INSERT INTO DAVID_mirna_pathway (mirna, pathway) VALUES ('hsa-let-7e', 'hsa05206');
 INSERT INTO DAVID_mirna_pathway (mirna, pathway) VALUES ('hsa-let-7g', 'hsa05206');
+INSERT INTO DAVID_mirna_pathway (mirna, pathway, p_value) VALUES ('hsa-mir-106a', 'hsa05219', 0.012);
+INSERT INTO DAVID_mirna_pathway (mirna, pathway, p_value) VALUES ('hsa-mir-106a', 'hsa04010', 0.035);
+INSERT INTO DAVID_mirna_pathway (mirna, pathway, p_value) VALUES ('hsa-mir-106b', 'hsa05219', 0.016);
+
+INSERT INTO DAVID_mirna_pathway (mirna, pathway, p_value) VALUES ('hsa-mir-146a', 'hsa05133', 0.018);
+INSERT INTO DAVID_mirna_pathway (mirna, pathway, p_value) VALUES ('hsa-mir-146a', 'hsa05140', 0.018);
+INSERT INTO DAVID_mirna_pathway (mirna, pathway, p_value) VALUES ('hsa-mir-146a', 'hsa05142', 0.023);
+INSERT INTO DAVID_mirna_pathway (mirna, pathway, p_value) VALUES ('hsa-mir-146a', 'hsa04064', 0.024);
+INSERT INTO DAVID_mirna_pathway (mirna, pathway, p_value) VALUES ('hsa-mir-146a', 'hsa04620', 0.025);
+INSERT INTO DAVID_mirna_pathway (mirna, pathway, p_value) VALUES ('hsa-mir-146a', 'hsa05145', 0.026);
+INSERT INTO DAVID_mirna_pathway (mirna, pathway, p_value) VALUES ('hsa-mir-146a', 'hsa04722', 0.027);
+INSERT INTO DAVID_mirna_pathway (mirna, pathway, p_value) VALUES ('hsa-mir-146a', 'hsa05135', 0.031);
+INSERT INTO DAVID_mirna_pathway (mirna, pathway, p_value) VALUES ('hsa-mir-146a', 'hsa05162', 0.032);
+INSERT INTO DAVID_mirna_pathway (mirna, pathway, p_value) VALUES ('hsa-mir-146a', 'hsa04936', 0.033);
+INSERT INTO DAVID_mirna_pathway (mirna, pathway, p_value) VALUES ('hsa-mir-146a', 'hsa05161', 0.037);
+INSERT INTO DAVID_mirna_pathway (mirna, pathway, p_value) VALUES ('hsa-mir-146a', 'hsa05152', 0.041);
+INSERT INTO DAVID_mirna_pathway (mirna, pathway, p_value) VALUES ('hsa-mir-146a', 'hsa05130', 0.045);
+INSERT INTO DAVID_mirna_pathway (mirna, pathway, p_value) VALUES ('hsa-mir-146a', 'hsa05170', 0.046);
+INSERT INTO DAVID_mirna_pathway (mirna, pathway, p_value) VALUES ('hsa-mir-146a', 'hsa05417', 0.049);
+INSERT INTO DAVID_mirna_pathway (mirna, pathway, p_value) VALUES ('hsa-mir-155', 'hsa04550', 0.033);
+
+INSERT INTO DAVID_mirna_pathway (mirna, pathway, p_value) VALUES ('hsa-mir-15a', 'hsa05226', 0.0079);
+INSERT INTO DAVID_mirna_pathway (mirna, pathway, p_value) VALUES ('hsa-mir-15a', 'hsa04014', 0.036);
+INSERT INTO DAVID_mirna_pathway (mirna, pathway, p_value) VALUES ('hsa-mir-15a', 'hsa04120', 0.039);
+INSERT INTO DAVID_mirna_pathway (mirna, pathway, p_value) VALUES ('hsa-mir-15a', 'hsa04151', 0.041);
+INSERT INTO DAVID_mirna_pathway (mirna, pathway, p_value) VALUES ('hsa-mir-15a', 'hsa05224', 0.043);
 
 
 
