@@ -19,7 +19,7 @@ def export_interactions(db_conn, root_path, out_file, config=None):
     mirnas = get_all_mirans(db_conn, cur)
     mirnas_dict = {record[0]: record[1] for record in mirnas}
 
-    results = get_interactions(db_conn, cur, config)
+    results = get_interactions_with_pathways(db_conn, cur, config)
 
     cur.close()
 
@@ -56,8 +56,8 @@ root_path = "~/code/mirna/resources/results"
 conn = psycopg2.connect(database="postgres", user="postgres", password="1qaz2wsX", host="127.0.0.1", port="5432")
 try:
     export_interactions(conn, root_path, m54.interaction_file, m54.all_mirnas)
-    export_interactions(conn, root_path, mlawrie.table_1_file, mlawrie.table_1)
-    export_interactions(conn, root_path, mlawrie.table_2_file, mlawrie.table_2)
+    # export_interactions(conn, root_path, mlawrie.table_1_file, mlawrie.table_1)
+    # export_interactions(conn, root_path, mlawrie.table_2_file, mlawrie.table_2)
 
     # export_interactions(conn, root_path, mlar.table_1_file, mlar.table_1)
 except(Exception, psycopg2.DatabaseError) as error:

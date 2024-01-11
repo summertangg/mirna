@@ -63,20 +63,38 @@ def get_interactions(conn, cur, config=None):
         selected_mirna = f'AND mirna IN ({selected_mirna})'
     print(selected_mirna)
 
-    # Execute the SQL query
-#     cur.execute(f"""
-# SELECT mirna, gene, '1' AS is_target FROM mirdb_mirna_gene 
-# WHERE target_score >= 97
-# {selected_mirna}
-# ORDER BY gene
-# """)
-
     cur.execute(f"""
 SELECT COALESCE(i.mirna, 'mir-0') AS mirna, ge.gene_id, '1' AS is_target
 FROM genes AS ge
 LEFT JOIN mirdb_mirna_gene AS i ON ge.gene_id = i.gene AND i.target_score >=97 
 {selected_mirna}
 ORDER BY ge.gene_id
+""")
+
+    # Fetch all the query results
+    results = cur.fetchall()
+    return results
+
+def get_interactions_with_pathways(conn, cur, config=None):
+    selected_mirna = ''
+    
+    if config:
+        # Join the elements in the mirna list with single quotes and comma
+        selected_mirna = ', '.join([f"'{mirna}'" for mirna in config])
+        selected_mirna = f'AND mirna IN ({selected_mirna})'
+    print(selected_mirna)
+
+    cur.execute(f"""
+SELECT COALESCE(i.mirna, 'mir-0') AS mirna, ge.gene_id, '1' AS is_target
+FROM genes AS ge
+LEFT JOIN mirdb_mirna_gene AS i ON ge.gene_id = i.gene AND i.target_score >=97 
+{selected_mirna}
+UNION
+SELECT COALESCE(mp.mirna, 'mir-0') AS mirna, mp.pathway, '1' AS is_target
+FROM david AS da
+LEFT JOIN david_mirna_pathway AS mp ON da.pathway_id = mp.pathway 
+{selected_mirna}
+ORDER BY gene_id desc
 """)
 
     # Fetch all the query results
