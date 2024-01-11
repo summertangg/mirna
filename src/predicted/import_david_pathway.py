@@ -2,6 +2,9 @@ import os
 import psycopg2
 import glob
 from db_helper import *
+from config import mir54_training_set as m54
+from config import mir_lawrie_testing_set as mlawrie
+from config import mir_larrabeiti_testing_set as mlar
 
 
 def import_batch_files(conn, root_path):
@@ -35,12 +38,23 @@ def import_david_pathway(db_conn, root_path, pathway_file):
 
     cur.close()
 
+def import_specific_pathway(db_conn, pathway_id, pathway_kegg_id, p_value, config):
+    cur = conn.cursor()
+
+    mirnas = get_mirna_involved_in_pathway(db_conn, cur, pathway_id, config)
+    for mirna in mirnas:
+        insert_david_mirna_pathway_cancer(db_conn, cur, mirna[0], pathway_kegg_id, p_value)
+
+    cur.close()
+
+
 root_path = "~/code/mirna/resources/david_files"
 pathway_file = "hsa-mir-451b.txt"
 conn = psycopg2.connect(database="postgres", user="postgres", password="1qaz2wsX", host="127.0.0.1", port="5432")
 try:
-    import_david_pathway(conn, root_path, pathway_file)
+    # import_david_pathway(conn, root_path, pathway_file)
     # import_batch_files(conn, root_path)
+    import_specific_pathway(conn, 7, 'hsa05200', 0.05, m54.positive_mirnas)
 except(Exception, psycopg2.DatabaseError) as error:
     raise error
 finally:

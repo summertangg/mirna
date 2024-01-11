@@ -101,6 +101,29 @@ ORDER BY gene_id desc
     results = cur.fetchall()
     return results
 
+def get_mirna_involved_in_pathway(conn, cur, pathway_id, config):
+    selected_mirna = ', '.join([f"'{mirna}'" for mirna in config])
+    selected_mirna = f'AND mirna IN ({selected_mirna})'
+    print(selected_mirna)
+
+    cur.execute(f"""
+SELECT mirna, STRING_AGG(DISTINCT mg.gene, ',') AS grouped_gene, count(mg.gene) as num_gene --,
+FROM pathway_gene AS pg
+INNER JOIN genes AS g ON g.gene_id = pg.gene
+INNER JOIN mirdb_mirna_gene AS mg ON mg.gene = pg.gene
+{selected_mirna}
+WHERE mg.target_score >= 97
+  AND pg.pathway_id = 7
+group by mirna
+HAVING count(mg.gene) >= 2
+ORDER BY mirna
+""")
+
+    # Fetch all the query results
+    results = cur.fetchall()
+    return results
+
+
 def get_all_mirans(conn, cur):
     # Execute the SQL query
     cur.execute("""
@@ -167,6 +190,18 @@ def insert_david_mirna_pathway(conn, cur, mirna, pathway_kegg_id, pathway_name, 
         print(f"{pathway_kegg_id}:{pathway_name} already exists.")
    
 
+    cur.execute("SELECT COUNT(*) FROM david_mirna_pathway WHERE mirna = %s AND pathway = %s", (mirna, pathway_kegg_id))
+    record_count = cur.fetchone()[0]
+    
+    if record_count == 0:
+        # Insert the record if it doesn't exist
+        cur.execute("INSERT INTO david_mirna_pathway (mirna, pathway, p_value) VALUES (%s, %s, %s)", (mirna, pathway_kegg_id, p_value))
+        conn.commit()
+        print(f"{mirna} - {pathway_kegg_id} - {p_value} inserted successfully.")
+    else:
+        print(f"{mirna} - {pathway_kegg_id} already exists.")
+
+def insert_david_mirna_pathway_cancer(conn, cur, mirna, pathway_kegg_id, p_value):
     cur.execute("SELECT COUNT(*) FROM david_mirna_pathway WHERE mirna = %s AND pathway = %s", (mirna, pathway_kegg_id))
     record_count = cur.fetchone()[0]
     

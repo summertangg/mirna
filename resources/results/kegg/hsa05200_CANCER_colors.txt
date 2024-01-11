@@ -51,3 +51,30 @@
 6502	#FFE4E1,black
 4088	#FFE4E1,black
 6655	#FFE4E1,black
+
+*** The following mirna is tagged **
+hsa-mir-106a - hsa05200 - 0.05 inserted successfully.
+hsa-mir-106b - hsa05200 - 0.05 inserted successfully.
+hsa-mir-139 - hsa05200 - 0.05 inserted successfully.
+hsa-mir-15a - hsa05200 - 0.05 inserted successfully.
+hsa-mir-17 - hsa05200 - 0.05 inserted successfully.
+hsa-mir-182 - hsa05200 already exists.
+hsa-mir-19a - hsa05200 - 0.05 inserted successfully.
+hsa-mir-19b - hsa05200 - 0.05 inserted successfully.
+hsa-mir-20a - hsa05200 - 0.05 inserted successfully.
+hsa-mir-20b - hsa05200 - 0.05 inserted successfully.
+hsa-mir-21 - hsa05200 already exists.
+hsa-mir-23a - hsa05200 - 0.05 inserted successfully.
+hsa-mir-23b - hsa05200 - 0.05 inserted successfully.
+hsa-mir-24 - hsa05200 - 0.05 inserted successfully.
+hsa-mir-26a - hsa05200 - 0.05 inserted successfully.
+hsa-mir-26b - hsa05200 - 0.05 inserted successfully.
+hsa-mir-27a - hsa05200 - 0.05 inserted successfully.
+hsa-mir-27b - hsa05200 - 0.05 inserted successfully.
+hsa-mir-29b - hsa05200 - 0.05 inserted successfully.
+hsa-mir-29c - hsa05200 - 0.05 inserted successfully.
+hsa-mir-301a - hsa05200 - 0.05 inserted successfully.
+hsa-mir-30b - hsa05200 - 0.05 inserted successfully.
+hsa-mir-320a - hsa05200 - 0.05 inserted successfully.
+hsa-mir-34a - hsa05200 - 0.05 inserted successfully.
+hsa-mir-93 - hsa05200 - 0.05 inserted successfully.
