@@ -139,9 +139,12 @@ order by mirna
 select count(g.gene_id)
 from genes as g
 
-select m.*, d.name from david_mirna_pathway AS m
+select m.*, d.name 
+from david_mirna_pathway AS m
 inner join david as d on m.pathway = d.pathway_id
 order by mirna, p_value
+
+select * from david order by name
 
 -- GET interactions of specif mirnas "mirdb_interactions_m54_training.csv"
 SELECT COALESCE(i.mirna, 'mir-0') AS mirna, ge.gene_id, '1' AS is_target
@@ -177,9 +180,11 @@ INNER JOIN mirdb_mirna_gene AS mg ON mg.gene = pg.gene
   AND mirna IN ('hsa-let-7d', 'hsa-let-7e', 'hsa-let-7g', 'hsa-mir-106a', 'hsa-mir-106b', 'hsa-mir-143', 'hsa-mir-146a', 'hsa-mir-146b', 'hsa-mir-150', 'hsa-mir-155', 'hsa-mir-15a', 'hsa-mir-16-1', 'hsa-mir-17', 'hsa-mir-182', 'hsa-mir-18a', 'hsa-mir-18b', 'hsa-mir-199a', 'hsa-mir-19a', 'hsa-mir-19b', 'hsa-mir-20a', 'hsa-mir-21', 'hsa-mir-210', 'hsa-mir-221', 'hsa-mir-24', 'hsa-mir-30b', 'hsa-mir-320a', 'hsa-mir-328', 'hsa-mir-139', 'hsa-mir-34a', 'hsa-mir-34b', 'hsa-mir-365a', 'hsa-mir-451b', 'hsa-mir-485', 'hsa-mir-9', 'hsa-mir-92a', 'hsa-mir-93', 'hsa-mir-181a', 'hsa-mir-217', 'hsa-mir-361', 'hsa-mir-363', 'hsa-let-7f', 'hsa-mir-20b', 'hsa-mir-26a', 'hsa-mir-26b', 'hsa-mir-29b', 'hsa-mir-29c', 'hsa-mir-125b', 'hsa-mir-145', 'hsa-mir-223', 'hsa-mir-301a', 'hsa-mir-23a', 'hsa-mir-23b', 'hsa-mir-27a', 'hsa-mir-27b')
 INNER JOIN mirnas AS m on m.mirna_id = mg.mirna and m.disease is not NULL
 WHERE mg.target_score >= 97
-  AND pg.pathway_id = 3
+  AND pg.pathway_id = 7
 group by mg.gene, pg.gene, g.kegg_id
 ORDER BY count(mg.mirna) desc, mg.gene
+
+select * from pathways
 
 SELECT t.kegg_id, c.color --t.* 
 FROM interaction_colors AS c
