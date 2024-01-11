@@ -90,7 +90,7 @@ FROM genes AS ge
 LEFT JOIN mirdb_mirna_gene AS i ON ge.gene_id = i.gene AND i.target_score >=97 
 {selected_mirna}
 UNION
-SELECT COALESCE(mp.mirna, 'mir-0') AS mirna, mp.pathway, '1' AS is_target
+SELECT COALESCE(mp.mirna, 'mir-0') AS mirna, da.pathway_id, '1' AS is_target
 FROM david AS da
 LEFT JOIN david_mirna_pathway AS mp ON da.pathway_id = mp.pathway 
 {selected_mirna}
