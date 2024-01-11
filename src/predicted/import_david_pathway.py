@@ -36,11 +36,11 @@ def import_david_pathway(db_conn, root_path, pathway_file):
     cur.close()
 
 root_path = "~/code/mirna/resources/david_files"
-pathway_file = "hsa-mir-182.txt"
+pathway_file = "hsa-mir-451b.txt"
 conn = psycopg2.connect(database="postgres", user="postgres", password="1qaz2wsX", host="127.0.0.1", port="5432")
 try:
-    # import_david_pathway(conn, root_path, pathway_file)
-    import_batch_files(conn, root_path)
+    import_david_pathway(conn, root_path, pathway_file)
+    # import_batch_files(conn, root_path)
 except(Exception, psycopg2.DatabaseError) as error:
     raise error
 finally:

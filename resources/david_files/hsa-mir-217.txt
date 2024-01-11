@@ -1,0 +1,2 @@
+Category	Term	Count	%	PValue	Genes	List Total	Pop Hits	Pop Total	Fold Enrichment	Bonferroni	Benjamini	FDR
+KEGG_PATHWAY	hsa04974:Protein digestion and absorption	2	14.285714285714285	0.046825932408051024	481, 54407	5	103	8644	33.56893203883496	0.6681353302705155	1.0	1.0
