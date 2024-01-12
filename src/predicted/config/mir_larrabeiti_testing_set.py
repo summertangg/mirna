@@ -21,4 +21,4 @@ table_1 = [
     "hsa-mir-10a"
 ]
 
-table_1_file = "mirdb_interactions_larrabeiti_testing_table_1.csv"
+table_1_file = "mirdb_interactions_larrabeiti_testing_table_1_b.csv"

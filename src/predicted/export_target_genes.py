@@ -37,7 +37,8 @@ conn = psycopg2.connect(database="postgres", user="postgres", password="1qaz2wsX
 try:
     # export_genes(conn, root_path, "m54", m54.positive_mirnas)
     # export_genes(conn, root_path, "random", m54.random_mirnas)
-    export_genes(conn, root_path, "mlawrie_1", mlawrie.table_1)
+    # export_genes(conn, root_path, "mlawrie_1", mlawrie.table_1)
+    export_genes(conn, root_path, "mlawrie_2", mlawrie.table_2)
 
 
     # export_interactions(conn, root_path, mlar.table_1_file, mlar.table_1)
