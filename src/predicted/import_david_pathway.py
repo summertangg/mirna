@@ -49,7 +49,7 @@ def import_specific_pathway(db_conn, pathway_id, pathway_kegg_id, p_value, confi
 
 
 root_path = "~/code/mirna/resources/david_files"
-pathway_file = "hsa-mir-206.txt"
+pathway_file = "hsa-mir-12136.txt"
 conn = psycopg2.connect(database="postgres", user="postgres", password="1qaz2wsX", host="127.0.0.1", port="5432")
 try:
     # import david pathway annotations for the genes targetted by an mirna so that david_mirna_pathway records can be created
@@ -58,8 +58,8 @@ try:
     # run a query to get mirnas having at least 2 genes involved in the given pathway
     # import_specific_pathway(conn, 7, 'hsa05200', 0.05, m54.positive_mirnas)
     # import_specific_pathway(conn, 7, 'hsa05200', 0.05, mlawrie.table_1)
-    import_specific_pathway(conn, 7, 'hsa05200', 0.05, mlawrie.table_2)
-    # import_specific_pathway(conn, 7, 'hsa05200', 0.05, mlar.table_1)
+    # import_specific_pathway(conn, 7, 'hsa05200', 0.05, mlawrie.table_2)
+    import_specific_pathway(conn, 7, 'hsa05200', 0.05, mlar.table_1)
 
 except(Exception, psycopg2.DatabaseError) as error:
     raise error
