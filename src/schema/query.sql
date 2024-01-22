@@ -127,7 +127,7 @@ ORDER BY num_interactions desc
 SELECT gene, COUNT(mirna) AS num_interactions, STRING_AGG(DISTINCT mirna, ',') AS grouped_mirna
 FROM mirdb_mirna_gene i
 WHERE target_score >= 97
-  AND mirna IN ('hsa-mir-16-1') 
+  AND mirna IN ('hsa-mir-210') 
 group by gene
 ORDER BY gene
 
@@ -142,23 +142,35 @@ from genes as g
 select m.*, d.name 
 from david_mirna_pathway AS m
 inner join david as d on m.pathway = d.pathway_id
+where pathway ='hsa05200'
 order by mirna, p_value
 
-select * from david order by name
+-- Get pathways with the mirna involved
+select m.pathway, d.name, STRING_AGG(DISTINCT mirna, ',') AS grouped_mirna, count(mirna) as num_mirna
+from david_mirna_pathway AS m
+inner join david as d on m.pathway = d.pathway_id
+group by m.pathway, d.name
+order by count(mirna) desc
+
+select * from david
+order by name
 
 -- GET interactions of specif mirnas "mirdb_interactions_m54_training.csv"
 SELECT COALESCE(i.mirna, 'mir-0') AS mirna, ge.gene_id, '1' AS is_target
 FROM genes AS ge
 LEFT JOIN mirdb_mirna_gene AS i ON ge.gene_id = i.gene AND i.target_score >=97 
-  AND i.mirna IN ('hsa-let-7d', 'hsa-let-7e', 'hsa-let-7g', 'hsa-mir-106a', 'hsa-mir-106b', 'hsa-mir-143', 'hsa-mir-146a', 'hsa-mir-146b', 'hsa-mir-150', 'hsa-mir-155', 'hsa-mir-15a', 'hsa-mir-16-1', 'hsa-mir-17', 'hsa-mir-182', 'hsa-mir-18a', 'hsa-mir-18b', 'hsa-mir-199a', 'hsa-mir-19a', 'hsa-mir-19b', 'hsa-mir-20a', 'hsa-mir-21', 'hsa-mir-210', 'hsa-mir-221', 'hsa-mir-24', 'hsa-mir-30b', 'hsa-mir-320a', 'hsa-mir-328', 'hsa-mir-139', 'hsa-mir-34a', 'hsa-mir-34b', 'hsa-mir-365a', 'hsa-mir-451b', 'hsa-mir-485', 'hsa-mir-9', 'hsa-mir-92a', 'hsa-mir-93', 'hsa-mir-181a', 'hsa-mir-217', 'hsa-mir-361', 'hsa-mir-363', 'hsa-let-7f', 'hsa-mir-20b', 'hsa-mir-26a', 'hsa-mir-26b', 'hsa-mir-29b', 'hsa-mir-29c', 'hsa-mir-125b', 'hsa-mir-145', 'hsa-mir-223', 'hsa-mir-301a', 'hsa-mir-23a', 'hsa-mir-23b', 'hsa-mir-27a', 'hsa-mir-27b')
+  --AND i.mirna IN ('hsa-let-7d', 'hsa-let-7e', 'hsa-let-7g', 'hsa-mir-106a', 'hsa-mir-106b', 'hsa-mir-143', 'hsa-mir-146a', 'hsa-mir-146b', 'hsa-mir-150', 'hsa-mir-155', 'hsa-mir-15a', 'hsa-mir-16-1', 'hsa-mir-17', 'hsa-mir-182', 'hsa-mir-18a', 'hsa-mir-18b', 'hsa-mir-199a', 'hsa-mir-19a', 'hsa-mir-19b', 'hsa-mir-20a', 'hsa-mir-21', 'hsa-mir-210', 'hsa-mir-221', 'hsa-mir-24', 'hsa-mir-30b', 'hsa-mir-320a', 'hsa-mir-328', 'hsa-mir-139', 'hsa-mir-34a', 'hsa-mir-34b', 'hsa-mir-365a', 'hsa-mir-451b', 'hsa-mir-485', 'hsa-mir-9', 'hsa-mir-92a', 'hsa-mir-93', 'hsa-mir-181a', 'hsa-mir-217', 'hsa-mir-361', 'hsa-mir-363', 'hsa-let-7f', 'hsa-mir-20b', 'hsa-mir-26a', 'hsa-mir-26b', 'hsa-mir-29b', 'hsa-mir-29c', 'hsa-mir-125b', 'hsa-mir-145', 'hsa-mir-223', 'hsa-mir-301a', 'hsa-mir-23a', 'hsa-mir-23b', 'hsa-mir-27a', 'hsa-mir-27b')
+  AND mirna IN ('hsa-mir-125b', 'hsa-mir-143', 'hsa-mir-451b', 'hsa-mir-145', 'hsa-mir-10b', 'hsa-mir-34a', 'hsa-mir-100', 'hsa-mir-9', 'hsa-mir-155', 'hsa-mir-21', 'hsa-mir-150', 'hsa-mir-363', 'hsa-mir-223', 'hsa-mir-584', 'hsa-mir-361', 'hsa-mir-625', 'hsa-mir-495', 'hsa-mir-181a')
 UNION
-SELECT COALESCE(mp.mirna, 'mir-0') AS mirna, mp.pathway, '1' AS is_target
+SELECT COALESCE(mp.mirna, 'mir-0') AS mirna, da.pathway_id, '1' AS is_target
 FROM david AS da
 LEFT JOIN david_mirna_pathway AS mp ON da.pathway_id = mp.pathway 
-  AND mp.mirna IN ('hsa-let-7d', 'hsa-let-7e', 'hsa-let-7g', 'hsa-mir-106a', 'hsa-mir-106b', 'hsa-mir-143', 'hsa-mir-146a', 'hsa-mir-146b', 'hsa-mir-150', 'hsa-mir-155', 'hsa-mir-15a', 'hsa-mir-16-1', 'hsa-mir-17', 'hsa-mir-182', 'hsa-mir-18a', 'hsa-mir-18b', 'hsa-mir-199a', 'hsa-mir-19a', 'hsa-mir-19b', 'hsa-mir-20a', 'hsa-mir-21', 'hsa-mir-210', 'hsa-mir-221', 'hsa-mir-24', 'hsa-mir-30b', 'hsa-mir-320a', 'hsa-mir-328', 'hsa-mir-139', 'hsa-mir-34a', 'hsa-mir-34b', 'hsa-mir-365a', 'hsa-mir-451b', 'hsa-mir-485', 'hsa-mir-9', 'hsa-mir-92a', 'hsa-mir-93', 'hsa-mir-181a', 'hsa-mir-217', 'hsa-mir-361', 'hsa-mir-363', 'hsa-let-7f', 'hsa-mir-20b', 'hsa-mir-26a', 'hsa-mir-26b', 'hsa-mir-29b', 'hsa-mir-29c', 'hsa-mir-125b', 'hsa-mir-145', 'hsa-mir-223', 'hsa-mir-301a', 'hsa-mir-23a', 'hsa-mir-23b', 'hsa-mir-27a', 'hsa-mir-27b')
-ORDER BY mirna, gene_id
+--  AND mirna IN ('hsa-let-7d', 'hsa-let-7e', 'hsa-let-7g', 'hsa-mir-106a', 'hsa-mir-106b', 'hsa-mir-143', 'hsa-mir-146a', 'hsa-mir-146b', 'hsa-mir-150', 'hsa-mir-155', 'hsa-mir-15a', 'hsa-mir-16-1', 'hsa-mir-17', 'hsa-mir-182', 'hsa-mir-18a', 'hsa-mir-18b', 'hsa-mir-199a', 'hsa-mir-19a', 'hsa-mir-19b', 'hsa-mir-20a', 'hsa-mir-21', 'hsa-mir-210', 'hsa-mir-221', 'hsa-mir-24', 'hsa-mir-30b', 'hsa-mir-320a', 'hsa-mir-328', 'hsa-mir-139', 'hsa-mir-34a', 'hsa-mir-34b', 'hsa-mir-365a', 'hsa-mir-451b', 'hsa-mir-485', 'hsa-mir-9', 'hsa-mir-92a', 'hsa-mir-93', 'hsa-mir-181a', 'hsa-mir-217', 'hsa-mir-361', 'hsa-mir-363', 'hsa-let-7f', 'hsa-mir-20b', 'hsa-mir-26a', 'hsa-mir-26b', 'hsa-mir-29b', 'hsa-mir-29c', 'hsa-mir-125b', 'hsa-mir-145', 'hsa-mir-223', 'hsa-mir-301a', 'hsa-mir-23a', 'hsa-mir-23b', 'hsa-mir-27a', 'hsa-mir-27b')
+AND mirna IN ('hsa-mir-125b', 'hsa-mir-143', 'hsa-mir-451b', 'hsa-mir-145', 'hsa-mir-10b', 'hsa-mir-34a', 'hsa-mir-100', 'hsa-mir-9', 'hsa-mir-155', 'hsa-mir-21', 'hsa-mir-150', 'hsa-mir-363', 'hsa-mir-223', 'hsa-mir-584', 'hsa-mir-361', 'hsa-mir-625', 'hsa-mir-495', 'hsa-mir-181a')
+ORDER BY gene_id desc
 
-select * from david
+
+
 
 
 SELECT pathway_id, count(gene)
@@ -183,6 +195,54 @@ WHERE mg.target_score >= 97
   AND pg.pathway_id = 7
 group by mg.gene, pg.gene, g.kegg_id
 ORDER BY count(mg.mirna) desc, mg.gene
+
+-- get mirna targeting genes in a pathway (m54) 
+SELECT mirna, STRING_AGG(DISTINCT mg.gene, ',') AS grouped_gene, count(mg.gene) as num_gene --,
+FROM pathway_gene AS pg
+INNER JOIN genes AS g ON g.gene_id = pg.gene
+INNER JOIN mirdb_mirna_gene AS mg ON mg.gene = pg.gene
+  AND mirna IN ('hsa-let-7d', 'hsa-let-7e', 'hsa-let-7g', 'hsa-mir-106a', 'hsa-mir-106b', 'hsa-mir-143', 'hsa-mir-146a', 'hsa-mir-146b', 'hsa-mir-150', 'hsa-mir-155', 'hsa-mir-15a', 'hsa-mir-16-1', 'hsa-mir-17', 'hsa-mir-182', 'hsa-mir-18a', 'hsa-mir-18b', 'hsa-mir-199a', 'hsa-mir-19a', 'hsa-mir-19b', 'hsa-mir-20a', 'hsa-mir-21', 'hsa-mir-210', 'hsa-mir-221', 'hsa-mir-24', 'hsa-mir-30b', 'hsa-mir-320a', 'hsa-mir-328', 'hsa-mir-139', 'hsa-mir-34a', 'hsa-mir-34b', 'hsa-mir-365a', 'hsa-mir-451b', 'hsa-mir-485', 'hsa-mir-9', 'hsa-mir-92a', 'hsa-mir-93', 'hsa-mir-181a', 'hsa-mir-217', 'hsa-mir-361', 'hsa-mir-363', 'hsa-let-7f', 'hsa-mir-20b', 'hsa-mir-26a', 'hsa-mir-26b', 'hsa-mir-29b', 'hsa-mir-29c', 'hsa-mir-125b', 'hsa-mir-145', 'hsa-mir-223', 'hsa-mir-301a', 'hsa-mir-23a', 'hsa-mir-23b', 'hsa-mir-27a', 'hsa-mir-27b')
+WHERE mg.target_score >= 97
+  AND pg.pathway_id = 7
+group by mirna
+HAVING count(mg.gene) >= 2
+ORDER BY mirna
+
+-- get mirna targeting genes in a pathway (mlawrie table 1)
+SELECT mirna, STRING_AGG(DISTINCT mg.gene, ',') AS grouped_gene, count(mg.gene) as num_gene --,
+FROM pathway_gene AS pg
+INNER JOIN genes AS g ON g.gene_id = pg.gene
+INNER JOIN mirdb_mirna_gene AS mg ON mg.gene = pg.gene
+AND mirna IN ('hsa-mir-125b', 'hsa-mir-143', 'hsa-mir-451b', 'hsa-mir-145', 'hsa-mir-10b', 'hsa-mir-34a', 'hsa-mir-100', 'hsa-mir-9', 'hsa-mir-155', 'hsa-mir-21', 'hsa-mir-150', 'hsa-mir-363', 'hsa-mir-223', 'hsa-mir-584', 'hsa-mir-361', 'hsa-mir-625', 'hsa-mir-495', 'hsa-mir-181a')
+WHERE mg.target_score >= 97
+  AND pg.pathway_id = 7
+group by mirna
+HAVING count(mg.gene) >= 2
+ORDER BY mirna
+
+-- get mirna targeting genes in a pathway (mlawrie table 2)
+SELECT mirna, STRING_AGG(DISTINCT mg.gene, ',') AS grouped_gene, count(mg.gene) as num_gene --,
+FROM pathway_gene AS pg
+INNER JOIN genes AS g ON g.gene_id = pg.gene
+INNER JOIN mirdb_mirna_gene AS mg ON mg.gene = pg.gene
+AND mirna IN ('hsa-mir-200c', 'hsa-mir-518a', 'hsa-mir-199a', 'hsa-mir-93', 'hsa-mir-22', 'hsa-mir-34a', 'hsa-mir-362', 'hsa-mir-206', 'hsa-mir-451b', 'hsa-mir-636', 'hsa-mir-92a', 'hsa-mir-27b', 'hsa-mir-199b', 'hsa-mir-27a', 'hsa-mir-24', 'hsa-mir-106a', 'hsa-mir-20a', 'hsa-mir-19b', 'hsa-mir-99a', 'hsa-mir-18b', 'hsa-mir-100')
+WHERE mg.target_score >= 97
+  AND pg.pathway_id = 7
+group by mirna
+HAVING count(mg.gene) >= 2
+ORDER BY mirna
+
+-- get mirna targeting genes in a pathway (mlarrabeiti table 1)
+SELECT mirna, STRING_AGG(DISTINCT mg.gene, ',') AS grouped_gene, count(mg.gene) as num_gene --,
+FROM pathway_gene AS pg
+INNER JOIN genes AS g ON g.gene_id = pg.gene
+INNER JOIN mirdb_mirna_gene AS mg ON mg.gene = pg.gene
+AND mirna IN ('hsa-mir-210', 'hsa-mir-944', 'hsa-mir-12136', 'hsa-mir-3681', 'hsa-mir-378i', 'hsa-mir-4454', 'hsa-mir-1291', 'hsa-mir-7974', 'hsa-mir-183', 'hsa-mir-146a', 'hsa-mir-215', 'hsa-mir-150', 'hsa-mir-224', 'hsa-mir-194', 'hsa-mir-452', 'hsa-mir-335', 'hsa-mir-145', 'hsa-mir-139', 'hsa-mir-497', 'hsa-mir-10a')
+WHERE mg.target_score >= 97
+  AND pg.pathway_id = 7
+group by mirna
+HAVING count(mg.gene) >= 2
+ORDER BY mirna
 
 select * from pathways
 
@@ -233,6 +293,50 @@ WHERE mg.target_score >= 97
   AND pg.pathway_id = 7
 group by mg.gene, pg.gene, g.kegg_id
 ORDER BY count(mg.mirna) desc, mg.gene
+
+
+delete from david_mirna_pathway where mirna='hsa-let-7d' and pathway = 'hsa05200'
+delete from david_mirna_pathway where mirna='hsa-let-7e' and pathway = 'hsa05200'
+delete from david_mirna_pathway where mirna='hsa-let-7f' and pathway = 'hsa05200'
+delete from david_mirna_pathway where mirna='hsa-let-7g' and pathway = 'hsa05200'
+hsa-mir-106a - hsa05200 already exists.
+hsa-mir-106b - hsa05200 already exists.
+delete from david_mirna_pathway where mirna='hsa-mir-125b' and pathway = 'hsa05200'
+hsa-mir-139 - hsa05200 already exists.
+delete from david_mirna_pathway where mirna='hsa-mir-145' and pathway = 'hsa05200'
+delete from david_mirna_pathway where mirna='hsa-mir-146a' and pathway = 'hsa05200'
+delete from david_mirna_pathway where mirna='hsa-mir-146b' and pathway = 'hsa05200'
+hsa-mir-15a - hsa05200 already exists.
+hsa-mir-17 - hsa05200 already exists.
+delete from david_mirna_pathway where mirna='hsa-mir-181a' and pathway = 'hsa05200'
+hsa-mir-182 - hsa05200 already exists.
+delete from david_mirna_pathway where mirna='hsa-mir-199a' and pathway = 'hsa05200'
+hsa-mir-19a - hsa05200 already exists.
+hsa-mir-19b - hsa05200 already exists.
+hsa-mir-20a - hsa05200 already exists.
+hsa-mir-20b - hsa05200 already exists.
+hsa-mir-21 - hsa05200 already exists.
+delete from david_mirna_pathway where mirna='hsa-mir-221' and pathway = 'hsa05200'
+hsa-mir-23a - hsa05200 already exists.
+hsa-mir-23b - hsa05200 already exists.
+hsa-mir-24 - hsa05200 already exists.
+hsa-mir-26a - hsa05200 already exists.
+hsa-mir-26b - hsa05200 already exists.
+hsa-mir-27a - hsa05200 already exists.
+hsa-mir-27b - hsa05200 already exists.
+hsa-mir-29b - hsa05200 already exists.
+hsa-mir-29c - hsa05200 already exists.
+hsa-mir-301a - hsa05200 already exists.
+hsa-mir-30b - hsa05200 already exists.
+hsa-mir-320a - hsa05200 already exists.
+hsa-mir-34a - hsa05200 already exists.
+delete from david_mirna_pathway where mirna='hsa-mir-34b' and pathway = 'hsa05200'
+delete from david_mirna_pathway where mirna='hsa-mir-363' and pathway = 'hsa05200'
+delete from david_mirna_pathway where mirna='hsa-mir-365a' and pathway = 'hsa05200'
+delete from david_mirna_pathway where mirna='hsa-mir-451b' and pathway = 'hsa05200'
+delete from david_mirna_pathway where mirna='hsa-mir-9' and pathway = 'hsa05200'
+delete from david_mirna_pathway where mirna='hsa-mir-92a' and pathway = 'hsa05200'
+
 
 
 
