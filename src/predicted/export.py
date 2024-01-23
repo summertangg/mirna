@@ -32,6 +32,7 @@ def export_interactions(db_conn, root_path, out_file, config=None):
 
     # Remove the mir-0 row
     pivot_df.drop('mir-0', inplace=True)
+    pivot_df.drop('PLACEHOLDER', axis=1, inplace=True)
 
     # Replace float values 1.0 and 0.0 with strings 'Yes' and 'No', respectively
     pivot_df = pivot_df.replace({1.0: 'Yes', 0.0: 'No'})
@@ -46,31 +47,35 @@ def export_interactions(db_conn, root_path, out_file, config=None):
     two_base_col = {}
     for motif in motif_generator(2):
         two_base_col[motif] = []
+    
+    three_base_col = {}
+    for motif in motif_generator(3):
+        three_base_col[motif] = []
+
+    four_base_col = {}
+    for motif in motif_generator(4):
+        four_base_col[motif] = []
 
     for index, row in pivot_df.iterrows():
         print(f"{index}: disease {mirnas_dict[index]}")
         if mirnas_dict[index] == 'DLBCL':
             disease_col.append('Yes')
-            num_of_base_col.append(len(m54.sequence[index]))
-            ratio_a_col.append(frequency_of_base(m54.sequence[index], 'A'))
-            ratio_c_col.append(frequency_of_base(m54.sequence[index], 'C'))
-            ratio_g_col.append(frequency_of_base(m54.sequence[index], 'G'))
-            ratio_u_col.append(frequency_of_base(m54.sequence[index], 'U'))
-            mass_col.append(mean_mass(m54.sequence[index]))
-            h_bonds_col.append(h_bonds(m54.sequence[index]))
-            for motif in two_base_col.keys():
-                two_base_col[motif].append('Yes' if motif in m54.sequence[index] else 'No')
         else:
             disease_col.append('No')
-            num_of_base_col.append(0)
-            ratio_a_col.append(0)
-            ratio_c_col.append(0)
-            ratio_g_col.append(0)
-            ratio_u_col.append(0)
-            mass_col.append(0)
-            h_bonds_col.append(0)
-            for motif in two_base_col.keys():
-                two_base_col[motif].append('No')
+
+        num_of_base_col.append(len(m54.sequence_all[index]))
+        ratio_a_col.append(frequency_of_base(m54.sequence_all[index], 'A'))
+        ratio_c_col.append(frequency_of_base(m54.sequence_all[index], 'C'))
+        ratio_g_col.append(frequency_of_base(m54.sequence_all[index], 'G'))
+        ratio_u_col.append(frequency_of_base(m54.sequence_all[index], 'U'))
+        mass_col.append(mean_mass(m54.sequence_all[index]))
+        h_bonds_col.append(h_bonds(m54.sequence_all[index]))
+        for motif in two_base_col.keys():
+            two_base_col[motif].append('Yes' if motif in m54.sequence_all[index] else 'No')
+        for motif in three_base_col.keys():
+            three_base_col[motif].append('Yes' if motif in m54.sequence_all[index] else 'No')
+        for motif in four_base_col.keys():
+            four_base_col[motif].append('Yes' if motif in m54.sequence_all[index] else 'No')
     
     # pivot_df.insert(0, 'DIAGNOSTIC_POSITIVE', disease_col)
     pivot_df['NUM_OF_BASES'] = num_of_base_col
@@ -81,6 +86,10 @@ def export_interactions(db_conn, root_path, out_file, config=None):
     pivot_df['MEAN_MASS'] = mass_col
     pivot_df['H_BONDS'] = h_bonds_col
     for k, v in two_base_col.items():
+        pivot_df[k] = v
+    for k, v in three_base_col.items():
+        pivot_df[k] = v
+    for k, v in four_base_col.items():
         pivot_df[k] = v
     pivot_df['DIAGNOSTIC_POSITIVE'] = disease_col
 

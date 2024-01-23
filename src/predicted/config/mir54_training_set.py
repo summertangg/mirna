@@ -164,7 +164,7 @@ clean_set_3 = ['hsa-mir-26b', 'hsa-mir-223', 'hsa-mir-27a', 'hsa-let-7e', 'hsa-m
 
 clean_set_4 = ['hsa-mir-150', 'hsa-let-7d', 'hsa-mir-30b', 'hsa-let-7f', 'hsa-mir-301a', 'hsa-mir-34b', 'hsa-mir-18b', 'hsa-mir-328']
 
-sequence = {
+sequence_positive = {
     "hsa-let-7d": "AGAGGUAGUAGGUUGCAUAGUU",
     "hsa-let-7e": "UGAGGUAGGAGGUUGUAUAGUU",
     "hsa-let-7g": "UGAGGUAGUAGUUUGUACAGUU",
@@ -221,7 +221,7 @@ sequence = {
     "hsa-mir-27b": "UUCACAGUGGCUAAGUUCUGC"
 }
 
-random_sequence = {
+sequence_random = {
     "hsa-mir-1250": "ACGGUGCUGGAUGUGGCCUUU",
     "hsa-mir-329": "GAGGUUUUCUGGGUUUCUGUUUC",
     "hsa-mir-371b": "ACUCAAAAGAUGGCGGCACUUU",
@@ -278,6 +278,7 @@ random_sequence = {
     "hsa-mir-8089": "CCUGGGGACAGGGGAUUGGGGCAG"
 }
 
+sequence_all = sequence_positive | sequence_random
 
 # Correct testing mirna:
 # 'hsa-mir-363', 'hsa-mir-93', 'hsa-mir-106a', 'hsa-mir-20b'

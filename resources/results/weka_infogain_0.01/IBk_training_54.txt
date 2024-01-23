@@ -1,0 +1,182 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.meta.AttributeSelectedClassifier -E "weka.attributeSelection.CfsSubsetEval -P 1 -E 1" -S "weka.attributeSelection.BestFirst -D 1 -N 5" -W weka.classifiers.lazy.IBk -- -K 19 -W 0 -X -E -F -A "weka.core.neighboursearch.LinearNNSearch -A \"weka.core.EuclideanDistance -R first-last\""
+Relation:     mirdb_interactions_m54_training_2-weka.filters.unsupervised.attribute.Remove-R1
+Instances:    108
+Attributes:   8898
+              [list of attributes omitted]
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+AttributeSelectedClassifier:
+
+
+
+=== Attribute Selection on all input data ===
+
+Search Method:
+	Best first.
+	Start set: no attributes
+	Search direction: forward
+	Stale search after 5 node expansions
+	Total number of subsets evaluated: 53367
+	Merit of best subset found:    0.317
+
+Attribute Subset Evaluator (supervised, Class (nominal): 8898 DIAGNOSTIC_POSITIVE):
+	CFS Subset Evaluator
+	Including locally predictive attributes
+
+Selected attributes: 1,63,80,92,141,162,216,232,238,248,298,339,343,509,633,750,835,844,955,994,1007,1054,1435,1436,1459,1466,1656,1663,1665,1758,1963,2350,2513,2573,2577,3028,3206,3829,3865,4292,4581,4702,4925,4927,5027,5141,5190,5743,5889,6270,6349,6945,8244,8651,8880 : 55
+                     A1CF
+                     ACKR2
+                     ACTC1
+                     ACVR1
+                     ADCYAP1R1
+                     ADIPOR2
+                     AHR
+                     AKAP13
+                     AKR1B10
+                     ALCAM
+                     ANK1
+                     ANLN
+                     ANO5
+                     ASB4
+                     AZIN1
+                     BMP2
+                     C12ORF49
+                     C15ORF40
+                     CABP5
+                     CALD1
+                     CAMK1D
+                     CASP8AP2
+                     CIB2
+                     CIC
+                     CLCN3
+                     CLDN22
+                     CREB1
+                     CREBBP
+                     CREBRF
+                     CUL3
+                     DLEU7
+                     ERICH3
+                     FAM86B1
+                     FBXW7
+                     FCGR1B
+                     GPC6
+                     HECTD2
+                     KDM5B
+                     KIAA1522
+                     MAFB
+                     MMGT1
+                     MTMR2
+                     NFIC
+                     NFIX
+                     NPTX1
+                     OGT
+                     OTUD7B
+                     PPP1R11
+                     PSKH1
+                     RIMS4
+                     RORA
+                     SLITRK4
+                     VPS54
+                     ZNF512B
+                     hsa05200
+
+
+Header of reduced data:
+@relation 'mirdb_interactions_m54_training_2-weka.filters.unsupervised.attribute.Remove-R1-weka.filters.unsupervised.attribute.Remove-V-R1,63,80,92,141,162,216,232,238,248,298,339,343,509,633,750,835,844,955,994,1007,1054,1435-1436,1459,1466,1656,1663,1665,1758,1963,2350,2513,2573,2577,3028,3206,3829,3865,4292,4581,4702,4925,4927,5027,5141,5190,5743,5889,6270,6349,6945,8244,8651,8880,8898'
+
+@attribute A1CF {No,Yes}
+@attribute ACKR2 {No,Yes}
+@attribute ACTC1 {No,Yes}
+@attribute ACVR1 {No,Yes}
+@attribute ADCYAP1R1 {No,Yes}
+@attribute ADIPOR2 {No,Yes}
+@attribute AHR {No,Yes}
+@attribute AKAP13 {No,Yes}
+@attribute AKR1B10 {No,Yes}
+@attribute ALCAM {No,Yes}
+@attribute ANK1 {No,Yes}
+@attribute ANLN {No,Yes}
+@attribute ANO5 {No,Yes}
+@attribute ASB4 {No,Yes}
+@attribute AZIN1 {No,Yes}
+@attribute BMP2 {No,Yes}
+@attribute C12ORF49 {No,Yes}
+@attribute C15ORF40 {No,Yes}
+@attribute CABP5 {No,Yes}
+@attribute CALD1 {No,Yes}
+@attribute CAMK1D {No,Yes}
+@attribute CASP8AP2 {No,Yes}
+@attribute CIB2 {No,Yes}
+@attribute CIC {No,Yes}
+@attribute CLCN3 {No,Yes}
+@attribute CLDN22 {No,Yes}
+@attribute CREB1 {No,Yes}
+@attribute CREBBP {No,Yes}
+@attribute CREBRF {No,Yes}
+@attribute CUL3 {No,Yes}
+@attribute DLEU7 {No,Yes}
+@attribute ERICH3 {No,Yes}
+@attribute FAM86B1 {No,Yes}
+@attribute FBXW7 {No,Yes}
+@attribute FCGR1B {No,Yes}
+@attribute GPC6 {No,Yes}
+@attribute HECTD2 {No,Yes}
+@attribute KDM5B {No,Yes}
+@attribute KIAA1522 {No,Yes}
+@attribute MAFB {No,Yes}
+@attribute MMGT1 {No,Yes}
+@attribute MTMR2 {No,Yes}
+@attribute NFIC {No,Yes}
+@attribute NFIX {No,Yes}
+@attribute NPTX1 {No,Yes}
+@attribute OGT {No,Yes}
+@attribute OTUD7B {No,Yes}
+@attribute PPP1R11 {No,Yes}
+@attribute PSKH1 {No,Yes}
+@attribute RIMS4 {No,Yes}
+@attribute RORA {No,Yes}
+@attribute SLITRK4 {No,Yes}
+@attribute VPS54 {No,Yes}
+@attribute ZNF512B {Yes,No}
+@attribute hsa05200 {No,Yes}
+@attribute DIAGNOSTIC_POSITIVE {Yes,No}
+
+@data
+
+
+Classifier Model
+IB1 instance-based classifier
+using 1 similarity-weighted nearest neighbour(s) for classification
+
+
+Time taken to build model: 3.23 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances          87               80.5556 %
+Incorrectly Classified Instances        21               19.4444 %
+Kappa statistic                          0.6111
+Mean absolute error                      0.2494
+Root mean squared error                  0.4131
+Relative absolute error                 49.841  %
+Root relative squared error             82.5486 %
+Total Number of Instances              108     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.648    0.037    0.946      0.648    0.769      0.644    0.781     0.831     Yes
+                 0.963    0.352    0.732      0.963    0.832      0.644    0.781     0.707     No
+Weighted Avg.    0.806    0.194    0.839      0.806    0.801      0.644    0.781     0.769     
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 35 19 |  a = Yes
+  2 52 |  b = No
+
