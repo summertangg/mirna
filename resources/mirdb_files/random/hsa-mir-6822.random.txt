@@ -2,132 +2,90 @@ Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
 Details
 
 1	
-97
+94
 
-hsa-miR-6822-3p	ADCY1	adenylate cyclase 1
+hsa-miR-6822-5p	C1orf53	chromosome 1 open reading frame 53
 Details
 
 2	
-95
+94
 
-hsa-miR-6822-3p	TWNK	twinkle mtDNA helicase
+hsa-miR-6822-5p	WWP1	WW domain containing E3 ubiquitin protein ligase 1
 Details
 
 3	
-95
+94
 
-hsa-miR-6822-3p	E2F4	E2F transcription factor 4
+hsa-miR-6822-5p	TMEM243	transmembrane protein 243
 Details
 
 4	
-95
+93
 
-hsa-miR-6822-3p	ITPR1	inositol 1,4,5-trisphosphate receptor type 1
+hsa-miR-6822-5p	SRSF3	serine and arginine rich splicing factor 3
 Details
 
 5	
-94
+93
 
-hsa-miR-6822-3p	PDXK	pyridoxal kinase
+hsa-miR-6822-5p	FBXO32	F-box protein 32
 Details
 
 6	
-94
+93
 
-hsa-miR-6822-3p	PDS5A	PDS5 cohesin associated factor A
+hsa-miR-6822-5p	CPEB2	cytoplasmic polyadenylation element binding protein 2
 Details
 
 7	
-94
+92
 
-hsa-miR-6822-3p	IRAK4	interleukin 1 receptor associated kinase 4
+hsa-miR-6822-5p	HBB	hemoglobin subunit beta
 Details
 
 8	
-94
+92
 
-hsa-miR-6822-3p	SLC31A1	solute carrier family 31 member 1
+hsa-miR-6822-5p	BCO2	beta-carotene oxygenase 2
 Details
 
 9	
-93
+92
 
-hsa-miR-6822-3p	DIXDC1	DIX domain containing 1
+hsa-miR-6822-5p	GALNT13	polypeptide N-acetylgalactosaminyltransferase 13
 Details
 
 10	
-93
+91
 
-hsa-miR-6822-3p	GPC6	glypican 6
+hsa-miR-6822-5p	GABRR1	gamma-aminobutyric acid type A receptor rho1 subunit
 Details
 
 11	
-92
+91
 
-hsa-miR-6822-3p	FBXW4	F-box and WD repeat domain containing 4
+hsa-miR-6822-5p	PPP4R3A	protein phosphatase 4 regulatory subunit 3A
 Details
 
 12	
-92
+91
 
-hsa-miR-6822-3p	CLASP1	cytoplasmic linker associated protein 1
+hsa-miR-6822-5p	CYP7B1	cytochrome P450 family 7 subfamily B member 1
 Details
 
 13	
-92
+91
 
-hsa-miR-6822-3p	SDC2	syndecan 2
+hsa-miR-6822-5p	TENM4	teneurin transmembrane protein 4
 Details
 
 14	
-92
+90
 
-hsa-miR-6822-3p	G6PC2	glucose-6-phosphatase catalytic subunit 2
+hsa-miR-6822-5p	REEP5	receptor accessory protein 5
 Details
 
 15	
-92
-
-hsa-miR-6822-3p	KCTD7	potassium channel tetramerization domain containing 7
-Details
-
-16	
-91
-
-hsa-miR-6822-3p	DERL2	derlin 2
-Details
-
-17	
-91
-
-hsa-miR-6822-3p	CACNA1D	calcium voltage-gated channel subunit alpha1 D
-Details
-
-18	
-91
-
-hsa-miR-6822-3p	SRSF11	serine and arginine rich splicing factor 11
-Details
-
-19	
-91
-
-hsa-miR-6822-3p	RAD51D	RAD51 paralog D
-Details
-
-20	
 90
 
-hsa-miR-6822-3p	MTUS2	microtubule associated scaffold protein 2
-Details
-
-21	
-90
-
-hsa-miR-6822-3p	QTRT2	queuine tRNA-ribosyltransferase accessory subunit 2
-Details
-
-22	
-90
-
-hsa-miR-6822-3p	ANKRD29	ankyrin repeat domain 29
+hsa-miR-6822-5p	ZNF510	zinc finger protein 510

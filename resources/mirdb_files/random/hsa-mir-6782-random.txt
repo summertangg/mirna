@@ -2,126 +2,36 @@ Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
 Details
 
 1	
-98
+96
 
-hsa-miR-6782-3p	DOCK7	dedicator of cytokinesis 7
+hsa-miR-6782-5p	ANKRD52	ankyrin repeat domain 52
 Details
 
 2	
-96
+92
 
-hsa-miR-6782-3p	AXIN1	axin 1
+hsa-miR-6782-5p	B3GNTL1	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase like 1
 Details
 
 3	
-96
+92
 
-hsa-miR-6782-3p	ONECUT2	one cut homeobox 2
+hsa-miR-6782-5p	FBXO11	F-box protein 11
 Details
 
 4	
-96
+92
 
-hsa-miR-6782-3p	ZFAND6	zinc finger AN1-type containing 6
+hsa-miR-6782-5p	GPR162	G protein-coupled receptor 162
 Details
 
 5	
-96
+90
 
-hsa-miR-6782-3p	SMC5	structural maintenance of chromosomes 5
+hsa-miR-6782-5p	CNNM1	cyclin and CBS domain divalent metal cation transport mediator 1
 Details
 
 6	
-95
-
-hsa-miR-6782-3p	CCDC83	coiled-coil domain containing 83
-Details
-
-7	
-95
-
-hsa-miR-6782-3p	MOB1A	MOB kinase activator 1A
-Details
-
-8	
-94
-
-hsa-miR-6782-3p	BRD1	bromodomain containing 1
-Details
-
-9	
-94
-
-hsa-miR-6782-3p	FAM199X	family with sequence similarity 199, X-linked
-Details
-
-10	
-93
-
-hsa-miR-6782-3p	C7orf71	chromosome 7 open reading frame 71
-Details
-
-11	
-92
-
-hsa-miR-6782-3p	STXBP5	syntaxin binding protein 5
-Details
-
-12	
-92
-
-hsa-miR-6782-3p	NR4A3	nuclear receptor subfamily 4 group A member 3
-Details
-
-13	
-92
-
-hsa-miR-6782-3p	MFSD4A	major facilitator superfamily domain containing 4A
-Details
-
-14	
-92
-
-hsa-miR-6782-3p	ZBTB43	zinc finger and BTB domain containing 43
-Details
-
-15	
-91
-
-hsa-miR-6782-3p	HIPK3	homeodomain interacting protein kinase 3
-Details
-
-16	
-91
-
-hsa-miR-6782-3p	GNG5	G protein subunit gamma 5
-Details
-
-17	
-91
-
-hsa-miR-6782-3p	ITGAV	integrin subunit alpha V
-Details
-
-18	
-91
-
-hsa-miR-6782-3p	GOLPH3	golgi phosphoprotein 3
-Details
-
-19	
 90
 
-hsa-miR-6782-3p	PTPRB	protein tyrosine phosphatase, receptor type B
-Details
-
-20	
-90
-
-hsa-miR-6782-3p	KLHL36	kelch like family member 36
-Details
-
-21	
-90
-
-hsa-miR-6782-3p	CLINT1	clathrin interactor 1
+hsa-miR-6782-5p	CYP1A2	cytochrome P450 family 1 subfamily A member 2

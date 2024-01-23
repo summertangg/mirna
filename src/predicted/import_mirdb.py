@@ -69,13 +69,13 @@ def import_targets_predicted(conn, root_path, target_file, disease=None):
     cur.close()
 
 
-root_path = "~/code/mirna/resources/mirdb_files/larrabeiti_not_used"
-target_file = "hsa-mir-139-predicted.txt"
+root_path = "~/code/mirna/resources/mirdb_files/random"
+target_file = "hsa-mir-6807-random.txt"
 
 db_conn = psycopg2.connect(database="postgres", user="postgres", password="1qaz2wsX", host="127.0.0.1", port="5432")
 try:
-    # import_targets_predicted(db_conn, root_path, target_file, 'DLBCL')
-    import_batch_files(db_conn, root_path, "DLBCL")
+    import_targets_predicted(db_conn, root_path, target_file, None)
+    # import_batch_files(db_conn, root_path, "DLBCL")
 except(Exception, psycopg2.DatabaseError) as error:
     raise error
 finally:
