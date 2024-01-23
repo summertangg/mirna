@@ -1,6 +1,7 @@
 import os
 import psycopg2
 import pandas as pd
+from itertools import product
 from db_helper import *
 from config import mir17_training_set as m17
 from config import mir10_testing_set as m10
@@ -42,6 +43,10 @@ def export_interactions(db_conn, root_path, out_file, config=None):
     ratio_u_col = []
     mass_col = []
     h_bonds_col = []
+    two_base_col = {}
+    for motif in motif_generator(2):
+        two_base_col[motif] = []
+
     for index, row in pivot_df.iterrows():
         print(f"{index}: disease {mirnas_dict[index]}")
         if mirnas_dict[index] == 'DLBCL':
@@ -53,6 +58,8 @@ def export_interactions(db_conn, root_path, out_file, config=None):
             ratio_u_col.append(frequency_of_base(m54.sequence[index], 'U'))
             mass_col.append(mean_mass(m54.sequence[index]))
             h_bonds_col.append(h_bonds(m54.sequence[index]))
+            for motif in two_base_col.keys():
+                two_base_col[motif].append('Yes' if motif in m54.sequence[index] else 'No')
         else:
             disease_col.append('No')
             num_of_base_col.append(0)
@@ -62,6 +69,8 @@ def export_interactions(db_conn, root_path, out_file, config=None):
             ratio_u_col.append(0)
             mass_col.append(0)
             h_bonds_col.append(0)
+            for motif in two_base_col.keys():
+                two_base_col[motif].append('No')
     
     # pivot_df.insert(0, 'DIAGNOSTIC_POSITIVE', disease_col)
     pivot_df['NUM_OF_BASES'] = num_of_base_col
@@ -71,6 +80,8 @@ def export_interactions(db_conn, root_path, out_file, config=None):
     pivot_df['RATIO_U'] = ratio_u_col
     pivot_df['MEAN_MASS'] = mass_col
     pivot_df['H_BONDS'] = h_bonds_col
+    for k, v in two_base_col.items():
+        pivot_df[k] = v
     pivot_df['DIAGNOSTIC_POSITIVE'] = disease_col
 
     # Write the pivoted DataFrame to a CSV file
@@ -125,6 +136,10 @@ def h_bonds(seq):
     bonds = 2 * (base_count['A'] + base_count['U']) + 3 * (base_count['C'] + base_count['G'])
     return bonds
 
+def motif_generator(num):
+    bases = ['A', 'C', 'G', 'U']
+    motifs = [''.join(p) for p in product(bases, repeat=num)]
+    return motifs
 
 root_path = "~/code/mirna/resources/results"
 conn = psycopg2.connect(database="postgres", user="postgres", password="1qaz2wsX", host="127.0.0.1", port="5432")
