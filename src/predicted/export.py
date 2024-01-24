@@ -12,7 +12,7 @@ from config import mir_larrabeiti_testing_set as mlar
 
 
 
-def export_interactions(db_conn, root_path, out_file, config=None):
+def export_interactions(db_conn, root_path, out_file, config_mirna, config_seq):
     print("\n*** Exporting miRNA - Gene interactions from miRDB records ......")
     file_path = os.path.join(root_path, out_file)
     cur = conn.cursor()
@@ -20,7 +20,7 @@ def export_interactions(db_conn, root_path, out_file, config=None):
     mirnas = get_all_mirans(db_conn, cur)
     mirnas_dict = {record[0]: record[1] for record in mirnas}
 
-    results = get_interactions_with_pathways(db_conn, cur, config)
+    results = get_interactions_with_pathways(db_conn, cur, config_mirna)
 
     cur.close()
 
@@ -63,19 +63,19 @@ def export_interactions(db_conn, root_path, out_file, config=None):
         else:
             disease_col.append('No')
 
-        num_of_base_col.append(len(m54.sequence_all[index]))
-        ratio_a_col.append(frequency_of_base(m54.sequence_all[index], 'A'))
-        ratio_c_col.append(frequency_of_base(m54.sequence_all[index], 'C'))
-        ratio_g_col.append(frequency_of_base(m54.sequence_all[index], 'G'))
-        ratio_u_col.append(frequency_of_base(m54.sequence_all[index], 'U'))
-        mass_col.append(mean_mass(m54.sequence_all[index]))
-        h_bonds_col.append(h_bonds(m54.sequence_all[index]))
+        num_of_base_col.append(len(config_seq[index]))
+        ratio_a_col.append(frequency_of_base(config_seq[index], 'A'))
+        ratio_c_col.append(frequency_of_base(config_seq[index], 'C'))
+        ratio_g_col.append(frequency_of_base(config_seq[index], 'G'))
+        ratio_u_col.append(frequency_of_base(config_seq[index], 'U'))
+        mass_col.append(mean_mass(config_seq[index]))
+        h_bonds_col.append(h_bonds(config_seq[index]))
         for motif in two_base_col.keys():
-            two_base_col[motif].append('Yes' if motif in m54.sequence_all[index] else 'No')
+            two_base_col[motif].append('Yes' if motif in config_seq[index] else 'No')
         for motif in three_base_col.keys():
-            three_base_col[motif].append('Yes' if motif in m54.sequence_all[index] else 'No')
+            three_base_col[motif].append('Yes' if motif in config_seq[index] else 'No')
         for motif in four_base_col.keys():
-            four_base_col[motif].append('Yes' if motif in m54.sequence_all[index] else 'No')
+            four_base_col[motif].append('Yes' if motif in config_seq[index] else 'No')
     
     # insert to position: pivot_df.insert(0, 'DIAGNOSTIC_POSITIVE', disease_col)
     pivot_df['NUM_OF_BASES'] = num_of_base_col
@@ -153,12 +153,12 @@ def motif_generator(num):
 root_path = "~/code/mirna/resources/results"
 conn = psycopg2.connect(database="postgres", user="postgres", password="1qaz2wsX", host="127.0.0.1", port="5432")
 try:
-    export_interactions(conn, root_path, m54.interaction_file, m54.all_mirnas)
+    # export_interactions(conn, root_path, m54.interaction_file, m54.all_mirnas, m54.sequence_all)
 
-    # export_interactions(conn, root_path, mlawrie.table_1_file, mlawrie.table_1)
-    # export_interactions(conn, root_path, mlawrie.table_2_file, mlawrie.table_2)
+    # export_interactions(conn, root_path, mlawrie.table_1_file, mlawrie.table_1, mlawrie.sequence_table_1)
+    # export_interactions(conn, root_path, mlawrie.table_2_file, mlawrie.table_2, mlawrie.sequence_table_2)
 
-    # export_interactions(conn, root_path, mlar.table_1_file, mlar.table_1)
+    export_interactions(conn, root_path, mlar.table_1_file, mlar.table_1, mlar.sequence_table_1)
 except(Exception, psycopg2.DatabaseError) as error:
     raise error
 finally:
