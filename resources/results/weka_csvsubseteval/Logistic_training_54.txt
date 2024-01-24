@@ -1,0 +1,151 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.functions.Logistic -R 0.19342171305552358 -M -1 -num-decimal-places 4
+Relation:     mirdb_interactions_m54_training_3-weka.filters.unsupervised.attribute.Remove-R1-weka.filters.supervised.attribute.AttributeSelection-Eweka.attributeSelection.CfsSubsetEval -P 1 -E 1-Sweka.attributeSelection.BestFirst -D 1 -N 5
+Instances:    108
+Attributes:   34
+              AKAP13
+              AKR1B10
+              ASB4
+              BTG2
+              CASP8AP2
+              CELSR1
+              CREBRF
+              KCNMA1
+              MMGT1
+              NPTX1
+              PPP1R11
+              RPS6KA5
+              TRIM71
+              ZBTB34
+              ZNF512B
+              hsa05200
+              NUM_OF_BASES
+              RATIO_G
+              RATIO_U
+              MEAN_MASS
+              CAU
+              GGA
+              UGG
+              AAUC
+              AUAU
+              AUCU
+              CGGG
+              GAGC
+              GCGG
+              GGAC
+              UACA
+              UGGA
+              UUGU
+              DIAGNOSTIC_POSITIVE
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+Logistic Regression with ridge parameter of 0.19342171305552358
+Coefficients...
+                   Class
+Variable             Yes
+========================
+AKAP13=Yes         5.386
+AKR1B10=Yes      -3.1377
+ASB4=Yes         -3.1979
+BTG2=Yes          3.1729
+CASP8AP2=Yes     -3.4439
+CELSR1=Yes        4.1221
+CREBRF=Yes         1.677
+KCNMA1=Yes        -4.432
+MMGT1=Yes         4.8597
+NPTX1=Yes         2.9588
+PPP1R11=Yes       4.4062
+RPS6KA5=Yes       0.5099
+TRIM71=No        -2.9236
+ZBTB34=Yes         0.667
+ZNF512B=No       -0.8581
+hsa05200=Yes      5.1164
+NUM_OF_BASES      0.7911
+RATIO_G           3.3767
+RATIO_U          -2.9136
+MEAN_MASS        -0.0753
+CAU=No           -1.8764
+GGA=Yes          -1.0835
+UGG=Yes          -2.3064
+AAUC=Yes          3.9637
+AUAU=Yes         -4.3344
+AUCU=Yes          2.9487
+CGGG=Yes          -4.674
+GAGC=Yes         -3.5421
+GCGG=Yes         -4.6697
+GGAC=Yes         -2.1181
+UACA=Yes          1.3519
+UGGA=Yes          1.9534
+UUGU=Yes          3.3479
+Intercept        -2.9339
+
+
+Odds Ratios...
+                   Class
+Variable             Yes
+========================
+AKAP13=Yes      218.3342
+AKR1B10=Yes       0.0434
+ASB4=Yes          0.0408
+BTG2=Yes         23.8773
+CASP8AP2=Yes      0.0319
+CELSR1=Yes       61.6911
+CREBRF=Yes        5.3497
+KCNMA1=Yes        0.0119
+MMGT1=Yes        128.981
+NPTX1=Yes        19.2741
+PPP1R11=Yes      81.9537
+RPS6KA5=Yes       1.6652
+TRIM71=No         0.0537
+ZBTB34=Yes        1.9485
+ZNF512B=No         0.424
+hsa05200=Yes    166.7314
+NUM_OF_BASES      2.2058
+RATIO_G          29.2739
+RATIO_U           0.0543
+MEAN_MASS         0.9275
+CAU=No            0.1531
+GGA=Yes           0.3384
+UGG=Yes           0.0996
+AAUC=Yes          52.651
+AUAU=Yes          0.0131
+AUCU=Yes         19.0818
+CGGG=Yes          0.0093
+GAGC=Yes           0.029
+GCGG=Yes          0.0094
+GGAC=Yes          0.1203
+UACA=Yes          3.8648
+UGGA=Yes          7.0526
+UUGU=Yes          28.443
+
+
+Time taken to build model: 0.01 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         101               93.5185 %
+Incorrectly Classified Instances         7                6.4815 %
+Kappa statistic                          0.8704
+Mean absolute error                      0.1022
+Root mean squared error                  0.2312
+Relative absolute error                 20.4228 %
+Root relative squared error             46.21   %
+Total Number of Instances              108     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.907    0.037    0.961      0.907    0.933      0.872    0.973     0.980     Yes
+                 0.963    0.093    0.912      0.963    0.937      0.872    0.973     0.968     No
+Weighted Avg.    0.935    0.065    0.937      0.935    0.935      0.872    0.973     0.974     
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 49  5 |  a = Yes
+  2 52 |  b = No
+

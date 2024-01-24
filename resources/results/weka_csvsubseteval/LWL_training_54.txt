@@ -1,0 +1,77 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.lazy.LWL -U 0 -K -1 -A "weka.core.neighboursearch.LinearNNSearch -A \"weka.core.EuclideanDistance -R first-last\"" -W weka.classifiers.functions.Logistic -- -R 0.19342171305552358 -M -1 -num-decimal-places 4
+Relation:     mirdb_interactions_m54_training_3-weka.filters.unsupervised.attribute.Remove-R1-weka.filters.supervised.attribute.AttributeSelection-Eweka.attributeSelection.CfsSubsetEval -P 1 -E 1-Sweka.attributeSelection.BestFirst -D 1 -N 5
+Instances:    108
+Attributes:   34
+              AKAP13
+              AKR1B10
+              ASB4
+              BTG2
+              CASP8AP2
+              CELSR1
+              CREBRF
+              KCNMA1
+              MMGT1
+              NPTX1
+              PPP1R11
+              RPS6KA5
+              TRIM71
+              ZBTB34
+              ZNF512B
+              hsa05200
+              NUM_OF_BASES
+              RATIO_G
+              RATIO_U
+              MEAN_MASS
+              CAU
+              GGA
+              UGG
+              AAUC
+              AUAU
+              AUCU
+              CGGG
+              GAGC
+              GCGG
+              GGAC
+              UACA
+              UGGA
+              UUGU
+              DIAGNOSTIC_POSITIVE
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+Locally weighted learning
+===========================
+Using classifier: weka.classifiers.functions.Logistic
+Using linear weighting kernels
+Using all neighbours
+
+Time taken to build model: 0 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         100               92.5926 %
+Incorrectly Classified Instances         8                7.4074 %
+Kappa statistic                          0.8519
+Mean absolute error                      0.096 
+Root mean squared error                  0.2292
+Relative absolute error                 19.1823 %
+Root relative squared error             45.795  %
+Total Number of Instances              108     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.889    0.037    0.960      0.889    0.923      0.854    0.973     0.980     Yes
+                 0.963    0.111    0.897      0.963    0.929      0.854    0.973     0.966     No
+Weighted Avg.    0.926    0.074    0.928      0.926    0.926      0.854    0.973     0.973     
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 48  6 |  a = Yes
+  2 52 |  b = No
+

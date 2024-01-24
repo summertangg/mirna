@@ -150,7 +150,7 @@ random_mirnas_3 = [
 all_mirnas = positive_mirnas + random_mirnas
 all_mirnas_2 = positive_mirnas + random_mirnas_2
 
-interaction_file = "mirdb_interactions_m54_training_2.csv"
+interaction_file = "mirdb_interactions_m54_training_3.csv"
 clean_file = "mirdb_interactions_m54_testing_clean.csv"
 natural_file = "mirdb_interactions_m54_testing_natural.csv"
 

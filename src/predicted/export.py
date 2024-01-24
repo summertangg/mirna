@@ -77,7 +77,7 @@ def export_interactions(db_conn, root_path, out_file, config=None):
         for motif in four_base_col.keys():
             four_base_col[motif].append('Yes' if motif in m54.sequence_all[index] else 'No')
     
-    # pivot_df.insert(0, 'DIAGNOSTIC_POSITIVE', disease_col)
+    # insert to position: pivot_df.insert(0, 'DIAGNOSTIC_POSITIVE', disease_col)
     pivot_df['NUM_OF_BASES'] = num_of_base_col
     pivot_df['RATIO_A'] = ratio_a_col
     pivot_df['RATIO_C'] = ratio_c_col

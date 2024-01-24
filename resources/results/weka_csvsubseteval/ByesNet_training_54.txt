@@ -1,0 +1,116 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.bayes.BayesNet -D -Q weka.classifiers.bayes.net.search.local.TAN -- -S BDeu -E weka.classifiers.bayes.net.estimate.SimpleEstimator -- -A 0.5
+Relation:     mirdb_interactions_m54_training_3-weka.filters.unsupervised.attribute.Remove-R1-weka.filters.supervised.attribute.AttributeSelection-Eweka.attributeSelection.CfsSubsetEval -P 1 -E 1-Sweka.attributeSelection.BestFirst -D 1 -N 5
+Instances:    108
+Attributes:   34
+              AKAP13
+              AKR1B10
+              ASB4
+              BTG2
+              CASP8AP2
+              CELSR1
+              CREBRF
+              KCNMA1
+              MMGT1
+              NPTX1
+              PPP1R11
+              RPS6KA5
+              TRIM71
+              ZBTB34
+              ZNF512B
+              hsa05200
+              NUM_OF_BASES
+              RATIO_G
+              RATIO_U
+              MEAN_MASS
+              CAU
+              GGA
+              UGG
+              AAUC
+              AUAU
+              AUCU
+              CGGG
+              GAGC
+              GCGG
+              GGAC
+              UACA
+              UGGA
+              UUGU
+              DIAGNOSTIC_POSITIVE
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+Bayes Network Classifier
+not using ADTree
+#attributes=34 #classindex=33
+Network structure (nodes followed by parents)
+AKAP13(2): DIAGNOSTIC_POSITIVE NUM_OF_BASES 
+AKR1B10(2): DIAGNOSTIC_POSITIVE NUM_OF_BASES 
+ASB4(2): DIAGNOSTIC_POSITIVE NUM_OF_BASES 
+BTG2(2): DIAGNOSTIC_POSITIVE ZNF512B 
+CASP8AP2(2): DIAGNOSTIC_POSITIVE NUM_OF_BASES 
+CELSR1(2): DIAGNOSTIC_POSITIVE NUM_OF_BASES 
+CREBRF(2): DIAGNOSTIC_POSITIVE ZNF512B 
+KCNMA1(2): DIAGNOSTIC_POSITIVE GGA 
+MMGT1(2): DIAGNOSTIC_POSITIVE NUM_OF_BASES 
+NPTX1(2): DIAGNOSTIC_POSITIVE NUM_OF_BASES 
+PPP1R11(2): DIAGNOSTIC_POSITIVE NUM_OF_BASES 
+RPS6KA5(2): DIAGNOSTIC_POSITIVE ZNF512B 
+TRIM71(2): DIAGNOSTIC_POSITIVE hsa05200 
+ZBTB34(2): DIAGNOSTIC_POSITIVE hsa05200 
+ZNF512B(2): DIAGNOSTIC_POSITIVE UGG 
+hsa05200(2): DIAGNOSTIC_POSITIVE RPS6KA5 
+NUM_OF_BASES(1): DIAGNOSTIC_POSITIVE BTG2 
+RATIO_G(2): DIAGNOSTIC_POSITIVE MEAN_MASS 
+RATIO_U(2): DIAGNOSTIC_POSITIVE MEAN_MASS 
+MEAN_MASS(2): DIAGNOSTIC_POSITIVE 
+CAU(2): DIAGNOSTIC_POSITIVE NUM_OF_BASES 
+GGA(2): DIAGNOSTIC_POSITIVE MEAN_MASS 
+UGG(2): DIAGNOSTIC_POSITIVE UGGA 
+AAUC(2): DIAGNOSTIC_POSITIVE ZNF512B 
+AUAU(2): DIAGNOSTIC_POSITIVE NUM_OF_BASES 
+AUCU(2): DIAGNOSTIC_POSITIVE ZNF512B 
+CGGG(2): DIAGNOSTIC_POSITIVE GGAC 
+GAGC(2): DIAGNOSTIC_POSITIVE MEAN_MASS 
+GCGG(2): DIAGNOSTIC_POSITIVE NUM_OF_BASES 
+GGAC(2): DIAGNOSTIC_POSITIVE GGA 
+UACA(2): DIAGNOSTIC_POSITIVE AAUC 
+UGGA(2): DIAGNOSTIC_POSITIVE GGA 
+UUGU(2): DIAGNOSTIC_POSITIVE AAUC 
+DIAGNOSTIC_POSITIVE(2): 
+LogScore Bayes: -959.994690147344
+LogScore BDeu: -1109.096239807083
+LogScore MDL: -1182.8830900628027
+LogScore ENTROPY: -937.071200638781
+LogScore AIC: -1042.0712006387807
+
+
+Time taken to build model: 0.01 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances          99               91.6667 %
+Incorrectly Classified Instances         9                8.3333 %
+Kappa statistic                          0.8333
+Mean absolute error                      0.1265
+Root mean squared error                  0.2464
+Relative absolute error                 25.2889 %
+Root relative squared error             49.2358 %
+Total Number of Instances              108     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.907    0.074    0.925      0.907    0.916      0.833    0.967     0.976     Yes
+                 0.926    0.093    0.909      0.926    0.917      0.833    0.967     0.958     No
+Weighted Avg.    0.917    0.083    0.917      0.917    0.917      0.833    0.967     0.967     
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 49  5 |  a = Yes
+  4 50 |  b = No
+

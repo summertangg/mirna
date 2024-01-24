@@ -1,0 +1,77 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.RandomForest -P 100 -I 100 -num-slots 1 -K 0 -M 1.0 -V 0.001 -S 1
+Relation:     mirdb_interactions_m54_training_3-weka.filters.unsupervised.attribute.Remove-R1-weka.filters.supervised.attribute.AttributeSelection-Eweka.attributeSelection.CfsSubsetEval -P 1 -E 1-Sweka.attributeSelection.BestFirst -D 1 -N 5
+Instances:    108
+Attributes:   34
+              AKAP13
+              AKR1B10
+              ASB4
+              BTG2
+              CASP8AP2
+              CELSR1
+              CREBRF
+              KCNMA1
+              MMGT1
+              NPTX1
+              PPP1R11
+              RPS6KA5
+              TRIM71
+              ZBTB34
+              ZNF512B
+              hsa05200
+              NUM_OF_BASES
+              RATIO_G
+              RATIO_U
+              MEAN_MASS
+              CAU
+              GGA
+              UGG
+              AAUC
+              AUAU
+              AUCU
+              CGGG
+              GAGC
+              GCGG
+              GGAC
+              UACA
+              UGGA
+              UUGU
+              DIAGNOSTIC_POSITIVE
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+RandomForest
+
+Bagging with 100 iterations and base learner
+
+weka.classifiers.trees.RandomTree -K 0 -M 1.0 -V 0.001 -S 1 -do-not-check-capabilities
+
+Time taken to build model: 0.03 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances          93               86.1111 %
+Incorrectly Classified Instances        15               13.8889 %
+Kappa statistic                          0.7222
+Mean absolute error                      0.2319
+Root mean squared error                  0.32  
+Relative absolute error                 46.3357 %
+Root relative squared error             63.9559 %
+Total Number of Instances              108     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.870    0.148    0.855      0.870    0.862      0.722    0.941     0.947     Yes
+                 0.852    0.130    0.868      0.852    0.860      0.722    0.941     0.940     No
+Weighted Avg.    0.861    0.139    0.861      0.861    0.861      0.722    0.941     0.944     
+
+=== Confusion Matrix ===
+
+  a  b   <-- classified as
+ 47  7 |  a = Yes
+  8 46 |  b = No
+
