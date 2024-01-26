@@ -1,0 +1,199 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-let-7c-5p	STARD13	StAR related lipid transfer domain containing 13
+Details
+
+2	
+100
+
+hsa-let-7c-5p	HMGA2	high mobility group AT-hook 2
+Details
+
+3	
+100
+
+hsa-let-7c-5p	IGDCC3	immunoglobulin superfamily DCC subclass member 3
+Details
+
+4	
+100
+
+hsa-let-7c-5p	IGF2BP1	insulin like growth factor 2 mRNA binding protein 1
+Details
+
+5	
+100
+
+hsa-let-7c-5p	FIGNL2	fidgetin like 2
+Details
+
+6	
+100
+
+hsa-let-7c-5p	PRTG	protogenin
+Details
+
+7	
+100
+
+hsa-let-7c-5p	NR6A1	nuclear receptor subfamily 6 group A member 1
+Details
+
+8	
+100
+
+hsa-let-7c-5p	LIN28B	lin-28 homolog B
+Details
+
+9	
+100
+
+hsa-let-7c-5p	ARID3B	AT-rich interaction domain 3B
+Details
+
+10	
+100
+
+hsa-let-7c-5p	C14orf28	chromosome 14 open reading frame 28
+Details
+
+11	
+100
+
+hsa-let-7c-5p	TRIM71	tripartite motif containing 71
+Details
+
+12	
+99
+
+hsa-let-7c-5p	FIGN	fidgetin, microtubule severing factor
+Details
+
+13	
+99
+
+hsa-let-7c-5p	SMARCAD1	SWI/SNF-related, matrix-associated actin-dependent regulator of chromatin, subfamily a, containing DEAD/H box 1
+Details
+
+14	
+99
+
+hsa-let-7c-5p	PTAFR	platelet activating factor receptor
+Details
+
+15	
+99
+
+hsa-let-7c-5p	NPHP3	nephrocystin 3
+Details
+
+16	
+99
+
+hsa-let-7c-5p	GATM	glycine amidinotransferase
+Details
+
+17	
+99
+
+hsa-let-7c-5p	FRMD4B	FERM domain containing 4B
+Details
+
+18	
+98
+
+hsa-let-7c-5p	HIC2	HIC ZBTB transcriptional repressor 2
+Details
+
+19	
+98
+
+hsa-let-7c-5p	NAP1L1	nucleosome assembly protein 1 like 1
+Details
+
+20	
+98
+
+hsa-let-7c-5p	PGRMC1	progesterone receptor membrane component 1
+Details
+
+21	
+98
+
+hsa-let-7c-5p	CBX5	chromobox 5
+Details
+
+22	
+98
+
+hsa-let-7c-5p	CCND2	cyclin D2
+Details
+
+23	
+97
+
+hsa-let-7c-5p	NME6	NME/NM23 nucleoside diphosphate kinase 6
+Details
+
+24	
+97
+
+hsa-let-7c-5p	SLF2	SMC5-SMC6 complex localization factor 2
+Details
+
+25	
+97
+
+hsa-let-7c-5p	SALL4	spalt like transcription factor 4
+Details
+
+26	
+97
+
+hsa-let-7c-5p	ADAMTS15	ADAM metallopeptidase with thrombospondin type 1 motif 15
+Details
+
+27	
+97
+
+hsa-let-7c-5p	MIB1	mindbomb E3 ubiquitin protein ligase 1
+Details
+
+28	
+97
+
+hsa-let-7c-5p	PAPPA	pappalysin 1
+Details
+
+29	
+97
+
+hsa-let-7c-5p	CDC34	cell division cycle 34
+Details
+
+30	
+97
+
+hsa-let-7c-5p	SLC10A7	solute carrier family 10 member 7
+Details
+
+31	
+97
+
+hsa-let-7c-5p	SFMBT1	Scm like with four mbt domains 1
+Details
+
+32	
+97
+
+hsa-let-7c-5p	LRIG3	leucine rich repeats and immunoglobulin like domains 3
+Details
+
+33	
+97
+
+hsa-let-7c-5p	ZNF512B	zinc finger protein 512B
