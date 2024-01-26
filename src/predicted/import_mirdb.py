@@ -70,11 +70,11 @@ def import_targets_predicted(conn, root_path, target_file, disease=None):
 
 
 root_path = "~/code/mirna/resources/mirdb_files/used_all"
-target_file = "hsa-let-7b-predicted.txt"
+target_file = "hsa-let-7c-predicted.txt"
 
 db_conn = psycopg2.connect(database="postgres", user="postgres", password="1qaz2wsX", host="127.0.0.1", port="5432")
 try:
-    import_targets_predicted(db_conn, root_path, target_file, None)
+    import_targets_predicted(db_conn, root_path, target_file, "DLBCL")
     # import_batch_files(db_conn, root_path, "DLBCL")
 except(Exception, psycopg2.DatabaseError) as error:
     raise error
