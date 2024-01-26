@@ -9,6 +9,7 @@ from config import mir26_testing_set as m26
 from config import mir54_training_set as m54
 from config import mir_lawrie_testing_set as mlawrie
 from config import mir_larrabeiti_testing_set as mlar
+from config import mir_beheshti_testing_set as mbe
 
 
 
@@ -158,7 +159,10 @@ try:
     # export_interactions(conn, root_path, mlawrie.table_1_file, mlawrie.table_1, mlawrie.sequence_table_1)
     # export_interactions(conn, root_path, mlawrie.table_2_file, mlawrie.table_2, mlawrie.sequence_table_2)
 
-    export_interactions(conn, root_path, mlar.table_1_file, mlar.table_1, mlar.sequence_table_1)
+    # export_interactions(conn, root_path, mlar.table_1_file, mlar.table_1, mlar.sequence_table_1)
+
+    export_interactions(conn, root_path, mbe.fig_1_file, mbe.fig_1, mbe.sequence_fig_1)
+
 except(Exception, psycopg2.DatabaseError) as error:
     raise error
 finally:

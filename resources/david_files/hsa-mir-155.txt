@@ -1,0 +1,2 @@
+Category	Term	Count	%	PValue	Genes	List Total	Pop Hits	Pop Total	Fold Enrichment	Bonferroni	Benjamini	FDR
+KEGG_PATHWAY	hsa04550:Signaling pathways regulating pluripotency of stem cells	2	22.22222222222222	0.03281473672973193	7547, 3720	3	143	8644	40.298368298368295	0.09524912448573364	0.0984442101891958	0.0984442101891958
