@@ -154,14 +154,14 @@ def motif_generator(num):
 root_path = "~/code/mirna/resources/results"
 conn = psycopg2.connect(database="postgres", user="postgres", password="1qaz2wsX", host="127.0.0.1", port="5432")
 try:
-    export_interactions(conn, root_path, m54.interaction_file, m54.all_mirnas, m54.sequence_all)
+    # export_interactions(conn, root_path, m54.interaction_file, m54.all_mirnas, m54.sequence_all)
 
-    export_interactions(conn, root_path, mlawrie.table_1_file, mlawrie.table_1, mlawrie.sequence_table_1)
+    # export_interactions(conn, root_path, mlawrie.table_1_file, mlawrie.table_1, mlawrie.sequence_table_1)
     export_interactions(conn, root_path, mlawrie.table_2_file, mlawrie.table_2, mlawrie.sequence_table_2)
 
     # export_interactions(conn, root_path, mlar.table_1_file, mlar.table_1, mlar.sequence_table_1)
 
-    export_interactions(conn, root_path, mbe.fig_1_file, mbe.fig_1, mbe.sequence_fig_1)
+    # export_interactions(conn, root_path, mbe.fig_1_file, mbe.fig_1, mbe.sequence_fig_1)
 
 except(Exception, psycopg2.DatabaseError) as error:
     raise error

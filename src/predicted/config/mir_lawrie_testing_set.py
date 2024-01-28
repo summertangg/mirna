@@ -24,6 +24,7 @@ table_1 = [
 
 table_2 = [
     "hsa-mir-200c",
+    "hsa-mir-638",
     "hsa-mir-518a",
     "hsa-mir-199a",
     "hsa-mir-93",
@@ -81,6 +82,7 @@ sequence_table_1 = {
 
 sequence_table_2 = {
     "hsa-mir-200c": "UAAUACUGCCGGGUAAUGAUGGA",
+    "hsa-mir-638": "AGGGAUCGCGGGCGGGUGGCGGCCU",
     "hsa-mir-518a": "GAAAGCGCUUCCCUUUGCUGGA",
     "hsa-mir-199a": "CCCAGUGUUCAGACUACCUGUUC",
     "hsa-mir-93": "CAAAGUGCUGUUCGUGCAGGUAG",
