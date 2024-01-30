@@ -1,0 +1,7 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+97
+
+hsa-miR-451a	OSR1	odd-skipped related transcription factor 1

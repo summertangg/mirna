@@ -51,7 +51,7 @@ def import_specific_pathway(db_conn, pathway_id, pathway_kegg_id, p_value, confi
 
 
 root_path = "~/code/mirna/resources/david_files"
-pathway_file = "hsa-mir-21.txt"
+pathway_file = "hsa-mir-20a.txt"
 conn = psycopg2.connect(database="postgres", user="postgres", password="1qaz2wsX", host="127.0.0.1", port="5432")
 try:
     # import david pathway annotations for the genes targetted by an mirna so that david_mirna_pathway records can be created

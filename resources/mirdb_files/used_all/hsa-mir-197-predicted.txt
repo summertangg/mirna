@@ -1,0 +1,25 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+98
+
+hsa-miR-197-3p	ZIC3	Zic family member 3
+Details
+
+2	
+97
+
+hsa-miR-197-3p	PTPN9	protein tyrosine phosphatase, non-receptor type 9
+Details
+
+3	
+97
+
+hsa-miR-197-3p	TTPAL	alpha tocopherol transfer protein like
+Details
+
+4	
+97
+
+hsa-miR-197-3p	ZNF189	zinc finger protein 189

@@ -10,6 +10,7 @@ from config import mir_lawrie_testing_set as mlawrie
 from config import mir_larrabeiti_testing_set as mlar
 from config import mir_beheshti_testing_set as mbe
 from config import mir_sun_testing_set as msun
+from config import mir_bouvy_testing_set as mbou
 
 
 def export_genes(db_conn, root_path, out_dir, config):
@@ -42,7 +43,8 @@ try:
     # export_genes(conn, root_path, "mlawrie_2", mlawrie.table_2)
     # export_genes(conn, root_path, "mlar_1", mlar.table_1)
     # export_genes(conn, root_path, "mbe_1", mbe.fig_1)
-    export_genes(conn, root_path, "msun_1", msun.fig_1)
+    # export_genes(conn, root_path, "msun_1", msun.fig_1)
+    export_genes(conn, root_path, "mbou_table_2", mbou.table_2)
 
 
 

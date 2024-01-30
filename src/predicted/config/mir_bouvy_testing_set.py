@@ -12,15 +12,15 @@ table_2 = [
 
 table_2_clean = ['hsa-mir-197', 'hsa-mir-122', 'hsa-mir-451a']
 
-table_2_file = "mirdb_interactions_sun_testing_fig_1_with_sequence.csv"
-table_2_file_clean = "mirdb_interactions_sun_testing_fig_1_clean_with_sequence.csv"
+table_2_file = "mirdb_interactions_bou_testing_fig_1_with_sequence.csv"
+table_2_file_clean = "mirdb_interactions_bou_testing_fig_1_clean_with_sequence.csv"
 
 sequence_table_2 = {
-    "hsa-mir-197",
-    "hsa-mir-20a",
-    "hsa-mir-451a",
-    "hsa-mir-122",
-    "hsa-mir-19b",
-    "hsa-let-7e",
-    "hsa-mir-21"
+    "hsa-mir-197": "UUCACCACCUUCUCCACCCAGC",
+    "hsa-mir-20a": "UAAAGUGCUUAUAGUGCAGGUAG",
+    "hsa-mir-451a": "AAACCGUUACCAUUACUGAGUU",
+    "hsa-mir-122": "UGGAGUGUGACAAUGGUGUUUG",
+    "hsa-mir-19b": "UGUGCAAAUCCAUGCAAAACUGA",
+    "hsa-let-7e": "UGAGGUAGGAGGUUGUAUAGUU",
+    "hsa-mir-21": "UAGCUUAUCAGACUGAUGUUGA"
 }

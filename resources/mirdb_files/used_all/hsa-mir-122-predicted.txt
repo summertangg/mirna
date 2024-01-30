@@ -1,0 +1,19 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+97
+
+hsa-miR-122-5p	HNRNPU	heterogeneous nuclear ribonucleoprotein U
+Details
+
+2	
+97
+
+hsa-miR-122-5p	CPEB1	cytoplasmic polyadenylation element binding protein 1
+Details
+
+3	
+97
+
+hsa-miR-122-5p	CD40LG	CD40 ligand
