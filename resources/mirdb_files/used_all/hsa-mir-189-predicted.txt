@@ -1,0 +1,9 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+99
+
+hsa-miR-189	SLITRK1	SLIT And NTRK Like Family Member 1
+
+# https://pubmed.ncbi.nlm.nih.gov/16224024/

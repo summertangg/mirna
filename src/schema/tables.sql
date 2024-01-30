@@ -19,6 +19,11 @@ CREATE TABLE pathways (
   name VARCHAR(255)
 );
 
+CREATE TABLE DAVID (
+  pathway_id VARCHAR(20) PRIMARY KEY,
+  name VARCHAR(255)
+);
+
 
 CREATE TABLE mirna_gene_pathway (
   mirna VARCHAR(20),

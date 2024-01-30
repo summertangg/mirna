@@ -1,0 +1,9 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-768	NTRK3	Neurotrophic Receptor Tyrosine Kinase 3
+
+# https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3019150/

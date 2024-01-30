@@ -12,11 +12,13 @@ table_1 = [
     "hsa-mir-9",
     "hsa-mir-155",
     "hsa-mir-21",
+    "hsa-mir-189",
     "hsa-mir-150",
     "hsa-mir-363",
     "hsa-mir-223",
     "hsa-mir-584",
     "hsa-mir-361",
+    "hsa-mir-768",
     "hsa-mir-625",
     "hsa-mir-495",
     "hsa-mir-181a"
@@ -59,6 +61,7 @@ natural_file = "mirdb_interactions_lawrie_testing_natural.csv"
 table_1_file = "mirdb_interactions_lawrie_testing_table_1_with_sequence.csv"
 table_2_file = "mirdb_interactions_lawrie_testing_table_2_with_sequence.csv"
 
+# hsa-mir-768 sequence: https://www.thermofisher.com/order/genome-database/details/microrna/002000?CID=&ICID=&subtype=
 sequence_table_1 = {
     "hsa-mir-125b": "UCCCUGAGACCCUAACUUGUGA",
     "hsa-mir-143": "UGAGAUGAAGCACUGUAGCUC",
@@ -70,11 +73,13 @@ sequence_table_1 = {
     "hsa-mir-9": "UCUUUGGUUAUCUAGCUGUAUGA",
     "hsa-mir-155": "UUAAUGCUAAUCGUGAUAGGGGUU",
     "hsa-mir-21": "UAGCUUAUCAGACUGAUGUUGA",
+    "hsa-mir-189": "GUGCCUACUGAGCUGAUAUCAGU",
     "hsa-mir-150": "UCUCCCAACCCUUGUACCAGUG",
     "hsa-mir-363": "AAUUGCACGGUAUCCAUCUGUA",
     "hsa-mir-223": "UGUCAGUUUGUCAAAUACCCCA",
     "hsa-mir-584": "UUAUGGUUUGCCUGGGACUGAG",
     "hsa-mir-361": "UUAUCAGAAUCUCCAGGGGUAC",
+    "hsa-mir-768": "GUUGGAGGAUGAAAGUACGGAGUGAU",
     "hsa-mir-625": "AGGGGGAAAGUUCUAUAGUCC",
     "hsa-mir-495": "AAACAAACAUGGUGCACUUCUU",
     "hsa-mir-181a": "AACAUUCAACGCUGUCGGUGAGU"
