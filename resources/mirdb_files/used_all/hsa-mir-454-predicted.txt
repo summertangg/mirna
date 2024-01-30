@@ -1,0 +1,367 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-454-3p	CLIP1	CAP-Gly domain containing linker protein 1
+Details
+
+2	
+100
+
+hsa-miR-454-3p	GJA1	gap junction protein alpha 1
+Details
+
+3	
+100
+
+hsa-miR-454-3p	CPEB1	cytoplasmic polyadenylation element binding protein 1
+Details
+
+4	
+100
+
+hsa-miR-454-3p	SLAIN1	SLAIN motif family member 1
+Details
+
+5	
+100
+
+hsa-miR-454-3p	SKIDA1	SKI/DACH domain containing 1
+Details
+
+6	
+100
+
+hsa-miR-454-3p	MDM4	MDM4, p53 regulator
+Details
+
+7	
+100
+
+hsa-miR-454-3p	PIK3CB	phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit beta
+Details
+
+8	
+99
+
+hsa-miR-454-3p	ESR1	estrogen receptor 1
+Details
+
+9	
+99
+
+hsa-miR-454-3p	ACVR1	activin A receptor type 1
+Details
+
+10	
+99
+
+hsa-miR-454-3p	TSC1	TSC complex subunit 1
+Details
+
+11	
+99
+
+hsa-miR-454-3p	RPS6KA5	ribosomal protein S6 kinase A5
+Details
+
+12	
+99
+
+hsa-miR-454-3p	TBL1XR1	transducin beta like 1 X-linked receptor 1
+Details
+
+13	
+99
+
+hsa-miR-454-3p	LGALSL	galectin like
+Details
+
+14	
+99
+
+hsa-miR-454-3p	KLF7	Kruppel like factor 7
+Details
+
+15	
+99
+
+hsa-miR-454-3p	IGF1	insulin like growth factor 1
+Details
+
+16	
+99
+
+hsa-miR-454-3p	CHST1	carbohydrate sulfotransferase 1
+Details
+
+17	
+99
+
+hsa-miR-454-3p	FMR1	fragile X mental retardation 1
+Details
+
+18	
+99
+
+hsa-miR-454-3p	RAP2C	RAP2C, member of RAS oncogene family
+Details
+
+19	
+99
+
+hsa-miR-454-3p	ACSL4	acyl-CoA synthetase long chain family member 4
+Details
+
+20	
+99
+
+hsa-miR-454-3p	SOS2	SOS Ras/Rho guanine nucleotide exchange factor 2
+Details
+
+21	
+99
+
+hsa-miR-454-3p	ZBTB20	zinc finger and BTB domain containing 20
+Details
+
+22	
+99
+
+hsa-miR-454-3p	MYBL1	MYB proto-oncogene like 1
+Details
+
+23	
+99
+
+hsa-miR-454-3p	SECISBP2L	SECIS binding protein 2 like
+Details
+
+24	
+98
+
+hsa-miR-454-3p	DDX6	DEAD-box helicase 6
+Details
+
+25	
+98
+
+hsa-miR-454-3p	ZMAT3	zinc finger matrin-type 3
+Details
+
+26	
+98
+
+hsa-miR-454-3p	FAM155A	family with sequence similarity 155 member A
+Details
+
+27	
+98
+
+hsa-miR-454-3p	SYBU	syntabulin
+Details
+
+28	
+98
+
+hsa-miR-454-3p	KBTBD8	kelch repeat and BTB domain containing 8
+Details
+
+29	
+98
+
+hsa-miR-454-3p	TSHZ1	teashirt zinc finger homeobox 1
+Details
+
+30	
+98
+
+hsa-miR-454-3p	ZBTB18	zinc finger and BTB domain containing 18
+Details
+
+31	
+98
+
+hsa-miR-454-3p	ZFYVE9	zinc finger FYVE-type containing 9
+Details
+
+32	
+98
+
+hsa-miR-454-3p	ATG16L1	autophagy related 16 like 1
+Details
+
+33	
+98
+
+hsa-miR-454-3p	AGO4	argonaute RISC catalytic component 4
+Details
+
+34	
+98
+
+hsa-miR-454-3p	RO60	Ro60, Y RNA binding protein
+Details
+
+35	
+98
+
+hsa-miR-454-3p	ENPP5	ectonucleotide pyrophosphatase/phosphodiesterase 5 (putative)
+Details
+
+36	
+98
+
+hsa-miR-454-3p	MECP2	methyl-CpG binding protein 2
+Details
+
+37	
+98
+
+hsa-miR-454-3p	CNOT6	CCR4-NOT transcription complex subunit 6
+Details
+
+38	
+98
+
+hsa-miR-454-3p	RALGPS2	Ral GEF with PH domain and SH3 binding motif 2
+Details
+
+39	
+98
+
+hsa-miR-454-3p	MIER1	MIER1 transcriptional regulator
+Details
+
+40	
+97
+
+hsa-miR-454-3p	SBF2	SET binding factor 2
+Details
+
+41	
+97
+
+hsa-miR-454-3p	SERINC3	serine incorporator 3
+Details
+
+42	
+97
+
+hsa-miR-454-3p	MDFIC	MyoD family inhibitor domain containing
+Details
+
+43	
+97
+
+hsa-miR-454-3p	DNAJC16	DnaJ heat shock protein family (Hsp40) member C16
+Details
+
+44	
+97
+
+hsa-miR-454-3p	VPS37A	VPS37A, ESCRT-I subunit
+Details
+
+45	
+97
+
+hsa-miR-454-3p	MFSD6	major facilitator superfamily domain containing 6
+Details
+
+46	
+97
+
+hsa-miR-454-3p	PHF14	PHD finger protein 14
+Details
+
+47	
+97
+
+hsa-miR-454-3p	CHD5	chromodomain helicase DNA binding protein 5
+Details
+
+48	
+97
+
+hsa-miR-454-3p	ARAP2	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 2
+Details
+
+49	
+97
+
+hsa-miR-454-3p	ING2	inhibitor of growth family member 2
+Details
+
+50	
+97
+
+hsa-miR-454-3p	CDK19	cyclin dependent kinase 19
+Details
+
+51	
+97
+
+hsa-miR-454-3p	HPRT1	hypoxanthine phosphoribosyltransferase 1
+Details
+
+52	
+97
+
+hsa-miR-454-3p	LRIG1	leucine rich repeats and immunoglobulin like domains 1
+Details
+
+53	
+97
+
+hsa-miR-454-3p	ZBTB4	zinc finger and BTB domain containing 4
+Details
+
+54	
+97
+
+hsa-miR-454-3p	LCORL	ligand dependent nuclear receptor corepressor like
+Details
+
+55	
+97
+
+hsa-miR-454-3p	DGKE	diacylglycerol kinase epsilon
+Details
+
+56	
+97
+
+hsa-miR-454-3p	LDLR	low density lipoprotein receptor
+Details
+
+57	
+97
+
+hsa-miR-454-3p	PHF20	PHD finger protein 20
+Details
+
+58	
+97
+
+hsa-miR-454-3p	DYNC1LI2	dynein cytoplasmic 1 light intermediate chain 2
+Details
+
+59	
+97
+
+hsa-miR-454-3p	PAN3	poly(A) specific ribonuclease subunit PAN3
+Details
+
+60	
+97
+
+hsa-miR-454-3p	AAK1	AP2 associated kinase 1
+Details
+
+61	
+97
+
+hsa-miR-454-3p	MEMO1	mediator of cell motility 1

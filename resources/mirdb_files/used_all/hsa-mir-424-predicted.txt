@@ -1,0 +1,457 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+100
+
+hsa-miR-424-5p	PAPPA	pappalysin 1
+Details
+
+2	
+100
+
+hsa-miR-424-5p	FASN	fatty acid synthase
+Details
+
+3	
+100
+
+hsa-miR-424-5p	UNC80	unc-80 homolog, NALCN channel complex subunit
+Details
+
+4	
+100
+
+hsa-miR-424-5p	FGF2	fibroblast growth factor 2
+Details
+
+5	
+100
+
+hsa-miR-424-5p	TNRC6B	trinucleotide repeat containing 6B
+Details
+
+6	
+100
+
+hsa-miR-424-5p	PTPN4	protein tyrosine phosphatase, non-receptor type 4
+Details
+
+7	
+100
+
+hsa-miR-424-5p	PHF19	PHD finger protein 19
+Details
+
+8	
+99
+
+hsa-miR-424-5p	UBE2Q1	ubiquitin conjugating enzyme E2 Q1
+Details
+
+9	
+99
+
+hsa-miR-424-5p	LSM11	LSM11, U7 small nuclear RNA associated
+Details
+
+10	
+99
+
+hsa-miR-424-5p	ANKUB1	ankyrin repeat and ubiquitin domain containing 1
+Details
+
+11	
+99
+
+hsa-miR-424-5p	CCNE1	cyclin E1
+Details
+
+12	
+99
+
+hsa-miR-424-5p	ATG14	autophagy related 14
+Details
+
+13	
+99
+
+hsa-miR-424-5p	SLC13A3	solute carrier family 13 member 3
+Details
+
+14	
+99
+
+hsa-miR-424-5p	ARIH1	ariadne RBR E3 ubiquitin protein ligase 1
+Details
+
+15	
+99
+
+hsa-miR-424-5p	BTRC	beta-transducin repeat containing E3 ubiquitin protein ligase
+Details
+
+16	
+99
+
+hsa-miR-424-5p	SPRYD3	SPRY domain containing 3
+Details
+
+17	
+99
+
+hsa-miR-424-5p	ARL2	ADP ribosylation factor like GTPase 2
+Details
+
+18	
+99
+
+hsa-miR-424-5p	CASK	calcium/calmodulin dependent serine protein kinase
+Details
+
+19	
+99
+
+hsa-miR-424-5p	NUP50	nucleoporin 50
+Details
+
+20	
+99
+
+hsa-miR-424-5p	DCLK1	doublecortin like kinase 1
+Details
+
+21	
+99
+
+hsa-miR-424-5p	DESI1	desumoylating isopeptidase 1
+Details
+
+22	
+99
+
+hsa-miR-424-5p	ZBTB46	zinc finger and BTB domain containing 46
+Details
+
+23	
+99
+
+hsa-miR-424-5p	FGF7	fibroblast growth factor 7
+Details
+
+24	
+98
+
+hsa-miR-424-5p	RECK	reversion inducing cysteine rich protein with kazal motifs
+Details
+
+25	
+98
+
+hsa-miR-424-5p	AXIN2	axin 2
+Details
+
+26	
+98
+
+hsa-miR-424-5p	GPR63	G protein-coupled receptor 63
+Details
+
+27	
+98
+
+hsa-miR-424-5p	SYNJ1	synaptojanin 1
+Details
+
+28	
+98
+
+hsa-miR-424-5p	NECTIN1	nectin cell adhesion molecule 1
+Details
+
+29	
+98
+
+hsa-miR-424-5p	GAREM1	GRB2 associated regulator of MAPK1 subtype 1
+Details
+
+30	
+98
+
+hsa-miR-424-5p	ABL2	ABL proto-oncogene 2, non-receptor tyrosine kinase
+Details
+
+31	
+98
+
+hsa-miR-424-5p	FBXO21	F-box protein 21
+Details
+
+32	
+98
+
+hsa-miR-424-5p	C2orf42	chromosome 2 open reading frame 42
+Details
+
+33	
+98
+
+hsa-miR-424-5p	KIF1B	kinesin family member 1B
+Details
+
+34	
+98
+
+hsa-miR-424-5p	LUZP1	leucine zipper protein 1
+Details
+
+35	
+98
+
+hsa-miR-424-5p	TBL1XR1	transducin beta like 1 X-linked receptor 1
+Details
+
+36	
+98
+
+hsa-miR-424-5p	SLC11A2	solute carrier family 11 member 2
+Details
+
+37	
+98
+
+hsa-miR-424-5p	MOB3B	MOB kinase activator 3B
+Details
+
+38	
+98
+
+hsa-miR-424-5p	ZBTB44	zinc finger and BTB domain containing 44
+Details
+
+39	
+98
+
+hsa-miR-424-5p	DMPK	DM1 protein kinase
+Details
+
+40	
+98
+
+hsa-miR-424-5p	MGAT4A	alpha-1,3-mannosyl-glycoprotein 4-beta-N-acetylglucosaminyltransferase A
+Details
+
+41	
+98
+
+hsa-miR-424-5p	EPHB2	EPH receptor B2
+Details
+
+42	
+98
+
+hsa-miR-424-5p	ANO3	anoctamin 3
+Details
+
+43	
+98
+
+hsa-miR-424-5p	SLC9A6	solute carrier family 9 member A6
+Details
+
+44	
+98
+
+hsa-miR-424-5p	APLN	apelin
+Details
+
+45	
+98
+
+hsa-miR-424-5p	IPO7	importin 7
+Details
+
+46	
+98
+
+hsa-miR-424-5p	RASGEF1B	RasGEF domain family member 1B
+Details
+
+47	
+98
+
+hsa-miR-424-5p	ATG9A	autophagy related 9A
+Details
+
+48	
+98
+
+hsa-miR-424-5p	CPEB2	cytoplasmic polyadenylation element binding protein 2
+Details
+
+49	
+98
+
+hsa-miR-424-5p	AHCYL2	adenosylhomocysteinase like 2
+Details
+
+50	
+98
+
+hsa-miR-424-5p	UBE4B	ubiquitination factor E4B
+Details
+
+51	
+98
+
+hsa-miR-424-5p	CYB561A3	cytochrome b561 family member A3
+Details
+
+52	
+98
+
+hsa-miR-424-5p	ARL3	ADP ribosylation factor like GTPase 3
+Details
+
+53	
+97
+
+hsa-miR-424-5p	PLAG1	PLAG1 zinc finger
+Details
+
+54	
+97
+
+hsa-miR-424-5p	CDCA4	cell division cycle associated 4
+Details
+
+55	
+97
+
+hsa-miR-424-5p	CACNA1E	calcium voltage-gated channel subunit alpha1 E
+Details
+
+56	
+97
+
+hsa-miR-424-5p	PISD	phosphatidylserine decarboxylase
+Details
+
+57	
+97
+
+hsa-miR-424-5p	KCNJ2	potassium voltage-gated channel subfamily J member 2
+Details
+
+58	
+97
+
+hsa-miR-424-5p	UBE2V1	ubiquitin conjugating enzyme E2 V1
+Details
+
+59	
+97
+
+hsa-miR-424-5p	SPRED1	sprouty related EVH1 domain containing 1
+Details
+
+60	
+97
+
+hsa-miR-424-5p	PPM1E	protein phosphatase, Mg2+/Mn2+ dependent 1E
+Details
+
+61	
+97
+
+hsa-miR-424-5p	MTMR3	myotubularin related protein 3
+Details
+
+62	
+97
+
+hsa-miR-424-5p	SHOC2	SHOC2, leucine rich repeat scaffold protein
+Details
+
+63	
+97
+
+hsa-miR-424-5p	TLK1	tousled like kinase 1
+Details
+
+64	
+97
+
+hsa-miR-424-5p	LURAP1L	leucine rich adaptor protein 1 like
+Details
+
+65	
+97
+
+hsa-miR-424-5p	PTPN3	protein tyrosine phosphatase, non-receptor type 3
+Details
+
+66	
+97
+
+hsa-miR-424-5p	TMEM100	transmembrane protein 100
+Details
+
+67	
+97
+
+hsa-miR-424-5p	RASSF8	Ras association domain family member 8
+Details
+
+68	
+97
+
+hsa-miR-424-5p	FBXW7	F-box and WD repeat domain containing 7
+Details
+
+69	
+97
+
+hsa-miR-424-5p	AKT3	AKT serine/threonine kinase 3
+Details
+
+70	
+97
+
+hsa-miR-424-5p	MYB	MYB proto-oncogene, transcription factor
+Details
+
+71	
+97
+
+hsa-miR-424-5p	GRM7	glutamate metabotropic receptor 7
+Details
+
+72	
+97
+
+hsa-miR-424-5p	CCND2	cyclin D2
+Details
+
+73	
+97
+
+hsa-miR-424-5p	WEE1	WEE1 G2 checkpoint kinase
+Details
+
+74	
+97
+
+hsa-miR-424-5p	STOX2	storkhead box 2
+Details
+
+75	
+97
+
+hsa-miR-424-5p	UBN2	ubinuclein 2
+Details
+
+76	
+97
+
+hsa-miR-424-5p	CYP26B1	cytochrome P450 family 26 subfamily B member 1

@@ -1,0 +1,7 @@
+Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
+Details
+
+1	
+97
+
+hsa-miR-28-5p	TNS3	tensin 3
