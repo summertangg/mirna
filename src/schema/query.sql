@@ -241,7 +241,7 @@ SELECT mirna, STRING_AGG(DISTINCT mg.gene, ',') AS grouped_gene, count(mg.gene) 
 FROM pathway_gene AS pg
 INNER JOIN genes AS g ON g.gene_id = pg.gene
 INNER JOIN mirdb_mirna_gene AS mg ON mg.gene = pg.gene
-AND mirna IN ('hsa-mir-125b', 'hsa-mir-143', 'hsa-mir-451b', 'hsa-mir-145', 'hsa-mir-10b', 'hsa-mir-34a', 'hsa-mir-100', 'hsa-mir-9', 'hsa-mir-155', 'hsa-mir-21', 'hsa-mir-150', 'hsa-mir-363', 'hsa-mir-223', 'hsa-mir-584', 'hsa-mir-361', 'hsa-mir-625', 'hsa-mir-495', 'hsa-mir-181a')
+AND mirna IN ('hsa-mir-189', 'hsa-mir-768', 'hsa-mir-125b', 'hsa-mir-143', 'hsa-mir-451b', 'hsa-mir-145', 'hsa-mir-10b', 'hsa-mir-34a', 'hsa-mir-100', 'hsa-mir-9', 'hsa-mir-155', 'hsa-mir-21', 'hsa-mir-150', 'hsa-mir-363', 'hsa-mir-223', 'hsa-mir-584', 'hsa-mir-361', 'hsa-mir-625', 'hsa-mir-495', 'hsa-mir-181a')
 WHERE mg.target_score >= 97
   AND pg.pathway_id = 7
 group by mirna
@@ -253,7 +253,7 @@ SELECT mirna, STRING_AGG(DISTINCT mg.gene, ',') AS grouped_gene, count(mg.gene) 
 FROM pathway_gene AS pg
 INNER JOIN genes AS g ON g.gene_id = pg.gene
 INNER JOIN mirdb_mirna_gene AS mg ON mg.gene = pg.gene
-AND mirna IN ('hsa-mir-200c', 'hsa-mir-518a', 'hsa-mir-199a', 'hsa-mir-93', 'hsa-mir-22', 'hsa-mir-34a', 'hsa-mir-362', 'hsa-mir-206', 'hsa-mir-451b', 'hsa-mir-636', 'hsa-mir-92a', 'hsa-mir-27b', 'hsa-mir-199b', 'hsa-mir-27a', 'hsa-mir-24', 'hsa-mir-106a', 'hsa-mir-20a', 'hsa-mir-19b', 'hsa-mir-99a', 'hsa-mir-18b', 'hsa-mir-100')
+AND mirna IN ('hsa-mir-99a', 'hsa-mir-638', 'hsa-mir-200c', 'hsa-mir-518a', 'hsa-mir-199a', 'hsa-mir-93', 'hsa-mir-22', 'hsa-mir-34a', 'hsa-mir-362', 'hsa-mir-206', 'hsa-mir-451b', 'hsa-mir-636', 'hsa-mir-92a', 'hsa-mir-27b', 'hsa-mir-199b', 'hsa-mir-27a', 'hsa-mir-24', 'hsa-mir-106a', 'hsa-mir-20a', 'hsa-mir-19b', 'hsa-mir-99a', 'hsa-mir-18b', 'hsa-mir-100')
 WHERE mg.target_score >= 97
   AND pg.pathway_id = 7
 group by mirna
@@ -284,7 +284,21 @@ group by mirna
 HAVING count(mg.gene) >= 2
 ORDER BY mirna
 
-select * from pathways
+-- get mirna targeting genes in a pathway (Sun fig 1)
+SELECT mirna, STRING_AGG(DISTINCT mg.gene, ',') AS grouped_gene, count(mg.gene) as num_gene --,
+FROM pathway_gene AS pg
+INNER JOIN genes AS g ON g.gene_id = pg.gene
+INNER JOIN mirdb_mirna_gene AS mg ON mg.gene = pg.gene
+AND mirna IN ('hsa-mir-21', 'hsa-mir-155', 'hsa-mir-424', 'hsa-mir-130b', 'hsa-mir-128', 'hsa-mir-7', 'hsa-mir-28', 'hsa-mir-454')
+WHERE mg.target_score >= 97
+  AND pg.pathway_id = 7
+group by mirna
+HAVING count(mg.gene) >= 2
+ORDER BY mirna
+
+select * from david_mirna_pathway 
+where pathway = 'hsa05200'
+AND mirna IN ('hsa-mir-21', 'hsa-mir-155', 'hsa-mir-424', 'hsa-mir-130b', 'hsa-mir-128', 'hsa-mir-7', 'hsa-mir-28', 'hsa-mir-454')
 
 SELECT t.kegg_id, c.color --t.* 
 FROM interaction_colors AS c
@@ -335,7 +349,7 @@ group by mg.gene, pg.gene, g.kegg_id
 ORDER BY count(mg.mirna) desc, mg.gene
 
 
-delete from david_mirna_pathway where mirna='hsa-let-7d' and pathway = 'hsa05200'
+delete from david_mirna_pathway where mirna='hsa-mir-130a' and pathway = 'hsa05200'
 delete from david_mirna_pathway where mirna='hsa-let-7e' and pathway = 'hsa05200'
 delete from david_mirna_pathway where mirna='hsa-let-7f' and pathway = 'hsa05200'
 delete from david_mirna_pathway where mirna='hsa-let-7g' and pathway = 'hsa05200'

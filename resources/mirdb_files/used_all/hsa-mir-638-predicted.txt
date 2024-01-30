@@ -4,4 +4,4 @@ Details
 1	
 97
 
-hsa-miR-99a-5p	TRIB2	tribbles pseudokinase 2
+hsa-miR-638	ZSWIM9	zinc finger SWIM-type containing 9

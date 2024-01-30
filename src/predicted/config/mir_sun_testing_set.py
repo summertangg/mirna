@@ -1,3 +1,5 @@
+# Sun, Rui, et al. "A novel prognostic model based on four circulating miRNA in diffuse large B‐cell lymphoma: implications for the roles of MDSC and Th17 cells in lymphoma progression." Molecular Oncology 15.1 (2021): 246-261.
+
 fig_1 = [
     "hsa-mir-21",
     "hsa-mir-130b",

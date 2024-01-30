@@ -10,7 +10,7 @@ from config import mir54_training_set as m54
 from config import mir_lawrie_testing_set as mlawrie
 from config import mir_larrabeiti_testing_set as mlar
 from config import mir_beheshti_testing_set as mbe
-
+from config import mir_sun_testing_set as msun
 
 
 def export_interactions(db_conn, root_path, out_file, config_mirna, config_seq):
@@ -154,18 +154,21 @@ def motif_generator(num):
 root_path = "~/code/mirna/resources/results"
 conn = psycopg2.connect(database="postgres", user="postgres", password="1qaz2wsX", host="127.0.0.1", port="5432")
 try:
-    # export_interactions(conn, root_path, m54.interaction_file, m54.all_mirnas, m54.sequence_all)
+    export_interactions(conn, root_path, m54.interaction_file, m54.all_mirnas, m54.sequence_all)
 
     # export_interactions(conn, root_path, mlawrie.table_1_file, mlawrie.table_1, mlawrie.sequence_table_1)
     # export_interactions(conn, root_path, mlawrie.table_1_file_clean, mlawrie.table_1_clean, mlawrie.sequence_table_1)
 
-    # export_interactions(conn, root_path, mlawrie.table_2_file, mlawrie.table_2, mlawrie.sequence_table_2)
-    # export_interactions(conn, root_path, mlawrie.table_2_file_clean, mlawrie.table_2_clean, mlawrie.sequence_table_2)
+    export_interactions(conn, root_path, mlawrie.table_2_file, mlawrie.table_2, mlawrie.sequence_table_2)
+    export_interactions(conn, root_path, mlawrie.table_2_file_clean, mlawrie.table_2_clean, mlawrie.sequence_table_2)
 
-    export_interactions(conn, root_path, mlar.table_1_file, mlar.table_1, mlar.sequence_table_1)
+    ### export_interactions(conn, root_path, mlar.table_1_file, mlar.table_1, mlar.sequence_table_1)
 
-    # export_interactions(conn, root_path, mbe.fig_1_file, mbe.fig_1, mbe.sequence_fig_1)
-    # export_interactions(conn, root_path, mbe.fig_1_file_clean, mbe.fig_1_clean, mbe.sequence_fig_1)
+    export_interactions(conn, root_path, mbe.fig_1_file, mbe.fig_1, mbe.sequence_fig_1)
+    export_interactions(conn, root_path, mbe.fig_1_file_clean, mbe.fig_1_clean, mbe.sequence_fig_1)
+
+    export_interactions(conn, root_path, msun.fig_1_file, msun.fig_1, msun.sequence_fig_1)
+    export_interactions(conn, root_path, msun.fig_1_file_clean, msun.fig_1_clean, msun.sequence_fig_1)
 
 except(Exception, psycopg2.DatabaseError) as error:
     raise error
