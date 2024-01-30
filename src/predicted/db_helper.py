@@ -51,7 +51,9 @@ def insert_mirna_gene_interaction(conn, cur, mirna_id, gene_id, target_score):
         conn.commit()
         print(f"{mirna_id} - {gene_id} (target_score: {target_score}) inserted successfully.")
     else:
-        print(f"{mirna_id} - {gene_id} (target_score: {target_score}) already exists.")
+        cur.execute("UPDATE mirdb_mirna_gene SET target_score = %s WHERE mirna = %s AND gene = %s", (target_score, mirna_id, gene_id))
+        conn.commit()
+        print(f"{mirna_id} - {gene_id} (target_score: {target_score}) is updated.")
 
 
 def get_interactions(conn, cur, config=None):

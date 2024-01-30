@@ -2,6 +2,6 @@ Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
 Details
 
 1	
-90
+97
 
 hsa-miR-4454	BAG5	BCL2 associated athanogene 5

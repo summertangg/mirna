@@ -60,8 +60,8 @@ try:
     # import_specific_pathway(conn, 7, 'hsa05200', 0.05, m54.positive_mirnas)
     # import_specific_pathway(conn, 7, 'hsa05200', 0.05, mlawrie.table_1)
     # import_specific_pathway(conn, 7, 'hsa05200', 0.05, mlawrie.table_2)
-    # import_specific_pathway(conn, 7, 'hsa05200', 0.05, mlar.table_1)
-    import_specific_pathway(conn, 7, 'hsa05200', 0.05, mbe.fig_1)
+    import_specific_pathway(conn, 7, 'hsa05200', 0.05, mlar.table_1)
+    # import_specific_pathway(conn, 7, 'hsa05200', 0.05, mbe.fig_1)
 
 except(Exception, psycopg2.DatabaseError) as error:
     raise error

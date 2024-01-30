@@ -2,7 +2,7 @@ Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
 Details
 
 1	
-95
+97
 
 hsa-miR-215-5p	NIPAL1	NIPA like domain containing 1
 Details

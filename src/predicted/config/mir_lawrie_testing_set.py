@@ -24,6 +24,8 @@ table_1 = [
     "hsa-mir-181a"
 ]
 
+table_1_clean = ['hsa-mir-495', 'hsa-mir-625', 'hsa-mir-100', 'hsa-mir-189', 'hsa-mir-768', 'hsa-mir-584', 'hsa-mir-10b']
+
 table_2 = [
     "hsa-mir-200c",
     "hsa-mir-638",
@@ -49,6 +51,8 @@ table_2 = [
     "hsa-mir-100"
 ]
 
+table_2_clean = ['hsa-mir-199b', 'hsa-mir-636', 'hsa-mir-100', 'hsa-mir-22', 'hsa-mir-206', 'hsa-mir-638', 'hsa-mir-99a', 'hsa-mir-518a', 'hsa-mir-200c', 'hsa-mir-362']
+
 # hsa-miR-26b	1.88E-02	FCL	1.42
 # hsa-miR-217	2.84E-02	FCL	2.44
 # hsa-miR-634	9.50E-04	FCL	2.54
@@ -60,6 +64,8 @@ clean_file = "mirdb_interactions_lawrie_testing_clean.csv"
 natural_file = "mirdb_interactions_lawrie_testing_natural.csv"
 table_1_file = "mirdb_interactions_lawrie_testing_table_1_with_sequence.csv"
 table_2_file = "mirdb_interactions_lawrie_testing_table_2_with_sequence.csv"
+table_1_file_clean = "mirdb_interactions_lawrie_testing_table_1_clean_with_sequence.csv"
+table_2_file_clean = "mirdb_interactions_lawrie_testing_table_2_clean_with_sequence.csv"
 
 # hsa-mir-768 sequence: https://www.thermofisher.com/order/genome-database/details/microrna/002000?CID=&ICID=&subtype=
 sequence_table_1 = {

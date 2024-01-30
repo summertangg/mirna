@@ -2,25 +2,25 @@ Target Detail	Target Rank	Target Score	miRNA Name	Gene Symbol	Gene Description
 Details
 
 1	
-96
+97
 
 hsa-miR-1291	MECP2	methyl-CpG binding protein 2
 Details
 
 2	
-96
+97
 
 hsa-miR-1291	NF2	neurofibromin 2
 Details
 
 3	
-96
+97
 
 hsa-miR-1291	REEP2	receptor accessory protein 2
 Details
 
 4	
-96
+97
 
 hsa-miR-1291	PGM5	phosphoglucomutase 5
 Details

@@ -12,7 +12,10 @@ fig_1 = [
     "hsa-mir-15a"
 ]
 
+fig_1_clean = ['hsa-mir-130a', 'hsa-mir-10b', 'hsa-let-7c', 'hsa-let-7b']
+
 fig_1_file = "mirdb_interactions_beheshti_testing_fig_1_with_sequence.csv"
+fig_1_file_clean = "mirdb_interactions_beheshti_testing_fig_1_clean_with_sequence.csv"
 
 sequence_fig_1 = {
     "hsa-mir-10b": "UACCCUGUAGAACCGAAUUUGUG",

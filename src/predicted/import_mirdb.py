@@ -70,7 +70,7 @@ def import_targets_predicted(conn, root_path, target_file, disease=None):
 
 
 root_path = "~/code/mirna/resources/mirdb_files/used_all"
-target_file = "hsa-mir-768-predicted.txt"
+target_file = "hsa-mir-215-predicted.txt"
 
 db_conn = psycopg2.connect(database="postgres", user="postgres", password="1qaz2wsX", host="127.0.0.1", port="5432")
 try:
