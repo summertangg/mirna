@@ -47,10 +47,10 @@ def diff(list_1, list_2):
 # print('\n')
 # diff(m54.positive_mirnas, mlawrie.table_1)
 
-# print('*'*20)
-# intersect(m54.positive_mirnas, mlawrie.table_2)
-# print('\n')
-# diff(m54.positive_mirnas, mlawrie.table_2)
+print('*'*20)
+intersect(m54.positive_mirnas, mlawrie.table_2)
+print('\n')
+diff(m54.positive_mirnas, mlawrie.table_2)
 
 # print('*'*20)
 # intersect(m54.positive_mirnas, mlar.table_1)
@@ -67,10 +67,10 @@ intersect(m54.positive_mirnas, msun.fig_1)
 print('\n')
 diff(m54.positive_mirnas, msun.fig_1)
 
-print('*'*20)
-intersect(m54.positive_mirnas, mbou.table_2)
-print('\n')
-diff(m54.positive_mirnas, mbou.table_2)
+# print('*'*20)
+# intersect(m54.positive_mirnas, mbou.table_2)
+# print('\n')
+# diff(m54.positive_mirnas, mbou.table_2)
 
 # generate_random_numbers(2552, 1)
 

@@ -1,8 +1,8 @@
-9252	#DC143C,black
-595	#CD5C5C,black
-1869	#CD5C5C,black
-8202	#CD5C5C,black
-5728	#CD5C5C,black
+9252	yellow,black
+595	#FFFFCC,black
+1869	#FFFFCC,black
+8202	#FFFFCC,black
+5728	#FFFFCC,black
 894	#FA8072,black
 10000	#FFB6C1,black
 2099	#FFB6C1,black
@@ -51,97 +51,3 @@
 6502	#FFE4E1,black
 4088	#FFE4E1,black
 6655	#FFE4E1,black
-
-*** The following mirna is tagged Training Set m54 **
-hsa-mir-106a - hsa05200 - 0.05 inserted successfully.
-hsa-mir-106b - hsa05200 - 0.05 inserted successfully.
-hsa-mir-139 - hsa05200 - 0.05 inserted successfully.
-hsa-mir-15a - hsa05200 - 0.05 inserted successfully.
-hsa-mir-17 - hsa05200 - 0.05 inserted successfully.
-hsa-mir-182 - hsa05200 already exists.
-hsa-mir-19a - hsa05200 - 0.05 inserted successfully.
-hsa-mir-19b - hsa05200 - 0.05 inserted successfully.
-hsa-mir-20a - hsa05200 - 0.05 inserted successfully.
-hsa-mir-20b - hsa05200 - 0.05 inserted successfully.
-hsa-mir-21 - hsa05200 already exists.
-hsa-mir-23a - hsa05200 - 0.05 inserted successfully.
-hsa-mir-23b - hsa05200 - 0.05 inserted successfully.
-hsa-mir-24 - hsa05200 - 0.05 inserted successfully.
-hsa-mir-26a - hsa05200 - 0.05 inserted successfully.
-hsa-mir-26b - hsa05200 - 0.05 inserted successfully.
-hsa-mir-27a - hsa05200 - 0.05 inserted successfully.
-hsa-mir-27b - hsa05200 - 0.05 inserted successfully.
-hsa-mir-29b - hsa05200 - 0.05 inserted successfully.
-hsa-mir-29c - hsa05200 - 0.05 inserted successfully.
-hsa-mir-301a - hsa05200 - 0.05 inserted successfully.
-hsa-mir-30b - hsa05200 - 0.05 inserted successfully.
-hsa-mir-320a - hsa05200 - 0.05 inserted successfully.
-hsa-mir-34a - hsa05200 - 0.05 inserted successfully.
-hsa-mir-93 - hsa05200 - 0.05 inserted successfully.
-
-sa-let-7d - hsa05200 - 0.05 inserted successfully.
-hsa-let-7e - hsa05200 - 0.05 inserted successfully.
-hsa-let-7f - hsa05200 - 0.05 inserted successfully.
-hsa-let-7g - hsa05200 - 0.05 inserted successfully.
-hsa-mir-106a - hsa05200 already exists.
-hsa-mir-106b - hsa05200 already exists.
-hsa-mir-125b - hsa05200 - 0.05 inserted successfully.
-hsa-mir-139 - hsa05200 already exists.
-hsa-mir-145 - hsa05200 - 0.05 inserted successfully.
-hsa-mir-146a - hsa05200 - 0.05 inserted successfully.
-hsa-mir-146b - hsa05200 - 0.05 inserted successfully.
-hsa-mir-15a - hsa05200 already exists.
-hsa-mir-17 - hsa05200 already exists.
-hsa-mir-181a - hsa05200 - 0.05 inserted successfully.
-hsa-mir-182 - hsa05200 already exists.
-hsa-mir-199a - hsa05200 - 0.05 inserted successfully.
-hsa-mir-19a - hsa05200 already exists.
-hsa-mir-19b - hsa05200 already exists.
-hsa-mir-20a - hsa05200 already exists.
-hsa-mir-20b - hsa05200 already exists.
-hsa-mir-21 - hsa05200 already exists.
-hsa-mir-221 - hsa05200 - 0.05 inserted successfully.
-hsa-mir-23a - hsa05200 already exists.
-hsa-mir-23b - hsa05200 already exists.
-hsa-mir-24 - hsa05200 already exists.
-hsa-mir-26a - hsa05200 already exists.
-hsa-mir-26b - hsa05200 already exists.
-hsa-mir-27a - hsa05200 already exists.
-hsa-mir-27b - hsa05200 already exists.
-hsa-mir-29b - hsa05200 already exists.
-hsa-mir-29c - hsa05200 already exists.
-hsa-mir-301a - hsa05200 already exists.
-hsa-mir-30b - hsa05200 already exists.
-hsa-mir-320a - hsa05200 already exists.
-hsa-mir-34a - hsa05200 already exists.
-hsa-mir-34b - hsa05200 - 0.05 inserted successfully.
-hsa-mir-363 - hsa05200 - 0.05 inserted successfully.
-hsa-mir-365a - hsa05200 - 0.05 inserted successfully.
-hsa-mir-451b - hsa05200 - 0.05 inserted successfully.
-hsa-mir-9 - hsa05200 - 0.05 inserted successfully.
-hsa-mir-92a - hsa05200 - 0.05 inserted successfully.
-hsa-mir-93 - hsa05200 already exists.
-
-*** The following mirna is tagged Lawrie Table 1 **
-hsa-mir-495 - hsa05200 - 0.05 inserted successfully.
-
-*** The following mirna is tagged Lawrie Table 2 **
-AND mirna IN ('hsa-mir-200c', 'hsa-mir-518a', 'hsa-mir-199a', 'hsa-mir-93', 'hsa-mir-22', 'hsa-mir-34a', 'hsa-mir-362', 'hsa-mir-206', 'hsa-mir-451b', 'hsa-mir-636', 'hsa-mir-92a', 'hsa-mir-27b', 'hsa-mir-199b', 'hsa-mir-27a', 'hsa-mir-24', 'hsa-mir-106a', 'hsa-mir-20a', 'hsa-mir-19b', 'hsa-mir-99a', 'hsa-mir-18b', 'hsa-mir-100')
-hsa-mir-106a - hsa05200 already exists.
-hsa-mir-19b - hsa05200 already exists.
-hsa-mir-200c - hsa05200 - 0.05 inserted successfully.
-hsa-mir-20a - hsa05200 already exists.
-hsa-mir-22 - hsa05200 - 0.05 inserted successfully.
-hsa-mir-24 - hsa05200 already exists.
-hsa-mir-27a - hsa05200 already exists.
-hsa-mir-27b - hsa05200 already exists.
-hsa-mir-34a - hsa05200 already exists.
-hsa-mir-93 - hsa05200 already exists.
-
-*** The following mirna is tagged Larrabeiti Table 1 **
-AND mirna IN ('hsa-mir-210', 'hsa-mir-944', 'hsa-mir-12136', 'hsa-mir-3681', 'hsa-mir-378i', 'hsa-mir-4454', 'hsa-mir-1291', 'hsa-mir-7974', 'hsa-mir-183', 'hsa-mir-146a', 'hsa-mir-215', 'hsa-mir-150', 'hsa-mir-224', 'hsa-mir-194', 'hsa-mir-452', 'hsa-mir-335', 'hsa-mir-145', 'hsa-mir-139', 'hsa-mir-497', 'hsa-mir-10a')
-hsa-mir-12136 - hsa05200 - 0.05 inserted successfully.
-hsa-mir-139 - hsa05200 already exists.
-hsa-mir-183 - hsa05200 - 0.05 inserted successfully.
-hsa-mir-497 - hsa05200 - 0.05 inserted successfully.
-hsa-mir-944 - hsa05200 - 0.05 inserted successfully.

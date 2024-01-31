@@ -18,7 +18,7 @@ def insert_mirna(conn, cur, mirna_id, description, disease):
             print(f"{mirna_id} is updated with new disease: {disease}.")
     conn.commit()
 
-def insert_gene(conn, cur, gene_id, description, kegg_id=None):
+def insert_gene(conn, cur, gene_id, description, kegg_id=None, kegg_id_new=None):
     gene_id = gene_id.upper()
     print(gene_id)
     cur.execute("SELECT COUNT(*) FROM genes WHERE gene_id = %s", (gene_id,))
@@ -26,7 +26,7 @@ def insert_gene(conn, cur, gene_id, description, kegg_id=None):
     
     if record_count == 0:
         # Insert the record if it doesn't exist
-        cur.execute("INSERT INTO genes (gene_id, description, kegg_id) VALUES (%s, %s, %s)", (gene_id, description, kegg_id))
+        cur.execute("INSERT INTO genes (gene_id, description, kegg_id, kegg_id_new) VALUES (%s, %s, %s, %s)", (gene_id, description, kegg_id, kegg_id_new))
         print(f"{gene_id} inserted successfully.")
     else:
         if description and len(description) > 0:
@@ -35,6 +35,9 @@ def insert_gene(conn, cur, gene_id, description, kegg_id=None):
         if kegg_id:
             cur.execute("UPDATE genes SET kegg_id = %s WHERE gene_id = %s", (kegg_id, gene_id))
             print(f"{gene_id} is updated with new kegg_id: {kegg_id}.")
+        if kegg_id_new:
+            cur.execute("UPDATE genes SET kegg_id_new = %s WHERE gene_id = %s", (kegg_id_new, gene_id))
+            print(f"{gene_id} is updated with new kegg_id_new: {kegg_id_new}.")
     conn.commit()
 
 
